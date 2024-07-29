@@ -1,8 +1,8 @@
 """
-This script trains a ML model to predict car prices.
+This script trains a ML model to predict car prices using data from an SQLite database.
 
 It performs the following steps:
-1. Loads the data from a CSV file.
+1. Loads the data from an SQLite database.
 2. Splits the data into training and test sets.
 3. Builds a machine learning pipeline with preprocessing and regression.
 4. Trains the model using GridSearchCV.
@@ -10,15 +10,15 @@ It performs the following steps:
 6. Saves the trained model and preprocessor as pickle files.
 
 Usage:
-    python train_regression.py <data_filepath> <model_filepath> <preprocessor_filepath>
+    python train_regression.py <database_filepath> <table_name> <pipeline_filepath>
 
 Example:
-    python train_regression.py train-data-cleaned.csv car_price_model.pkl preprocessor.pkl
+    python train_regression.py cars.db cars_table car_price_model.pkl preprocessor.pkl
 """
 
-import sys
 import pandas as pd
 import numpy as np
+from sqlalchemy import create_engine
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
@@ -28,18 +28,20 @@ from xgboost import XGBRegressor
 import pickle
 import argparse
 
-def load_data(data_filepath):
+def load_data(database_filepath, table_name):
     """
-    Load data from CSV file.
+    Load data from an SQLite database.
 
     Args:
-        data_filepath (str): Filepath for the CSV file.
+        database_filepath (str): Filepath for the SQLite database.
+        table_name (str): Name of the table containing the data.
 
     Returns:
         X (DataFrame): Feature DataFrame.
         y (Series): Target Series.
     """
-    df = pd.read_csv(data_filepath)
+    engine = create_engine(f'sqlite:///{database_filepath}')
+    df = pd.read_sql_table(table_name, engine)
     X = df.drop(columns=['Name', 'Price'])
     y = df['Price']
     return X, y
@@ -120,13 +122,14 @@ def save_pipeline(pipeline, filepath):
 
 def main():
     parser = argparse.ArgumentParser(description="Train a car price prediction model and save the pipeline.")
-    parser.add_argument('data_filepath', type=str, help='Filepath for the input data CSV file')
+    parser.add_argument('database_filepath', type=str, help='Filepath for the SQLite database')
+    parser.add_argument('table_name', type=str, help='Name of the table containing the data')
     parser.add_argument('pipeline_filepath', type=str, help='Filepath for the output pipeline pickle file')
     
     args = parser.parse_args()
 
-    print('Loading data...\n    DATA: {}'.format(args.data_filepath))
-    X, y = load_data(args.data_filepath)
+    print('Loading data...\n    DATABASE: {}'.format(args.database_filepath))
+    X, y = load_data(args.database_filepath, args.table_name)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     print('Building model...')
