@@ -1,0 +1,1117 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Hyundai Creta,Hyundai,Bangalore,2017,98493,Petrol,Automatic,1,0,1591,123,5.0,973000
+Nissan Micra,Nissan,Bangalore,2017,35474,Petrol,Automatic,2,0,1198,77,5.0,528000
+Hyundai Eon,Hyundai,Bangalore,2017,33963,Petrol,Manual,2,0,814,56,5.0,381000
+Maruti Swift,Maruti,Bangalore,2012,64557,Petrol,Manual,1,0,1197,87,5.0,463000
+Hyundai Creta,Hyundai,Bangalore,2019,43987,Diesel,Manual,1,0,1582,128,5.0,1152000
+Renault Kwid,Renault,Bangalore,2023,3996,Petrol,Automatic,1,0,999,68,5.0,631000
+Maruti IGNIS,Maruti,Bangalore,2017,47285,Petrol,Manual,1,0,1197,83,5.0,466000
+Maruti IGNIS,Maruti,Bangalore,2017,22456,Petrol,Automatic,2,0,1197,83,5.0,612000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,33609,Petrol,Manual,2,0,1086,69,5.0,439000
+Honda Jazz,Honda,Bangalore,2015,99867,Petrol,Manual,1,0,1199,90,5.0,424000
+Maruti Alto K10,Maruti,Bangalore,2016,65484,Petrol,Manual,3,0,998,68,5.0,318000
+Maruti Vitara Brezza,Maruti,Bangalore,2016,60503,Diesel,Manual,1,0,1248,90,5.0,795000
+Maruti Celerio,Maruti,Bangalore,2016,29309,Petrol,Manual,2,0,998,68,5.0,427000
+Maruti Alto K10,Maruti,Bangalore,2014,49599,Petrol,Manual,1,0,998,68,5.0,300000
+Hyundai NEW I20,Hyundai,Bangalore,2021,26797,Petrol,Manual,2,0,998,120,5.0,1021000
+Maruti Celerio,Maruti,Bangalore,2015,46241,Petrol,Manual,2,0,998,68,5.0,377000
+Renault Kwid,Renault,Bangalore,2021,14078,Petrol,Automatic,1,0,999,68,5.0,515000
+Toyota Innova Crysta,Toyota,Bangalore,2022,3597,Diesel,Manual,2,0,2393,150,7.0,2702000
+Maruti Ertiga,Maruti,Bangalore,2016,81649,Diesel,Manual,2,0,1248,90,7.0,776000
+Maruti Grand Vitara,Maruti,Bangalore,2022,14358,Petrol,Manual,1,0,1462,103,5.0,1649000
+Tata PUNCH,Tata,Bangalore,2023,7511,Petrol,Automatic,1,0,1199,86,5.0,964000
+KIA CARENS,KIA,Bangalore,2022,41209,Petrol,Manual,1,0,1353,140,7.0,1096000
+Maruti Swift,Maruti,Bangalore,2013,96413,Diesel,Manual,1,0,1248,75,5.0,444000
+Hyundai Creta,Hyundai,Bangalore,2019,43448,Petrol,Automatic,2,0,1591,123,5.0,1128000
+Hyundai Creta,Hyundai,Bangalore,2016,97183,Petrol,Automatic,1,0,1591,123,5.0,891000
+Toyota Glanza,Toyota,Bangalore,2023,7757,Petrol,Automatic,1,0,1197,90,5.0,1072000
+Renault Duster,Renault,Bangalore,2018,29137,Diesel,Manual,1,0,1461,85,5.0,906000
+Hyundai i20,Hyundai,Bangalore,2012,99928,Petrol,Manual,2,0,1197,84,5.0,405600
+Tata NEXON,Tata,Bangalore,2020,38575,Petrol,Automatic,1,0,1199,120,5.0,1038000
+Maruti Baleno,Maruti,Bangalore,2022,43431,Petrol,Automatic,1,0,1197,90,5.0,754000
+Hyundai i20 Active,Hyundai,Bangalore,2016,82644,Diesel,Manual,2,0,1396,90,5.0,599000
+Hyundai Verna,Hyundai,Bangalore,2021,26940,Petrol,Automatic,2,0,1497,115,5.0,1332000
+Hyundai Creta,Hyundai,Bangalore,2018,66956,Petrol,Automatic,2,0,1591,123,5.0,942000
+Renault Kwid,Renault,Bangalore,2021,15159,Petrol,Manual,1,0,999,68,5.0,477800
+Renault TRIBER,Renault,Bangalore,2021,14852,Petrol,Manual,1,0,999,72,7.0,630000
+KIA SELTOS,KIA,Bangalore,2019,41535,Petrol,Automatic,2,0,1353,140,5.0,1174000
+Hyundai Verna,Hyundai,Bangalore,2017,50331,Diesel,Manual,1,0,1582,128,5.0,787000
+Honda City,Honda,Bangalore,2015,60317,Petrol,Manual,1,0,1497,119,5.0,618000
+Renault Kwid,Renault,Bangalore,2021,29584,Petrol,Automatic,1,0,999,68,5.0,556000
+Honda BR-V,Honda,Bangalore,2018,37010,Petrol,Manual,2,0,1497,119,7.0,802000
+Maruti Ciaz,Maruti,Bangalore,2020,70110,Petrol,Automatic,1,0,1462,105,5.0,859000
+Hyundai Grand i10,Hyundai,Bangalore,2018,91312,Petrol,Manual,1,0,1197,83,5.0,518000
+Ford Ecosport,Ford,Bangalore,2013,74790,Diesel,Manual,2,0,1498,91,5.0,579000
+Mahindra XUV300,Mahindra,Bangalore,2019,35712,Diesel,Manual,2,0,1497,117,5.0,1059000
+Hyundai Grand i10,Hyundai,Bangalore,2016,63572,Petrol,Manual,1,0,1197,83,5.0,448500
+Maruti S PRESSO,Maruti,Bangalore,2020,36650,Petrol,Manual,1,0,998,68,5.0,433000
+Nissan Terrano,Nissan,Bangalore,2013,101262,Petrol,Manual,2,0,1598,104,5.0,460000
+Renault Kwid,Renault,Bangalore,2021,31053,Petrol,Automatic,2,0,999,68,5.0,500000
+Maruti Swift,Maruti,Bangalore,2016,69995,Petrol,Manual,1,0,1197,84,5.0,570000
+Maruti Swift,Maruti,Bangalore,2012,96264,Diesel,Manual,2,0,1248,75,5.0,414000
+Tata Tiago,Tata,Bangalore,2017,67872,Petrol,Manual,2,0,1199,85,5.0,402000
+Renault Kwid,Renault,Bangalore,2017,30823,Petrol,Manual,1,0,999,68,5.0,357000
+Tata NEXON,Tata,Bangalore,2022,31940,Petrol,Automatic,1,0,1199,120,5.0,1059000
+Renault Kwid,Renault,Bangalore,2022,16120,Petrol,Manual,2,0,999,68,5.0,552500
+KIA CARENS,KIA,Bangalore,2022,20581,Petrol,Manual,1,0,1353,140,7.0,1668400
+KIA CARENS,KIA,Bangalore,2022,20460,Petrol,Manual,2,0,1353,140,6.0,1579000
+Maruti Baleno,Maruti,Bangalore,2017,81548,Petrol,Manual,1,0,1197,84,5.0,633000
+Maruti Ertiga,Maruti,Bangalore,2012,113536,Diesel,Manual,1,0,1248,90,7.0,655000
+Renault Kwid,Renault,Bangalore,2017,32890,Petrol,Automatic,2,0,999,68,5.0,351600
+Datsun Redi Go,Datsun,Bangalore,2017,32547,Petrol,Manual,2,0,999,68,5.0,260000
+Hyundai Creta,Hyundai,Bangalore,2019,51652,Petrol,Automatic,1,0,1591,123,5.0,1211000
+Honda City,Honda,Bangalore,2019,30264,Petrol,Automatic,1,0,1497,119,5.0,1168000
+Maruti Ritz,Maruti,Bangalore,2014,73631,Petrol,Manual,2,0,1197,87,5.0,376300
+Maruti Dzire,Maruti,Bangalore,2019,58029,Petrol,Manual,1,0,1197,83,5.0,694000
+Tata Tiago,Tata,Bangalore,2016,53919,Petrol,Manual,2,0,1199,85,5.0,378000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,43454,Petrol,Manual,1,0,1086,69,5.0,475000
+Skoda Rapid,Skoda,Bangalore,2013,67426,Petrol,Manual,1,0,1598,105,5.0,491000
+Ford Ecosport,Ford,Bangalore,2016,98741,Diesel,Manual,2,0,1498,101,5.0,627000
+Maruti Swift,Maruti,Bangalore,2013,30359,Petrol,Manual,1,0,1197,87,5.0,475000
+Maruti Dzire,Maruti,Bangalore,2018,19437,Petrol,Manual,1,0,1197,83,5.0,713000
+Hyundai Elite i20,Hyundai,Bangalore,2015,69680,Petrol,Manual,2,0,1197,83,5.0,563000
+Hyundai Verna,Hyundai,Bangalore,2018,70838,Petrol,Manual,1,0,1368,100,5.0,706000
+Tata NEXON,Tata,Bangalore,2022,30058,Petrol,Manual,1,0,1199,120,5.0,1194000
+Mahindra XUV300,Mahindra,Bangalore,2019,41165,Petrol,Manual,2,0,1197,110,5.0,983000
+Maruti Ciaz,Maruti,Bangalore,2020,44980,Petrol,Automatic,1,0,1462,105,5.0,877000
+Maruti Alto K10,Maruti,Bangalore,2016,19613,Petrol,Manual,2,0,998,68,5.0,372000
+Maruti New Wagon-R,Maruti,Bangalore,2020,15178,Petrol,Manual,1,0,1197,83,5.0,593000
+Maruti Ciaz,Maruti,Bangalore,2020,12867,Petrol,Automatic,1,0,1462,105,5.0,979700
+Maruti Swift,Maruti,Bangalore,2011,104553,Petrol,Manual,1,0,1197,85,5.0,358000
+Maruti OMNI E,Maruti,Bangalore,2014,64243,Petrol,Manual,1,0,796,37,8.0,279000
+Maruti Celerio,Maruti,Bangalore,2018,95626,Petrol,Automatic,2,0,998,68,5.0,416000
+Tata ALTROZ,Tata,Bangalore,2021,20428,Petrol,Manual,1,0,1199,86,5.0,626000
+Hyundai Elite i20,Hyundai,Bangalore,2017,10914,Petrol,Manual,1,0,1197,83,5.0,569000
+Datsun Redi Go,Datsun,Bangalore,2016,79233,Petrol,Manual,1,0,799,54,5.0,239500
+Tata PUNCH,Tata,Bangalore,2023,1848,Petrol,Automatic,1,0,1199,86,5.0,973000
+Maruti Ciaz,Maruti,Bangalore,2016,87285,Petrol,Automatic,2,0,1373,92,5.0,613000
+Tata Tiago,Tata,Bangalore,2016,70208,Petrol,Manual,2,0,1199,85,5.0,378000
+Tata ALTROZ,Tata,Bangalore,2021,31073,Petrol,Manual,2,0,1199,86,5.0,631000
+Renault TRIBER,Renault,Bangalore,2020,19907,Petrol,Automatic,1,0,999,72,7.0,705000
+Maruti Swift,Maruti,Bangalore,2019,21955,Petrol,Automatic,1,0,1197,83,5.0,711000
+Datsun Redi Go,Datsun,Bangalore,2021,15513,Petrol,Manual,1,0,999,68,5.0,397000
+Maruti Celerio,Maruti,Bangalore,2014,44064,Petrol,Automatic,1,0,998,68,5.0,363000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2022,16247,CNG,Manual,1,0,1197,69,5.0,786000
+KIA SELTOS,KIA,Bangalore,2019,51695,Petrol,Manual,1,0,1497,115,5.0,1166000
+Tata Tiago,Tata,Bangalore,2016,39182,Petrol,Manual,2,0,1199,85,5.0,386300
+Tata Harrier,Tata,Bangalore,2021,46225,Diesel,Manual,1,0,1956,170,5.0,1375000
+Honda Jazz,Honda,Bangalore,2020,62299,Petrol,Manual,1,0,1199,90,5.0,803000
+Hyundai Verna,Hyundai,Bangalore,2013,46332,Diesel,Manual,1,0,1582,128,5.0,536000
+Maruti S Cross,Maruti,Bangalore,2016,78922,Diesel,Manual,2,0,1248,90,5.0,736000
+Nissan Micra Active,Nissan,Bangalore,2014,51391,Petrol,Manual,1,0,1198,68,5.0,324000
+Honda Jazz,Honda,Bangalore,2012,32864,Petrol,Manual,2,0,1198,90,5.0,382000
+Hyundai i20,Hyundai,Bangalore,2013,94514,Diesel,Manual,2,0,1396,90,5.0,359800
+Volkswagen Polo,Volkswagen,Bangalore,2015,105518,Petrol,Automatic,1,0,1197,105,5.0,626000
+Hyundai Elite i20,Hyundai,Bangalore,2015,88718,Petrol,Manual,3,0,1197,83,5.0,493000
+Nissan Micra,Nissan,Bangalore,2018,24353,Petrol,Automatic,1,0,1198,77,5.0,465000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2022,17693,Petrol,Manual,1,0,998,100,5.0,698000
+Honda Brio,Honda,Bangalore,2013,31104,Petrol,Manual,2,0,1198,88,5.0,327000
+Tata Tiago,Tata,Bangalore,2023,5618,Petrol,Manual,1,0,1199,86,5.0,674000
+Honda Amaze,Honda,Bangalore,2018,54566,Petrol,Manual,1,0,1199,90,5.0,550000
+Tata Tiago,Tata,Bangalore,2016,86716,Petrol,Manual,1,0,1199,85,5.0,395800
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,33811,Petrol,Manual,1,0,1086,69,5.0,533000
+Honda Brio,Honda,Bangalore,2013,27050,Petrol,Manual,2,0,1198,88,5.0,345000
+Hyundai VENUE,Hyundai,Bangalore,2019,69173,Petrol,Manual,2,0,998,120,5.0,796000
+Hyundai Creta,Hyundai,Bangalore,2022,27509,Diesel,Automatic,1,0,1493,115,5.0,1846000
+Honda Amaze,Honda,Bangalore,2019,22419,Petrol,Manual,1,0,1199,90,5.0,640000
+Toyota Fortuner,Toyota,Bangalore,2014,108796,Diesel,Automatic,1,0,2982,171,7.0,1609000
+Renault Duster,Renault,Bangalore,2014,80922,Diesel,Manual,2,0,1461,85,5.0,613000
+Volkswagen Polo,Volkswagen,Bangalore,2016,67884,Petrol,Automatic,2,0,1197,105,5.0,713000
+Maruti Celerio,Maruti,Bangalore,2016,36837,Petrol,Manual,1,0,998,68,5.0,412000
+Tata Zest,Tata,Bangalore,2015,75916,Petrol,Manual,2,0,1193,90,5.0,380000
+Maruti New Wagon-R,Maruti,Bangalore,2021,42481,Petrol,Manual,1,0,998,68,5.0,540000
+Toyota URBAN CRUISER,Toyota,Bangalore,2021,14232,Petrol,Manual,1,0,1462,105,5.0,975000
+Renault Kwid,Renault,Bangalore,2017,62303,Petrol,Manual,1,0,999,68,5.0,317000
+Toyota YARIS,Toyota,Bangalore,2019,42324,Petrol,Manual,1,0,1496,107,5.0,870000
+Tata TIGOR,Tata,Bangalore,2018,70793,Petrol,Automatic,1,0,1199,85,5.0,520000
+Maruti Wagon R 1.0,Maruti,Bangalore,2013,66823,Petrol,Manual,1,0,998,68,5.0,286400
+Hyundai i10,Hyundai,Bangalore,2013,34376,Petrol,Manual,2,0,1197,80,5.0,311000
+Mahindra XUV300,Mahindra,Bangalore,2021,7931,Petrol,Automatic,1,0,1197,110,5.0,1064000
+Renault Kwid,Renault,Bangalore,2018,45146,Petrol,Manual,3,0,799,54,5.0,295000
+Toyota Innova Crysta,Toyota,Bangalore,2017,40409,Diesel,Manual,2,0,2393,150,7.0,1764000
+Renault Kwid,Renault,Bangalore,2016,37599,Petrol,Manual,2,0,799,54,5.0,297000
+Hyundai Grand i10,Hyundai,Bangalore,2014,39887,Petrol,Manual,2,0,1197,83,5.0,364000
+Volkswagen Vento,Volkswagen,Bangalore,2010,71366,Petrol,Manual,2,0,1598,105,5.0,306000
+Honda Amaze,Honda,Bangalore,2016,91591,Diesel,Manual,1,0,1498,100,5.0,434500
+Hyundai i20,Hyundai,Bangalore,2011,89386,Petrol,Manual,3,0,1197,80,5.0,258000
+Tata PUNCH,Tata,Bangalore,2022,26123,Petrol,Automatic,2,0,1199,86,5.0,856000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2023,11028,Petrol,Manual,1,0,1197,83,5.0,753700
+Maruti Baleno,Maruti,Bangalore,2016,56956,Petrol,Manual,1,0,1197,84,5.0,607000
+Nissan MAGNITE,Nissan,Bangalore,2021,9840,Petrol,Manual,1,0,999,72,5.0,783000
+Maruti Celerio,Maruti,Bangalore,2016,35244,Petrol,Automatic,1,0,998,68,5.0,437000
+Mahindra Bolero,Mahindra,Bangalore,2016,139583,Diesel,Manual,1,0,2523,63,7.0,553500
+Maruti Swift,Maruti,Bangalore,2018,39109,Petrol,Automatic,1,0,1197,83,5.0,606200
+Honda City,Honda,Bangalore,2015,37511,Petrol,Automatic,1,0,1497,119,5.0,596200
+Honda Jazz,Honda,Bangalore,2019,20269,Petrol,Manual,1,0,1199,90,5.0,636500
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2022,40038,Petrol,Manual,1,0,1197,83,5.0,596000
+Volkswagen VIRTUS,Volkswagen,Bangalore,2023,13967,Petrol,Automatic,1,0,999,115,5.0,1669650
+Honda Civic,Honda,Bangalore,2019,20315,Petrol,Automatic,1,0,1799,141,5.0,1918000
+Hyundai New Elantra,Hyundai,Bangalore,2019,14129,Petrol,Automatic,1,0,1999,152,5.0,1534000
+Honda WR-V,Honda,Bangalore,2017,46533,Petrol,Manual,2,0,1199,90,5.0,700000
+Hyundai Elite i20,Hyundai,Bangalore,2019,51307,Petrol,Manual,3,0,1197,83,5.0,632000
+Hyundai Grand i10,Hyundai,Bangalore,2015,32237,Petrol,Manual,1,0,1197,83,5.0,414000
+Maruti A Star,Maruti,Bangalore,2010,103867,Petrol,Manual,2,0,998,67,5.0,203000
+MG HECTOR,MG,Bangalore,2019,49559,Diesel,Manual,1,0,1956,170,5.0,1447000
+Tata Tiago,Tata,Bangalore,2020,26526,Petrol,Automatic,1,0,1199,85,5.0,628000
+Mahindra KUV 100 NXT,Mahindra,Bangalore,2018,5291,Petrol,Manual,1,0,1198,82,6.0,536000
+Volkswagen Vento,Volkswagen,Bangalore,2016,115178,Petrol,Manual,1,0,1598,105,5.0,492000
+Hyundai Elite i20,Hyundai,Bangalore,2018,50068,Petrol,Manual,1,0,1197,83,5.0,692000
+Maruti Swift Dzire,Maruti,Bangalore,2016,86301,Petrol,Manual,2,0,1197,84,5.0,564000
+Tata Tiago,Tata,Bangalore,2017,45575,Petrol,Manual,1,0,1199,85,5.0,450000
+Maruti Vitara Brezza,Maruti,Bangalore,2017,109407,Diesel,Manual,1,0,1248,90,5.0,720500
+Maruti New Wagon-R,Maruti,Bangalore,2019,16796,Petrol,Automatic,2,0,1197,83,5.0,561000
+Hyundai i20,Hyundai,Bangalore,2012,64048,Petrol,Manual,2,0,1197,84,5.0,349000
+Datsun Redi Go,Datsun,Bangalore,2018,62637,Petrol,Manual,1,0,999,68,5.0,262000
+Honda City,Honda,Bangalore,2014,120786,Petrol,Manual,1,0,1497,119,5.0,460000
+Honda Civic,Honda,Bangalore,2019,32601,Petrol,Automatic,1,0,1799,141,5.0,1833000
+Mahindra BOLERO NEO,Mahindra,Bangalore,2023,17862,Diesel,Manual,1,0,1493,100,7.0,1062000
+Hyundai Creta,Hyundai,Bangalore,2016,54309,Petrol,Manual,1,0,1591,123,5.0,820000
+Maruti IGNIS,Maruti,Bangalore,2017,56427,Petrol,Manual,1,0,1197,83,5.0,465500
+Renault Duster,Renault,Bangalore,2019,67575,Petrol,Automatic,1,0,1498,106,5.0,707000
+Volkswagen Polo,Volkswagen,Bangalore,2014,90678,Diesel,Manual,2,0,1199,75,5.0,411000
+Hyundai Verna,Hyundai,Bangalore,2012,88309,Petrol,Manual,2,0,1591,123,5.0,436000
+Hyundai AURA,Hyundai,Bangalore,2020,21521,Petrol,Manual,1,0,1197,83,5.0,655000
+Hyundai Grand i10,Hyundai,Bangalore,2018,43237,Petrol,Manual,1,0,1197,83,5.0,492000
+Hyundai i10,Hyundai,Bangalore,2016,16798,Petrol,Manual,1,0,1086,69,5.0,416000
+Hyundai i10,Hyundai,Bangalore,2015,65097,Petrol,Manual,1,0,1086,69,5.0,341000
+Hyundai Santro Xing,Hyundai,Bangalore,2014,69029,Petrol,Manual,3,0,1086,63,5.0,252000
+Honda Brio,Honda,Bangalore,2014,93107,Petrol,Automatic,1,0,1198,88,5.0,391000
+Maruti IGNIS,Maruti,Bangalore,2017,95525,Petrol,Automatic,2,0,1197,83,5.0,465000
+Honda City,Honda,Bangalore,2015,52322,Petrol,Manual,2,0,1497,119,5.0,604000
+Hyundai i10,Hyundai,Bangalore,2012,75384,Petrol,Manual,2,0,1197,80,5.0,312000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2020,29027,Petrol,Manual,1,0,1086,69,5.0,451000
+Maruti Swift,Maruti,Bangalore,2018,44996,Petrol,Automatic,1,0,1197,83,5.0,673000
+Renault TRIBER,Renault,Bangalore,2022,35860,Petrol,Automatic,1,0,999,72,7.0,697000
+Maruti Swift,Maruti,Bangalore,2017,37343,Petrol,Manual,1,0,1197,84,5.0,581500
+Maruti Alto 800,Maruti,Bangalore,2019,39868,Petrol,Manual,1,0,796,48,5.0,334000
+Mahindra XUV300,Mahindra,Bangalore,2022,45246,Petrol,Manual,1,0,1197,110,5.0,897000
+Tata ALTROZ,Tata,Bangalore,2020,40143,Petrol,Manual,2,0,1199,86,5.0,704500
+Maruti Swift,Maruti,Bangalore,2018,29716,Petrol,Automatic,1,0,1197,83,5.0,671000
+Mahindra XUV500,Mahindra,Bangalore,2016,69972,Diesel,Manual,2,0,2179,140,7.0,880000
+Hyundai Santro Xing,Hyundai,Bangalore,2010,79984,Petrol,Manual,3,0,1086,63,5.0,182000
+Volkswagen Vento,Volkswagen,Bangalore,2017,38945,Petrol,Automatic,2,0,1197,105,5.0,723000
+Jeep Compass,Jeep,Bangalore,2018,26635,Petrol,Manual,1,0,1368,163,5.0,1233000
+Maruti Swift,Maruti,Bangalore,2019,25462,Petrol,Manual,1,0,1197,83,5.0,728000
+MG HECTOR,MG,Bangalore,2021,13989,Petrol,Manual,1,0,1451,143,5.0,1659000
+Maruti Swift,Maruti,Bangalore,2019,32730,Petrol,Manual,2,0,1197,83,5.0,640000
+Honda Jazz,Honda,Bangalore,2017,67757,Petrol,Automatic,1,0,1199,90,5.0,566000
+MG HECTOR,MG,Bangalore,2021,127904,Diesel,Manual,1,0,1956,170,5.0,1507000
+Tata NEXON,Tata,Bangalore,2018,63671,Diesel,Automatic,1,0,1497,110,5.0,872000
+Mahindra Bolero,Mahindra,Bangalore,2023,12465,Diesel,Manual,1,0,1493,76,7.0,1127000
+Honda Amaze,Honda,Bangalore,2020,33889,Petrol,Manual,1,0,1199,90,5.0,697000
+Toyota Etios Liva,Toyota,Bangalore,2012,123224,Diesel,Manual,2,0,1364,68,5.0,376000
+Mahindra Thar,Mahindra,Bangalore,2021,54460,Petrol,Automatic,1,0,1997,152,4.0,1412000
+Mahindra Thar,Mahindra,Bangalore,2021,52188,Petrol,Automatic,1,0,1997,152,4.0,1461000
+Maruti Swift,Maruti,Bangalore,2014,89872,Petrol,Manual,1,0,1197,87,5.0,459000
+Maruti Celerio,Maruti,Bangalore,2017,30005,Petrol,Automatic,2,0,998,68,5.0,400000
+Maruti Celerio,Maruti,Bangalore,2022,28788,Petrol,Manual,1,0,998,67,5.0,563000
+Renault TRIBER,Renault,Bangalore,2020,58372,Petrol,Manual,2,0,999,72,7.0,584000
+Ford Ecosport,Ford,Bangalore,2019,47130,Petrol,Automatic,1,0,1497,123,5.0,802000
+Hyundai Verna,Hyundai,Bangalore,2014,46423,Petrol,Manual,2,0,1591,123,5.0,583000
+Hyundai Grand i10,Hyundai,Bangalore,2014,44032,Petrol,Automatic,3,0,1197,83,5.0,408000
+Ford Ecosport,Ford,Bangalore,2016,106057,Petrol,Manual,3,0,1499,112,5.0,502000
+Maruti Swift,Maruti,Bangalore,2023,13994,Petrol,Automatic,1,0,1197,90,5.0,763000
+Hyundai Creta,Hyundai,Bangalore,2016,58014,Diesel,Manual,3,0,1582,128,5.0,858000
+Mahindra XUV500,Mahindra,Bangalore,2018,85256,Diesel,Manual,1,0,2179,155,7.0,1206400
+Maruti Ciaz,Maruti,Bangalore,2017,94757,Petrol,Manual,1,0,1373,92,5.0,508000
+Skoda Rapid,Skoda,Bangalore,2017,101424,Petrol,Manual,1,0,1598,105,5.0,579000
+Maruti New Wagon-R,Maruti,Bangalore,2020,66530,Petrol,Manual,1,0,1197,83,5.0,560000
+Honda Jazz,Honda,Bangalore,2015,60512,Petrol,Manual,2,0,1199,90,5.0,446300
+Maruti Ertiga,Maruti,Bangalore,2016,94438,Diesel,Manual,1,0,1248,90,7.0,799000
+Honda City,Honda,Bangalore,2012,116738,Petrol,Manual,2,0,1497,118,5.0,402000
+Maruti Alto 800,Maruti,Bangalore,2014,57348,Petrol,Manual,1,0,796,48,5.0,273000
+Nissan MAGNITE,Nissan,Bangalore,2022,5275,Petrol,Automatic,1,0,999,100,5.0,918000
+Hyundai Grand i10,Hyundai,Bangalore,2013,87459,Petrol,Manual,2,0,1197,83,5.0,336000
+Tata NEXON,Tata,Bangalore,2017,17466,Petrol,Manual,1,0,1198,110,5.0,779000
+Datsun Redi Go,Datsun,Bangalore,2018,54687,Petrol,Automatic,3,0,999,68,5.0,310000
+Maruti Swift,Maruti,Bangalore,2013,93871,Diesel,Manual,3,0,1248,75,5.0,391000
+Maruti Baleno,Maruti,Bangalore,2019,59228,Petrol,Manual,1,0,1197,84,5.0,668000
+Maruti Swift Dzire,Maruti,Bangalore,2014,89284,Diesel,Manual,1,0,1248,75,5.0,572000
+Hyundai Grand i10,Hyundai,Bangalore,2015,100708,Petrol,Manual,1,0,1197,83,5.0,374000
+Hyundai Elite i20,Hyundai,Bangalore,2018,77073,Petrol,Manual,3,0,1197,83,5.0,567400
+Hyundai Creta,Hyundai,Bangalore,2018,57288,Petrol,Manual,2,0,1591,123,5.0,907000
+KIA SELTOS,KIA,Bangalore,2021,43811,Petrol,Manual,1,0,1497,115,5.0,1116000
+Honda Amaze,Honda,Bangalore,2019,130578,Diesel,Manual,1,0,1498,100,5.0,661000
+Hyundai VENUE,Hyundai,Bangalore,2021,25798,Petrol,Manual,1,0,998,120,5.0,963000
+Hyundai Santro Xing,Hyundai,Bangalore,2011,49805,Petrol,Manual,1,0,1086,63,5.0,254000
+Mahindra XUV500,Mahindra,Bangalore,2021,28305,Diesel,Manual,1,0,2179,155,7.0,1833000
+Mahindra XUV500,Mahindra,Bangalore,2016,56575,Diesel,Manual,3,0,2179,140,7.0,1118000
+Hyundai Grand i10,Hyundai,Bangalore,2014,82706,Petrol,Automatic,3,0,1197,83,5.0,388000
+Maruti Ciaz,Maruti,Bangalore,2015,95738,Petrol,Manual,2,0,1373,92,5.0,517000
+Hyundai Verna,Hyundai,Bangalore,2012,123296,Diesel,Manual,2,0,1582,128,5.0,442000
+Hyundai i20,Hyundai,Bangalore,2012,84002,Diesel,Manual,1,0,1396,90,5.0,385000
+Maruti Swift,Maruti,Bangalore,2017,57560,Petrol,Manual,1,0,1197,84,5.0,626000
+Honda Amaze,Honda,Bangalore,2013,43884,Petrol,Manual,2,0,1198,88,5.0,390800
+Tata Tiago,Tata,Bangalore,2017,94294,Petrol,Automatic,1,0,1199,85,5.0,439000
+Hyundai Verna,Hyundai,Bangalore,2015,32301,Petrol,Automatic,2,0,1591,123,5.0,633400
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,39250,Diesel,Manual,1,0,1186,75,5.0,709400
+Maruti Swift,Maruti,Bangalore,2018,26638,Petrol,Manual,2,0,1197,83,5.0,621000
+Volkswagen Vento,Volkswagen,Bangalore,2020,20510,Petrol,Automatic,1,0,999,110,5.0,1086000
+Mahindra XUV300,Mahindra,Bangalore,2021,29924,Diesel,Manual,1,0,1497,117,5.0,966000
+Volkswagen Ameo,Volkswagen,Bangalore,2017,66643,Diesel,Automatic,3,0,1498,110,5.0,560000
+Hyundai VENUE,Hyundai,Bangalore,2022,9802,Petrol,Manual,1,0,1197,83,5.0,905000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,17472,Petrol,Manual,1,0,1197,83,5.0,674000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,77640,Petrol,Manual,1,0,998,68,5.0,359000
+Hyundai Elite i20,Hyundai,Bangalore,2016,65656,Petrol,Manual,1,0,1197,83,5.0,556000
+Hyundai VENUE,Hyundai,Bangalore,2020,29075,Petrol,Automatic,1,0,998,120,5.0,984000
+Maruti Swift Dzire,Maruti,Bangalore,2011,110407,Diesel,Manual,2,0,1248,75,5.0,360000
+Maruti Swift Dzire,Maruti,Bangalore,2012,104807,Petrol,Manual,3,0,1197,87,5.0,392000
+Hyundai Tucson,Hyundai,Bangalore,2019,31249,Petrol,Manual,3,0,1999,155,5.0,1240600
+Renault Kwid,Renault,Bangalore,2021,24474,Petrol,Automatic,1,0,999,68,5.0,472000
+Maruti New Wagon-R,Maruti,Bangalore,2022,8524,Petrol,Manual,1,0,1197,90,5.0,668000
+Hyundai i20 Active,Hyundai,Bangalore,2015,86615,Diesel,Manual,2,0,1396,90,5.0,568000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2021,10826,Petrol,Automatic,1,0,1197,83,5.0,763000
+Hyundai Grand i10,Hyundai,Bangalore,2016,82571,Petrol,Manual,3,0,1197,83,5.0,372000
+Hyundai ALCAZAR,Hyundai,Bangalore,2021,12485,Petrol,Automatic,1,0,1999,159,6.0,1710000
+Hyundai Grand i10,Hyundai,Bangalore,2018,117675,Petrol,Manual,1,0,1197,83,5.0,496000
+Maruti Baleno,Maruti,Bangalore,2016,47679,Petrol,Manual,2,0,1197,84,5.0,607000
+Maruti Zen Estilo,Maruti,Bangalore,2011,69568,Petrol,Manual,2,0,998,68,5.0,219000
+Maruti Swift,Maruti,Bangalore,2015,66341,Petrol,Manual,2,0,1197,84,5.0,538000
+Maruti Celerio,Maruti,Bangalore,2021,22245,Petrol,Manual,1,0,998,67,5.0,578000
+Hyundai Grand i10,Hyundai,Bangalore,2017,40581,Petrol,Manual,3,0,1197,83,5.0,485000
+Hyundai Elite i20,Hyundai,Bangalore,2016,55009,Petrol,Manual,2,0,1197,83,5.0,540000
+Hyundai i10,Hyundai,Bangalore,2013,78126,Petrol,Automatic,3,0,1197,80,5.0,302000
+Ford Ecosport,Ford,Bangalore,2013,68381,Diesel,Manual,1,0,1498,91,5.0,589000
+Hyundai Verna,Hyundai,Bangalore,2018,117994,Diesel,Manual,2,0,1582,128,5.0,730200
+Maruti Swift,Maruti,Bangalore,2021,10637,Petrol,Manual,2,0,1197,90,5.0,693000
+Skoda Rapid,Skoda,Bangalore,2017,62834,Diesel,Automatic,1,0,1498,110,5.0,882000
+Maruti Alto K10,Maruti,Bangalore,2011,109991,Petrol,Manual,2,0,998,68,5.0,201000
+Tata NEXON,Tata,Bangalore,2020,59046,Petrol,Automatic,1,0,1199,120,5.0,1047000
+Hyundai Creta,Hyundai,Bangalore,2015,106215,Diesel,Automatic,1,0,1582,128,5.0,835000
+Hyundai VENUE,Hyundai,Bangalore,2021,17981,Petrol,Manual,1,0,998,120,5.0,1060000
+Maruti Ertiga,Maruti,Bangalore,2013,88908,Petrol,Manual,1,0,1373,95,7.0,605000
+Maruti Alto K10,Maruti,Bangalore,2023,8882,Petrol,Manual,1,0,998,67,5.0,515000
+Renault Duster,Renault,Bangalore,2019,69084,Diesel,Automatic,1,0,1461,110,5.0,891700
+Honda Jazz,Honda,Bangalore,2015,48627,Petrol,Automatic,1,0,1199,90,5.0,565000
+Hyundai i10,Hyundai,Bangalore,2011,43583,Petrol,Manual,1,0,1197,80,5.0,269000
+Mahindra TUV300,Mahindra,Bangalore,2016,98798,Diesel,Manual,2,0,1493,84,7.0,633000
+Tata ALTROZ,Tata,Bangalore,2020,34901,Petrol,Manual,1,0,1199,86,5.0,734000
+Jeep Compass,Jeep,Bangalore,2017,69429,Petrol,Automatic,2,0,1368,163,5.0,1269000
+Maruti Swift Dzire,Maruti,Bangalore,2013,59700,Petrol,Manual,3,0,1197,87,5.0,431000
+Honda WR-V,Honda,Bangalore,2020,74928,Petrol,Manual,1,0,1199,90,5.0,806000
+Maruti Baleno,Maruti,Bangalore,2022,9254,Petrol,Manual,1,0,1197,90,5.0,763000
+Renault Kwid,Renault,Bangalore,2020,38494,Petrol,Automatic,1,0,999,68,5.0,505000
+Mahindra XUV500,Mahindra,Bangalore,2015,75492,Diesel,Manual,2,0,2179,140,7.0,911000
+Renault Kwid,Renault,Bangalore,2021,3748,Petrol,Manual,1,0,999,68,5.0,484000
+Hyundai VENUE,Hyundai,Bangalore,2022,21422,Petrol,Manual,1,0,998,120,5.0,1150000
+Hyundai i20,Hyundai,Bangalore,2014,102555,Diesel,Manual,1,0,1396,90,5.0,432000
+Maruti Celerio X,Maruti,Bangalore,2019,27215,Petrol,Automatic,2,0,998,68,5.0,505000
+Jeep Compass,Jeep,Bangalore,2018,42770,Petrol,Automatic,2,0,1368,163,5.0,1453000
+Jeep Compass,Jeep,Bangalore,2019,92908,Diesel,Manual,1,0,1956,173,5.0,1460800
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,110669,Petrol,Manual,1,0,998,68,5.0,332000
+Maruti Celerio,Maruti,Bangalore,2018,41806,Petrol,Manual,1,0,998,68,5.0,470000
+Hyundai Verna,Hyundai,Bangalore,2018,60087,Petrol,Manual,2,0,1591,123,5.0,797000
+Honda Jazz,Honda,Bangalore,2012,35444,Petrol,Manual,1,0,1198,90,5.0,367000
+KIA SONET,KIA,Bangalore,2022,14811,Petrol,Manual,1,0,1197,83,5.0,970000
+Hyundai Santro Xing,Hyundai,Bangalore,2011,55224,Petrol,Manual,1,0,1086,63,5.0,245000
+Hyundai i10,Hyundai,Bangalore,2016,48427,Petrol,Manual,1,0,1086,69,5.0,386000
+Maruti New Wagon-R,Maruti,Bangalore,2019,67526,Petrol,Automatic,1,0,998,68,5.0,523000
+Maruti Vitara Brezza,Maruti,Bangalore,2016,91544,Diesel,Manual,1,0,1248,90,5.0,754000
+Hyundai Creta,Hyundai,Bangalore,2020,32794,Petrol,Automatic,1,0,1353,140,5.0,1515000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,34408,Petrol,Manual,2,0,998,68,5.0,271000
+Maruti Swift Dzire,Maruti,Bangalore,2014,100458,Petrol,Manual,3,0,1197,87,5.0,417000
+Ford Ecosport,Ford,Bangalore,2017,44639,Diesel,Manual,1,0,1498,101,5.0,764000
+Renault Kwid,Renault,Bangalore,2020,11713,Petrol,Automatic,2,0,999,68,5.0,486000
+Honda City,Honda,Bangalore,2020,36093,Petrol,Automatic,2,0,1498,121,5.0,1214000
+Hyundai Eon,Hyundai,Bangalore,2013,87007,Petrol,Manual,1,0,814,56,5.0,238600
+Hyundai Elite i20,Hyundai,Bangalore,2016,76454,Diesel,Manual,3,0,1396,90,5.0,646700
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2019,18462,Petrol,Automatic,1,0,1197,83,5.0,698000
+Mahindra XUV300,Mahindra,Bangalore,2020,19881,Petrol,Manual,1,0,1197,110,5.0,803000
+Maruti Wagon R Stingray,Maruti,Bangalore,2013,97830,Petrol,Manual,2,0,998,68,5.0,303000
+Maruti Ciaz,Maruti,Bangalore,2015,25381,Petrol,Manual,1,0,1373,92,5.0,639000
+Mahindra XUV500,Mahindra,Bangalore,2018,60820,Diesel,Automatic,1,0,2179,155,7.0,1521000
+Maruti Celerio,Maruti,Bangalore,2014,96979,Petrol,Manual,2,0,998,68,5.0,323000
+Maruti Swift Dzire,Maruti,Bangalore,2013,106215,Petrol,Manual,2,0,1197,87,5.0,423000
+Maruti Alto K10,Maruti,Bangalore,2014,99832,Petrol,Manual,2,0,998,68,5.0,255000
+Tata Tiago,Tata,Bangalore,2020,23692,Petrol,Manual,1,0,1199,86,5.0,625000
+Mahindra XUV300,Mahindra,Bangalore,2022,14205,Petrol,Automatic,1,0,1197,110,5.0,998000
+Tata Zest,Tata,Bangalore,2016,80078,Petrol,Manual,1,0,1193,90,5.0,454000
+Hyundai Verna,Hyundai,Bangalore,2019,49820,Petrol,Automatic,1,0,1591,123,5.0,1045000
+Honda City,Honda,Bangalore,2013,103965,Petrol,Manual,2,0,1497,118,5.0,479800
+Maruti IGNIS,Maruti,Bangalore,2017,68890,Petrol,Automatic,1,0,1197,83,5.0,553000
+Renault Kwid,Renault,Bangalore,2017,48581,Petrol,Manual,3,0,799,54,5.0,310000
+Honda Amaze,Honda,Bangalore,2014,109589,Petrol,Manual,2,0,1198,88,5.0,377000
+Maruti Ciaz,Maruti,Bangalore,2020,52878,Petrol,Manual,2,0,1462,105,5.0,800000
+Mahindra XUV500,Mahindra,Bangalore,2018,82113,Diesel,Automatic,1,0,2179,155,7.0,1169000
+Jeep Compass,Jeep,Bangalore,2018,63398,Diesel,Manual,1,0,1956,173,5.0,1427000
+Maruti Swift,Maruti,Bangalore,2014,56168,Petrol,Manual,1,0,1197,84,5.0,516000
+Renault Kwid,Renault,Bangalore,2020,18336,Petrol,Automatic,1,0,999,68,5.0,484000
+Tata Tiago,Tata,Bangalore,2017,28606,Petrol,Manual,1,0,1199,85,5.0,455000
+Renault Kwid,Renault,Bangalore,2017,45079,Petrol,Manual,1,0,999,68,5.0,345000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,79484,Petrol,Manual,1,0,998,68,5.0,267400
+Maruti Swift,Maruti,Bangalore,2018,57341,Petrol,Automatic,1,0,1197,83,5.0,620000
+Hyundai Verna,Hyundai,Bangalore,2018,44659,Petrol,Manual,2,0,1591,123,5.0,834000
+Hyundai NEW I20,Hyundai,Bangalore,2022,12885,Petrol,Automatic,1,0,1197,88,5.0,1103000
+Maruti Swift,Maruti,Bangalore,2022,31459,Petrol,Automatic,1,0,1197,90,5.0,851000
+Maruti Baleno,Maruti,Bangalore,2022,34474,Petrol,Manual,1,0,1197,90,5.0,790000
+Hyundai i20,Hyundai,Bangalore,2011,65841,Petrol,Manual,2,0,1197,80,5.0,312000
+Hyundai i10,Hyundai,Bangalore,2011,91035,Petrol,Manual,1,0,1197,80,5.0,260000
+Ford Ecosport,Ford,Bangalore,2016,50785,Petrol,Automatic,1,0,1499,112,5.0,704000
+Hyundai i20,Hyundai,Bangalore,2012,83337,Diesel,Manual,3,0,1396,90,5.0,369000
+Honda City,Honda,Bangalore,2012,110307,Petrol,Automatic,1,0,1497,118,5.0,406200
+Hyundai VENUE,Hyundai,Bangalore,2019,44309,Petrol,Automatic,1,0,998,120,5.0,964000
+Ford Ecosport,Ford,Bangalore,2016,77820,Petrol,Manual,1,0,1499,112,5.0,607700
+Renault TRIBER,Renault,Bangalore,2020,41840,Petrol,Manual,1,0,999,72,7.0,611000
+Renault Kwid,Renault,Bangalore,2017,33582,Petrol,Manual,1,0,799,54,5.0,354000
+Renault Kwid,Renault,Bangalore,2019,24330,Petrol,Manual,2,0,999,68,5.0,456000
+Hyundai Creta,Hyundai,Bangalore,2018,40746,Diesel,Manual,1,0,1582,128,5.0,1239000
+Honda City,Honda,Bangalore,2018,85702,Petrol,Manual,2,0,1497,119,5.0,835000
+Renault Kwid,Renault,Bangalore,2021,41535,Petrol,Manual,1,0,999,68,5.0,462000
+Skoda KUSHAQ,Skoda,Bangalore,2021,38566,Petrol,Manual,1,0,1498,150,5.0,1483000
+Renault Duster,Renault,Bangalore,2017,61457,Petrol,Automatic,1,0,1498,106,5.0,672000
+Maruti Celerio,Maruti,Bangalore,2021,45807,Petrol,Automatic,1,0,998,67,5.0,671000
+Mahindra XUV300,Mahindra,Bangalore,2022,11682,Petrol,Automatic,2,0,1197,110,5.0,1225000
+Hyundai Creta,Hyundai,Bangalore,2019,48476,Petrol,Manual,2,0,1591,123,5.0,1118000
+Hyundai Elite i20,Hyundai,Bangalore,2016,36748,Petrol,Manual,1,0,1197,83,5.0,638000
+Maruti Celerio X,Maruti,Bangalore,2018,39995,Petrol,Manual,3,0,998,68,5.0,381000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2019,36365,Petrol,Automatic,2,0,1197,83,5.0,663000
+Renault TRIBER,Renault,Bangalore,2019,50945,Petrol,Manual,2,0,999,72,7.0,581000
+Hyundai AURA,Hyundai,Bangalore,2020,41269,Petrol,Manual,1,0,1197,83,5.0,712000
+Hyundai AURA,Hyundai,Bangalore,2020,74849,Petrol,Automatic,1,0,1197,83,5.0,653000
+Maruti Dzire,Maruti,Bangalore,2019,28533,Petrol,Automatic,2,0,1197,83,5.0,717800
+Hyundai Creta,Hyundai,Bangalore,2017,80561,Petrol,Automatic,2,0,1591,123,5.0,903000
+Maruti Ertiga,Maruti,Bangalore,2012,106213,Diesel,Manual,1,0,1248,90,7.0,607000
+MG HECTOR PLUS,MG,Bangalore,2021,31138,Petrol,Automatic,1,0,1451,143,6.0,1698000
+Hyundai Creta,Hyundai,Bangalore,2017,52427,Petrol,Manual,3,0,1591,123,5.0,903000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,49078,Petrol,Manual,2,0,998,68,5.0,356000
+Hyundai i20,Hyundai,Bangalore,2011,52325,Petrol,Manual,2,0,1197,80,5.0,327000
+Datsun Redi Go,Datsun,Bangalore,2020,16537,Petrol,Automatic,2,0,999,68,5.0,440000
+Tata Tiago,Tata,Bangalore,2021,26041,Petrol,Manual,1,0,1199,86,5.0,633000
+Renault Kwid,Renault,Bangalore,2018,90363,Petrol,Automatic,1,0,999,68,5.0,356000
+Maruti Ertiga,Maruti,Bangalore,2015,46440,Petrol,Manual,1,0,1373,95,7.0,718000
+Maruti Celerio,Maruti,Bangalore,2016,46240,Petrol,Manual,1,0,998,68,5.0,448000
+Hyundai i20,Hyundai,Bangalore,2011,111350,Petrol,Manual,2,0,1197,80,5.0,299000
+Maruti New Wagon-R,Maruti,Bangalore,2023,2896,Petrol,Manual,1,0,1197,90,5.0,693000
+Maruti Swift Dzire,Maruti,Bangalore,2014,122178,Petrol,Manual,2,0,1197,87,5.0,451000
+Maruti Celerio,Maruti,Bangalore,2019,28904,Petrol,Manual,1,0,998,68,5.0,482000
+Hyundai Creta,Hyundai,Bangalore,2017,55620,Petrol,Automatic,1,0,1591,123,5.0,991000
+Honda Jazz,Honda,Bangalore,2017,68331,Petrol,Automatic,3,0,1199,90,5.0,529000
+Maruti Swift,Maruti,Bangalore,2014,95421,Petrol,Manual,1,0,1197,87,5.0,420000
+Hyundai Verna,Hyundai,Bangalore,2018,15912,Petrol,Manual,1,0,1591,123,5.0,913000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,38782,Petrol,Manual,3,0,998,68,5.0,266350
+Tata NEXON,Tata,Bangalore,2020,67069,Petrol,Manual,1,0,1199,120,5.0,834550
+Hyundai Elite i20,Hyundai,Bangalore,2016,36174,Petrol,Manual,1,0,1197,83,5.0,690000
+Honda City,Honda,Bangalore,2019,55227,Petrol,Manual,1,0,1497,119,5.0,919000
+Honda Amaze,Honda,Bangalore,2023,10391,Petrol,Automatic,1,0,1199,90,5.0,949000
+Honda WR-V,Honda,Bangalore,2018,22231,Petrol,Manual,2,0,1199,90,5.0,715000
+Hyundai AURA,Hyundai,Bangalore,2020,39864,Petrol,Manual,1,0,998,100,5.0,739800
+Skoda Rapid,Skoda,Bangalore,2017,94742,Diesel,Automatic,1,0,1498,110,5.0,843000
+Datsun Redi Go,Datsun,Bangalore,2018,42955,Petrol,Manual,1,0,999,68,5.0,303000
+Maruti Swift Dzire,Maruti,Bangalore,2014,61511,Petrol,Manual,3,0,1197,87,5.0,421000
+Mahindra XUV500,Mahindra,Bangalore,2020,59594,Diesel,Automatic,1,0,2179,155,7.0,1584000
+Maruti IGNIS,Maruti,Bangalore,2021,31951,Petrol,Automatic,1,0,1197,83,5.0,646000
+Maruti Celerio,Maruti,Bangalore,2018,19171,Petrol,Manual,2,0,998,68,5.0,463000
+MG HECTOR PLUS,MG,Bangalore,2022,15431,Diesel,Manual,1,0,1956,170,7.0,2080000
+Honda Amaze,Honda,Bangalore,2019,49663,Diesel,Automatic,2,0,1498,80,5.0,750000
+Maruti Alto 800,Maruti,Bangalore,2015,85107,Petrol,Manual,1,0,796,48,5.0,271000
+Hyundai i20 Active,Hyundai,Bangalore,2017,69694,Petrol,Manual,1,0,1197,83,5.0,649000
+Hyundai Creta,Hyundai,Bangalore,2017,61235,Petrol,Manual,2,0,1591,123,5.0,903000
+Maruti Celerio,Maruti,Bangalore,2014,14522,Petrol,Automatic,2,0,998,68,5.0,377000
+Maruti Swift,Maruti,Bangalore,2017,77191,Petrol,Manual,2,0,1197,84,5.0,526000
+Maruti Swift,Maruti,Bangalore,2014,71516,Petrol,Manual,1,0,1197,87,5.0,478000
+Hyundai Eon,Hyundai,Bangalore,2015,22557,Petrol,Manual,2,0,814,56,5.0,302000
+Mahindra XUV500,Mahindra,Bangalore,2014,94593,Diesel,Manual,1,0,2179,140,7.0,781000
+Hyundai ALCAZAR,Hyundai,Bangalore,2021,24546,Diesel,Automatic,1,0,1493,115,6.0,1898000
+Mahindra XUV500,Mahindra,Bangalore,2018,36626,Diesel,Automatic,1,0,2179,155,7.0,1643000
+Hyundai Grand i10,Hyundai,Bangalore,2015,23523,Petrol,Manual,1,0,1197,83,5.0,447300
+Hyundai Creta,Hyundai,Bangalore,2017,55852,Petrol,Manual,1,0,1591,123,5.0,854000
+Hyundai i20,Hyundai,Bangalore,2012,102029,Diesel,Manual,1,0,1396,90,5.0,400000
+Datsun Go,Datsun,Bangalore,2019,70260,Petrol,Automatic,1,0,1198,78,5.0,431000
+Maruti Baleno,Maruti,Bangalore,2019,36932,Petrol,Manual,1,0,1197,84,5.0,727000
+Hyundai i10,Hyundai,Bangalore,2014,82502,Petrol,Manual,3,0,1086,69,5.0,294500
+Skoda KUSHAQ,Skoda,Bangalore,2021,17310,Petrol,Automatic,2,0,999,115,5.0,1366000
+Mahindra XUV500,Mahindra,Bangalore,2014,119125,Diesel,Manual,3,0,2179,140,7.0,733000
+Hyundai Verna,Hyundai,Bangalore,2018,55600,Petrol,Manual,2,0,1591,123,5.0,829000
+Renault Duster,Renault,Bangalore,2019,47106,Diesel,Automatic,1,0,1461,110,5.0,941200
+Maruti Swift Dzire,Maruti,Bangalore,2012,36201,Petrol,Manual,1,0,1197,87,5.0,515000
+Hyundai ALCAZAR,Hyundai,Bangalore,2022,11009,Petrol,Automatic,1,0,1999,159,7.0,1889000
+Toyota Etios,Toyota,Bangalore,2011,100303,Petrol,Manual,1,0,1496,90,5.0,321000
+Hyundai i20,Hyundai,Bangalore,2013,66176,Petrol,Manual,2,0,1197,84,5.0,417000
+Maruti Swift Dzire,Maruti,Bangalore,2013,98155,Petrol,Manual,1,0,1197,87,5.0,437000
+Honda Jazz,Honda,Bangalore,2020,43340,Petrol,Manual,1,0,1199,90,5.0,850000
+Hyundai Creta,Hyundai,Bangalore,2016,69273,Petrol,Manual,2,0,1591,123,5.0,853000
+Hyundai Grand i10,Hyundai,Bangalore,2016,27464,Petrol,Manual,1,0,1197,83,5.0,514000
+Hyundai VENUE,Hyundai,Bangalore,2019,43922,Petrol,Automatic,2,0,998,120,5.0,900000
+Honda Jazz,Honda,Bangalore,2017,55531,Petrol,Manual,1,0,1199,90,5.0,581000
+Honda Brio,Honda,Bangalore,2014,73789,Petrol,Manual,1,0,1198,88,5.0,356000
+Maruti Ciaz,Maruti,Bangalore,2016,96520,Petrol,Automatic,2,0,1373,92,5.0,578000
+Renault Kwid,Renault,Bangalore,2021,26104,Petrol,Manual,2,0,799,54,5.0,436000
+Honda Brio,Honda,Bangalore,2012,143991,Petrol,Manual,1,0,1198,88,5.0,285000
+Maruti Celerio,Maruti,Bangalore,2018,93813,Petrol,Manual,1,0,998,68,5.0,447000
+Honda Amaze,Honda,Bangalore,2016,43434,Petrol,Manual,2,0,1198,88,5.0,513000
+Volkswagen Vento,Volkswagen,Bangalore,2016,88166,Petrol,Automatic,2,0,1197,105,5.0,648000
+Maruti Ritz,Maruti,Bangalore,2013,75497,Petrol,Manual,2,0,1197,85,5.0,356000
+Honda City,Honda,Bangalore,2020,30951,Petrol,Manual,1,0,1497,119,5.0,1088000
+Hyundai Creta,Hyundai,Bangalore,2017,68811,Petrol,Manual,2,0,1591,123,5.0,944000
+KIA SONET,KIA,Bangalore,2022,18623,Diesel,Automatic,1,0,1493,115,5.0,1411000
+Renault Kwid,Renault,Bangalore,2018,52734,Petrol,Automatic,1,0,999,68,5.0,392000
+Maruti Swift Dzire,Maruti,Bangalore,2012,110904,Diesel,Manual,2,0,1248,75,5.0,426000
+Hyundai VENUE,Hyundai,Bangalore,2023,6278,Petrol,Manual,1,0,998,120,5.0,1218000
+Skoda Rapid,Skoda,Bangalore,2021,50295,Petrol,Automatic,1,0,999,110,5.0,1072800
+Maruti Celerio,Maruti,Bangalore,2018,69515,Petrol,Manual,1,0,998,68,5.0,435000
+Hyundai Elite i20,Hyundai,Bangalore,2017,43170,Petrol,Manual,1,0,1197,83,5.0,713000
+Tata NEXON,Tata,Bangalore,2023,16129,Petrol,Manual,1,0,1199,120,5.0,912000
+KIA CARENS,KIA,Bangalore,2022,11437,Petrol,Manual,1,0,1353,140,7.0,1690000
+Honda City,Honda,Bangalore,2012,57296,Petrol,Manual,2,0,1497,118,5.0,419000
+Renault Duster,Renault,Bangalore,2018,31875,Petrol,Automatic,2,0,1498,106,5.0,717000
+Nissan Micra Active,Nissan,Bangalore,2018,33048,Petrol,Manual,3,0,1198,68,5.0,403000
+Hyundai Grand i10,Hyundai,Bangalore,2018,103142,Petrol,Manual,2,0,1197,83,5.0,465000
+Hyundai Grand i10,Hyundai,Bangalore,2016,65458,Petrol,Manual,1,0,1197,83,5.0,506000
+KIA CARENS,KIA,Bangalore,2022,15145,Petrol,Manual,1,0,1353,140,7.0,1747000
+Honda City,Honda,Bangalore,2011,68165,Petrol,Manual,3,0,1497,118,5.0,347000
+Tata NEXON,Tata,Bangalore,2020,40443,Petrol,Automatic,1,0,1198,110,5.0,890000
+Maruti Swift,Maruti,Bangalore,2016,65555,Petrol,Manual,1,0,1197,84,5.0,579000
+Maruti S PRESSO,Maruti,Bangalore,2019,35153,Petrol,Manual,2,0,998,68,5.0,409000
+Maruti Celerio,Maruti,Bangalore,2021,20405,Petrol,Automatic,1,0,998,67,5.0,646000
+Mahindra XUV300,Mahindra,Bangalore,2019,18346,Diesel,Manual,1,0,1497,117,5.0,1135000
+Maruti S PRESSO,Maruti,Bangalore,2021,34267,Petrol,Manual,2,0,998,68,5.0,458000
+Hyundai Grand i10,Hyundai,Bangalore,2017,47224,Petrol,Automatic,1,0,1197,83,5.0,566000
+Renault Kwid,Renault,Bangalore,2021,32862,Petrol,Manual,1,0,999,68,5.0,446000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,58171,Petrol,Manual,1,0,998,68,5.0,378000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,61600,Petrol,Manual,2,0,998,68,5.0,289000
+Hyundai Santro Xing,Hyundai,Bangalore,2011,78152,Petrol,Manual,1,0,1086,63,5.0,248000
+Mahindra XUV300,Mahindra,Bangalore,2022,11911,Petrol,Automatic,1,0,1197,110,5.0,1272000
+Tata NEXON,Tata,Bangalore,2019,60079,Diesel,Automatic,2,0,1497,110,5.0,862000
+Hyundai i10,Hyundai,Bangalore,2011,70441,Petrol,Manual,2,0,1086,69,5.0,262000
+Hyundai Grand i10,Hyundai,Bangalore,2014,83346,Petrol,Automatic,1,0,1197,83,5.0,440000
+Renault Kwid,Renault,Bangalore,2022,31621,Petrol,Manual,2,0,999,68,5.0,466000
+KIA SONET,KIA,Bangalore,2022,21176,Diesel,Manual,1,0,1493,100,5.0,1280000
+Hyundai Grand i10,Hyundai,Bangalore,2017,46083,Petrol,Automatic,2,0,1197,83,5.0,515000
+Hyundai Grand i10,Hyundai,Bangalore,2016,15069,Petrol,Manual,1,0,1197,83,5.0,572000
+Renault TRIBER,Renault,Bangalore,2019,70228,Petrol,Manual,1,0,999,72,7.0,648000
+Honda Jazz,Honda,Bangalore,2016,54782,Petrol,Manual,1,0,1199,90,5.0,568000
+Volkswagen Vento,Volkswagen,Bangalore,2016,72451,Petrol,Automatic,2,0,1197,105,5.0,680000
+Maruti Ciaz,Maruti,Bangalore,2022,14772,Petrol,Manual,1,0,1462,105,5.0,1060000
+Renault Duster,Renault,Bangalore,2014,105355,Diesel,Manual,2,0,1461,110,5.0,596000
+Maruti Celerio,Maruti,Bangalore,2015,29628,Petrol,Automatic,1,0,998,68,5.0,414000
+Hyundai Creta,Hyundai,Bangalore,2016,94859,Petrol,Automatic,1,0,1591,123,5.0,846000
+Mahindra XUV500,Mahindra,Bangalore,2014,92368,Diesel,Manual,2,0,2179,140,7.0,771000
+Hyundai Grand i10,Hyundai,Bangalore,2017,28474,Petrol,Manual,1,0,1197,83,5.0,503200
+Maruti Alto K10,Maruti,Bangalore,2017,13628,Petrol,Manual,1,0,998,68,5.0,391000
+Renault Kwid,Renault,Bangalore,2023,1768,Petrol,Manual,1,0,999,68,5.0,578000
+Honda Jazz,Honda,Bangalore,2015,23660,Petrol,Automatic,1,0,1199,90,5.0,603000
+Maruti Dzire,Maruti,Bangalore,2022,24567,Petrol,Automatic,1,0,1197,90,5.0,873000
+Hyundai Verna,Hyundai,Bangalore,2017,58359,Petrol,Automatic,2,0,1591,123,5.0,767000
+Hyundai Creta,Hyundai,Bangalore,2016,105587,Petrol,Manual,2,0,1591,123,5.0,803000
+Honda Amaze,Honda,Bangalore,2019,41243,Petrol,Automatic,1,0,1199,90,5.0,719000
+KIA SONET,KIA,Bangalore,2020,52562,Diesel,Automatic,1,0,1493,115,5.0,1170400
+Honda Amaze,Honda,Bangalore,2019,54392,Diesel,Automatic,2,0,1498,80,5.0,786000
+Maruti Dzire,Maruti,Bangalore,2017,77413,Diesel,Automatic,2,0,1248,75,5.0,713000
+Tata NEXON,Tata,Bangalore,2022,24386,Petrol,Manual,1,0,1199,120,5.0,1168000
+Renault Kwid,Renault,Bangalore,2022,13364,Petrol,Manual,1,0,999,68,5.0,550000
+Honda City,Honda,Bangalore,2022,9928,Petrol,Automatic,1,0,1498,121,5.0,1476000
+Renault Duster,Renault,Bangalore,2016,51829,Diesel,Manual,1,0,1461,85,5.0,759000
+Honda Brio,Honda,Bangalore,2016,79289,Petrol,Manual,2,0,1198,88,5.0,388000
+Renault Kwid,Renault,Bangalore,2017,70817,Petrol,Manual,1,0,999,68,5.0,339000
+Hyundai Creta,Hyundai,Bangalore,2019,37657,Petrol,Automatic,1,0,1591,123,5.0,1224000
+Maruti Baleno,Maruti,Bangalore,2016,27306,Petrol,Manual,1,0,1197,84,5.0,664000
+Tata NEXON,Tata,Bangalore,2022,14434,Diesel,Manual,1,0,1497,110,5.0,1375000
+Tata NEXON,Tata,Bangalore,2022,26350,Petrol,Automatic,1,0,1199,120,5.0,1190000
+Hyundai Elite i20,Hyundai,Bangalore,2017,82689,Petrol,Manual,2,0,1197,83,5.0,657000
+Hyundai Grand i10,Hyundai,Bangalore,2017,45003,Petrol,Manual,2,0,1197,83,5.0,500000
+Honda City,Honda,Bangalore,2020,41750,Petrol,Automatic,1,0,1497,119,5.0,1148000
+KIA SELTOS,KIA,Bangalore,2022,28064,Diesel,Automatic,2,0,1493,115,5.0,1884500
+Tata NEXON,Tata,Bangalore,2020,45321,Petrol,Manual,1,0,1199,120,5.0,914000
+Maruti Celerio,Maruti,Bangalore,2017,113666,Petrol,Automatic,1,0,998,68,5.0,423000
+Renault Kwid,Renault,Bangalore,2017,35566,Petrol,Automatic,2,0,999,68,5.0,336000
+Hyundai AURA,Hyundai,Bangalore,2020,23213,Petrol,Automatic,2,0,1197,83,5.0,673000
+Hyundai Xcent,Hyundai,Bangalore,2017,55733,Petrol,Manual,1,0,1197,83,5.0,613000
+Hyundai Creta,Hyundai,Bangalore,2016,60817,Petrol,Manual,1,0,1591,123,5.0,932000
+Tata NEXON,Tata,Bangalore,2020,54568,Petrol,Automatic,1,0,1199,120,5.0,965000
+Renault Kwid,Renault,Bangalore,2020,17546,Petrol,Automatic,1,0,999,68,5.0,487000
+Maruti Dzire,Maruti,Bangalore,2022,16023,Petrol,Automatic,1,0,1197,90,5.0,791000
+Tata NEXON,Tata,Bangalore,2020,54623,Petrol,Manual,1,0,1199,120,5.0,883000
+Hyundai Eon,Hyundai,Bangalore,2016,44873,Petrol,Manual,1,0,814,56,5.0,309000
+Nissan Micra Active,Nissan,Bangalore,2015,59365,Petrol,Manual,1,0,1198,68,5.0,339000
+Hyundai VENUE,Hyundai,Bangalore,2022,35746,Petrol,Manual,1,0,998,120,5.0,1198000
+Hyundai AURA,Hyundai,Bangalore,2020,49985,Diesel,Automatic,2,0,1186,75,5.0,810000
+Maruti Ertiga,Maruti,Bangalore,2013,51980,Petrol,Manual,1,0,1373,95,7.0,682000
+Renault Duster,Renault,Bangalore,2014,64937,Diesel,Manual,1,0,1461,110,5.0,623000
+Maruti Dzire,Maruti,Bangalore,2017,105779,Petrol,Automatic,1,0,1197,83,5.0,631000
+Hyundai Grand i10,Hyundai,Bangalore,2018,42364,Petrol,Automatic,1,0,1197,83,5.0,613000
+Maruti Baleno,Maruti,Bangalore,2021,32596,Petrol,Automatic,2,0,1197,83,5.0,710000
+Skoda Rapid,Skoda,Bangalore,2021,41125,Petrol,Automatic,1,0,999,110,5.0,1131000
+Renault Kwid,Renault,Bangalore,2018,47928,Petrol,Manual,1,0,999,68,5.0,386000
+Hyundai Creta,Hyundai,Bangalore,2016,93290,Diesel,Automatic,1,0,1582,128,5.0,956000
+Hyundai VENUE,Hyundai,Bangalore,2022,14280,Diesel,Manual,1,0,1493,100,5.0,1231000
+Maruti Ritz,Maruti,Bangalore,2011,72644,Diesel,Manual,1,0,1248,75,5.0,385000
+Hyundai Creta,Hyundai,Bangalore,2019,44370,Petrol,Automatic,1,0,1591,123,5.0,1142000
+Honda City,Honda,Bangalore,2018,29977,Petrol,Automatic,2,0,1497,119,5.0,996000
+KIA SELTOS,KIA,Bangalore,2021,30378,Petrol,Automatic,1,0,1353,140,5.0,1670300
+Hyundai Creta,Hyundai,Bangalore,2016,113873,Diesel,Automatic,1,0,1582,128,5.0,964000
+Hyundai Elite i20,Hyundai,Bangalore,2016,89398,Petrol,Manual,2,0,1197,83,5.0,634000
+Hyundai Grand i10,Hyundai,Bangalore,2016,42552,Petrol,Manual,1,0,1197,83,5.0,489000
+Tata NEXON,Tata,Bangalore,2022,13619,Petrol,Automatic,1,0,1199,120,5.0,1263000
+Maruti Alto K10,Maruti,Bangalore,2023,5654,Petrol,Manual,1,0,998,67,5.0,550000
+Hyundai Creta,Hyundai,Bangalore,2016,48665,Petrol,Manual,2,0,1591,123,5.0,849000
+Hyundai i20,Hyundai,Bangalore,2014,40194,Petrol,Manual,2,0,1197,84,5.0,468550
+Honda City,Honda,Bangalore,2016,92236,Petrol,Automatic,2,0,1497,119,5.0,725000
+Hyundai Creta,Hyundai,Bangalore,2017,18538,Petrol,Manual,2,0,1591,123,5.0,983000
+Honda City,Honda,Bangalore,2019,32479,Petrol,Automatic,2,0,1497,119,5.0,1080000
+Tata NEXON,Tata,Bangalore,2020,46447,Petrol,Manual,1,0,1199,120,5.0,1005000
+Maruti Celerio,Maruti,Bangalore,2023,17052,Petrol,Automatic,1,0,998,67,5.0,650000
+Maruti S PRESSO,Maruti,Bangalore,2020,11957,Petrol,Automatic,1,0,998,68,5.0,488150
+Tata NEXON,Tata,Bangalore,2019,59737,Petrol,Automatic,2,0,1198,110,5.0,806600
+Maruti Dzire,Maruti,Bangalore,2022,9369,Petrol,Automatic,1,0,1197,90,5.0,902000
+Maruti Celerio,Maruti,Bangalore,2023,3951,Petrol,Automatic,1,0,998,67,5.0,661000
+Hyundai Grand i10,Hyundai,Bangalore,2015,24680,Petrol,Manual,1,0,1197,83,5.0,442200
+Renault Kwid,Renault,Bangalore,2017,55810,Petrol,Automatic,2,0,999,68,5.0,382000
+Hyundai i10,Hyundai,Bangalore,2012,36577,Petrol,Manual,1,0,1197,80,5.0,333000
+Honda Amaze,Honda,Bangalore,2016,47097,Petrol,Manual,1,0,1198,88,5.0,505000
+Maruti Swift,Maruti,Bangalore,2011,96506,Petrol,Manual,1,0,1197,85,5.0,365000
+Maruti Wagon R 1.0,Maruti,Bangalore,2013,76286,Petrol,Manual,1,0,998,68,5.0,334000
+Hyundai Grand i10,Hyundai,Bangalore,2018,65464,Petrol,Manual,3,0,1197,83,5.0,503000
+Renault Kwid,Renault,Bangalore,2018,37091,Petrol,Automatic,2,0,999,68,5.0,388000
+Hyundai i20,Hyundai,Bangalore,2012,52538,Petrol,Manual,2,0,1197,84,5.0,413000
+Hyundai Xcent,Hyundai,Bangalore,2014,65455,Petrol,Manual,1,0,1197,83,5.0,426000
+Honda City,Honda,Bangalore,2017,42019,Petrol,Automatic,1,0,1497,119,5.0,901000
+Honda City,Honda,Bangalore,2014,74032,Petrol,Manual,2,0,1497,118,5.0,539000
+Maruti Alto K10,Maruti,Bangalore,2023,6675,Petrol,Automatic,2,0,998,67,5.0,580000
+Hyundai Elite i20,Hyundai,Bangalore,2016,55254,Petrol,Manual,1,0,1197,83,5.0,680000
+Maruti Celerio,Maruti,Bangalore,2016,43855,Petrol,Automatic,1,0,998,68,5.0,477000
+Honda Jazz,Honda,Bangalore,2017,34743,Petrol,Manual,1,0,1199,90,5.0,607000
+Renault Kwid,Renault,Bangalore,2019,17650,Petrol,Automatic,3,0,999,68,5.0,457000
+Maruti Swift,Maruti,Bangalore,2015,40348,Petrol,Manual,2,0,1197,84,5.0,509000
+Nissan Micra,Nissan,Bangalore,2014,82542,Petrol,Automatic,1,0,1198,77,5.0,342200
+Honda City,Honda,Bangalore,2019,33869,Petrol,Automatic,1,0,1497,119,5.0,1108000
+Maruti Ciaz,Maruti,Bangalore,2015,104650,Petrol,Manual,1,0,1373,92,5.0,573000
+Hyundai Elite i20,Hyundai,Bangalore,2016,79701,Diesel,Manual,2,0,1396,90,5.0,731000
+Maruti Celerio,Maruti,Bangalore,2019,28264,Petrol,Automatic,2,0,998,68,5.0,508000
+Hyundai Grand i10,Hyundai,Bangalore,2014,54106,Diesel,Manual,1,0,1120,71,5.0,458000
+Hyundai Grand i10,Hyundai,Bangalore,2015,26534,Petrol,Manual,1,0,1197,83,5.0,453000
+Maruti Baleno,Maruti,Bangalore,2021,26477,Petrol,Automatic,2,0,1197,83,5.0,840000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,45778,Petrol,Manual,2,0,998,68,5.0,295000
+Maruti Ciaz,Maruti,Bangalore,2020,60741,Petrol,Manual,1,0,1462,105,5.0,845000
+Maruti Baleno,Maruti,Bangalore,2021,29413,Petrol,Automatic,1,0,1197,83,5.0,863000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,45789,Petrol,Manual,2,0,998,68,5.0,386000
+Maruti Baleno,Maruti,Bangalore,2018,52083,Petrol,Manual,1,0,1197,84,5.0,682000
+Tata NEXON,Tata,Bangalore,2022,15364,Petrol,Manual,1,0,1199,120,5.0,1151000
+Honda City,Honda,Bangalore,2022,42212,Petrol,Manual,1,0,1498,121,5.0,1210700
+Maruti Swift,Maruti,Bangalore,2013,27532,Petrol,Manual,1,0,1197,87,5.0,473000
+Mahindra XUV300,Mahindra,Bangalore,2019,64772,Diesel,Manual,1,0,1497,117,5.0,1045000
+Maruti Wagon R 1.0,Maruti,Bangalore,2017,84182,Petrol,Automatic,2,0,998,68,5.0,478000
+Hyundai i10,Hyundai,Bangalore,2013,61285,Petrol,Manual,1,0,1197,80,5.0,411000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,55677,Petrol,Manual,1,0,1086,69,5.0,471000
+Hyundai Xcent,Hyundai,Bangalore,2014,96431,Petrol,Automatic,1,0,1197,83,5.0,422000
+Maruti Ciaz,Maruti,Bangalore,2019,49968,Petrol,Automatic,1,0,1462,105,5.0,915000
+Hyundai Grand i10,Hyundai,Bangalore,2019,73192,Petrol,Automatic,1,0,1197,83,5.0,579000
+Hyundai Elite i20,Hyundai,Bangalore,2017,23793,Petrol,Manual,2,0,1197,83,5.0,699000
+Mahindra XUV300,Mahindra,Bangalore,2019,53460,Diesel,Manual,1,0,1497,117,5.0,1115000
+Honda City,Honda,Bangalore,2013,89796,Petrol,Manual,1,0,1497,118,5.0,453000
+Honda City,Honda,Bangalore,2012,87836,Petrol,Manual,2,0,1497,118,5.0,458000
+Maruti Swift,Maruti,Bangalore,2012,97265,Petrol,Manual,1,0,1197,87,5.0,421000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,14274,Petrol,Automatic,1,0,1197,83,5.0,728000
+Jeep Compass,Jeep,Bangalore,2018,80713,Diesel,Manual,2,0,1956,173,5.0,1441000
+Renault Duster,Renault,Bangalore,2015,105373,Diesel,Manual,1,0,1461,110,5.0,639000
+Maruti Celerio,Maruti,Bangalore,2018,80488,Petrol,Automatic,2,0,998,68,5.0,450000
+Honda Jazz,Honda,Bangalore,2015,55600,Petrol,Automatic,2,0,1199,90,5.0,639000
+Maruti Swift,Maruti,Bangalore,2016,97896,Petrol,Manual,2,0,1197,84,5.0,548000
+Honda Jazz,Honda,Bangalore,2017,59350,Petrol,Automatic,1,0,1199,90,5.0,597000
+KIA SONET,KIA,Bangalore,2022,11338,Petrol,Manual,1,0,998,120,5.0,1209000
+Maruti Wagon R 1.0,Maruti,Bangalore,2017,63537,Petrol,Manual,2,0,998,68,5.0,426000
+Maruti Ciaz,Maruti,Bangalore,2014,86623,Diesel,Manual,2,0,1248,92,5.0,560000
+Honda City,Honda,Bangalore,2018,25751,Petrol,Automatic,1,0,1497,119,5.0,1056000
+Tata TIGOR,Tata,Bangalore,2022,13622,Petrol,Manual,1,0,1199,86,5.0,711000
+Ford Ecosport,Ford,Bangalore,2017,47695,Petrol,Automatic,2,0,1499,112,5.0,747000
+Maruti Baleno,Maruti,Bangalore,2017,67549,Petrol,Manual,1,0,1197,84,5.0,700000
+Maruti Swift Dzire,Maruti,Bangalore,2012,69502,Diesel,Manual,3,0,1248,75,5.0,377000
+Hyundai Elite i20,Hyundai,Bangalore,2017,51852,Petrol,Manual,2,0,1197,83,5.0,677000
+Maruti Ciaz,Maruti,Bangalore,2016,60384,Diesel,Manual,2,0,1248,90,5.0,722000
+Mahindra XUV300,Mahindra,Bangalore,2019,41999,Diesel,Automatic,2,0,1497,117,5.0,1004000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,35322,Petrol,Automatic,1,0,998,68,5.0,447000
+Hyundai Creta,Hyundai,Bangalore,2019,58130,Petrol,Automatic,2,0,1591,123,5.0,1087000
+Honda Jazz,Honda,Bangalore,2017,55339,Petrol,Manual,2,0,1199,90,5.0,605000
+Hyundai AURA,Hyundai,Bangalore,2022,9393,Petrol,Automatic,2,0,1197,83,5.0,794000
+Hyundai i20,Hyundai,Bangalore,2012,62951,Petrol,Manual,1,0,1197,84,5.0,432000
+Maruti Baleno,Maruti,Bangalore,2018,26449,Petrol,Manual,1,0,1197,84,5.0,708000
+Maruti A Star,Maruti,Bangalore,2012,71079,Petrol,Manual,1,0,998,67,5.0,279500
+Renault Duster,Renault,Bangalore,2020,41619,Petrol,Manual,2,0,1498,106,5.0,884000
+Hyundai Eon,Hyundai,Bangalore,2018,57966,Petrol,Manual,1,0,814,56,5.0,353500
+Hyundai Grand i10,Hyundai,Bangalore,2018,92759,Petrol,Manual,1,0,1197,83,5.0,497300
+KIA SONET,KIA,Bangalore,2020,32712,Petrol,Manual,2,0,998,120,5.0,1092000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,38333,Petrol,Automatic,1,0,998,68,5.0,442000
+Hyundai Grand i10,Hyundai,Bangalore,2016,49460,Petrol,Manual,2,0,1197,83,5.0,449000
+Maruti Celerio,Maruti,Bangalore,2018,39085,Petrol,Manual,1,0,998,68,5.0,495000
+Maruti Celerio,Maruti,Bangalore,2022,9778,Petrol,Automatic,1,0,998,67,5.0,619000
+Mahindra XUV300,Mahindra,Bangalore,2021,38811,Diesel,Manual,2,0,1497,117,5.0,1112000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,69324,Petrol,Automatic,1,0,998,68,5.0,408000
+KIA SONET,KIA,Bangalore,2021,21854,Petrol,Manual,1,0,998,120,5.0,1149000
+Maruti S PRESSO,Maruti,Bangalore,2023,11631,Petrol,Automatic,1,0,998,67,5.0,577000
+Honda Jazz,Honda,Bangalore,2016,74069,Petrol,Automatic,1,0,1199,90,5.0,569000
+Tata NEXON,Tata,Bangalore,2022,15617,Petrol,Automatic,1,0,1199,120,5.0,1218000
+Hyundai Elite i20,Hyundai,Bangalore,2018,81961,Petrol,Manual,1,0,1197,83,5.0,687000
+Honda City,Honda,Bangalore,2017,124446,Petrol,Automatic,1,0,1497,119,5.0,790000
+Hyundai Grand i10,Hyundai,Bangalore,2015,52074,Petrol,Manual,1,0,1197,83,5.0,458000
+Maruti Baleno,Maruti,Bangalore,2016,29641,Petrol,Manual,1,0,1197,84,5.0,628000
+Maruti Alto K10,Maruti,Bangalore,2016,15385,Petrol,Automatic,1,0,998,68,5.0,416000
+Maruti S PRESSO,Maruti,Bangalore,2020,21196,Petrol,Manual,1,0,998,68,5.0,436000
+Honda Amaze,Honda,Bangalore,2018,59863,Petrol,Automatic,1,0,1498,80,5.0,725000
+Tata NEXON,Tata,Bangalore,2022,11001,Petrol,Automatic,2,0,1199,120,5.0,1247000
+Honda Jazz,Honda,Bangalore,2017,57291,Petrol,Automatic,1,0,1199,90,5.0,635000
+KIA SELTOS,KIA,Bangalore,2020,54526,Diesel,Automatic,2,0,1493,115,5.0,1449000
+Volkswagen TAIGUN,Volkswagen,Bangalore,2022,7734,Petrol,Manual,1,0,999,115,5.0,1584450
+Honda City,Honda,Bangalore,2014,73554,Petrol,Manual,1,0,1497,118,5.0,590000
+Tata Harrier,Tata,Bangalore,2020,68859,Diesel,Automatic,1,0,1956,170,5.0,1816000
+Hyundai Grand i10,Hyundai,Bangalore,2018,50840,Petrol,Automatic,1,0,1197,83,5.0,597000
+Hyundai Verna,Hyundai,Bangalore,2018,19792,Petrol,Automatic,1,0,1591,123,5.0,994000
+Hyundai Grand i10,Hyundai,Bangalore,2017,60620,Petrol,Manual,1,0,1197,83,5.0,527000
+Ford Ecosport,Ford,Bangalore,2017,56954,Petrol,Manual,2,0,1499,112,5.0,727000
+Hyundai Verna,Hyundai,Bangalore,2018,61288,Petrol,Automatic,2,0,1591,123,5.0,928400
+Renault Duster,Renault,Bangalore,2018,69110,Petrol,Automatic,1,0,1498,106,5.0,766000
+Hyundai Verna,Hyundai,Bangalore,2016,69384,Diesel,Manual,2,0,1582,128,5.0,817000
+Honda Brio,Honda,Bangalore,2014,87590,Petrol,Manual,2,0,1198,88,5.0,363000
+Renault Duster,Renault,Bangalore,2014,82606,Diesel,Manual,2,0,1461,85,5.0,599000
+Hyundai Grand i10,Hyundai,Bangalore,2018,11853,Petrol,Manual,1,0,1197,83,5.0,594000
+Hyundai Grand i10,Hyundai,Bangalore,2015,81093,Petrol,Manual,1,0,1197,83,5.0,419000
+Renault Duster,Renault,Bangalore,2016,58909,Petrol,Manual,1,0,1598,104,5.0,664000
+Maruti Ciaz,Maruti,Bangalore,2015,97889,Petrol,Manual,2,0,1373,92,5.0,575000
+Maruti Celerio,Maruti,Bangalore,2017,35997,Petrol,Automatic,1,0,998,68,5.0,480000
+Hyundai Elite i20,Hyundai,Bangalore,2017,32241,Petrol,Manual,1,0,1197,83,5.0,710500
+Hyundai Grand i10,Hyundai,Bangalore,2018,44868,Petrol,Automatic,2,0,1197,83,5.0,581000
+Hyundai Grand i10,Hyundai,Bangalore,2016,41208,Petrol,Manual,1,0,1197,83,5.0,531000
+Hyundai Grand i10,Hyundai,Bangalore,2016,49862,Petrol,Manual,1,0,1197,83,5.0,538000
+Hyundai Grand i10,Hyundai,Bangalore,2015,93513,Petrol,Manual,1,0,1197,83,5.0,415000
+Hyundai Grand i10,Hyundai,Bangalore,2017,21223,Petrol,Manual,1,0,1197,83,5.0,547000
+Maruti S PRESSO,Maruti,Bangalore,2023,7370,Petrol,Automatic,1,0,998,67,5.0,651000
+Maruti Wagon R 1.0,Maruti,Bangalore,2017,44109,Petrol,Automatic,2,0,998,68,5.0,482000
+MG HECTOR PLUS,MG,Bangalore,2021,14065,Petrol,Automatic,1,0,1451,143,6.0,1874000
+Maruti Alto,Maruti,Bangalore,2019,10041,Petrol,Manual,1,0,796,48,5.0,386500
+KIA SONET,KIA,Bangalore,2022,19749,Petrol,Automatic,1,0,998,120,5.0,1280000
+KIA SONET,KIA,Bangalore,2022,19669,Petrol,Manual,1,0,998,120,5.0,1242000
+Maruti Wagon R 1.0,Maruti,Bangalore,2011,92875,Petrol,Manual,1,0,998,68,5.0,290500
+Maruti Baleno,Maruti,Bangalore,2017,23573,Petrol,Manual,1,0,1197,84,5.0,700000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,48043,Petrol,Automatic,1,0,998,68,5.0,416000
+Maruti Celerio,Maruti,Bangalore,2016,62383,Petrol,Automatic,1,0,998,68,5.0,463000
+KIA SONET,KIA,Bangalore,2022,16176,Petrol,Automatic,1,0,998,120,5.0,1292000
+Hyundai Eon,Hyundai,Bangalore,2011,58637,Petrol,Manual,1,0,814,56,5.0,237000
+Hyundai VENUE,Hyundai,Bangalore,2022,15703,Petrol,Automatic,1,0,998,120,5.0,1331000
+KIA SONET,KIA,Bangalore,2021,27903,Diesel,Automatic,1,0,1493,115,5.0,1373000
+Hyundai Grand i10,Hyundai,Bangalore,2016,74972,Petrol,Manual,2,0,1197,83,5.0,497600
+Hyundai Grand i10,Hyundai,Bangalore,2018,33903,Petrol,Manual,1,0,1197,83,5.0,498000
+Hyundai Grand i10,Hyundai,Bangalore,2015,41548,Petrol,Manual,2,0,1197,83,5.0,448000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,40428,Petrol,Automatic,1,0,998,68,5.0,407700
+KIA SELTOS,KIA,Bangalore,2019,66651,Petrol,Manual,1,0,1497,115,5.0,1036000
+Maruti Ciaz,Maruti,Bangalore,2019,12567,Petrol,Manual,1,0,1462,105,5.0,775000
+Honda City,Honda,Bangalore,2014,55894,Petrol,Manual,2,0,1497,119,5.0,561000
+Ford FREESTYLE,Ford,Bangalore,2018,32842,Petrol,Manual,1,0,1194,96,5.0,650000
+Maruti Alto K10,Maruti,Bangalore,2014,63792,Petrol,Manual,1,0,998,68,5.0,280000
+Hyundai Creta,Hyundai,Bangalore,2021,7389,Petrol,Automatic,1,0,1497,115,5.0,1475000
+Maruti Baleno,Maruti,Bangalore,2020,33092,Petrol,Manual,1,0,1197,83,5.0,679450
+Hyundai NEW I20 N LINE,Hyundai,Bangalore,2021,26773,Petrol,Manual,1,0,998,120,5.0,1009700
+Tata Tiago,Tata,Bangalore,2023,2280,Petrol,Automatic,1,0,1199,86,5.0,796000
+Volkswagen Polo,Volkswagen,Bangalore,2015,85287,Petrol,Automatic,2,0,1197,105,5.0,642000
+Maruti Dzire,Maruti,Bangalore,2017,29486,Petrol,Automatic,1,0,1197,83,5.0,625000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,45834,Petrol,Automatic,1,0,1197,83,5.0,656000
+Toyota Etios,Toyota,Bangalore,2014,121920,Diesel,Manual,1,0,1364,68,5.0,465000
+Maruti Baleno,Maruti,Bangalore,2016,83635,Petrol,Automatic,3,0,1197,84,5.0,531000
+Maruti Swift,Maruti,Bangalore,2012,105772,Petrol,Manual,3,0,1197,87,5.0,388000
+Honda City,Honda,Bangalore,2012,68373,Petrol,Manual,2,0,1497,118,5.0,417000
+Hyundai Xcent,Hyundai,Bangalore,2014,82065,Petrol,Manual,1,0,1197,83,5.0,376000
+Honda Amaze,Honda,Bangalore,2016,51836,Petrol,Manual,2,0,1198,88,5.0,421000
+Mahindra Scorpio,Mahindra,Bangalore,2015,61590,Diesel,Manual,1,0,2179,120,7.0,1011000
+Mahindra TUV300,Mahindra,Bangalore,2017,32940,Diesel,Manual,1,0,1493,84,7.0,806000
+Maruti Swift,Maruti,Bangalore,2021,13228,Petrol,Manual,1,0,1197,90,5.0,719000
+Maruti Swift,Maruti,Bangalore,2011,64003,Petrol,Manual,1,0,1197,85,5.0,354000
+Hyundai VENUE,Hyundai,Bangalore,2019,52244,Petrol,Automatic,1,0,998,120,5.0,817000
+Honda City,Honda,Bangalore,2018,70183,Petrol,Manual,1,0,1497,119,5.0,799000
+Renault TRIBER,Renault,Bangalore,2019,57625,Petrol,Manual,1,0,999,72,7.0,610000
+Hyundai Grand i10,Hyundai,Bangalore,2019,14199,Petrol,Manual,2,0,1197,83,5.0,483000
+Maruti S PRESSO,Maruti,Bangalore,2021,9677,Petrol,Automatic,2,0,998,68,5.0,464000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2021,37258,Petrol,Manual,1,0,1197,83,5.0,671600
+Hyundai Elite i20,Hyundai,Bangalore,2017,25975,Petrol,Manual,1,0,1197,83,5.0,710000
+Volkswagen TAIGUN,Volkswagen,Bangalore,2022,15979,Petrol,Manual,1,0,999,115,5.0,1552000
+Maruti Baleno,Maruti,Bangalore,2019,34783,Petrol,Automatic,1,0,1197,84,5.0,788000
+Tata Tiago,Tata,Bangalore,2020,38930,Petrol,Automatic,1,0,1199,86,5.0,678000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,40339,Petrol,Manual,1,0,998,68,5.0,397000
+Honda City,Honda,Bangalore,2022,17703,Petrol,Automatic,1,0,1497,119,5.0,1267000
+Renault Kwid,Renault,Bangalore,2017,27849,Petrol,Automatic,1,0,999,68,5.0,388000
+Maruti Swift,Maruti,Bangalore,2014,41074,Petrol,Manual,1,0,1197,87,5.0,516000
+Maruti Swift,Maruti,Bangalore,2018,29219,Petrol,Automatic,1,0,1197,83,5.0,645000
+Maruti Celerio,Maruti,Bangalore,2018,43407,Petrol,Automatic,1,0,998,68,5.0,478000
+Maruti Alto K10,Maruti,Bangalore,2015,32214,Petrol,Automatic,1,0,998,68,5.0,345000
+Maruti S PRESSO,Maruti,Bangalore,2021,31209,Petrol,Manual,1,0,998,68,5.0,481600
+Maruti Dzire,Maruti,Bangalore,2017,67275,Petrol,Automatic,2,0,1197,83,5.0,665000
+Hyundai Elite i20,Hyundai,Bangalore,2017,39866,Petrol,Manual,2,0,1197,83,5.0,674000
+Hyundai i10,Hyundai,Bangalore,2011,47500,Petrol,Manual,3,0,1197,80,5.0,303000
+Honda Amaze,Honda,Bangalore,2016,73832,Petrol,Manual,2,0,1198,88,5.0,453000
+Honda City,Honda,Bangalore,2021,22367,Petrol,Automatic,1,0,1497,119,5.0,1191300
+Maruti Baleno,Maruti,Bangalore,2017,54225,Petrol,Manual,1,0,1197,84,5.0,670000
+Hyundai Grand i10,Hyundai,Bangalore,2018,45828,Petrol,Automatic,1,0,1197,83,5.0,597000
+Hyundai Grand i10,Hyundai,Bangalore,2019,51615,Petrol,Manual,1,0,1197,83,5.0,537000
+Hyundai Grand i10,Hyundai,Bangalore,2014,45424,Petrol,Automatic,2,0,1197,83,5.0,453000
+Maruti Swift,Maruti,Bangalore,2018,64747,Petrol,Manual,1,0,1197,83,5.0,718000
+KIA SELTOS,KIA,Bangalore,2022,39295,Petrol,Automatic,1,0,1497,115,5.0,1529000
+Tata TIGOR,Tata,Bangalore,2017,94257,Petrol,Automatic,1,0,1199,85,5.0,465000
+Hyundai VENUE,Hyundai,Bangalore,2023,9717,Petrol,Manual,1,0,1197,83,5.0,1130000
+Hyundai Verna,Hyundai,Bangalore,2014,89332,Diesel,Manual,2,0,1582,128,5.0,561000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,21868,Petrol,Manual,1,0,1086,69,5.0,557000
+Maruti Ciaz,Maruti,Bangalore,2014,70337,Petrol,Manual,1,0,1373,92,5.0,558000
+Renault Kwid,Renault,Bangalore,2020,19574,Petrol,Manual,1,0,999,68,5.0,471000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2019,87055,Petrol,Manual,2,0,1197,83,5.0,623000
+Renault TRIBER,Renault,Bangalore,2023,20080,Petrol,Manual,1,0,999,72,7.0,803000
+Nissan Micra,Nissan,Bangalore,2013,63505,Petrol,Automatic,2,0,1198,77,5.0,358000
+Renault Kwid,Renault,Bangalore,2019,24491,Petrol,Manual,1,0,999,68,5.0,409000
+Renault Kwid,Renault,Bangalore,2022,19430,Petrol,Automatic,1,0,999,68,5.0,593000
+Maruti XL6,Maruti,Bangalore,2021,38819,Petrol,Automatic,1,0,1462,105,6.0,1129000
+Hyundai Elite i20,Hyundai,Bangalore,2019,25298,Petrol,Manual,1,0,1197,83,5.0,704000
+Datsun Redi Go,Datsun,Bangalore,2018,38846,Petrol,Manual,1,0,999,68,5.0,298000
+Renault Kwid,Renault,Bangalore,2021,41705,Petrol,Manual,1,0,999,68,5.0,484000
+Hyundai Grand i10,Hyundai,Bangalore,2018,31709,Petrol,Manual,1,0,1197,83,5.0,559000
+Maruti Baleno,Maruti,Bangalore,2017,31727,Petrol,Manual,1,0,1197,84,5.0,631000
+Hyundai Xcent,Hyundai,Bangalore,2018,73536,Petrol,Manual,2,0,1197,83,5.0,456000
+Hyundai i20,Hyundai,Bangalore,2014,69425,Petrol,Manual,2,0,1197,84,5.0,465000
+Tata NEXON,Tata,Bangalore,2021,28606,Petrol,Automatic,2,0,1199,120,5.0,1169000
+Datsun Redi Go,Datsun,Bangalore,2019,25135,Petrol,Manual,2,0,799,54,5.0,254000
+Maruti Baleno,Maruti,Bangalore,2017,48247,Petrol,Manual,1,0,1197,84,5.0,714000
+Honda City,Honda,Bangalore,2017,93542,Petrol,Automatic,1,0,1497,119,5.0,784000
+Maruti Dzire,Maruti,Bangalore,2018,38827,Petrol,Manual,1,0,1197,83,5.0,627000
+Maruti Eeco,Maruti,Bangalore,2018,66374,Petrol,Manual,1,0,1196,73,5.0,445000
+Honda Jazz,Honda,Bangalore,2019,45905,Petrol,Manual,1,0,1199,90,5.0,638000
+Maruti Baleno,Maruti,Bangalore,2018,36967,Petrol,Automatic,1,0,1197,84,5.0,690000
+Maruti Wagon R 1.0,Maruti,Bangalore,2014,35720,Petrol,Manual,1,0,998,68,5.0,367000
+MG HECTOR,MG,Bangalore,2020,30801,Petrol,Automatic,1,0,1451,143,5.0,1475000
+Maruti Celerio,Maruti,Bangalore,2019,66087,Petrol,Automatic,1,0,998,68,5.0,500000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,49849,Petrol,Manual,1,0,1197,83,5.0,655000
+Maruti Baleno,Maruti,Bangalore,2017,79589,Petrol,Automatic,1,0,1197,84,5.0,651000
+Honda City,Honda,Bangalore,2013,71720,Petrol,Manual,2,0,1497,118,5.0,483000
+Mahindra KUV 100 NXT,Mahindra,Bangalore,2018,35107,Petrol,Manual,1,0,1198,82,6.0,481000
+Maruti Alto K10,Maruti,Bangalore,2017,17897,Petrol,Automatic,1,0,998,68,5.0,418000
+Maruti Vitara Brezza,Maruti,Bangalore,2021,18475,Petrol,Manual,2,0,1462,105,5.0,841000
+Maruti Baleno,Maruti,Bangalore,2023,5154,Petrol,Automatic,1,0,1197,90,5.0,1006000
+Maruti Baleno,Maruti,Bangalore,2016,54853,Petrol,Manual,1,0,1197,84,5.0,670000
+Maruti Ciaz,Maruti,Bangalore,2016,34800,Petrol,Manual,2,0,1373,92,5.0,719000
+Renault Duster,Renault,Bangalore,2016,41022,Diesel,Automatic,1,0,1461,110,5.0,852000
+KIA SELTOS,KIA,Bangalore,2019,29077,Petrol,Automatic,1,0,1353,140,5.0,1635000
+Hyundai Creta,Hyundai,Bangalore,2019,75395,Diesel,Manual,1,0,1582,128,5.0,1289000
+Ford Ecosport,Ford,Bangalore,2016,93059,Petrol,Manual,1,0,1499,112,5.0,595000
+Maruti Alto,Maruti,Bangalore,2020,2598,Petrol,Manual,1,0,796,48,5.0,405000
+Tata Safari,Tata,Bangalore,2022,39627,Diesel,Manual,1,0,1956,170,6.0,2012000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,43255,Petrol,Manual,1,0,1086,69,5.0,482000
+Tata Zest,Tata,Bangalore,2015,79684,Diesel,Automatic,1,0,1248,90,5.0,480000
+Hyundai Grand i10,Hyundai,Bangalore,2017,40780,Petrol,Manual,1,0,1197,83,5.0,564000
+Nissan Micra,Nissan,Bangalore,2016,68447,Petrol,Automatic,1,0,1198,77,5.0,531000
+Datsun Redi Go,Datsun,Bangalore,2021,12711,Petrol,Automatic,1,0,999,68,5.0,458000
+Hyundai Verna,Hyundai,Bangalore,2019,37380,Petrol,Automatic,2,0,1591,123,5.0,929000
+Maruti S PRESSO,Maruti,Bangalore,2020,18350,Petrol,Automatic,2,0,998,68,5.0,459000
+Skoda Rapid,Skoda,Bangalore,2012,80616,Petrol,Manual,1,0,1598,105,5.0,346000
+Maruti Alto K10,Maruti,Bangalore,2016,25826,Petrol,Automatic,1,0,998,68,5.0,351000
+Hyundai Grand i10,Hyundai,Bangalore,2018,13259,Petrol,Manual,2,0,1197,83,5.0,541000
+Tata Safari,Tata,Bangalore,2021,13787,Diesel,Automatic,1,0,1956,170,7.0,2166000
+Tata NEXON,Tata,Bangalore,2018,38482,Petrol,Manual,2,0,1198,110,5.0,635000
+Tata Tiago,Tata,Bangalore,2016,48738,Petrol,Manual,2,0,1199,85,5.0,441000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2021,23972,Petrol,Manual,1,0,1086,69,5.0,566000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,21438,Petrol,Manual,1,0,1197,83,5.0,610000
+Hyundai Grand i10,Hyundai,Bangalore,2017,20264,Petrol,Manual,1,0,1197,83,5.0,443000
+Toyota Etios Liva,Toyota,Bangalore,2012,115572,Diesel,Manual,3,0,1364,68,5.0,398000
+Tata Tiago,Tata,Bangalore,2019,16943,Petrol,Automatic,2,0,1199,85,5.0,637000
+Mahindra XUV700,Mahindra,Bangalore,2023,16638,Petrol,Automatic,1,0,1997,200,5.0,1927000
+Tata ALTROZ,Tata,Bangalore,2020,11336,Petrol,Manual,1,0,1199,86,5.0,777000
+KIA SELTOS,KIA,Bangalore,2022,8827,Petrol,Manual,1,0,1353,140,5.0,1792000
+Mahindra TUV300,Mahindra,Bangalore,2016,77947,Diesel,Automatic,2,0,1493,81,7.0,557000
+Mahindra XUV300,Mahindra,Bangalore,2023,10190,Petrol,Manual,1,0,1197,110,5.0,1035000
+KIA SELTOS,KIA,Bangalore,2021,37815,Petrol,Manual,1,0,1353,140,5.0,1431000
+Tata TIGOR,Tata,Bangalore,2021,53454,Petrol,Manual,1,0,1199,86,5.0,673000
+Maruti Ciaz,Maruti,Bangalore,2018,30948,Petrol,Manual,1,0,1462,105,5.0,762000
+Maruti Swift,Maruti,Bangalore,2012,97699,Petrol,Manual,1,0,1197,87,5.0,413000
+Maruti Alto K10,Maruti,Bangalore,2012,35084,Petrol,Manual,2,0,998,68,5.0,257000
+Maruti Baleno,Maruti,Bangalore,2017,74601,Petrol,Automatic,1,0,1197,84,5.0,656000
+Hyundai Creta,Hyundai,Bangalore,2019,60704,Petrol,Manual,1,0,1591,123,5.0,1081000
+Hyundai Grand i10,Hyundai,Bangalore,2014,12047,Petrol,Automatic,1,0,1197,83,5.0,486000
+Maruti Vitara Brezza,Maruti,Bangalore,2020,50421,Petrol,Automatic,1,0,1462,105,5.0,972000
+Hyundai VENUE,Hyundai,Bangalore,2019,34996,Petrol,Manual,1,0,998,120,5.0,957000
+Maruti Celerio,Maruti,Bangalore,2016,62447,Petrol,Automatic,1,0,998,68,5.0,466000
+KIA SELTOS,KIA,Bangalore,2022,43707,Diesel,Automatic,2,0,1493,115,5.0,1787000
+Hyundai Grand i10,Hyundai,Bangalore,2017,34496,Petrol,Manual,1,0,1197,83,5.0,528000
+Hyundai Xcent,Hyundai,Bangalore,2014,67606,Petrol,Manual,1,0,1197,83,5.0,412000
+Volkswagen Vento,Volkswagen,Bangalore,2019,41272,Petrol,Automatic,2,0,1197,105,5.0,986000
+Hyundai NEW I20,Hyundai,Bangalore,2021,30376,Petrol,Manual,1,0,1197,83,5.0,812000
+Mahindra XUV500,Mahindra,Bangalore,2018,63416,Diesel,Manual,2,0,2179,155,7.0,1401000
+Hyundai Creta,Hyundai,Bangalore,2021,21027,Petrol,Automatic,1,0,1353,140,5.0,1725000
+Maruti Celerio,Maruti,Bangalore,2016,77319,Petrol,Manual,1,0,998,68,5.0,414000
+Hyundai Elite i20,Hyundai,Bangalore,2016,86715,Diesel,Manual,1,0,1396,90,5.0,719000
+Skoda Rapid,Skoda,Bangalore,2018,18349,Petrol,Automatic,1,0,1598,105,5.0,846000
+Ford FREESTYLE,Ford,Bangalore,2018,66103,Petrol,Manual,2,0,1194,96,5.0,554000
+Maruti Celerio,Maruti,Bangalore,2015,33709,Petrol,Automatic,1,0,998,68,5.0,416000
+Hyundai Grand i10,Hyundai,Bangalore,2014,40479,Petrol,Manual,1,0,1197,83,5.0,425000
+Hyundai Grand i10,Hyundai,Bangalore,2015,80575,Petrol,Automatic,2,0,1197,83,5.0,458000
+Maruti Baleno,Maruti,Bangalore,2019,24160,Petrol,Manual,1,0,1197,84,5.0,699000
+Tata NEXON,Tata,Bangalore,2021,19430,Petrol,Manual,2,0,1199,120,5.0,1033000
+Hyundai Grand i10,Hyundai,Bangalore,2015,50784,Petrol,Manual,1,0,1197,83,5.0,521000
+Hyundai i10,Hyundai,Bangalore,2013,55303,Petrol,Manual,2,0,1197,80,5.0,349000
+Maruti Ertiga,Maruti,Bangalore,2016,86518,Petrol,Manual,1,0,1373,92,7.0,716000
+Maruti Ciaz,Maruti,Bangalore,2018,42483,Petrol,Manual,1,0,1462,105,5.0,750000
+Maruti Baleno,Maruti,Bangalore,2018,82882,Diesel,Manual,1,0,1248,75,5.0,722000
+Maruti Ciaz,Maruti,Bangalore,2019,41774,Petrol,Automatic,1,0,1462,105,5.0,934000
+Maruti New Wagon-R,Maruti,Bangalore,2023,8230,Petrol,Automatic,1,0,998,67,5.0,752000
+Honda Amaze,Honda,Bangalore,2019,25138,Petrol,Manual,1,0,1199,90,5.0,780000
+Maruti Swift,Maruti,Bangalore,2016,74061,Petrol,Manual,2,0,1197,84,5.0,570000
+Tata PUNCH,Tata,Bangalore,2022,15486,Petrol,Automatic,1,0,1199,86,5.0,914000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2021,30588,Petrol,Automatic,1,0,1197,83,5.0,745000
+Hyundai Grand i10,Hyundai,Bangalore,2017,69760,Petrol,Manual,2,0,1197,83,5.0,453000
+KIA SELTOS,KIA,Bangalore,2020,44842,Petrol,Manual,2,0,1353,140,5.0,1185000
+Maruti Alto,Maruti,Bangalore,2021,22625,Petrol,Manual,1,0,796,48,5.0,398000
+Volkswagen Vento,Volkswagen,Bangalore,2016,57895,Petrol,Automatic,1,0,1197,105,5.0,770000
+Hyundai Grand i10,Hyundai,Bangalore,2016,24183,Petrol,Manual,1,0,1197,83,5.0,582000
+Maruti Swift,Maruti,Bangalore,2016,70649,Petrol,Manual,1,0,1197,84,5.0,595000
+Mahindra XUV500,Mahindra,Bangalore,2020,18556,Diesel,Manual,2,0,2179,155,7.0,1445000
+KIA SONET,KIA,Bangalore,2021,32031,Petrol,Automatic,1,0,998,120,5.0,1292000
+Maruti Ciaz,Maruti,Bangalore,2019,29041,Petrol,Automatic,2,0,1462,105,5.0,925000
+Honda City,Honda,Bangalore,2019,34447,Petrol,Automatic,1,0,1497,119,5.0,1140000
+Hyundai Grand i10,Hyundai,Bangalore,2016,23731,Petrol,Manual,1,0,1197,83,5.0,559000
+Hyundai Grand i10,Hyundai,Bangalore,2016,70403,Petrol,Manual,1,0,1197,83,5.0,454000
+Maruti Alto K10,Maruti,Bangalore,2013,24202,Petrol,Manual,1,0,998,68,5.0,303000
+Maruti Celerio,Maruti,Bangalore,2021,25548,Petrol,Automatic,1,0,998,67,5.0,670000
+Maruti Vitara Brezza,Maruti,Bangalore,2021,22250,Petrol,Automatic,1,0,1462,105,5.0,1054000
+Hyundai i20 Active,Hyundai,Bangalore,2017,39981,Diesel,Manual,1,0,1396,90,5.0,779000
+Tata Tiago,Tata,Bangalore,2017,60536,Petrol,Manual,1,0,1199,85,5.0,450000
+Maruti Baleno,Maruti,Bangalore,2018,26277,Petrol,Automatic,2,0,1197,84,5.0,714000
+Maruti IGNIS,Maruti,Bangalore,2021,29003,Petrol,Automatic,1,0,1197,83,5.0,803000
+Hyundai Grand i10,Hyundai,Bangalore,2017,27218,Petrol,Manual,2,0,1197,83,5.0,477000
+Hyundai VENUE,Hyundai,Bangalore,2021,16920,Petrol,Manual,1,0,998,120,5.0,977000
+Maruti Swift,Maruti,Bangalore,2017,51421,Petrol,Manual,2,0,1197,84,5.0,641000
+Honda Amaze,Honda,Bangalore,2017,47200,Petrol,Manual,1,0,1198,88,5.0,570000
+Maruti Celerio,Maruti,Bangalore,2014,71320,Petrol,Automatic,1,0,998,68,5.0,372000
+Hyundai Elite i20,Hyundai,Bangalore,2019,21733,Petrol,Manual,1,0,1197,83,5.0,727000
+Hyundai i10,Hyundai,Bangalore,2013,46079,Petrol,Manual,1,0,1197,80,5.0,408000
+Ford Ecosport,Ford,Bangalore,2018,47693,Diesel,Manual,2,0,1498,101,5.0,819000
+Maruti Baleno,Maruti,Bangalore,2015,63916,Diesel,Manual,2,0,1248,75,5.0,637000
+Tata TIGOR,Tata,Bangalore,2020,27603,Petrol,Manual,1,0,1199,86,5.0,685000
+Maruti New Wagon-R,Maruti,Bangalore,2019,13515,Petrol,Automatic,2,0,1197,83,5.0,591000
+Maruti Celerio,Maruti,Bangalore,2016,51729,Petrol,Automatic,1,0,998,68,5.0,497000
+Maruti Swift,Maruti,Bangalore,2016,43756,Petrol,Manual,1,0,1197,84,5.0,615000
+Honda City,Honda,Bangalore,2017,39311,Petrol,Automatic,1,0,1497,119,5.0,900000
+KIA SELTOS,KIA,Bangalore,2019,66007,Petrol,Automatic,1,0,1353,140,5.0,1478000
+Hyundai Creta,Hyundai,Bangalore,2022,20634,Petrol,Automatic,1,0,1353,140,5.0,1770000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,23912,Petrol,Automatic,2,0,998,68,5.0,438000
+Tata PUNCH,Tata,Bangalore,2023,2806,Petrol,Automatic,1,0,1199,88,5.0,956000
+Honda City,Honda,Bangalore,2015,83630,Petrol,Automatic,2,0,1497,119,5.0,651000
+Maruti S PRESSO,Maruti,Bangalore,2022,6410,Petrol,Manual,1,0,998,68,5.0,486000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2022,19934,Petrol,Manual,1,0,1086,69,5.0,587000
+Maruti Celerio,Maruti,Bangalore,2015,52643,Petrol,Automatic,1,0,998,68,5.0,404000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2019,12878,Petrol,Automatic,1,0,1197,83,5.0,726000
+Volkswagen Polo,Volkswagen,Bangalore,2014,37711,Petrol,Manual,1,0,1198,75,5.0,560000
+Hyundai Elite i20,Hyundai,Bangalore,2017,35728,Petrol,Manual,1,0,1197,83,5.0,730000
+Maruti IGNIS,Maruti,Bangalore,2021,39945,Petrol,Manual,1,0,1197,83,5.0,524000
+Maruti Ertiga,Maruti,Bangalore,2013,92751,Petrol,Manual,1,0,1373,95,7.0,626000
+Hyundai Creta,Hyundai,Bangalore,2019,36336,Petrol,Manual,2,0,1591,123,5.0,1056000
+Maruti Ciaz,Maruti,Bangalore,2017,43129,Petrol,Manual,1,0,1373,92,5.0,706000
+Honda Jazz,Honda,Bangalore,2017,29164,Petrol,Automatic,1,0,1199,90,5.0,671000
+Hyundai Xcent,Hyundai,Bangalore,2015,71143,Petrol,Manual,1,0,1197,83,5.0,453000
+Maruti Baleno,Maruti,Bangalore,2017,49591,Petrol,Manual,1,0,1197,84,5.0,725000
+Hyundai Verna,Hyundai,Bangalore,2013,103388,Diesel,Manual,3,0,1582,128,5.0,434000
+Hyundai Elite i20,Hyundai,Bangalore,2017,78959,Petrol,Manual,1,0,1197,83,5.0,567000
+Maruti Dzire,Maruti,Bangalore,2018,38445,Petrol,Manual,1,0,1197,83,5.0,682000
+Maruti Grand Vitara,Maruti,Bangalore,2023,20888,Petrol,Manual,1,0,1462,103,5.0,1119000
+Maruti Alto K10,Maruti,Bangalore,2022,13847,Petrol,Manual,1,0,998,67,5.0,511000
+Hyundai Grand i10,Hyundai,Bangalore,2016,93065,Petrol,Automatic,1,0,1197,83,5.0,471000
+Hyundai Xcent,Hyundai,Bangalore,2014,72764,Petrol,Manual,1,0,1197,83,5.0,409000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,17849,Petrol,Manual,2,0,1197,83,5.0,596000
+Honda City,Honda,Bangalore,2013,41334,Petrol,Manual,1,0,1497,118,5.0,473000
+Renault Kwid,Renault,Bangalore,2023,1994,Petrol,Manual,1,0,999,68,5.0,592200
+Maruti Baleno,Maruti,Bangalore,2016,62524,Petrol,Automatic,2,0,1197,84,5.0,603000
+Skoda Rapid,Skoda,Bangalore,2016,35390,Petrol,Automatic,2,0,1598,105,5.0,722000
+Maruti Swift,Maruti,Bangalore,2020,38807,Petrol,Automatic,2,0,1197,83,5.0,742000
+Datsun Redi Go,Datsun,Bangalore,2018,44972,Petrol,Automatic,1,0,999,68,5.0,324800
+Maruti Swift,Maruti,Bangalore,2015,74874,Petrol,Manual,3,0,1197,84,5.0,484000
+Renault Kwid,Renault,Bangalore,2020,87693,Petrol,Manual,1,0,999,68,5.0,436000
+Hyundai Grand i10,Hyundai,Bangalore,2014,80602,Petrol,Manual,1,0,1197,83,5.0,416000
+Maruti Ciaz,Maruti,Bangalore,2016,68199,Petrol,Manual,2,0,1373,92,5.0,673000
+Maruti Celerio,Maruti,Bangalore,2016,39987,Petrol,Automatic,2,0,998,68,5.0,447000
+Hyundai NEW I20,Hyundai,Bangalore,2022,38428,Petrol,Manual,1,0,1197,83,5.0,845000
+Toyota Glanza,Toyota,Bangalore,2021,28290,Petrol,Automatic,2,0,1197,83,5.0,801700
+Maruti Ertiga,Maruti,Bangalore,2023,11016,Petrol,Automatic,1,0,1462,103,7.0,1364000
+Maruti Ciaz,Maruti,Bangalore,2016,66695,Petrol,Automatic,1,0,1373,92,5.0,629000
+Mahindra XUV500,Mahindra,Bangalore,2018,80292,Diesel,Manual,1,0,2179,140,7.0,1098000
+Hyundai Grand i10,Hyundai,Bangalore,2015,99767,Petrol,Manual,2,0,1197,83,5.0,419000
+Hyundai Elite i20,Hyundai,Bangalore,2015,74832,Petrol,Manual,2,0,1197,83,5.0,496000
+Honda WR-V,Honda,Bangalore,2017,46215,Petrol,Manual,2,0,1199,90,5.0,692000
+KIA SONET,KIA,Bangalore,2020,31141,Petrol,Manual,1,0,998,120,5.0,1133000
+Maruti Ciaz,Maruti,Bangalore,2015,83683,Petrol,Automatic,2,0,1373,92,5.0,480000
+Mahindra XUV300,Mahindra,Bangalore,2023,6978,Petrol,Manual,1,0,1197,110,5.0,938000
+Mahindra TUV300,Mahindra,Bangalore,2016,54242,Diesel,Manual,1,0,1493,84,7.0,667000
+Renault Kwid,Renault,Bangalore,2020,18244,Petrol,Manual,1,0,999,68,5.0,460000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,9281,Petrol,Manual,1,0,1197,83,5.0,631000
+Maruti Celerio,Maruti,Bangalore,2016,38929,Petrol,Automatic,2,0,998,68,5.0,473000
+Honda Jazz,Honda,Bangalore,2016,62722,Petrol,Manual,2,0,1199,90,5.0,532000
+Maruti Baleno,Maruti,Bangalore,2018,19161,Petrol,Automatic,2,0,1197,84,5.0,739000
+Honda Jazz,Honda,Bangalore,2021,5141,Petrol,Automatic,1,0,1199,90,5.0,922000
+Maruti Alto,Maruti,Bangalore,2021,28158,Petrol,Manual,1,0,796,48,5.0,408000
+Hyundai Eon,Hyundai,Bangalore,2014,35510,Petrol,Manual,1,0,814,56,5.0,285200
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,30478,Petrol,Manual,1,0,998,68,5.0,406000
+Maruti Ciaz,Maruti,Bangalore,2018,45811,Petrol,Manual,2,0,1373,92,5.0,738000
+Maruti S PRESSO,Maruti,Bangalore,2019,44848,Petrol,Manual,1,0,998,68,5.0,430000
+Maruti Celerio,Maruti,Bangalore,2019,23686,Petrol,Automatic,2,0,998,68,5.0,534000
+Honda City,Honda,Bangalore,2017,70058,Petrol,Automatic,2,0,1497,119,5.0,824000
+Maruti Dzire,Maruti,Bangalore,2018,68309,Petrol,Manual,1,0,1197,83,5.0,609000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,38523,Petrol,Automatic,1,0,998,68,5.0,409000
+Maruti Celerio,Maruti,Bangalore,2020,15808,Petrol,Automatic,1,0,998,68,5.0,606000
+Maruti Alto K10,Maruti,Bangalore,2011,74886,Petrol,Manual,1,0,998,68,5.0,237000
+Maruti Alto 800,Maruti,Bangalore,2013,46661,Petrol,Manual,1,0,796,48,5.0,295000
+Tata Harrier,Tata,Bangalore,2021,28570,Diesel,Automatic,2,0,1956,170,5.0,1474000
+Mahindra XUV300,Mahindra,Bangalore,2021,6528,Petrol,Manual,1,0,1197,110,5.0,1224000
+Tata PUNCH,Tata,Bangalore,2022,3572,Petrol,Automatic,1,0,1199,86,5.0,870000
+Hyundai Eon,Hyundai,Bangalore,2014,97619,Petrol,Manual,2,0,814,56,5.0,261000
+Mahindra XUV300,Mahindra,Bangalore,2023,5990,Petrol,Automatic,1,0,1197,110,5.0,1390000
+Honda WR-V,Honda,Bangalore,2017,56702,Diesel,Manual,1,0,1498,100,5.0,806000
+Mahindra XUV500,Mahindra,Bangalore,2019,39448,Diesel,Automatic,1,0,2179,155,7.0,1408000
+Renault Kwid,Renault,Bangalore,2023,6308,Petrol,Automatic,1,0,999,68,5.0,659000
+Maruti Swift,Maruti,Bangalore,2016,53462,Petrol,Manual,1,0,1197,84,5.0,581000
+Maruti New Wagon-R,Maruti,Bangalore,2019,30598,Petrol,Automatic,1,0,998,68,5.0,552000
+Ford Ecosport,Ford,Bangalore,2014,70716,Diesel,Manual,1,0,1498,91,5.0,532000
+Maruti Eeco,Maruti,Bangalore,2019,24968,Petrol,Manual,1,0,1196,73,5.0,473000
+Maruti Alto K10,Maruti,Bangalore,2012,71979,Petrol,Manual,1,0,998,68,5.0,264000
+Hyundai Creta,Hyundai,Bangalore,2022,25492,Petrol,Manual,1,0,1497,115,5.0,1174000
+Toyota Innova Crysta,Toyota,Bangalore,2021,13890,Diesel,Automatic,1,0,2393,150,8.0,2125000
+Hyundai NEW I20 N LINE,Hyundai,Bangalore,2022,9047,Petrol,Manual,1,0,998,120,5.0,1088000
+Renault Kwid,Renault,Bangalore,2018,48905,Petrol,Manual,1,0,999,68,5.0,346000
+Mahindra XUV500,Mahindra,Bangalore,2020,31044,Diesel,Manual,1,0,2179,155,7.0,1343000
+Mahindra XUV300,Mahindra,Bangalore,2019,42731,Petrol,Manual,1,0,1197,110,5.0,780000
+Hyundai Creta,Hyundai,Bangalore,2016,76040,Petrol,Manual,2,0,1591,123,5.0,816000
+Maruti Baleno,Maruti,Bangalore,2017,33972,Petrol,Manual,1,0,1197,84,5.0,597000
+Renault TRIBER,Renault,Bangalore,2021,16146,Petrol,Automatic,1,0,999,72,7.0,708000
+Maruti Baleno,Maruti,Bangalore,2018,42164,Petrol,Automatic,1,0,1197,84,5.0,708000
+Honda City,Honda,Bangalore,2017,37713,Petrol,Automatic,1,0,1497,119,5.0,854000
+KIA SELTOS,KIA,Bangalore,2022,9536,Petrol,Manual,1,0,1497,115,5.0,1209000
+Hyundai Verna,Hyundai,Bangalore,2013,118783,Diesel,Manual,1,0,1582,128,5.0,431000
+Maruti IGNIS,Maruti,Bangalore,2020,30628,Petrol,Manual,1,0,1197,83,5.0,568000
+Mahindra TUV300,Mahindra,Bangalore,2016,38328,Diesel,Manual,2,0,1493,84,7.0,596000
+Volkswagen Ameo,Volkswagen,Bangalore,2016,97869,Petrol,Manual,1,0,1198,75,5.0,475000
+Maruti Dzire,Maruti,Bangalore,2017,42126,Petrol,Manual,1,0,1197,83,5.0,609000
+Volkswagen Polo,Volkswagen,Bangalore,2010,52143,Petrol,Manual,1,0,1198,75,5.0,330000
+Honda Amaze,Honda,Bangalore,2018,86555,Petrol,Manual,1,0,1199,90,5.0,626500
+Maruti Omni,Maruti,Bangalore,2012,37089,Petrol,Manual,1,0,796,33,5.0,244000
+Maruti Baleno,Maruti,Bangalore,2017,39585,Petrol,Automatic,2,0,1197,84,5.0,585000
+Maruti Swift,Maruti,Bangalore,2023,9075,Petrol,Manual,1,0,1197,90,5.0,761000
+Datsun Redi Go,Datsun,Bangalore,2019,15881,Petrol,Manual,2,0,999,68,5.0,273000
+Hyundai i20,Hyundai,Bangalore,2013,61116,Petrol,Manual,1,0,1197,84,5.0,436000
+Tata Tiago,Tata,Bangalore,2016,86034,Petrol,Manual,3,0,1199,85,5.0,359000
+Tata Tiago,Tata,Bangalore,2018,72597,Petrol,Manual,1,0,1199,85,5.0,453000
+Maruti Ertiga,Maruti,Bangalore,2017,108489,Diesel,Manual,1,0,1248,90,7.0,843000
+Volkswagen Polo,Volkswagen,Bangalore,2016,87457,Petrol,Automatic,3,0,1197,105,5.0,698000
+Hyundai Santro Xing,Hyundai,Bangalore,2014,74647,Petrol,Manual,2,0,1086,63,5.0,274000
+Maruti Swift,Maruti,Bangalore,2012,80825,Petrol,Manual,3,0,1197,87,5.0,363000
+Hyundai Grand i10,Hyundai,Bangalore,2015,67557,Petrol,Manual,2,0,1197,83,5.0,429000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,20560,Petrol,Automatic,1,0,1086,69,5.0,546500
+Ford Ecosport,Ford,Bangalore,2018,48498,Petrol,Manual,1,0,1497,123,5.0,760000
+Tata ALTROZ,Tata,Bangalore,2022,19400,Petrol,Manual,1,0,1199,110,5.0,810000
+MG HECTOR,MG,Bangalore,2020,39915,Petrol,Manual,1,0,1451,143,5.0,1493000
+Maruti Dzire,Maruti,Bangalore,2017,57398,Petrol,Automatic,1,0,1197,83,5.0,566000
+Maruti Dzire,Maruti,Bangalore,2017,121318,Diesel,Manual,1,0,1248,75,5.0,646000
+Honda Jazz,Honda,Bangalore,2016,35105,Petrol,Manual,3,0,1199,90,5.0,466000
+Hyundai i20,Hyundai,Bangalore,2013,78316,Petrol,Manual,1,0,1197,84,5.0,408000
+Maruti Swift,Maruti,Bangalore,2014,109999,Diesel,Manual,2,0,1248,75,5.0,519000
+Renault Kwid,Renault,Bangalore,2015,44512,Petrol,Manual,1,0,799,54,5.0,307000
+Honda WR-V,Honda,Bangalore,2017,129744,Diesel,Manual,1,0,1498,100,5.0,682000
+Honda Civic,Honda,Bangalore,2019,28069,Petrol,Automatic,1,0,1799,141,5.0,1791300
+Honda City,Honda,Bangalore,2018,38673,Petrol,Manual,1,0,1497,119,5.0,891000
+Ford Ecosport,Ford,Bangalore,2016,49017,Petrol,Manual,2,0,1499,112,5.0,564000
+Renault Kwid,Renault,Bangalore,2015,36803,Petrol,Manual,1,0,799,54,5.0,305000
+Jeep Compass,Jeep,Bangalore,2020,55863,Petrol,Automatic,2,0,1368,163,5.0,1362000
+Maruti Ertiga,Maruti,Bangalore,2017,88211,Petrol,Automatic,1,0,1373,92,7.0,718000
+Honda City,Honda,Bangalore,2012,101853,Petrol,Manual,1,0,1497,118,5.0,374000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2021,31259,Petrol,Automatic,1,0,1197,83,5.0,699000
+MG ASTOR,MG,Bangalore,2022,7459,Petrol,Automatic,1,0,1349,140,5.0,1598000
+Mahindra XUV500,Mahindra,Bangalore,2014,93087,Diesel,Manual,2,0,2179,140,7.0,757000
+Honda Brio,Honda,Bangalore,2012,68895,Petrol,Manual,1,0,1198,88,5.0,330000
+Maruti Vitara Brezza,Maruti,Bangalore,2016,58038,Diesel,Manual,1,0,1248,90,5.0,797000
+Tata NEXON,Tata,Bangalore,2017,106245,Diesel,Manual,1,0,1497,110,5.0,700500
+Hyundai Creta,Hyundai,Bangalore,2021,46516,Diesel,Automatic,1,0,1493,115,5.0,1757000
+Maruti Swift Dzire,Maruti,Bangalore,2012,23960,Petrol,Manual,1,0,1197,87,5.0,460000
+Maruti Baleno,Maruti,Bangalore,2017,52195,Petrol,Manual,1,0,1197,84,5.0,666000
+Maruti Swift Dzire,Maruti,Bangalore,2013,70963,Petrol,Manual,1,0,1197,87,5.0,435000
+Hyundai Grand i10,Hyundai,Bangalore,2014,76725,Petrol,Manual,1,0,1197,83,5.0,383700
+Maruti Wagon R 1.0,Maruti,Bangalore,2013,69977,Petrol,Manual,1,0,998,68,5.0,313000
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,12988,Petrol,Manual,1,0,1086,69,5.0,519000
+MG HECTOR PLUS,MG,Bangalore,2022,37636,Petrol,Manual,1,0,1451,143,6.0,1666000
+Renault Duster,Renault,Bangalore,2021,18262,Petrol,Manual,1,0,1498,106,5.0,926000
+Maruti Swift,Maruti,Bangalore,2011,57051,Petrol,Manual,1,0,1197,85,5.0,346600
+Renault Duster,Renault,Bangalore,2017,48000,Petrol,Manual,1,0,1598,104,5.0,625000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,17285,Petrol,Automatic,1,0,1197,83,5.0,676000
+Maruti Baleno,Maruti,Bangalore,2023,20488,Petrol,Automatic,1,0,1197,90,5.0,954000
+Maruti Ciaz,Maruti,Bangalore,2017,73371,Petrol,Automatic,1,0,1373,92,5.0,661000
+Maruti Baleno,Maruti,Bangalore,2017,75431,Petrol,Manual,2,0,1197,84,5.0,586000
+Honda City,Honda,Bangalore,2022,28749,Petrol,Automatic,1,0,1497,119,5.0,1221000
+Maruti Ritz,Maruti,Bangalore,2013,73335,Petrol,Manual,1,0,1197,87,5.0,368000
+Honda City,Honda,Bangalore,2016,76709,Petrol,Manual,2,0,1497,119,5.0,613000
+Renault Kwid,Renault,Bangalore,2019,46779,Petrol,Manual,1,0,999,68,5.0,362000
+Maruti Swift,Maruti,Bangalore,2018,54397,Petrol,Automatic,1,0,1197,83,5.0,665000
+Hyundai Elite i20,Hyundai,Bangalore,2019,39915,Petrol,Manual,2,0,1197,83,5.0,701000
+Hyundai Verna,Hyundai,Bangalore,2016,65029,Diesel,Manual,1,0,1582,128,5.0,771000
+Hyundai i20,Hyundai,Bangalore,2013,53463,Petrol,Manual,1,0,1197,84,5.0,434000
+Maruti Swift,Maruti,Bangalore,2016,44499,Petrol,Manual,2,0,1197,84,5.0,512000
+Honda Brio,Honda,Bangalore,2013,41346,Petrol,Manual,2,0,1198,88,5.0,365000
+Nissan Terrano,Nissan,Bangalore,2016,93598,Petrol,Manual,1,0,1598,104,5.0,566000
+Renault Kwid,Renault,Bangalore,2017,21138,Petrol,Manual,2,0,999,68,5.0,353000
+Tata NEXON,Tata,Bangalore,2018,34059,Diesel,Automatic,1,0,1497,110,5.0,977000
+Hyundai i10,Hyundai,Bangalore,2011,72455,Petrol,Manual,2,0,1197,80,5.0,271000
+Hyundai i10,Hyundai,Bangalore,2012,56699,Petrol,Manual,2,0,1086,69,5.0,269000
+Hyundai i20,Hyundai,Bangalore,2014,57769,Petrol,Manual,1,0,1197,84,5.0,493000
+Maruti Ciaz,Maruti,Bangalore,2018,49559,Petrol,Manual,2,0,1373,92,5.0,754000
+Maruti S PRESSO,Maruti,Bangalore,2020,24864,Petrol,Automatic,1,0,998,68,5.0,479000
+Maruti Wagon R 1.0,Maruti,Bangalore,2015,27184,Petrol,Manual,2,0,998,68,5.0,395000
+Hyundai Creta,Hyundai,Bangalore,2016,89371,Petrol,Manual,1,0,1591,123,5.0,858000
+Renault Duster,Renault,Bangalore,2020,46385,Petrol,Automatic,1,0,1330,156,5.0,1082300
+Hyundai NEW SANTRO,Hyundai,Bangalore,2019,67235,Petrol,Automatic,1,0,1086,69,5.0,509000
+Hyundai Creta,Hyundai,Bangalore,2016,92043,Petrol,Manual,1,0,1591,123,5.0,850000
+Maruti Baleno,Maruti,Bangalore,2017,22396,Petrol,Manual,2,0,1197,84,5.0,648000
+Maruti Ciaz,Maruti,Bangalore,2015,87856,Diesel,Manual,1,0,1248,90,5.0,600000
+Honda Brio,Honda,Bangalore,2012,74427,Petrol,Manual,2,0,1198,88,5.0,302000
+Maruti Celerio,Maruti,Bangalore,2022,9609,Petrol,Automatic,1,0,998,67,5.0,639000
+Renault Kwid,Renault,Bangalore,2017,13272,Petrol,Automatic,1,0,999,68,5.0,377000
+Hyundai Xcent,Hyundai,Bangalore,2015,88423,Petrol,Manual,1,0,1197,83,5.0,395000
+Renault Kwid,Renault,Bangalore,2016,59775,Petrol,Manual,1,0,799,54,5.0,307600
+Mahindra XUV500,Mahindra,Bangalore,2016,75082,Diesel,Manual,2,0,2179,140,7.0,1090000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,10218,Petrol,Automatic,1,0,1197,83,5.0,704000
+Maruti Swift Dzire,Maruti,Bangalore,2011,61266,Petrol,Manual,1,0,1197,85,5.0,355000
+Maruti S PRESSO,Maruti,Bangalore,2020,31237,Petrol,Manual,1,0,998,68,5.0,428000
+Ford Ecosport,Ford,Bangalore,2016,79969,Petrol,Manual,2,0,1499,112,5.0,587000
+Hyundai Creta,Hyundai,Bangalore,2017,42546,Petrol,Automatic,1,0,1591,123,5.0,981000
+Renault Kwid,Renault,Bangalore,2020,33663,Petrol,Automatic,1,0,999,68,5.0,473000
+Maruti Ertiga,Maruti,Bangalore,2022,9884,Petrol,Manual,1,0,1462,103,7.0,1033000
+Maruti Baleno,Maruti,Bangalore,2018,45037,Petrol,Manual,2,0,1197,84,5.0,532000
+Honda Brio,Honda,Bangalore,2015,30891,Petrol,Manual,2,0,1198,88,5.0,370000
+Maruti Alto K10,Maruti,Bangalore,2014,29477,Petrol,Manual,1,0,998,68,5.0,306000
+Hyundai Elite i20,Hyundai,Bangalore,2016,58161,Petrol,Manual,2,0,1197,83,5.0,552000
+Hyundai Elite i20,Hyundai,Bangalore,2019,38639,Petrol,Automatic,1,0,1197,83,5.0,743000
+Renault Duster,Renault,Bangalore,2017,67614,Petrol,Manual,2,0,1498,106,5.0,713000
+KIA SELTOS,KIA,Bangalore,2021,39132,Diesel,Manual,1,0,1493,115,5.0,1559000
+Maruti Alto 800,Maruti,Bangalore,2015,41453,Petrol,Manual,2,0,796,48,5.0,284000
+Honda City,Honda,Bangalore,2016,58750,Petrol,Manual,1,0,1497,119,5.0,625000
+Tata PUNCH,Tata,Bangalore,2021,4700,Petrol,Manual,1,0,1199,86,5.0,758000
+Maruti Alto 800,Maruti,Bangalore,2015,48319,Petrol,Manual,1,0,796,48,5.0,313000
+Renault TRIBER,Renault,Bangalore,2020,18429,Petrol,Manual,1,0,999,72,7.0,541000
+Tata NEXON,Tata,Bangalore,2018,69566,Diesel,Manual,2,0,1497,110,5.0,750000
+Honda Amaze,Honda,Bangalore,2013,73662,Diesel,Manual,1,0,1498,100,5.0,351000
+Hyundai GRAND I10 NIOS,Hyundai,Bangalore,2020,27754,Petrol,Automatic,1,0,1197,83,5.0,704000
+Hyundai Xcent,Hyundai,Bangalore,2015,69271,Petrol,Manual,1,0,1197,83,5.0,419000
+Toyota Glanza,Toyota,Bangalore,2020,74708,Petrol,Manual,1,0,1197,83,5.0,750000
+Maruti Baleno,Maruti,Bangalore,2021,19053,Petrol,Manual,1,0,1197,83,5.0,707000
+Hyundai Elite i20,Hyundai,Bangalore,2019,23570,Petrol,Automatic,2,0,1197,83,5.0,792000
+Renault Duster,Renault,Bangalore,2016,63292,Petrol,Manual,2,0,1598,104,5.0,593000
+Honda City,Honda,Bangalore,2015,40477,Petrol,Manual,1,0,1497,119,5.0,597000
+Hyundai Elite i20,Hyundai,Bangalore,2016,50641,Petrol,Manual,1,0,1197,83,5.0,590000
+Honda Amaze,Honda,Bangalore,2014,30529,Petrol,Manual,1,0,1198,88,5.0,458000
+Maruti Ciaz,Maruti,Bangalore,2016,45263,Petrol,Automatic,1,0,1373,92,5.0,668000
+Maruti Dzire,Maruti,Bangalore,2017,89319,Diesel,Automatic,1,0,1248,75,5.0,706000
+Nissan Terrano,Nissan,Bangalore,2015,65385,Diesel,Manual,1,0,1461,85,5.0,592000
+Maruti Swift,Maruti,Bangalore,2018,37330,Petrol,Manual,2,0,1197,83,5.0,577000
+KIA SELTOS,KIA,Bangalore,2019,43392,Petrol,Automatic,1,0,1497,115,5.0,1261000
+Maruti Baleno,Maruti,Bangalore,2021,17079,Petrol,Manual,1,0,1197,83,5.0,715000
+Honda Amaze,Honda,Bangalore,2014,81856,Diesel,Manual,1,0,1498,100,5.0,414000
+Ford Ecosport,Ford,Bangalore,2016,52176,Diesel,Manual,2,0,1498,101,5.0,639000
+Toyota Camry,Toyota,Bangalore,2014,113336,Petrol,Automatic,2,0,2494,181,5.0,934000
+Hyundai Verna,Hyundai,Bangalore,2013,96949,Petrol,Manual,2,0,1591,123,5.0,402000
+Maruti OMNI E,Maruti,Bangalore,2017,20461,Petrol,Manual,1,0,796,33,8.0,326000
+Maruti Ertiga,Maruti,Bangalore,2020,34569,Petrol,Automatic,1,0,1462,105,7.0,915000
+Maruti Alto 800,Maruti,Bangalore,2015,69850,Petrol,Manual,1,0,796,48,5.0,284000
+Tata Tiago,Tata,Bangalore,2018,21979,Petrol,Automatic,1,0,1199,85,5.0,528000
+Renault Duster,Renault,Bangalore,2017,21357,Petrol,Automatic,1,0,1498,106,5.0,729850
+Tata Tiago,Tata,Bangalore,2016,70138,Petrol,Manual,1,0,1199,85,5.0,392000
+Honda City,Honda,Bangalore,2015,71841,Petrol,Manual,2,0,1497,119,5.0,559000
+Renault Kwid,Renault,Bangalore,2020,53503,Petrol,Manual,1,0,999,68,5.0,431000
+KIA SELTOS,KIA,Bangalore,2020,25031,Petrol,Manual,2,0,1497,115,5.0,1100000
+Maruti Ciaz,Maruti,Bangalore,2018,91521,Petrol,Manual,1,0,1462,105,5.0,655000
+Maruti Wagon R 1.0,Maruti,Bangalore,2016,44237,Petrol,Automatic,2,0,998,68,5.0,398000
+Hyundai Verna,Hyundai,Bangalore,2013,59998,Petrol,Manual,2,0,1591,123,5.0,450000
+Maruti Celerio,Maruti,Bangalore,2015,39773,Petrol,Manual,1,0,998,68,5.0,420000
+Ford Ecosport,Ford,Bangalore,2013,79454,Diesel,Manual,1,0,1498,91,5.0,473000

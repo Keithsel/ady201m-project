@@ -1,0 +1,73 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Volkswagen Ameo,Volkswagen,Jaipur,2017,95176,Petrol,Manual,2,0,1198,75,5.0,437000
+Maruti Vitara Brezza,Maruti,Jaipur,2021,34127,Petrol,Manual,2,0,1462,105,5.0,691000
+Maruti Swift Dzire,Maruti,Jaipur,2015,86420,Diesel,Manual,1,0,1248,75,5.0,458000
+Maruti Alto K10,Maruti,Jaipur,2018,92224,Petrol,Manual,1,0,998,68,5.0,287000
+Hyundai Creta,Hyundai,Jaipur,2018,75608,Diesel,Manual,2,0,1582,128,5.0,1024000
+Hyundai Verna,Hyundai,Jaipur,2013,74168,Diesel,Manual,2,0,1582,128,5.0,423000
+Renault Kwid,Renault,Jaipur,2020,40905,Petrol,Manual,1,0,999,68,5.0,370150
+Maruti Alto,Maruti,Jaipur,2011,91389,Petrol,Manual,1,0,796,47,5.0,157500
+Renault TRIBER,Renault,Jaipur,2023,6791,Petrol,Manual,1,0,999,72,7.0,631000
+Tata Tiago,Tata,Jaipur,2022,20500,CNG,Manual,1,0,1199,73,5.0,694000
+Maruti Swift,Maruti,Jaipur,2011,77887,Petrol,Manual,1,0,1197,87,5.0,289000
+Hyundai i10,Hyundai,Jaipur,2011,74496,Petrol,Manual,1,0,1197,80,5.0,198000
+Renault Kwid,Renault,Jaipur,2021,31561,Petrol,Manual,1,0,999,68,5.0,397000
+Honda City,Honda,Jaipur,2018,92658,Petrol,Manual,1,0,1497,119,5.0,699000
+Renault Kwid,Renault,Jaipur,2020,47089,Petrol,Automatic,2,0,999,68,5.0,419000
+Hyundai VENUE,Hyundai,Jaipur,2019,16004,Petrol,Automatic,1,0,998,120,5.0,947000
+Hyundai i10,Hyundai,Jaipur,2014,53668,Petrol,Manual,2,0,1086,69,5.0,247000
+Maruti Baleno,Maruti,Jaipur,2017,35478,Petrol,Automatic,1,0,1197,84,5.0,543000
+Maruti New Wagon-R,Maruti,Jaipur,2022,40259,CNG,Manual,1,0,998,57,5.0,604000
+Honda Amaze,Honda,Jaipur,2023,8181,Petrol,Manual,2,0,1199,90,5.0,732000
+Hyundai Creta,Hyundai,Jaipur,2016,124930,Diesel,Manual,1,0,1396,90,5.0,713000
+Tata ALTROZ,Tata,Jaipur,2021,57765,Diesel,Manual,1,0,1497,90,5.0,814000
+Maruti Baleno,Maruti,Jaipur,2022,21107,Petrol,Manual,1,0,1197,90,5.0,776000
+Renault Duster,Renault,Jaipur,2017,97571,Diesel,Manual,1,0,1461,85,5.0,490000
+Maruti Wagon R 1.0,Maruti,Jaipur,2011,62381,Petrol,Manual,1,0,998,68,5.0,232000
+Renault Kwid,Renault,Jaipur,2021,14413,Petrol,Manual,1,0,999,68,5.0,422000
+Hyundai NEW SANTRO,Hyundai,Jaipur,2019,61783,Petrol,Manual,1,0,1086,69,5.0,408000
+Hyundai AURA,Hyundai,Jaipur,2020,33564,Petrol,Manual,1,0,1197,83,5.0,592400
+Renault Kwid,Renault,Jaipur,2022,20654,Petrol,Automatic,1,0,999,68,5.0,548000
+Maruti Alto,Maruti,Jaipur,2019,63838,Petrol,Manual,2,0,796,48,5.0,333800
+Honda Brio,Honda,Jaipur,2016,51438,Petrol,Manual,2,0,1198,88,5.0,341000
+Maruti Wagon R 1.0,Maruti,Jaipur,2013,67528,Petrol,Manual,1,0,998,68,5.0,269000
+Nissan MAGNITE,Nissan,Jaipur,2021,12532,Petrol,Manual,1,0,999,72,5.0,707000
+Tata Tiago,Tata,Jaipur,2020,50568,Petrol,Automatic,1,0,1199,86,5.0,639000
+Maruti Baleno,Maruti,Jaipur,2022,42038,Petrol,Manual,1,0,1197,90,5.0,743000
+Mahindra KUV 100 NXT,Mahindra,Jaipur,2018,23196,Petrol,Manual,1,0,1198,82,6.0,416000
+Honda City,Honda,Jaipur,2019,19626,Petrol,Automatic,1,0,1497,119,5.0,946000
+Hyundai GRAND I10 NIOS,Hyundai,Jaipur,2020,62698,Petrol,Manual,1,0,1197,83,5.0,539600
+Renault Duster,Renault,Jaipur,2019,54182,Diesel,Manual,2,0,1461,110,5.0,790000
+Maruti Baleno,Maruti,Jaipur,2019,77561,Petrol,Automatic,2,0,1197,84,5.0,627000
+Hyundai NEW SANTRO,Hyundai,Jaipur,2022,32757,Petrol,Manual,1,0,1086,69,5.0,453000
+Datsun Go,Datsun,Jaipur,2018,75191,Petrol,Manual,1,0,1198,68,5.0,381000
+Hyundai NEW SANTRO,Hyundai,Jaipur,2020,67550,Petrol,Manual,1,0,1086,69,5.0,425000
+Hyundai NEW SANTRO,Hyundai,Jaipur,2020,28560,Petrol,Automatic,2,0,1086,69,5.0,471000
+Tata NEXON,Tata,Jaipur,2020,68669,Diesel,Manual,1,0,1497,110,5.0,961000
+Hyundai Grand i10,Hyundai,Jaipur,2015,47227,Petrol,Manual,1,0,1197,83,5.0,442000
+Maruti Baleno,Maruti,Jaipur,2019,36577,Petrol,Manual,1,0,1197,84,5.0,616000
+Maruti Swift,Maruti,Jaipur,2014,93058,Diesel,Manual,1,0,1248,75,5.0,350000
+Maruti XL6,Maruti,Jaipur,2022,23325,Petrol,Manual,1,0,1462,103,6.0,988000
+Toyota Glanza,Toyota,Jaipur,2021,50696,Petrol,Manual,1,0,1197,83,5.0,685000
+Maruti Alto,Maruti,Jaipur,2020,23053,Petrol,Manual,1,0,796,48,5.0,372000
+Maruti Wagon R 1.0,Maruti,Jaipur,2018,48836,Petrol,Manual,2,0,998,68,5.0,378000
+Maruti Alto,Maruti,Jaipur,2020,26582,Petrol,Manual,1,0,796,48,5.0,377000
+Maruti Baleno,Maruti,Jaipur,2015,91699,Petrol,Manual,1,0,1197,84,5.0,453000
+Maruti Baleno,Maruti,Jaipur,2020,24961,Petrol,Manual,1,0,1197,83,5.0,663000
+Hyundai Elite i20,Hyundai,Jaipur,2015,76052,Petrol,Manual,2,0,1197,83,5.0,475500
+Hyundai Grand i10,Hyundai,Jaipur,2019,48591,Petrol,Manual,1,0,1197,83,5.0,511600
+Maruti Swift,Maruti,Jaipur,2018,54862,Petrol,Automatic,1,0,1197,83,5.0,566500
+Tata ALTROZ,Tata,Jaipur,2021,43585,Petrol,Manual,1,0,1199,86,5.0,670000
+Tata Tiago,Tata,Jaipur,2018,47178,Petrol,Manual,1,0,1199,85,5.0,385000
+Tata ALTROZ,Tata,Jaipur,2020,27971,Petrol,Manual,1,0,1199,86,5.0,673000
+Maruti New Wagon-R,Maruti,Jaipur,2019,39209,Petrol,Automatic,3,0,1197,83,5.0,530000
+Hyundai NEW SANTRO,Hyundai,Jaipur,2019,11663,Petrol,Automatic,1,0,1086,69,5.0,495800
+Maruti Swift Dzire,Maruti,Jaipur,2016,40143,Petrol,Manual,2,0,1197,84,5.0,465000
+Hyundai Creta,Hyundai,Jaipur,2015,84474,Diesel,Automatic,1,0,1582,128,5.0,689000
+Hyundai Elite i20,Hyundai,Jaipur,2016,38373,Petrol,Manual,1,0,1197,83,5.0,517000
+Hyundai GRAND I10 NIOS,Hyundai,Jaipur,2021,24124,Petrol,Automatic,1,0,1197,83,5.0,626000
+Hyundai Eon,Hyundai,Jaipur,2014,44051,Petrol,Manual,1,0,814,56,5.0,237000
+Honda Brio,Honda,Jaipur,2015,45765,Petrol,Automatic,1,0,1198,88,5.0,355000
+Maruti Ciaz,Maruti,Jaipur,2017,70635,Diesel,Manual,1,0,1248,90,5.0,607000
+Ford Ecosport,Ford,Jaipur,2018,46047,Petrol,Automatic,1,0,1497,123,5.0,766000
+KIA SONET,KIA,Jaipur,2021,12341,Petrol,Manual,1,0,1197,83,5.0,726000

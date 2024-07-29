@@ -1,0 +1,117 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Maruti Alto 800,Maruti,Kolkata,2018,83465,Petrol,Manual,1,0,796,48,5.0,279000
+Maruti New Wagon-R,Maruti,Kolkata,2019,47722,Petrol,Manual,1,0,1197,83,5.0,441800
+Maruti Vitara Brezza,Maruti,Kolkata,2021,33743,Petrol,Manual,1,0,1462,105,5.0,734400
+Hyundai GRAND I10 NIOS,Hyundai,Kolkata,2021,22615,Petrol,Automatic,1,0,1197,83,5.0,713500
+Tata Tiago,Tata,Kolkata,2021,11624,Petrol,Manual,1,0,1199,86,5.0,527000
+Hyundai VENUE,Hyundai,Kolkata,2020,15050,Petrol,Manual,1,0,1197,83,5.0,716000
+Jeep Compass,Jeep,Kolkata,2019,50150,Petrol,Manual,1,0,1368,163,5.0,873000
+Maruti Celerio,Maruti,Kolkata,2022,1042,Petrol,Manual,1,0,998,67,5.0,560000
+Maruti Dzire,Maruti,Kolkata,2019,51837,Petrol,Manual,1,0,1197,83,5.0,486000
+Volkswagen Ameo,Volkswagen,Kolkata,2019,59396,Petrol,Manual,1,0,999,76,5.0,375000
+Hyundai Verna,Hyundai,Kolkata,2018,95648,Petrol,Manual,1,0,1368,100,5.0,558000
+Honda City,Honda,Kolkata,2014,54674,Diesel,Manual,1,0,1498,100,5.0,380600
+Hyundai Xcent,Hyundai,Kolkata,2014,97215,Petrol,Manual,2,0,1197,83,5.0,290000
+Honda Jazz,Honda,Kolkata,2015,33228,Petrol,Manual,1,0,1199,90,5.0,374000
+Maruti Swift,Maruti,Kolkata,2011,52563,Petrol,Manual,1,0,1197,85,5.0,219000
+Datsun Go,Datsun,Kolkata,2018,43070,Petrol,Manual,1,0,1198,68,5.0,252000
+Honda City,Honda,Kolkata,2017,57219,Diesel,Manual,2,0,1498,100,5.0,564000
+Toyota Corolla Altis,Toyota,Kolkata,2017,23618,Petrol,Manual,2,0,1798,140,5.0,700000
+Skoda Rapid,Skoda,Kolkata,2019,27463,Petrol,Manual,2,0,1598,105,5.0,655000
+Maruti Alto 800,Maruti,Kolkata,2018,31309,Petrol,Manual,1,0,796,48,5.0,282000
+Mahindra KUV 100 NXT,Mahindra,Kolkata,2019,4800,Petrol,Manual,2,0,1198,82,6.0,530000
+Honda WR-V,Honda,Kolkata,2019,20314,Petrol,Manual,2,0,1199,90,5.0,571000
+Volkswagen Vento,Volkswagen,Kolkata,2017,44621,Petrol,Automatic,1,0,1197,105,5.0,627000
+Tata Tiago,Tata,Kolkata,2022,16803,CNG,Manual,1,0,1199,73,5.0,612000
+Hyundai Elite i20,Hyundai,Kolkata,2018,19331,Petrol,Manual,1,0,1197,83,5.0,555000
+Toyota YARIS,Toyota,Kolkata,2018,24301,Petrol,Manual,2,0,1496,107,5.0,589000
+Hyundai VENUE,Hyundai,Kolkata,2019,31927,Petrol,Automatic,1,0,998,120,5.0,811000
+Hyundai GRAND I10 NIOS,Hyundai,Kolkata,2021,15700,Petrol,Automatic,1,0,1197,83,5.0,616000
+Tata ALTROZ,Tata,Kolkata,2020,12191,Petrol,Manual,1,0,1199,86,5.0,663000
+Honda City,Honda,Kolkata,2019,20804,Petrol,Manual,1,0,1497,119,5.0,808000
+Renault Kwid,Renault,Kolkata,2019,19801,Petrol,Manual,1,0,999,68,5.0,371000
+Tata Tiago,Tata,Kolkata,2022,3965,CNG,Manual,2,0,1199,73,5.0,534000
+Honda City,Honda,Kolkata,2020,53592,Petrol,Automatic,1,0,1498,121,5.0,940000
+Datsun Redi Go,Datsun,Kolkata,2019,10162,Petrol,Manual,1,0,999,68,5.0,303000
+Renault Kwid,Renault,Kolkata,2021,23214,Petrol,Automatic,1,0,999,68,5.0,433000
+Maruti Alto,Maruti,Kolkata,2020,18697,Petrol,Manual,2,0,796,48,5.0,313000
+Maruti S PRESSO,Maruti,Kolkata,2019,17064,Petrol,Manual,1,0,998,68,5.0,394000
+Maruti Baleno,Maruti,Kolkata,2018,49177,Petrol,Manual,1,0,1197,84,5.0,542000
+Renault Kwid,Renault,Kolkata,2020,13648,Petrol,Manual,2,0,799,54,5.0,358000
+Maruti New Wagon-R,Maruti,Kolkata,2022,8807,Petrol,Manual,1,0,998,67,5.0,570300
+Datsun Redi Go,Datsun,Kolkata,2020,31958,Petrol,Manual,1,0,799,54,5.0,297150
+Renault Duster,Renault,Kolkata,2018,72404,Diesel,Manual,1,0,1461,110,5.0,663000
+Tata TIGOR,Tata,Kolkata,2022,27009,Petrol,Manual,1,0,1199,86,5.0,625000
+Hyundai NEW SANTRO,Hyundai,Kolkata,2018,34963,Petrol,Manual,1,0,1086,69,5.0,377000
+Mahindra XUV300,Mahindra,Kolkata,2020,50172,Petrol,Manual,1,0,1197,110,5.0,761000
+Maruti Alto,Maruti,Kolkata,2021,6820,Petrol,Manual,1,0,796,48,5.0,340000
+Hyundai VENUE,Hyundai,Kolkata,2021,6820,Petrol,Manual,1,0,998,120,5.0,883000
+Maruti New Wagon-R,Maruti,Kolkata,2022,16176,Petrol,Manual,2,0,1197,90,5.0,555000
+Hyundai NEW SANTRO,Hyundai,Kolkata,2021,16506,Petrol,Automatic,1,0,1086,69,5.0,495000
+Renault Duster,Renault,Kolkata,2018,41322,Petrol,Manual,2,0,1498,106,5.0,512000
+Hyundai VENUE,Hyundai,Kolkata,2021,24551,Petrol,Automatic,1,0,998,120,5.0,916000
+Renault Kwid,Renault,Kolkata,2021,10138,Petrol,Automatic,1,0,999,68,5.0,422000
+Hyundai NEW SANTRO,Hyundai,Kolkata,2019,20697,Petrol,Automatic,2,0,1086,69,5.0,450000
+Maruti Celerio,Maruti,Kolkata,2021,19689,Petrol,Manual,1,0,998,67,5.0,534000
+Hyundai NEW SANTRO,Hyundai,Kolkata,2021,10256,Petrol,Automatic,1,0,1086,69,5.0,502800
+Toyota Etios,Toyota,Kolkata,2014,61066,Petrol,Manual,1,0,1197,80,5.0,305000
+KIA SELTOS,KIA,Kolkata,2022,11656,Petrol,Manual,2,0,1497,115,5.0,943000
+Nissan MAGNITE,Nissan,Kolkata,2022,24024,Petrol,Manual,1,0,999,100,5.0,700000
+Maruti Vitara Brezza,Maruti,Kolkata,2020,67127,Petrol,Manual,2,0,1462,105,5.0,660000
+Hyundai Elite i20,Hyundai,Kolkata,2019,42639,Petrol,Manual,1,0,1197,83,5.0,504000
+Hyundai GRAND I10 NIOS,Hyundai,Kolkata,2020,32265,Petrol,Manual,1,0,1197,83,5.0,459000
+Maruti Alto,Maruti,Kolkata,2022,7278,Petrol,Manual,1,0,796,48,5.0,363000
+Volkswagen Ameo,Volkswagen,Kolkata,2017,46630,Diesel,Automatic,2,0,1498,110,5.0,422000
+Maruti IGNIS,Maruti,Kolkata,2020,7816,Petrol,Manual,1,0,1197,83,5.0,507000
+Hyundai GRAND I10 NIOS,Hyundai,Kolkata,2020,17610,Petrol,Automatic,1,0,1197,83,5.0,585300
+Hyundai NEW SANTRO,Hyundai,Kolkata,2020,11476,Petrol,Automatic,2,0,1086,69,5.0,471000
+Hyundai AURA,Hyundai,Kolkata,2020,14593,Petrol,Manual,1,0,1197,83,5.0,654000
+Tata NEXON,Tata,Kolkata,2023,15457,Petrol,Manual,2,0,1199,120,5.0,1009000
+Maruti Wagon R 1.0,Maruti,Kolkata,2017,11549,Petrol,Manual,2,0,998,68,5.0,382000
+Maruti Alto,Maruti,Kolkata,2020,38205,Petrol,Manual,1,0,796,48,5.0,351300
+Hyundai i20 Active,Hyundai,Kolkata,2017,35563,Petrol,Manual,1,0,1197,83,5.0,518000
+Maruti Dzire,Maruti,Kolkata,2018,42417,Petrol,Manual,2,0,1197,83,5.0,523850
+Honda Amaze,Honda,Kolkata,2021,28522,Petrol,Manual,1,0,1199,90,5.0,728000
+Renault Kwid,Renault,Kolkata,2016,34108,Petrol,Manual,1,0,799,54,5.0,218000
+Maruti Dzire,Maruti,Kolkata,2017,47083,Petrol,Manual,2,0,1197,83,5.0,542000
+Mahindra XUV500,Mahindra,Kolkata,2019,55744,Diesel,Manual,1,0,2179,155,7.0,1122000
+Maruti Alto,Maruti,Kolkata,2021,19253,Petrol,Manual,1,0,796,48,5.0,410000
+Hyundai Grand i10,Hyundai,Kolkata,2018,19556,Petrol,Manual,1,0,1197,83,5.0,433000
+Hyundai VENUE,Hyundai,Kolkata,2019,45341,Petrol,Manual,1,0,998,120,5.0,844000
+Tata ALTROZ,Tata,Kolkata,2023,4247,Petrol,Manual,1,0,1199,86,5.0,786000
+Hyundai Creta,Hyundai,Kolkata,2017,96115,Diesel,Manual,1,0,1582,128,5.0,738000
+Hyundai Verna,Hyundai,Kolkata,2018,34218,Petrol,Manual,1,0,1591,123,5.0,782000
+Maruti Wagon R 1.0,Maruti,Kolkata,2017,42734,Petrol,Manual,2,0,998,68,5.0,352000
+Honda Jazz,Honda,Kolkata,2015,44170,Petrol,Manual,1,0,1199,90,5.0,419000
+Renault TRIBER,Renault,Kolkata,2023,3408,Petrol,Automatic,1,0,999,72,7.0,810000
+Hyundai VENUE,Hyundai,Kolkata,2020,24931,Petrol,Manual,2,0,998,120,5.0,824300
+Maruti Dzire,Maruti,Kolkata,2018,71141,Petrol,Automatic,2,0,1197,83,5.0,570000
+Maruti Wagon R 1.0,Maruti,Kolkata,2013,62223,Petrol,Manual,1,0,998,68,5.0,242000
+Volkswagen Polo,Volkswagen,Kolkata,2018,32127,Petrol,Manual,1,0,999,76,5.0,568000
+Maruti IGNIS,Maruti,Kolkata,2018,43443,Petrol,Manual,1,0,1197,83,5.0,457000
+Maruti Baleno,Maruti,Kolkata,2020,46197,Petrol,Manual,2,0,1197,83,5.0,582000
+Hyundai Grand i10,Hyundai,Kolkata,2015,34580,Petrol,Manual,2,0,1197,83,5.0,393000
+Maruti IGNIS,Maruti,Kolkata,2017,27027,Petrol,Manual,1,0,1197,83,5.0,415000
+Honda City,Honda,Kolkata,2014,60590,Petrol,Manual,1,0,1497,119,5.0,350000
+Hyundai Verna,Hyundai,Kolkata,2018,60647,Petrol,Manual,1,0,1591,123,5.0,705000
+Maruti IGNIS,Maruti,Kolkata,2022,20634,Petrol,Manual,1,0,1197,83,5.0,648000
+Renault TRIBER,Renault,Kolkata,2021,29603,Petrol,Manual,1,0,999,72,7.0,604800
+Honda Amaze,Honda,Kolkata,2019,54427,Petrol,Manual,1,0,1199,90,5.0,564000
+Tata Tiago,Tata,Kolkata,2023,7889,Petrol,Automatic,1,0,1199,86,5.0,685000
+Maruti Swift,Maruti,Kolkata,2019,23964,Petrol,Manual,2,0,1197,83,5.0,516000
+Maruti Alto,Maruti,Kolkata,2022,1011,Petrol,Manual,1,0,796,48,5.0,392000
+Maruti Wagon R 1.0,Maruti,Kolkata,2018,38242,Petrol,Manual,1,0,998,68,5.0,371000
+Maruti Ertiga,Maruti,Kolkata,2013,13087,Petrol,Manual,2,0,1373,95,7.0,411000
+Maruti Alto K10,Maruti,Kolkata,2022,2821,Petrol,Manual,1,0,998,67,5.0,486000
+Maruti Alto 800,Maruti,Kolkata,2016,17135,Petrol,Manual,2,0,796,48,5.0,223000
+Maruti S PRESSO,Maruti,Kolkata,2019,36132,Petrol,Manual,2,0,998,68,5.0,370000
+Honda Jazz,Honda,Kolkata,2017,13399,Petrol,Manual,1,0,1199,90,5.0,415000
+Maruti Wagon R 1.0,Maruti,Kolkata,2012,60764,Petrol,Manual,3,0,998,68,5.0,244000
+Honda City,Honda,Kolkata,2021,19944,Petrol,Manual,1,0,1498,121,5.0,871000
+Maruti Alto,Maruti,Kolkata,2020,13604,Petrol,Manual,2,0,796,48,5.0,269000
+Hyundai Creta,Hyundai,Kolkata,2016,77263,Diesel,Manual,1,0,1396,90,5.0,644000
+Hyundai Xcent,Hyundai,Kolkata,2016,55447,Petrol,Manual,1,0,1197,83,5.0,345000
+Maruti Alto 800,Maruti,Kolkata,2013,18360,Petrol,Manual,1,0,796,48,5.0,189000
+Tata Tiago,Tata,Kolkata,2022,2146,Petrol,Manual,1,0,1199,86,5.0,568000
+Hyundai Elite i20,Hyundai,Kolkata,2020,19157,Petrol,Manual,1,0,1197,83,5.0,634000
+Honda City,Honda,Kolkata,2015,25125,Petrol,Manual,2,0,1497,119,5.0,419000

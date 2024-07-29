@@ -1,0 +1,93 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Maruti Alto,Maruti,Coimbatore,2019,52546,Petrol,Manual,1,0,796,48,5.0,394000
+Tata NEXON,Tata,Coimbatore,2023,21181,Diesel,Manual,1,0,1497,115,5.0,1151000
+Maruti Alto,Maruti,Coimbatore,2019,45019,Petrol,Manual,2,0,796,48,5.0,388000
+Renault Kwid,Renault,Coimbatore,2021,17362,Petrol,Manual,1,0,999,68,5.0,509000
+Hyundai Grand i10,Hyundai,Coimbatore,2019,49381,Petrol,Manual,2,0,1197,83,5.0,501000
+Honda Jazz,Honda,Coimbatore,2021,52028,Petrol,Automatic,1,0,1199,90,5.0,918000
+Hyundai NEW SANTRO,Hyundai,Coimbatore,2022,21237,Petrol,Automatic,2,0,1086,69,5.0,590000
+Hyundai Elite i20,Hyundai,Coimbatore,2018,72793,Petrol,Manual,2,0,1197,83,5.0,560000
+Jeep Compass,Jeep,Coimbatore,2018,74364,Diesel,Manual,1,0,1956,173,5.0,1110000
+Hyundai Creta,Hyundai,Coimbatore,2015,121485,Diesel,Manual,3,0,1582,128,5.0,693000
+Tata PUNCH,Tata,Coimbatore,2021,46350,Petrol,Automatic,2,0,1199,86,5.0,719000
+Maruti Ciaz,Maruti,Coimbatore,2016,116026,Petrol,Manual,2,0,1373,92,5.0,527000
+Hyundai VENUE,Hyundai,Coimbatore,2022,17337,Petrol,Manual,1,0,998,120,5.0,884000
+KIA SONET,KIA,Coimbatore,2022,22287,Petrol,Manual,1,0,998,120,5.0,1010000
+Tata ALTROZ,Tata,Coimbatore,2022,34715,Petrol,Manual,1,0,1199,86,5.0,736000
+Honda WR-V,Honda,Coimbatore,2019,64337,Petrol,Manual,1,0,1199,90,5.0,704000
+Honda WR-V,Honda,Coimbatore,2022,15476,Petrol,Manual,1,0,1199,90,5.0,898000
+Hyundai Xcent,Hyundai,Coimbatore,2016,109938,Petrol,Manual,1,0,1197,83,5.0,459000
+Ford FREESTYLE,Ford,Coimbatore,2018,95559,Petrol,Manual,1,0,1194,96,5.0,521000
+Hyundai Creta,Hyundai,Coimbatore,2016,109618,Petrol,Automatic,3,0,1591,123,5.0,791000
+Renault Kwid,Renault,Coimbatore,2023,12901,Petrol,Manual,1,0,999,68,5.0,508000
+Tata ALTROZ,Tata,Coimbatore,2021,11459,Petrol,Manual,1,0,1199,86,5.0,732000
+KIA SONET,KIA,Coimbatore,2020,35061,Petrol,Manual,2,0,998,120,5.0,1012300
+Maruti Celerio,Maruti,Coimbatore,2018,98263,Petrol,Automatic,1,0,998,68,5.0,424000
+Ford FREESTYLE,Ford,Coimbatore,2018,122491,Diesel,Manual,3,0,1498,100,5.0,496300
+Ford Ecosport,Ford,Coimbatore,2019,38662,Petrol,Manual,2,0,1497,123,5.0,793000
+Hyundai Grand i10,Hyundai,Coimbatore,2017,48753,Petrol,Manual,1,0,1197,83,5.0,513000
+Renault Kwid,Renault,Coimbatore,2020,24397,Petrol,Automatic,2,0,999,68,5.0,454450
+Hyundai NEW SANTRO,Hyundai,Coimbatore,2021,39862,Petrol,Automatic,1,0,1086,69,5.0,521000
+Honda Jazz,Honda,Coimbatore,2018,49272,Petrol,Manual,2,0,1199,90,5.0,588000
+Renault Kwid,Renault,Coimbatore,2020,23970,Petrol,Automatic,1,0,999,68,5.0,500000
+Tata Tiago,Tata,Coimbatore,2020,33410,Petrol,Automatic,1,0,1199,86,5.0,682000
+Datsun Go Plus,Datsun,Coimbatore,2018,41782,Petrol,Manual,2,0,1198,68,7.0,442000
+Hyundai VENUE,Hyundai,Coimbatore,2022,20832,Petrol,Manual,1,0,1197,83,5.0,895000
+Hyundai VENUE,Hyundai,Coimbatore,2019,65652,Petrol,Automatic,1,0,998,120,5.0,959000
+Hyundai Verna,Hyundai,Coimbatore,2018,85607,Petrol,Manual,2,0,1591,123,5.0,756000
+Maruti Swift Dzire,Maruti,Coimbatore,2017,60600,Petrol,Manual,3,0,1197,84,5.0,497000
+Maruti Celerio,Maruti,Coimbatore,2022,37521,Petrol,Automatic,1,0,998,67,5.0,660000
+Renault TRIBER,Renault,Coimbatore,2021,39613,Petrol,Manual,1,0,999,72,7.0,609000
+Maruti Wagon R 1.0,Maruti,Coimbatore,2016,31283,Petrol,Manual,2,0,998,68,5.0,416000
+Renault TRIBER,Renault,Coimbatore,2021,19260,Petrol,Manual,1,0,999,72,7.0,681000
+Tata Safari,Tata,Coimbatore,2022,27645,Diesel,Automatic,1,0,1956,170,7.0,1943000
+Renault TRIBER,Renault,Coimbatore,2020,70648,Petrol,Manual,2,0,999,72,7.0,654000
+MG HECTOR PLUS,MG,Coimbatore,2021,82159,Petrol,Automatic,1,0,1451,143,6.0,1632000
+Hyundai AURA,Hyundai,Coimbatore,2022,26437,Petrol,Manual,1,0,1197,83,5.0,754000
+Tata NEXON,Tata,Coimbatore,2022,43698,Petrol,Manual,1,0,1199,120,5.0,972000
+Mahindra XUV300,Mahindra,Coimbatore,2021,42416,Petrol,Automatic,1,0,1197,110,5.0,1095000
+Maruti Celerio,Maruti,Coimbatore,2023,4617,Petrol,Manual,1,0,998,67,5.0,594000
+Hyundai Elite i20,Hyundai,Coimbatore,2019,58684,Petrol,Automatic,2,0,1197,83,5.0,664000
+Maruti S PRESSO,Maruti,Coimbatore,2022,16690,Petrol,Manual,1,0,998,67,5.0,495000
+Maruti Dzire,Maruti,Coimbatore,2017,65272,Petrol,Manual,2,0,1197,83,5.0,621000
+Hyundai Elite i20,Hyundai,Coimbatore,2017,34090,Petrol,Manual,1,0,1197,83,5.0,608000
+Hyundai Elite i20,Hyundai,Coimbatore,2019,17305,Diesel,Manual,1,0,1396,90,5.0,767000
+Hyundai i20,Hyundai,Coimbatore,2013,79541,Petrol,Manual,1,0,1197,84,5.0,424000
+Maruti Baleno,Maruti,Coimbatore,2017,91254,Petrol,Automatic,2,0,1197,84,5.0,602000
+Mahindra KUV 100 NXT,Mahindra,Coimbatore,2018,34521,Petrol,Manual,1,0,1198,82,6.0,507000
+Hyundai NEW SANTRO,Hyundai,Coimbatore,2020,21935,Petrol,Manual,1,0,1086,69,5.0,560250
+Maruti Baleno,Maruti,Coimbatore,2017,35133,Petrol,Automatic,1,0,1197,84,5.0,755000
+Tata NEXON,Tata,Coimbatore,2022,42982,Petrol,Manual,1,0,1199,120,5.0,898000
+Datsun Redi Go,Datsun,Coimbatore,2019,29871,Petrol,Automatic,2,0,999,68,5.0,350000
+Maruti New Wagon-R,Maruti,Coimbatore,2023,8443,Petrol,Manual,1,0,1197,90,5.0,685000
+Hyundai NEW SANTRO,Hyundai,Coimbatore,2019,35698,Petrol,Manual,1,0,1086,69,5.0,424000
+Maruti Alto 800,Maruti,Coimbatore,2017,71356,Petrol,Manual,2,0,796,48,5.0,335000
+Renault TRIBER,Renault,Coimbatore,2022,12816,Petrol,Manual,1,0,999,72,7.0,730000
+Honda Amaze,Honda,Coimbatore,2018,46946,Petrol,Automatic,2,0,1498,80,5.0,679000
+Hyundai i20 Active,Hyundai,Coimbatore,2016,50950,Petrol,Manual,1,0,1197,83,5.0,660000
+Honda Jazz,Honda,Coimbatore,2018,65489,Petrol,Manual,2,0,1199,90,5.0,599200
+Mahindra XUV300,Mahindra,Coimbatore,2022,14084,Petrol,Manual,1,0,1197,110,5.0,1221000
+Hyundai GRAND I10 NIOS,Hyundai,Coimbatore,2022,19137,Petrol,Manual,1,0,998,100,5.0,787000
+Maruti Celerio,Maruti,Coimbatore,2022,18935,Petrol,Manual,1,0,998,67,5.0,557000
+Hyundai i10,Hyundai,Coimbatore,2012,108071,Petrol,Manual,3,0,1197,80,5.0,245000
+Renault Kwid,Renault,Coimbatore,2022,9383,Petrol,Manual,1,0,999,68,5.0,573000
+Tata ALTROZ,Tata,Coimbatore,2021,33287,Petrol,Manual,1,0,1199,110,5.0,768300
+Hyundai Elite i20,Hyundai,Coimbatore,2016,37125,Petrol,Manual,2,0,1197,83,5.0,660000
+Hyundai Creta,Hyundai,Coimbatore,2021,31997,Petrol,Manual,1,0,1497,115,5.0,1104000
+Honda City,Honda,Coimbatore,2020,56879,Petrol,Manual,1,0,1498,121,5.0,1005000
+Honda Brio,Honda,Coimbatore,2015,54021,Petrol,Automatic,3,0,1198,88,5.0,355000
+Ford Ecosport,Ford,Coimbatore,2018,95912,Petrol,Manual,2,0,1497,123,5.0,690000
+Hyundai Elite i20,Hyundai,Coimbatore,2017,79963,Petrol,Manual,2,0,1197,83,5.0,524000
+Volkswagen Vento,Volkswagen,Coimbatore,2017,68770,Petrol,Automatic,2,0,1197,105,5.0,671000
+Renault Kwid,Renault,Coimbatore,2017,47474,Petrol,Automatic,1,0,999,68,5.0,396700
+Tata NEXON,Tata,Coimbatore,2021,33905,Petrol,Manual,1,0,1199,120,5.0,882000
+Maruti Celerio,Maruti,Coimbatore,2015,95608,Petrol,Automatic,1,0,998,68,5.0,400000
+Honda Jazz,Honda,Coimbatore,2021,29006,Petrol,Manual,2,0,1199,90,5.0,749000
+Ford Ecosport,Ford,Coimbatore,2018,98837,Diesel,Manual,1,0,1498,101,5.0,699000
+Hyundai GRAND I10 NIOS,Hyundai,Coimbatore,2022,34672,CNG,Manual,2,0,1197,69,5.0,628000
+Ford Ecosport,Ford,Coimbatore,2019,110692,Diesel,Manual,1,0,1498,101,5.0,758000
+Hyundai Elite i20,Hyundai,Coimbatore,2014,91731,Petrol,Manual,3,0,1197,83,5.0,444000
+Maruti Alto,Maruti,Coimbatore,2019,20984,Petrol,Manual,1,0,796,48,5.0,378000
+Toyota Glanza,Toyota,Coimbatore,2022,12312,Petrol,Automatic,1,0,1197,90,5.0,914000
+Datsun Redi Go,Datsun,Coimbatore,2018,75309,Petrol,Manual,1,0,799,54,5.0,274000
+Maruti Eeco,Maruti,Coimbatore,2019,33774,Petrol,Manual,1,0,1196,73,5.0,460000

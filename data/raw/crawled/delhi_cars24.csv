@@ -1,0 +1,850 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Hyundai Elite i20,Hyundai,Delhi,2015,66663,Petrol,Manual,1,0,1197.0,83.0,5.0,443000
+Maruti Alto 800,Maruti,Delhi,2016,97698,Petrol,Manual,2,0,796.0,48.0,5.0,241000
+Maruti Swift,Maruti,Delhi,2015,102460,Petrol,Manual,1,0,1197.0,84.0,5.0,333000
+Hyundai Verna,Hyundai,Delhi,2019,55921,Petrol,Manual,2,0,1591.0,123.0,5.0,795000
+Hyundai Verna,Hyundai,Delhi,2019,34032,Petrol,Manual,1,0,1591.0,123.0,5.0,835000
+Maruti Baleno,Maruti,Delhi,2019,35190,Petrol,Manual,1,0,1197.0,84.0,5.0,557000
+Maruti Celerio,Maruti,Delhi,2019,63194,Petrol,Manual,1,0,998.0,68.0,5.0,406000
+Mahindra XUV300,Mahindra,Delhi,2020,64038,Diesel,Automatic,1,0,1497.0,117.0,5.0,898000
+Nissan MAGNITE,Nissan,Delhi,2022,20338,Petrol,Manual,1,0,999.0,72.0,5.0,571000
+Hyundai Creta,Hyundai,Delhi,2017,29759,Petrol,Automatic,1,0,1591.0,123.0,5.0,919000
+Tata NEXON,Tata,Delhi,2017,82375,Petrol,Manual,1,0,1198.0,110.0,5.0,602000
+Hyundai Creta,Hyundai,Delhi,2022,40368,Petrol,Automatic,1,0,1353.0,140.0,5.0,1654000
+Toyota Glanza,Toyota,Delhi,2019,14642,Petrol,Manual,1,0,1197.0,83.0,5.0,644000
+Ford Ecosport,Ford,Delhi,2019,68051,Diesel,Manual,1,0,1498.0,101.0,5.0,732000
+Tata ALTROZ,Tata,Delhi,2021,49461,Petrol,Manual,1,0,1199.0,86.0,5.0,629000
+Maruti Vitara Brezza,Maruti,Delhi,2021,29125,Petrol,Automatic,2,0,1462.0,105.0,5.0,873000
+Hyundai VENUE,Hyundai,Delhi,2020,43417,Petrol,Manual,2,0,998.0,120.0,5.0,871000
+Maruti Alto,Maruti,Delhi,2022,13185,Petrol,Manual,1,0,796.0,48.0,5.0,384000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2020,20631,Petrol,Manual,2,0,1197.0,83.0,5.0,541000
+Maruti Baleno,Maruti,Delhi,2019,21221,Petrol,Manual,1,0,1197.0,84.0,5.0,649200
+Maruti Swift,Maruti,Delhi,2017,87820,Petrol,Manual,1,0,1197.0,84.0,5.0,459000
+Tata NEXON,Tata,Delhi,2022,26202,Petrol,Manual,1,0,1199.0,120.0,5.0,1090000
+Ford Ecosport,Ford,Delhi,2016,29475,Petrol,Manual,1,0,999.0,125.0,5.0,610000
+Hyundai i20,Hyundai,Delhi,2011,78624,Petrol,Manual,1,0,1197.0,80.0,5.0,183000
+Maruti Swift,Maruti,Delhi,2018,21574,Petrol,Manual,1,0,1197.0,84.0,5.0,663000
+Maruti Swift,Maruti,Delhi,2017,23582,Petrol,Manual,1,0,1197.0,84.0,5.0,442000
+Maruti Swift,Maruti,Delhi,2017,47657,Petrol,Manual,1,0,1197.0,84.0,5.0,436000
+Honda City,Honda,Delhi,2017,102835,Petrol,Manual,1,0,1497.0,119.0,5.0,633000
+Volkswagen VIRTUS,Volkswagen,Delhi,2022,27653,Petrol,Manual,1,0,999.0,115.0,5.0,918000
+Maruti Alto 800,Maruti,Delhi,2018,39074,Petrol,Manual,1,0,796.0,48.0,5.0,269000
+Maruti Celerio,Maruti,Delhi,2017,61337,CNG,Manual,2,0,998.0,59.0,5.0,435000
+Maruti Alto K10,Maruti,Delhi,2015,45475,Petrol,Manual,3,0,998.0,68.0,5.0,232000
+Volkswagen Ameo,Volkswagen,Delhi,2018,40904,Petrol,Manual,1,0,999.0,76.0,5.0,476000
+Mahindra XUV300,Mahindra,Delhi,2023,20393,Petrol,Manual,1,0,1197.0,110.0,5.0,965800
+Honda City,Honda,Delhi,2021,34459,Petrol,Automatic,1,0,1497.0,119.0,5.0,1042000
+Hyundai i20 Active,Hyundai,Delhi,2016,54035,Petrol,Manual,1,0,1197.0,83.0,5.0,503000
+Hyundai Grand i10,Hyundai,Delhi,2015,28880,Petrol,Manual,1,0,1197.0,83.0,5.0,398000
+Honda City,Honda,Delhi,2015,89726,Petrol,Manual,1,0,1497.0,119.0,5.0,545000
+Maruti Swift,Maruti,Delhi,2021,11486,Petrol,Automatic,1,0,1197.0,90.0,5.0,635000
+Hyundai Grand i10,Hyundai,Delhi,2018,41163,Petrol,Manual,3,0,1197.0,83.0,5.0,386000
+Maruti Dzire,Maruti,Delhi,2018,38776,Petrol,Manual,1,0,1197.0,83.0,5.0,515600
+Hyundai Elite i20,Hyundai,Delhi,2017,27659,Petrol,Manual,3,0,1197.0,83.0,5.0,487000
+Nissan MAGNITE,Nissan,Delhi,2022,36341,Petrol,Manual,1,0,999.0,72.0,5.0,570000
+Volkswagen Ameo,Volkswagen,Delhi,2017,67835,Petrol,Manual,2,0,1198.0,75.0,5.0,376000
+Hyundai Creta,Hyundai,Delhi,2022,19352,Petrol,Manual,1,0,1497.0,115.0,5.0,1151000
+Hyundai Eon,Hyundai,Delhi,2015,86973,Petrol,Manual,1,0,814.0,56.0,5.0,213000
+Hyundai Elite i20,Hyundai,Delhi,2018,48575,Petrol,Manual,3,0,1197.0,83.0,5.0,541000
+Maruti Baleno,Maruti,Delhi,2022,15650,Petrol,Manual,1,0,1197.0,90.0,5.0,780000
+Tata PUNCH,Tata,Delhi,2022,21955,Petrol,Manual,1,0,1199.0,86.0,5.0,669700
+Maruti Baleno,Maruti,Delhi,2020,38482,Petrol,Manual,1,0,1197.0,83.0,5.0,626000
+Toyota Etios,Toyota,Delhi,2015,79927,Petrol,Manual,1,0,1197.0,80.0,5.0,340000
+Maruti S PRESSO,Maruti,Delhi,2021,27032,Petrol,Automatic,1,0,998.0,68.0,5.0,518000
+KIA SELTOS,KIA,Delhi,2022,36166,Diesel,Manual,1,0,1493.0,115.0,5.0,1057000
+Maruti Ritz,Maruti,Delhi,2014,57273,Petrol,Manual,1,0,1197.0,87.0,5.0,277000
+Skoda Rapid,Skoda,Delhi,2021,43461,Petrol,Manual,2,0,999.0,110.0,5.0,868000
+Honda City,Honda,Delhi,2021,28369,Petrol,Manual,1,0,1498.0,121.0,5.0,1103000
+Hyundai NEW SANTRO,Hyundai,Delhi,2021,21850,Petrol,Automatic,1,0,1086.0,69.0,5.0,542000
+Hyundai VENUE,Hyundai,Delhi,2019,42458,Petrol,Manual,1,0,998.0,120.0,5.0,726000
+Hyundai Grand i10,Hyundai,Delhi,2018,32410,Petrol,Manual,1,0,1197.0,83.0,5.0,431000
+Hyundai Creta,Hyundai,Delhi,2016,68339,Petrol,Manual,1,0,1591.0,123.0,5.0,753000
+Renault Duster,Renault,Delhi,2019,25864,Petrol,Automatic,1,0,1498.0,106.0,5.0,766000
+Maruti S Cross,Maruti,Delhi,2022,15983,Petrol,Manual,1,0,1462.0,105.0,5.0,852000
+Honda Amaze,Honda,Delhi,2015,41525,Petrol,Manual,1,0,1198.0,88.0,5.0,367000
+Nissan MAGNITE,Nissan,Delhi,2022,26453,Petrol,Manual,1,0,999.0,72.0,5.0,575000
+KIA SELTOS,KIA,Delhi,2019,27143,Petrol,Manual,1,0,1497.0,115.0,5.0,986000
+Tata Safari,Tata,Delhi,2021,30203,Diesel,Manual,1,0,1956.0,170.0,7.0,1595000
+Datsun Go Plus,Datsun,Delhi,2018,23055,CNG,Manual,2,0,1198.0,68.0,7.0,337500
+Maruti Swift,Maruti,Delhi,2018,27158,Petrol,Manual,2,0,1197.0,83.0,5.0,614000
+Nissan MAGNITE,Nissan,Delhi,2021,30455,Petrol,Manual,1,0,999.0,72.0,5.0,533000
+Maruti Baleno,Maruti,Delhi,2020,56572,Petrol,Manual,1,0,1197.0,83.0,5.0,658000
+Hyundai AURA,Hyundai,Delhi,2020,63013,Petrol,Manual,1,0,998.0,100.0,5.0,696000
+Tata Tiago,Tata,Delhi,2020,6827,Petrol,Manual,1,0,1199.0,86.0,5.0,452000
+Hyundai Verna,Hyundai,Delhi,2019,40798,Petrol,Automatic,2,0,1591.0,123.0,5.0,877800
+Honda WR-V,Honda,Delhi,2017,41985,Petrol,Manual,1,0,1199.0,90.0,5.0,614000
+Maruti Dzire,Maruti,Delhi,2017,22148,Petrol,Manual,1,0,1197.0,83.0,5.0,480000
+Ford Ecosport,Ford,Delhi,2020,71807,Diesel,Manual,2,0,1498.0,100.0,5.0,787000
+Tata NEXON,Tata,Delhi,2021,32265,Diesel,Manual,1,0,1497.0,110.0,5.0,960000
+Maruti Eeco,Maruti,Delhi,2022,10783,CNG,Manual,1,0,1197.0,72.0,5.0,613000
+Toyota Fortuner,Toyota,Delhi,2017,103102,Diesel,Automatic,1,0,2755.0,177.0,7.0,2215000
+Honda City,Honda,Delhi,2019,33671,Petrol,Manual,1,0,1497.0,119.0,5.0,852600
+Renault Duster,Renault,Delhi,2021,50108,Petrol,Manual,1,0,1330.0,156.0,5.0,930000
+Maruti Swift,Maruti,Delhi,2017,55602,Petrol,Manual,1,0,1197.0,84.0,5.0,412000
+Tata Harrier,Tata,Delhi,2019,56690,Diesel,Manual,2,0,1956.0,140.0,5.0,1095000
+Maruti Wagon R Stingray,Maruti,Delhi,2015,66325,Petrol,Manual,1,0,998.0,68.0,5.0,333000
+Honda City,Honda,Delhi,2014,69403,Petrol,Automatic,1,0,1497.0,119.0,5.0,554000
+Renault Kwid,Renault,Delhi,2017,41308,Petrol,Automatic,3,0,999.0,68.0,5.0,303000
+Tata NEXON,Tata,Delhi,2022,22251,Petrol,Manual,1,0,1199.0,120.0,5.0,785000
+Jeep Compass,Jeep,Delhi,2020,47583,Diesel,Manual,1,0,1956.0,173.0,5.0,1629000
+Hyundai i10,Hyundai,Delhi,2013,55217,Petrol,Manual,2,0,1197.0,80.0,5.0,228000
+Tata ALTROZ,Tata,Delhi,2020,21656,Petrol,Manual,1,0,1199.0,86.0,5.0,631000
+Hyundai NEW I20 N LINE,Hyundai,Delhi,2022,10797,Petrol,Manual,1,0,998.0,120.0,5.0,919000
+Maruti Baleno,Maruti,Delhi,2020,72471,Petrol,Manual,2,0,1197.0,83.0,5.0,572500
+Maruti Vitara Brezza,Maruti,Delhi,2019,59155,Diesel,Automatic,2,0,1248.0,90.0,5.0,638000
+Tata NEXON,Tata,Delhi,2022,45834,Diesel,Manual,1,0,1497.0,110.0,5.0,836000
+Datsun Redi Go,Datsun,Delhi,2021,41535,Petrol,Manual,2,0,799.0,54.0,5.0,327000
+Tata ALTROZ,Tata,Delhi,2022,19606,Petrol,Automatic,1,0,1199.0,86.0,5.0,778400
+Skoda Rapid,Skoda,Delhi,2018,70102,Petrol,Automatic,1,0,1598.0,105.0,5.0,720000
+Hyundai Elite i20,Hyundai,Delhi,2017,43570,Petrol,Manual,1,0,1197.0,83.0,5.0,534000
+Hyundai Verna,Hyundai,Delhi,2012,38005,Petrol,Manual,1,0,1591.0,123.0,5.0,398700
+Honda City,Honda,Delhi,2021,5404,Petrol,Manual,1,0,1498.0,121.0,5.0,1251000
+Hyundai Elite i20,Hyundai,Delhi,2017,31781,Petrol,Manual,1,0,1197.0,83.0,5.0,530000
+Maruti Swift,Maruti,Delhi,2018,53062,Petrol,Manual,1,0,1197.0,83.0,5.0,433000
+Hyundai Xcent,Hyundai,Delhi,2014,57224,Petrol,Manual,1,0,1197.0,83.0,5.0,360000
+Honda City,Honda,Delhi,2015,41293,Petrol,Manual,1,0,1497.0,119.0,5.0,477000
+Maruti Celerio,Maruti,Delhi,2020,54485,Petrol,Manual,1,0,998.0,68.0,5.0,374000
+Tata Tiago,Tata,Delhi,2023,17340,CNG,Manual,1,0,1199.0,73.0,5.0,601000
+Maruti Wagon R 1.0,Maruti,Delhi,2017,43944,Petrol,Manual,1,0,998.0,68.0,5.0,349000
+Mahindra XUV300,Mahindra,Delhi,2020,40924,Petrol,Manual,1,0,1197.0,110.0,5.0,701500
+Maruti Alto 800,Maruti,Delhi,2016,89853,Petrol,Manual,1,0,796.0,48.0,5.0,226000
+Tata NEXON,Tata,Delhi,2022,27385,Petrol,Manual,1,0,1199.0,120.0,5.0,843000
+Maruti Wagon R 1.0,Maruti,Delhi,2018,27391,Petrol,Automatic,1,0,998.0,68.0,5.0,418000
+KIA SONET,KIA,Delhi,2021,27310,Petrol,Automatic,1,0,998.0,120.0,5.0,935000
+Jeep Compass,Jeep,Delhi,2019,93467,Diesel,Manual,1,0,1956.0,173.0,5.0,979000
+Tata NEXON,Tata,Delhi,2022,28067,Petrol,Manual,1,0,1199.0,120.0,5.0,994500
+Maruti Ciaz,Maruti,Delhi,2019,52112,Petrol,Automatic,1,0,1462.0,105.0,5.0,757000
+Hyundai VENUE,Hyundai,Delhi,2021,22008,Petrol,Manual,1,0,1197.0,83.0,5.0,766000
+Maruti Baleno,Maruti,Delhi,2021,18460,Petrol,Manual,2,0,1197.0,83.0,5.0,597000
+Honda BR-V,Honda,Delhi,2018,64547,Petrol,Manual,1,0,1497.0,119.0,7.0,776000
+Renault TRIBER,Renault,Delhi,2019,33392,Petrol,Manual,1,0,999.0,72.0,7.0,502000
+Maruti Wagon R 1.0,Maruti,Delhi,2015,46592,Petrol,Manual,1,0,998.0,68.0,5.0,307000
+Hyundai Verna,Hyundai,Delhi,2017,101051,Petrol,Automatic,1,0,1591.0,123.0,5.0,759000
+Tata NEXON,Tata,Delhi,2020,37456,Petrol,Automatic,2,0,1199.0,120.0,5.0,863000
+MG HECTOR,MG,Delhi,2019,14172,Petrol,Automatic,1,0,1451.0,143.0,5.0,1319000
+Hyundai Elite i20,Hyundai,Delhi,2015,38116,Petrol,Manual,1,0,1197.0,83.0,5.0,427000
+Maruti BREZZA,Maruti,Delhi,2023,7048,Petrol,Manual,1,0,1462.0,103.0,5.0,1205000
+Honda Amaze,Honda,Delhi,2015,65475,Petrol,Manual,1,0,1198.0,88.0,5.0,368000
+KIA CARNIVAL,KIA,Delhi,2020,66902,Diesel,Automatic,1,0,2199.0,200.0,7.0,1916300
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2019,29932,Petrol,Manual,1,0,1197.0,83.0,5.0,520000
+Mahindra XUV300,Mahindra,Delhi,2019,52895,Petrol,Manual,1,0,1197.0,110.0,5.0,779000
+Honda City,Honda,Delhi,2017,99063,Petrol,Manual,1,0,1497.0,119.0,5.0,685000
+Honda City,Honda,Delhi,2011,44976,Petrol,Manual,1,0,1497.0,118.0,5.0,268000
+Hyundai VENUE,Hyundai,Delhi,2021,43632,Petrol,Manual,1,0,998.0,120.0,5.0,837000
+Renault Kwid,Renault,Delhi,2019,13568,Petrol,Automatic,1,0,999.0,68.0,5.0,410000
+Maruti Celerio,Maruti,Delhi,2019,74343,Petrol,Automatic,1,0,998.0,68.0,5.0,432000
+Maruti Wagon R 1.0,Maruti,Delhi,2017,117691,CNG,Manual,1,0,998.0,59.0,5.0,327000
+Hyundai Verna,Hyundai,Delhi,2021,63807,Diesel,Automatic,1,0,1493.0,115.0,5.0,1149000
+Maruti New Wagon-R,Maruti,Delhi,2022,12540,Petrol,Manual,1,0,998.0,67.0,5.0,502000
+Maruti Baleno,Maruti,Delhi,2018,77462,Petrol,Manual,2,0,1197.0,84.0,5.0,453500
+Maruti Alto K10,Maruti,Delhi,2015,47487,Petrol,Automatic,1,0,998.0,68.0,5.0,287000
+MG HECTOR,MG,Delhi,2020,38585,Petrol,Manual,2,0,1451.0,143.0,5.0,1234000
+Hyundai Elite i20,Hyundai,Delhi,2019,62874,Diesel,Manual,1,0,1396.0,90.0,5.0,620000
+Renault Kwid,Renault,Delhi,2021,46746,CNG,Manual,1,0,999.0,68.0,5.0,370000
+Hyundai Creta,Hyundai,Delhi,2016,84938,CNG,Manual,2,0,1591.0,123.0,5.0,699000
+Hyundai Xcent,Hyundai,Delhi,2018,34834,Petrol,Manual,1,0,1197.0,83.0,5.0,495000
+Hyundai Creta,Hyundai,Delhi,2021,25879,Diesel,Manual,1,0,1493.0,115.0,5.0,1381700
+KIA SONET,KIA,Delhi,2022,12265,Petrol,Manual,1,0,1197.0,83.0,5.0,859000
+Honda Amaze,Honda,Delhi,2019,39901,Petrol,Manual,2,0,1199.0,90.0,5.0,516000
+Maruti Baleno,Maruti,Delhi,2019,47849,CNG,Manual,2,0,1197.0,84.0,5.0,554000
+Honda Amaze,Honda,Delhi,2019,47429,Petrol,Manual,1,0,1199.0,90.0,5.0,549000
+Maruti New Wagon-R,Maruti,Delhi,2019,12716,Petrol,Automatic,1,0,1197.0,83.0,5.0,524000
+Maruti Swift,Maruti,Delhi,2023,10050,Petrol,Manual,2,0,1197.0,90.0,5.0,715000
+Tata NEXON,Tata,Delhi,2023,24415,Petrol,Manual,1,0,1199.0,120.0,5.0,1000000
+Maruti Ciaz,Maruti,Delhi,2015,56400,Petrol,Manual,1,0,1373.0,92.0,5.0,494850
+Hyundai VENUE,Hyundai,Delhi,2019,57649,Petrol,Manual,2,0,998.0,120.0,5.0,744000
+Hyundai VENUE,Hyundai,Delhi,2020,26467,Petrol,Manual,1,0,1197.0,83.0,5.0,709000
+Nissan MAGNITE,Nissan,Delhi,2022,20512,Petrol,Manual,1,0,999.0,72.0,5.0,673000
+KIA SONET,KIA,Delhi,2020,67883,Diesel,Manual,1,0,1493.0,100.0,5.0,833000
+Volkswagen Vento,Volkswagen,Delhi,2020,43444,Petrol,Manual,1,0,999.0,110.0,5.0,997000
+Tata Tiago,Tata,Delhi,2022,16775,CNG,Manual,1,0,1199.0,73.0,5.0,610000
+Mahindra Thar,Mahindra,Delhi,2021,38659,Petrol,Automatic,2,0,1997.0,152.0,4.0,1259000
+Honda Amaze,Honda,Delhi,2013,107855,Petrol,Manual,2,0,1198.0,88.0,5.0,273000
+Maruti Alto,Maruti,Delhi,2020,35457,Petrol,Manual,1,0,796.0,48.0,5.0,333000
+Jeep Compass,Jeep,Delhi,2019,45323,Diesel,Manual,1,0,1956.0,173.0,5.0,994000
+Hyundai Creta,Hyundai,Delhi,2021,20633,Petrol,Manual,1,0,1497.0,115.0,5.0,1118000
+Honda Jazz,Honda,Delhi,2019,54689,Petrol,Manual,1,0,1199.0,90.0,5.0,578000
+Maruti Swift,Maruti,Delhi,2023,14887,Petrol,Manual,1,0,1197.0,90.0,5.0,638000
+Renault TRIBER,Renault,Delhi,2022,21089,Petrol,Manual,1,0,999.0,72.0,7.0,631000
+Maruti Ciaz,Maruti,Delhi,2017,43537,Petrol,Manual,1,0,1373.0,92.0,5.0,677000
+Tata ALTROZ,Tata,Delhi,2020,44696,Petrol,Manual,1,0,1199.0,86.0,5.0,604000
+Mahindra Thar,Mahindra,Delhi,2021,19467,Petrol,Automatic,1,0,1997.0,152.0,4.0,1394800
+MG HECTOR,MG,Delhi,2019,33306,Diesel,Manual,1,0,1956.0,170.0,5.0,1286000
+Maruti Baleno,Maruti,Delhi,2020,31279,Petrol,Manual,1,0,1197.0,83.0,5.0,603000
+Maruti Swift,Maruti,Delhi,2016,40875,Petrol,Manual,1,0,1197.0,84.0,5.0,474000
+Hyundai Creta,Hyundai,Delhi,2016,101240,Petrol,Automatic,1,0,1591.0,123.0,5.0,729000
+Maruti S PRESSO,Maruti,Delhi,2020,26213,Petrol,Manual,2,0,998.0,68.0,5.0,325000
+Maruti Dzire,Maruti,Delhi,2021,49622,Petrol,Automatic,1,0,1197.0,90.0,5.0,652800
+Maruti Ciaz,Maruti,Delhi,2016,50234,Petrol,Manual,2,0,1248.0,90.0,5.0,511000
+Tata ALTROZ,Tata,Delhi,2021,43427,Petrol,Manual,2,0,1199.0,86.0,5.0,576550
+KIA SELTOS,KIA,Delhi,2019,24009,Petrol,Automatic,1,0,1353.0,140.0,5.0,1478000
+Tata PUNCH,Tata,Delhi,2021,14582,Petrol,Automatic,1,0,1199.0,86.0,5.0,774000
+Hyundai VENUE,Hyundai,Delhi,2019,48008,Petrol,Manual,1,0,998.0,120.0,5.0,809700
+Maruti Baleno,Maruti,Delhi,2020,34834,Petrol,Manual,1,0,1197.0,83.0,5.0,626000
+Tata Tiago,Tata,Delhi,2021,38180,Petrol,Manual,1,0,1199.0,86.0,5.0,501000
+Hyundai Creta,Hyundai,Delhi,2019,67168,Diesel,Automatic,1,0,1582.0,128.0,5.0,1060200
+Maruti S PRESSO,Maruti,Delhi,2020,15966,Petrol,Manual,1,0,998.0,68.0,5.0,407000
+MG HECTOR,MG,Delhi,2019,8487,Petrol,Automatic,1,0,1451.0,143.0,5.0,1404000
+Maruti Baleno,Maruti,Delhi,2017,44732,Petrol,Manual,1,0,1197.0,84.0,5.0,438000
+Renault Kwid,Renault,Delhi,2020,45704,Petrol,Automatic,2,0,999.0,68.0,5.0,403000
+Maruti Celerio,Maruti,Delhi,2017,80495,Petrol,Automatic,1,0,998.0,68.0,5.0,365000
+Maruti Ciaz,Maruti,Delhi,2017,93015,Petrol,Manual,1,0,1373.0,92.0,5.0,577000
+Honda Amaze,Honda,Delhi,2020,52036,Petrol,Manual,1,0,1199.0,90.0,5.0,579000
+Maruti Swift Dzire,Maruti,Delhi,2013,82412,Petrol,Manual,2,0,1197.0,87.0,5.0,289000
+Hyundai Eon,Hyundai,Delhi,2013,67222,Petrol,Manual,1,0,814.0,56.0,5.0,192000
+Maruti Alto K10,Maruti,Delhi,2014,80912,Petrol,Manual,1,0,998.0,68.0,5.0,215000
+Tata Tiago,Tata,Delhi,2020,33731,Petrol,Automatic,2,0,1199.0,85.0,5.0,511000
+Hyundai Santro Xing,Hyundai,Delhi,2012,67395,Petrol,Manual,1,0,1086.0,63.0,5.0,187000
+Honda City,Honda,Delhi,2017,39103,Petrol,Automatic,2,0,1497.0,119.0,5.0,820000
+Honda Amaze,Honda,Delhi,2018,78091,CNG,Automatic,1,0,1498.0,80.0,5.0,603000
+Datsun Go Plus,Datsun,Delhi,2019,27695,Petrol,Manual,1,0,1198.0,68.0,7.0,400000
+Maruti IGNIS,Maruti,Delhi,2021,25742,Petrol,Manual,1,0,1197.0,83.0,5.0,486000
+Honda WR-V,Honda,Delhi,2019,17242,Petrol,Manual,1,0,1199.0,90.0,5.0,726000
+Maruti Baleno,Maruti,Delhi,2019,25501,Petrol,Manual,2,0,1197.0,83.0,5.0,579000
+Hyundai Creta,Hyundai,Delhi,2019,72474,Diesel,Manual,1,0,1582.0,128.0,5.0,1114000
+KIA SELTOS,KIA,Delhi,2019,11707,Petrol,Manual,2,0,1353.0,140.0,5.0,1249000
+Hyundai Verna,Hyundai,Delhi,2013,91163,Petrol,Manual,1,0,1591.0,123.0,5.0,397000
+Honda Jazz,Honda,Delhi,2016,79166,Petrol,Manual,1,0,1199.0,90.0,5.0,385800
+Hyundai Creta,Hyundai,Delhi,2016,78062,Petrol,Manual,1,0,1591.0,123.0,5.0,748000
+Tata ALTROZ,Tata,Delhi,2020,61103,Petrol,Manual,1,0,1199.0,86.0,5.0,502000
+Tata Zest,Tata,Delhi,2017,66656,CNG,Manual,2,0,1193.0,90.0,5.0,438000
+Hyundai Creta,Hyundai,Delhi,2015,102963,Petrol,Manual,3,0,1591.0,123.0,5.0,600000
+Honda BR-V,Honda,Delhi,2018,116190,Diesel,Manual,1,0,1498.0,100.0,7.0,645000
+Toyota Glanza,Toyota,Delhi,2019,55311,Petrol,Automatic,2,0,1197.0,83.0,5.0,628000
+Maruti BREZZA,Maruti,Delhi,2022,28284,Petrol,Manual,1,0,1462.0,103.0,5.0,1101000
+Tata NEXON,Tata,Delhi,2022,12616,Petrol,Automatic,1,0,1199.0,120.0,5.0,987000
+Maruti Baleno,Maruti,Delhi,2017,50509,Petrol,Automatic,1,0,1197.0,84.0,5.0,495000
+Maruti Ciaz,Maruti,Delhi,2018,42990,Petrol,Manual,1,0,1462.0,105.0,5.0,644000
+KIA SONET,KIA,Delhi,2022,23502,Diesel,Manual,1,0,1493.0,100.0,5.0,955000
+Tata TIGOR,Tata,Delhi,2019,70408,Petrol,Automatic,1,0,1199.0,85.0,5.0,476000
+Maruti New Wagon-R,Maruti,Delhi,2020,24266,Petrol,Manual,1,0,998.0,68.0,5.0,479000
+Volkswagen Vento,Volkswagen,Delhi,2017,95879,Petrol,Automatic,2,0,1197.0,105.0,5.0,622000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,64539,Petrol,Manual,2,0,998.0,68.0,5.0,252550
+Hyundai Elite i20,Hyundai,Delhi,2019,60699,Diesel,Manual,1,0,1396.0,90.0,5.0,628000
+Hyundai Grand i10,Hyundai,Delhi,2018,40186,Petrol,Manual,1,0,1197.0,83.0,5.0,413000
+Maruti Ciaz,Maruti,Delhi,2018,48743,Petrol,Automatic,2,0,1373.0,92.0,5.0,699000
+Ford Ecosport,Ford,Delhi,2019,58384,Petrol,Automatic,2,0,1497.0,123.0,5.0,770000
+Tata NEXON,Tata,Delhi,2022,30129,Petrol,Automatic,1,0,1199.0,120.0,5.0,1004000
+Hyundai Creta,Hyundai,Delhi,2020,73831,Diesel,Automatic,1,0,1493.0,115.0,5.0,1275000
+Volkswagen Polo,Volkswagen,Delhi,2018,96717,Petrol,Manual,2,0,999.0,76.0,5.0,546000
+Tata Harrier,Tata,Delhi,2021,21995,Diesel,Automatic,1,0,1956.0,170.0,5.0,1644000
+Tata ALTROZ,Tata,Delhi,2021,40167,Petrol,Manual,1,0,1199.0,86.0,5.0,591000
+Datsun Go,Datsun,Delhi,2017,50724,Petrol,Manual,1,0,1198.0,68.0,5.0,300000
+Honda Amaze,Honda,Delhi,2019,43683,Diesel,Manual,1,0,1498.0,100.0,5.0,578000
+Honda Amaze,Honda,Delhi,2019,67922,Petrol,Manual,1,0,1199.0,90.0,5.0,582000
+Honda Amaze,Honda,Delhi,2017,68484,Petrol,Manual,2,0,1198.0,88.0,5.0,453000
+Honda City,Honda,Delhi,2014,94423,Petrol,Automatic,1,0,1497.0,119.0,5.0,477000
+Hyundai NEW I20,Hyundai,Delhi,2023,11174,Petrol,Manual,1,0,1197.0,83.0,5.0,891000
+Maruti Baleno,Maruti,Delhi,2020,60770,Petrol,Manual,1,0,1197.0,83.0,5.0,601000
+Tata NEXON,Tata,Delhi,2019,34357,Petrol,Manual,1,0,1198.0,110.0,5.0,764000
+Renault TRIBER,Renault,Delhi,2021,28929,Petrol,Manual,1,0,999.0,72.0,7.0,537000
+Hyundai i20,Hyundai,Delhi,2014,78713,Petrol,Manual,1,0,1197.0,84.0,5.0,347000
+Tata NEXON,Tata,Delhi,2021,17824,Petrol,Automatic,2,0,1199.0,120.0,5.0,939000
+Toyota Corolla Altis,Toyota,Delhi,2015,100681,Petrol,Automatic,1,0,1798.0,140.0,5.0,797000
+Maruti Baleno,Maruti,Delhi,2017,65806,Petrol,Manual,1,0,1197.0,84.0,5.0,503000
+Honda City,Honda,Delhi,2016,56424,Petrol,Manual,2,0,1497.0,119.0,5.0,628000
+Tata NEXON,Tata,Delhi,2018,85837,Petrol,Automatic,1,0,1198.0,110.0,5.0,665000
+Maruti Baleno,Maruti,Delhi,2020,25476,Petrol,Manual,1,0,1197.0,83.0,5.0,628000
+Honda City,Honda,Delhi,2011,61200,Petrol,Manual,1,0,1497.0,118.0,5.0,246000
+Hyundai i10,Hyundai,Delhi,2012,30532,Petrol,Manual,1,0,1197.0,80.0,5.0,209000
+Hyundai Santro Xing,Hyundai,Delhi,2010,55306,Petrol,Manual,1,0,1086.0,63.0,5.0,123000
+Hyundai Grand i10,Hyundai,Delhi,2013,80540,Petrol,Manual,1,0,1197.0,83.0,5.0,297000
+Tata NEXON,Tata,Delhi,2020,62246,Petrol,Manual,1,0,1199.0,120.0,5.0,802000
+Hyundai XCENT PRIME,Hyundai,Delhi,2021,30541,CNG,Manual,1,0,1197.0,66.0,5.0,638000
+Toyota Corolla Altis,Toyota,Delhi,2011,80901,Petrol,Manual,2,0,1798.0,140.0,5.0,269000
+Honda City,Honda,Delhi,2018,82136,Petrol,Automatic,2,0,1497.0,119.0,5.0,774000
+Honda WR-V,Honda,Delhi,2017,37935,Petrol,Manual,2,0,1199.0,90.0,5.0,645000
+Maruti New Wagon-R,Maruti,Delhi,2022,22666,Petrol,Automatic,1,0,998.0,67.0,5.0,592000
+Tata Tiago,Tata,Delhi,2022,36087,CNG,Manual,1,0,1199.0,73.0,5.0,662000
+Honda City,Honda,Delhi,2012,89613,Petrol,Automatic,2,0,1497.0,118.0,5.0,321000
+Volkswagen Polo,Volkswagen,Delhi,2011,49229,Petrol,Manual,1,0,1198.0,75.0,5.0,217500
+Mahindra XUV300,Mahindra,Delhi,2022,13045,Petrol,Automatic,1,0,1197.0,110.0,5.0,1139000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,53117,Petrol,Manual,1,0,998.0,68.0,5.0,275000
+Maruti Wagon R 1.0,Maruti,Delhi,2016,121389,Petrol,Manual,1,0,998.0,68.0,5.0,295000
+Jeep Compass,Jeep,Delhi,2020,75716,Petrol,Manual,1,0,1368.0,163.0,5.0,1102000
+Maruti Swift,Maruti,Delhi,2017,63367,Petrol,Manual,1,0,1197.0,84.0,5.0,492000
+Maruti S PRESSO,Maruti,Delhi,2020,43002,Petrol,Manual,2,0,998.0,68.0,5.0,386000
+Maruti Baleno,Maruti,Delhi,2020,59534,CNG,Manual,1,0,1197.0,83.0,5.0,627000
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,65109,Petrol,Automatic,2,0,1086.0,69.0,5.0,433000
+Hyundai Creta,Hyundai,Delhi,2016,77095,Petrol,Manual,1,0,1591.0,123.0,5.0,700000
+Maruti S PRESSO,Maruti,Delhi,2020,64311,CNG,Manual,1,0,998.0,57.0,4.0,429000
+Maruti Celerio,Maruti,Delhi,2016,37597,Petrol,Automatic,2,0,998.0,68.0,5.0,403000
+Ford Ecosport,Ford,Delhi,2018,75985,Petrol,Automatic,1,0,1497.0,123.0,5.0,661000
+Maruti Baleno,Maruti,Delhi,2020,31845,Petrol,Manual,1,0,1197.0,83.0,5.0,660000
+Tata NEXON,Tata,Delhi,2019,61857,Diesel,Automatic,1,0,1497.0,110.0,5.0,654000
+Maruti Alto K10,Maruti,Delhi,2023,14943,Petrol,Manual,1,0,998.0,67.0,5.0,445000
+Maruti Baleno,Maruti,Delhi,2017,32348,Petrol,Manual,1,0,1197.0,84.0,5.0,486000
+Maruti Baleno,Maruti,Delhi,2021,39864,Petrol,Automatic,1,0,1197.0,83.0,5.0,753000
+Maruti Swift,Maruti,Delhi,2022,24626,Petrol,Manual,1,0,1197.0,90.0,5.0,757000
+Hyundai i20,Hyundai,Delhi,2011,73031,Petrol,Manual,2,0,1197.0,80.0,5.0,189000
+Tata Tiago,Tata,Delhi,2020,66943,Petrol,Manual,1,0,1199.0,86.0,5.0,536000
+Tata NEXON,Tata,Delhi,2022,30785,Petrol,Manual,2,0,1199.0,120.0,5.0,728000
+Maruti Baleno,Maruti,Delhi,2021,41436,Petrol,Manual,1,0,1197.0,83.0,5.0,609000
+Hyundai i20,Hyundai,Delhi,2014,85084,Petrol,Manual,1,0,1197.0,84.0,5.0,349000
+Maruti Ciaz,Maruti,Delhi,2015,119077,Petrol,Manual,1,0,1373.0,92.0,5.0,440000
+Honda Brio,Honda,Delhi,2012,35069,Petrol,Manual,1,0,1198.0,88.0,5.0,221000
+Honda City,Honda,Delhi,2015,83104,Petrol,Manual,2,0,1497.0,119.0,5.0,500400
+Maruti Celerio,Maruti,Delhi,2022,23928,CNG,Manual,1,0,998.0,57.0,5.0,594000
+Jeep Compass,Jeep,Delhi,2018,53437,Diesel,Manual,2,0,1956.0,173.0,5.0,988000
+Maruti New Wagon-R,Maruti,Delhi,2020,30400,Petrol,Manual,1,0,1197.0,83.0,5.0,487000
+Honda Brio,Honda,Delhi,2015,44303,Petrol,Automatic,1,0,1198.0,88.0,5.0,393000
+Hyundai VENUE,Hyundai,Delhi,2019,29044,Petrol,Automatic,2,0,998.0,120.0,5.0,853350
+Hyundai Creta,Hyundai,Delhi,2017,74436,Petrol,Automatic,1,0,1591.0,123.0,5.0,843000
+Mahindra KUV 100 NXT,Mahindra,Delhi,2018,63935,Diesel,Manual,2,0,1198.0,77.0,6.0,431000
+Tata TIGOR,Tata,Delhi,2021,24927,Petrol,Manual,1,0,1199.0,86.0,5.0,526000
+Toyota Corolla Altis,Toyota,Delhi,2016,89737,Petrol,Manual,2,0,1798.0,140.0,5.0,702000
+Honda City,Honda,Delhi,2014,47069,Petrol,Manual,1,0,1497.0,119.0,5.0,458000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,32631,Petrol,Manual,1,0,998.0,68.0,5.0,288000
+Renault Kiger,Renault,Delhi,2021,30195,Petrol,Automatic,1,0,999.0,72.0,5.0,721000
+Renault TRIBER,Renault,Delhi,2020,48169,Petrol,Manual,2,0,999.0,72.0,7.0,561000
+Hyundai i10,Hyundai,Delhi,2016,83404,Petrol,Manual,1,0,1086.0,69.0,5.0,310000
+Honda Amaze,Honda,Delhi,2019,37264,Petrol,Manual,2,0,1199.0,90.0,5.0,574000
+Honda City,Honda,Delhi,2014,50752,Petrol,Manual,1,0,1497.0,118.0,5.0,497000
+Hyundai Grand i10,Hyundai,Delhi,2017,73097,Petrol,Manual,1,0,1197.0,83.0,5.0,394000
+Jeep Compass,Jeep,Delhi,2019,59431,Petrol,Manual,1,0,1368.0,163.0,5.0,1185000
+Tata Safari,Tata,Delhi,2022,20858,Diesel,Automatic,1,0,1956.0,170.0,7.0,1715000
+Hyundai i10,Hyundai,Delhi,2010,74924,Petrol,Manual,2,0,1197.0,80.0,5.0,130000
+KIA SELTOS,KIA,Delhi,2019,49161,Petrol,Automatic,1,0,1353.0,140.0,5.0,1417000
+Mahindra XUV500,Mahindra,Delhi,2019,45630,Diesel,Manual,1,0,2179.0,155.0,7.0,1011000
+Tata Tiago,Tata,Delhi,2017,102235,Petrol,Automatic,1,0,1199.0,85.0,5.0,399000
+Honda City,Honda,Delhi,2015,91368,Petrol,Manual,1,0,1497.0,119.0,5.0,507000
+Maruti Alto K10,Maruti,Delhi,2011,63048,Petrol,Manual,1,0,998.0,68.0,5.0,160000
+Maruti Baleno,Maruti,Delhi,2018,73594,Petrol,Manual,1,0,1197.0,84.0,5.0,494000
+Hyundai VENUE,Hyundai,Delhi,2021,29239,Petrol,Manual,2,0,998.0,120.0,5.0,857000
+Maruti Alto,Maruti,Delhi,2023,17825,Petrol,Manual,1,0,796.0,48.0,5.0,409000
+Maruti IGNIS,Maruti,Delhi,2018,100481,CNG,Automatic,1,0,1197.0,83.0,5.0,449000
+Honda City,Honda,Delhi,2016,77095,Petrol,Manual,1,0,1497.0,119.0,5.0,631000
+Maruti New Wagon-R,Maruti,Delhi,2019,5464,Petrol,Manual,1,0,998.0,68.0,5.0,480000
+Maruti Baleno,Maruti,Delhi,2021,29923,Petrol,Manual,1,0,1197.0,83.0,5.0,633000
+Maruti New Wagon-R,Maruti,Delhi,2021,9292,Petrol,Manual,1,0,998.0,68.0,5.0,487000
+Hyundai Grand i10,Hyundai,Delhi,2020,22924,Petrol,Manual,1,0,1197.0,83.0,5.0,577000
+Maruti Swift,Maruti,Delhi,2012,90847,Petrol,Manual,1,0,1197.0,87.0,5.0,264000
+Maruti Baleno,Maruti,Delhi,2018,94466,Petrol,Automatic,1,0,1197.0,84.0,5.0,530000
+Maruti Vitara Brezza,Maruti,Delhi,2019,102604,Diesel,Manual,1,0,1248.0,90.0,5.0,686000
+Renault TRIBER,Renault,Delhi,2021,24190,Petrol,Automatic,1,0,999.0,72.0,7.0,735000
+Mahindra XUV300,Mahindra,Delhi,2021,18252,Diesel,Manual,2,0,1497.0,117.0,5.0,1001000
+Maruti Baleno,Maruti,Delhi,2021,25705,Petrol,Manual,1,0,1197.0,83.0,5.0,669000
+Tata NEXON,Tata,Delhi,2019,61470,Petrol,Automatic,1,0,1198.0,110.0,5.0,751000
+Maruti Baleno,Maruti,Delhi,2018,70189,Petrol,Automatic,1,0,1197.0,84.0,5.0,536000
+Datsun Go Plus,Datsun,Delhi,2019,30616,Petrol,Manual,1,0,1198.0,68.0,7.0,456000
+Maruti Swift,Maruti,Delhi,2018,36970,Petrol,Manual,1,0,1197.0,83.0,5.0,531000
+Maruti Dzire,Maruti,Delhi,2017,22263,Petrol,Manual,1,0,1197.0,83.0,5.0,479000
+Toyota Etios,Toyota,Delhi,2011,71433,Petrol,Manual,1,0,1496.0,90.0,5.0,243000
+Renault Kwid,Renault,Delhi,2022,15260,Petrol,Manual,1,0,999.0,68.0,5.0,432800
+Renault TRIBER,Renault,Delhi,2022,36693,Petrol,Manual,2,0,999.0,72.0,7.0,652000
+Hyundai i10,Hyundai,Delhi,2011,75338,Petrol,Manual,2,0,1197.0,80.0,5.0,182000
+Nissan Micra,Nissan,Delhi,2015,54767,Petrol,Automatic,1,0,1198.0,77.0,5.0,347000
+Datsun Redi Go,Datsun,Delhi,2021,36052,Petrol,Manual,1,0,799.0,54.0,5.0,360000
+Maruti IGNIS,Maruti,Delhi,2017,86424,Petrol,Automatic,1,0,1197.0,83.0,5.0,477000
+Maruti Swift,Maruti,Delhi,2013,46822,Petrol,Manual,2,0,1197.0,87.0,5.0,293000
+Jeep Compass,Jeep,Delhi,2019,87927,Diesel,Manual,1,0,1956.0,173.0,5.0,1036000
+Maruti Celerio X,Maruti,Delhi,2018,50012,Petrol,Automatic,1,0,998.0,68.0,5.0,411000
+Maruti Baleno,Maruti,Delhi,2017,54948,Petrol,Manual,2,0,1197.0,84.0,5.0,474000
+Tata NEXON,Tata,Delhi,2021,8119,Petrol,Manual,1,0,1199.0,120.0,5.0,858000
+Tata Tiago,Tata,Delhi,2022,12693,CNG,Manual,1,0,1199.0,73.0,5.0,664000
+Renault Kiger,Renault,Delhi,2021,46266,Petrol,Manual,2,0,999.0,100.0,5.0,714000
+Hyundai Creta,Hyundai,Delhi,2016,90739,Petrol,Automatic,1,0,1591.0,123.0,5.0,735000
+Maruti Ciaz,Maruti,Delhi,2019,41735,Petrol,Manual,1,0,1462.0,105.0,5.0,734000
+Renault Kwid,Renault,Delhi,2023,2369,Petrol,Automatic,1,0,999.0,68.0,5.0,541000
+Nissan MAGNITE,Nissan,Delhi,2021,42886,Petrol,Manual,1,0,999.0,100.0,5.0,719000
+Mahindra XUV500,Mahindra,Delhi,2019,54955,Diesel,Manual,2,0,2179.0,155.0,7.0,905000
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,62309,Petrol,Manual,1,0,1086.0,69.0,5.0,441000
+Tata NEXON,Tata,Delhi,2020,43032,Petrol,Manual,1,0,1199.0,120.0,5.0,824600
+Hyundai Creta,Hyundai,Delhi,2017,95409,Petrol,Automatic,2,0,1591.0,123.0,5.0,729000
+Honda Amaze,Honda,Delhi,2019,54392,Petrol,Manual,1,0,1199.0,90.0,5.0,600500
+Maruti Baleno,Maruti,Delhi,2016,87766,Petrol,Manual,1,0,1197.0,84.0,5.0,459000
+Maruti Baleno,Maruti,Delhi,2020,56966,Petrol,Manual,1,0,1197.0,83.0,5.0,668500
+Ford Ecosport,Ford,Delhi,2017,43277,Petrol,Manual,1,0,1499.0,112.0,5.0,592000
+Renault TRIBER,Renault,Delhi,2023,14050,Petrol,Manual,1,0,999.0,72.0,7.0,764000
+Hyundai Grand i10,Hyundai,Delhi,2017,21010,Petrol,Manual,1,0,1197.0,83.0,5.0,463000
+Maruti Ciaz,Maruti,Delhi,2018,51690,Petrol,Manual,1,0,1462.0,105.0,5.0,671000
+Tata TIAGO NRG,Tata,Delhi,2018,35764,Petrol,Manual,1,0,1199.0,85.0,5.0,430000
+Maruti New Wagon-R,Maruti,Delhi,2020,18852,CNG,Manual,1,0,998.0,58.0,5.0,557000
+Hyundai i20,Hyundai,Delhi,2013,69108,Petrol,Manual,1,0,1197.0,84.0,5.0,267000
+Hyundai Grand i10,Hyundai,Delhi,2015,16739,Petrol,Automatic,2,0,1197.0,83.0,5.0,497000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,72090,Petrol,Manual,1,0,998.0,68.0,5.0,272000
+Honda Amaze,Honda,Delhi,2013,42649,Petrol,Manual,1,0,1198.0,88.0,5.0,300000
+Maruti Baleno,Maruti,Delhi,2018,45853,Petrol,Manual,2,0,1197.0,84.0,5.0,522000
+Maruti Baleno,Maruti,Delhi,2019,15895,Petrol,Automatic,1,0,1197.0,84.0,5.0,717000
+Maruti New Wagon-R,Maruti,Delhi,2020,72472,CNG,Manual,1,0,998.0,58.0,5.0,507000
+Honda Amaze,Honda,Delhi,2019,24871,Petrol,Manual,1,0,1199.0,90.0,5.0,587000
+Maruti Swift,Maruti,Delhi,2013,63029,Petrol,Manual,1,0,1197.0,87.0,5.0,289000
+Maruti Swift Dzire,Maruti,Delhi,2012,43425,Petrol,Manual,2,0,1197.0,87.0,5.0,261000
+Maruti Swift,Maruti,Delhi,2017,42401,Petrol,Manual,1,0,1197.0,84.0,5.0,448000
+Honda Jazz,Honda,Delhi,2019,49131,Petrol,Manual,1,0,1199.0,90.0,5.0,586000
+Maruti Baleno,Maruti,Delhi,2020,15673,Petrol,Automatic,1,0,1197.0,83.0,5.0,782000
+Maruti Baleno,Maruti,Delhi,2021,30880,Petrol,Manual,1,0,1197.0,83.0,5.0,683000
+Mahindra XUV500,Mahindra,Delhi,2019,52998,Diesel,Automatic,2,0,2179.0,155.0,7.0,1236000
+Tata NEXON,Tata,Delhi,2021,36473,Petrol,Automatic,1,0,1199.0,120.0,5.0,952000
+Maruti Swift Dzire,Maruti,Delhi,2014,74185,Petrol,Manual,1,0,1197.0,87.0,5.0,337000
+Maruti Swift Dzire,Maruti,Delhi,2012,54292,Petrol,Manual,1,0,1197.0,87.0,5.0,307000
+Maruti Baleno,Maruti,Delhi,2019,59602,Petrol,Manual,2,0,1197.0,84.0,5.0,600000
+Nissan MAGNITE,Nissan,Delhi,2022,42637,Petrol,Automatic,1,0,999.0,100.0,5.0,811000
+Maruti Baleno,Maruti,Delhi,2020,74081,Petrol,Manual,1,0,1197.0,83.0,5.0,613000
+Honda City,Honda,Delhi,2014,75245,Petrol,Manual,2,0,1497.0,118.0,5.0,464000
+Toyota Etios Liva,Toyota,Delhi,2012,77476,Petrol,Manual,1,0,1197.0,80.0,5.0,278000
+Maruti Swift Dzire,Maruti,Delhi,2015,43488,Petrol,Manual,2,0,1197.0,84.0,5.0,443000
+Maruti Ciaz,Maruti,Delhi,2016,87163,Petrol,Manual,1,0,1373.0,92.0,5.0,515000
+Mahindra XUV500,Mahindra,Delhi,2019,56122,Diesel,Manual,1,0,2179.0,155.0,7.0,1001000
+Maruti Ciaz,Maruti,Delhi,2019,66068,Petrol,Manual,1,0,1462.0,105.0,5.0,683000
+Maruti Swift Dzire,Maruti,Delhi,2012,51629,Petrol,Manual,1,0,1197.0,87.0,5.0,279000
+Maruti Ciaz,Maruti,Delhi,2015,109535,Petrol,Manual,1,0,1373.0,92.0,5.0,462000
+Maruti Swift,Maruti,Delhi,2017,68287,Petrol,Manual,1,0,1197.0,84.0,5.0,509000
+Ford Ecosport,Ford,Delhi,2017,67602,Petrol,Automatic,3,0,1499.0,112.0,5.0,614000
+Renault Kwid,Renault,Delhi,2021,27646,Petrol,Automatic,1,0,999.0,68.0,5.0,432000
+Hyundai i10,Hyundai,Delhi,2012,65838,Petrol,Manual,2,0,1197.0,80.0,5.0,209000
+Maruti Alto K10,Maruti,Delhi,2011,14213,Petrol,Manual,1,0,998.0,68.0,5.0,148000
+Maruti Baleno,Maruti,Delhi,2017,36035,Petrol,Automatic,1,0,1197.0,84.0,5.0,565000
+Hyundai Grand i10,Hyundai,Delhi,2016,49812,Petrol,Automatic,2,0,1197.0,83.0,5.0,474000
+Maruti New Wagon-R,Maruti,Delhi,2020,64042,Petrol,Manual,1,0,998.0,68.0,5.0,459000
+Hyundai Grand i10,Hyundai,Delhi,2017,52543,Petrol,Automatic,1,0,1197.0,83.0,5.0,511000
+Renault TRIBER,Renault,Delhi,2020,13341,Petrol,Automatic,1,0,999.0,72.0,7.0,685000
+Maruti Baleno,Maruti,Delhi,2017,47472,Petrol,Manual,1,0,1197.0,84.0,5.0,520000
+Toyota Etios,Toyota,Delhi,2014,76413,Petrol,Manual,2,0,1496.0,90.0,5.0,347000
+Hyundai Grand i10,Hyundai,Delhi,2019,33693,Petrol,Manual,1,0,1197.0,83.0,5.0,514000
+Maruti Swift,Maruti,Delhi,2013,99639,Petrol,Manual,1,0,1197.0,87.0,5.0,303000
+Maruti Ciaz,Maruti,Delhi,2018,95723,Petrol,Manual,1,0,1462.0,105.0,5.0,643000
+Maruti Alto,Maruti,Delhi,2021,54855,Petrol,Manual,1,0,796.0,48.0,5.0,347000
+Hyundai Grand i10,Hyundai,Delhi,2016,69965,CNG,Manual,1,0,1197.0,83.0,5.0,472000
+Hyundai Grand i10,Hyundai,Delhi,2017,79122,Petrol,Manual,1,0,1197.0,83.0,5.0,428000
+Maruti Ciaz,Maruti,Delhi,2018,104059,Petrol,Automatic,1,0,1462.0,105.0,5.0,680675
+Datsun Redi Go,Datsun,Delhi,2018,84695,Petrol,Manual,1,0,799.0,54.0,5.0,222000
+Hyundai Creta,Hyundai,Delhi,2018,103702,Petrol,Manual,2,0,1591.0,123.0,5.0,723000
+Maruti Baleno,Maruti,Delhi,2015,70867,Diesel,Manual,2,0,1248.0,75.0,5.0,460000
+Hyundai Grand i10,Hyundai,Delhi,2015,49639,Petrol,Automatic,2,0,1197.0,83.0,5.0,428000
+Hyundai Grand i10,Hyundai,Delhi,2015,99108,Petrol,Manual,1,0,1197.0,83.0,5.0,342000
+Maruti Baleno,Maruti,Delhi,2019,43478,Petrol,Manual,1,0,1197.0,83.0,5.0,603000
+Tata Tiago,Tata,Delhi,2021,28282,Petrol,Manual,1,0,1199.0,86.0,5.0,551000
+Renault Kwid,Renault,Delhi,2020,52957,Petrol,Automatic,1,0,999.0,68.0,5.0,405450
+Tata NEXON,Tata,Delhi,2021,43424,Petrol,Automatic,1,0,1199.0,120.0,5.0,951000
+Honda Amaze,Honda,Delhi,2018,49543,Petrol,Automatic,2,0,1199.0,90.0,5.0,553000
+Hyundai VENUE,Hyundai,Delhi,2019,70908,Petrol,Automatic,1,0,998.0,120.0,5.0,929000
+Hyundai i10,Hyundai,Delhi,2011,55482,Petrol,Manual,2,0,1197.0,80.0,5.0,178000
+Mahindra XUV300,Mahindra,Delhi,2019,47914,Petrol,Manual,1,0,1197.0,110.0,5.0,889000
+Hyundai i20,Hyundai,Delhi,2011,97176,Petrol,Manual,1,0,1197.0,80.0,5.0,205000
+Volkswagen Vento,Volkswagen,Delhi,2015,98990,Petrol,Manual,1,0,1598.0,105.0,5.0,507000
+Maruti Swift,Maruti,Delhi,2012,55346,Petrol,Manual,1,0,1197.0,87.0,5.0,322000
+Maruti Ciaz,Maruti,Delhi,2016,107298,Petrol,Manual,1,0,1373.0,92.0,5.0,474000
+Tata Harrier,Tata,Delhi,2019,52622,Diesel,Manual,1,0,1956.0,140.0,5.0,1188000
+Toyota Etios Liva,Toyota,Delhi,2013,41856,Petrol,Manual,1,0,1197.0,80.0,5.0,313000
+Maruti New Wagon-R,Maruti,Delhi,2022,13103,Petrol,Manual,1,0,1197.0,90.0,5.0,568000
+Maruti S PRESSO,Maruti,Delhi,2021,15360,Petrol,Manual,1,0,998.0,68.0,5.0,411000
+Maruti S PRESSO,Maruti,Delhi,2022,12690,Petrol,Manual,1,0,998.0,67.0,5.0,494000
+Hyundai i20,Hyundai,Delhi,2011,71485,Petrol,Manual,1,0,1197.0,80.0,5.0,208000
+Maruti Ciaz,Maruti,Delhi,2017,91528,Petrol,Automatic,1,0,1373.0,92.0,5.0,627000
+Maruti Ertiga,Maruti,Delhi,2012,52584,Petrol,Manual,2,0,1373.0,95.0,7.0,392000
+Toyota Etios,Toyota,Delhi,2011,90308,Petrol,Manual,1,0,1496.0,90.0,5.0,205000
+Hyundai i10,Hyundai,Delhi,2011,75117,Petrol,Manual,1,0,1197.0,80.0,5.0,166000
+Maruti Swift,Maruti,Delhi,2011,48906,Petrol,Manual,1,0,1197.0,85.0,5.0,232000
+Maruti Baleno,Maruti,Delhi,2015,33752,Petrol,Manual,1,0,1197.0,84.0,5.0,517000
+Maruti Baleno,Maruti,Delhi,2020,57169,Petrol,Manual,1,0,1197.0,83.0,5.0,636000
+Hyundai i10,Hyundai,Delhi,2012,61470,Petrol,Manual,1,0,1197.0,80.0,5.0,208000
+Hyundai Grand i10,Hyundai,Delhi,2016,72561,Petrol,Manual,1,0,1197.0,83.0,5.0,442000
+Maruti Swift,Maruti,Delhi,2011,47552,Petrol,Manual,1,0,1197.0,85.0,5.0,235000
+Toyota Etios,Toyota,Delhi,2011,95917,Petrol,Manual,1,0,1496.0,90.0,5.0,200000
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,49352,Petrol,Manual,1,0,1086.0,69.0,5.0,440000
+Honda Jazz,Honda,Delhi,2017,95825,Petrol,Automatic,2,0,1199.0,90.0,5.0,511000
+Maruti Ciaz,Maruti,Delhi,2017,77919,Petrol,Manual,1,0,1373.0,92.0,5.0,601000
+Maruti Baleno,Maruti,Delhi,2017,115870,Petrol,Manual,1,0,1197.0,84.0,5.0,477500
+Tata TIGOR,Tata,Delhi,2022,37557,CNG,Manual,1,0,1199.0,73.0,5.0,755000
+Maruti New Wagon-R,Maruti,Delhi,2020,54194,Petrol,Manual,1,0,998.0,68.0,5.0,456000
+Tata TIGOR,Tata,Delhi,2022,24939,CNG,Manual,1,0,1199.0,73.0,5.0,736000
+Renault TRIBER,Renault,Delhi,2022,30508,Petrol,Manual,1,0,999.0,72.0,7.0,752000
+Hyundai VENUE,Hyundai,Delhi,2019,53350,Petrol,Automatic,1,0,998.0,120.0,5.0,929000
+Renault Kwid,Renault,Delhi,2022,15517,Petrol,Manual,1,0,999.0,68.0,5.0,459000
+Hyundai Creta,Hyundai,Delhi,2018,60349,Diesel,Automatic,1,0,1582.0,128.0,5.0,946000
+Hyundai i10,Hyundai,Delhi,2011,56340,Petrol,Manual,2,0,1197.0,80.0,5.0,163000
+Hyundai VENUE,Hyundai,Delhi,2020,51349,Petrol,Manual,1,0,998.0,120.0,5.0,836000
+Hyundai Grand i10,Hyundai,Delhi,2016,59812,Petrol,Manual,3,0,1197.0,83.0,5.0,394500
+Maruti Ciaz,Maruti,Delhi,2017,62898,Petrol,Automatic,2,0,1373.0,92.0,5.0,650000
+Maruti Baleno,Maruti,Delhi,2017,105428,Petrol,Manual,1,0,1197.0,84.0,5.0,475000
+Maruti Baleno,Maruti,Delhi,2018,54458,Petrol,Automatic,2,0,1197.0,84.0,5.0,560000
+Maruti Celerio,Maruti,Delhi,2017,22156,Petrol,Automatic,1,0,998.0,68.0,5.0,407000
+Maruti Baleno,Maruti,Delhi,2020,65829,Petrol,Manual,2,0,1197.0,83.0,5.0,613000
+Hyundai Creta,Hyundai,Delhi,2018,86490,Petrol,Automatic,1,0,1591.0,123.0,5.0,911000
+Renault Kwid,Renault,Delhi,2020,24956,Petrol,Automatic,1,0,999.0,68.0,5.0,464000
+Maruti Wagon R 1.0,Maruti,Delhi,2011,93282,Petrol,Manual,1,0,998.0,68.0,5.0,178000
+Maruti Ciaz,Maruti,Delhi,2017,63948,Petrol,Automatic,1,0,1373.0,92.0,5.0,667700
+Maruti Baleno,Maruti,Delhi,2015,69216,Petrol,Manual,1,0,1197.0,84.0,5.0,448000
+Hyundai VENUE,Hyundai,Delhi,2019,72340,Petrol,Automatic,1,0,998.0,120.0,5.0,895000
+Mahindra XUV300,Mahindra,Delhi,2021,16669,Petrol,Automatic,1,0,1197.0,110.0,5.0,1108000
+Mahindra XUV300,Mahindra,Delhi,2023,12057,Petrol,Manual,1,0,1197.0,110.0,5.0,1186000
+Renault Kwid,Renault,Delhi,2020,12381,Petrol,Automatic,1,0,999.0,68.0,5.0,422000
+Maruti S PRESSO,Maruti,Delhi,2022,21688,Petrol,Manual,2,0,998.0,68.0,5.0,455000
+Maruti Swift Dzire,Maruti,Delhi,2014,62656,Petrol,Manual,1,0,1197.0,87.0,5.0,406000
+Maruti Ciaz,Maruti,Delhi,2015,94923,Petrol,Manual,1,0,1373.0,92.0,5.0,490000
+Maruti Ciaz,Maruti,Delhi,2014,58200,Petrol,Manual,1,0,1373.0,92.0,5.0,412000
+Hyundai i10,Hyundai,Delhi,2011,57449,Petrol,Manual,2,0,1197.0,80.0,5.0,179000
+Maruti Wagon R 1.0,Maruti,Delhi,2011,31824,Petrol,Manual,3,0,998.0,68.0,5.0,195000
+Hyundai i10,Hyundai,Delhi,2011,82143,Petrol,Manual,2,0,1086.0,69.0,5.0,152000
+Hyundai Santro Xing,Hyundai,Delhi,2011,69102,Petrol,Manual,2,0,1086.0,63.0,5.0,164000
+Renault Kwid,Renault,Delhi,2022,7162,Petrol,Manual,1,0,999.0,68.0,5.0,438000
+Hyundai Grand i10,Hyundai,Delhi,2016,97399,Petrol,Manual,1,0,1197.0,83.0,5.0,424000
+Maruti Baleno,Maruti,Delhi,2017,66418,Petrol,Manual,1,0,1197.0,84.0,5.0,512000
+Hyundai i20,Hyundai,Delhi,2011,99510,Petrol,Manual,1,0,1197.0,80.0,5.0,213000
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,89405,CNG,Manual,1,0,1086.0,60.0,5.0,470000
+Maruti Ciaz,Maruti,Delhi,2019,31431,Petrol,Automatic,1,0,1462.0,105.0,5.0,794000
+Maruti Swift,Maruti,Delhi,2011,68075,Petrol,Manual,1,0,1197.0,85.0,5.0,222000
+Hyundai Elite i20,Hyundai,Delhi,2015,84601,Petrol,Manual,1,0,1197.0,83.0,5.0,438000
+Maruti Baleno,Maruti,Delhi,2016,89506,Petrol,Manual,1,0,1197.0,84.0,5.0,467000
+Maruti Baleno,Maruti,Delhi,2020,59231,Petrol,Manual,2,0,1197.0,83.0,5.0,637000
+Maruti Baleno,Maruti,Delhi,2018,36969,Petrol,Automatic,1,0,1197.0,84.0,5.0,658000
+Hyundai Grand i10,Hyundai,Delhi,2017,60443,Petrol,Manual,1,0,1197.0,83.0,5.0,415000
+Maruti Ciaz,Maruti,Delhi,2018,119884,Petrol,Automatic,1,0,1373.0,92.0,5.0,756000
+Maruti Swift,Maruti,Delhi,2013,82496,Petrol,Manual,1,0,1197.0,87.0,5.0,323000
+Mahindra XUV300,Mahindra,Delhi,2021,12532,Petrol,Manual,1,0,1197.0,110.0,5.0,1112000
+Toyota Etios,Toyota,Delhi,2011,73409,Petrol,Manual,1,0,1496.0,90.0,5.0,243000
+Hyundai i10,Hyundai,Delhi,2012,100144,Petrol,Manual,1,0,1086.0,69.0,5.0,205000
+Hyundai Grand i10,Hyundai,Delhi,2015,80208,Petrol,Automatic,2,0,1197.0,83.0,5.0,462000
+Hyundai Grand i10,Hyundai,Delhi,2016,25133,Petrol,Automatic,2,0,1197.0,83.0,5.0,449000
+Toyota Etios,Toyota,Delhi,2011,68623,Petrol,Manual,2,0,1496.0,90.0,5.0,206000
+Maruti Swift,Maruti,Delhi,2013,61671,Petrol,Manual,1,0,1197.0,87.0,5.0,329000
+Honda City,Honda,Delhi,2017,78493,Petrol,Manual,1,0,1497.0,119.0,5.0,590000
+Hyundai Xcent,Hyundai,Delhi,2018,87732,CNG,Manual,1,0,1197.0,83.0,5.0,507000
+Renault Kwid,Renault,Delhi,2020,4640,Petrol,Manual,1,0,799.0,54.0,5.0,409000
+Honda Jazz,Honda,Delhi,2015,31802,Petrol,Automatic,1,0,1199.0,90.0,5.0,423000
+Maruti New Wagon-R,Maruti,Delhi,2020,20914,Petrol,Manual,1,0,998.0,68.0,5.0,472300
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,69331,Petrol,Manual,1,0,1086.0,69.0,5.0,389000
+Mahindra Scorpio,Mahindra,Delhi,2019,21437,Diesel,Manual,1,0,2179.0,140.0,7.0,1211000
+Maruti XL6,Maruti,Delhi,2019,21515,Petrol,Automatic,1,0,1462.0,105.0,6.0,1041000
+Maruti BREZZA,Maruti,Delhi,2023,19281,Petrol,Manual,1,0,1462.0,103.0,5.0,936000
+Maruti Vitara Brezza,Maruti,Delhi,2020,30949,Petrol,Automatic,1,0,1462.0,105.0,5.0,800400
+Honda Amaze,Honda,Delhi,2021,43503,Petrol,Automatic,1,0,1199.0,90.0,5.0,662000
+Maruti Swift,Maruti,Delhi,2019,57073,Petrol,Manual,1,0,1197.0,83.0,5.0,460000
+Tata Safari,Tata,Delhi,2022,31676,Diesel,Automatic,1,0,1956.0,170.0,7.0,1937000
+Maruti Ciaz,Maruti,Delhi,2015,45312,Petrol,Manual,1,0,1373.0,92.0,5.0,468000
+Skoda Rapid,Skoda,Delhi,2021,13471,Petrol,Manual,1,0,999.0,110.0,5.0,952600
+Hyundai Verna,Hyundai,Delhi,2017,79384,Petrol,Manual,2,0,1591.0,123.0,5.0,689000
+Maruti Wagon R 1.0,Maruti,Delhi,2018,56257,CNG,Manual,1,0,998.0,59.0,5.0,382000
+Maruti IGNIS,Maruti,Delhi,2022,18015,Petrol,Manual,1,0,1197.0,83.0,5.0,539000
+Volkswagen VIRTUS,Volkswagen,Delhi,2023,9083,Petrol,Automatic,1,0,999.0,115.0,5.0,1413000
+Maruti Celerio,Maruti,Delhi,2016,54080,Petrol,Manual,2,0,998.0,68.0,5.0,292000
+Honda City,Honda,Delhi,2011,88490,Petrol,Manual,1,0,1497.0,118.0,5.0,262000
+Hyundai Grand i10,Hyundai,Delhi,2015,40819,Petrol,Manual,2,0,1197.0,83.0,5.0,338000
+Ford Ecosport,Ford,Delhi,2019,27603,Diesel,Manual,3,0,1498.0,101.0,5.0,670000
+Datsun Redi Go,Datsun,Delhi,2019,22317,Petrol,Manual,1,0,799.0,54.0,5.0,243000
+Honda Amaze,Honda,Delhi,2020,47733,Petrol,Manual,2,0,1199.0,90.0,5.0,521000
+Hyundai Creta,Hyundai,Delhi,2016,118002,Petrol,Manual,1,0,1591.0,123.0,5.0,639500
+Maruti Baleno,Maruti,Delhi,2020,27841,Petrol,Manual,1,0,1197.0,83.0,5.0,594000
+Maruti Alto 800,Maruti,Delhi,2018,67026,Petrol,Manual,2,0,796.0,48.0,5.0,265000
+Maruti Vitara Brezza,Maruti,Delhi,2019,28098,Diesel,Automatic,1,0,1248.0,90.0,5.0,743000
+Ford Ecosport,Ford,Delhi,2019,71456,Diesel,Manual,1,0,1498.0,101.0,5.0,695300
+Hyundai New Elantra,Hyundai,Delhi,2017,113960,Petrol,Automatic,1,0,1999.0,152.0,5.0,893000
+Maruti IGNIS,Maruti,Delhi,2019,47387,Petrol,Manual,1,0,1197.0,83.0,5.0,446000
+Hyundai Grand i10,Hyundai,Delhi,2015,62536,Petrol,Manual,1,0,1197.0,83.0,5.0,331000
+Hyundai i20 Active,Hyundai,Delhi,2015,51090,Petrol,Manual,1,0,1197.0,83.0,5.0,477000
+Hyundai Grand i10,Hyundai,Delhi,2015,50181,CNG,Manual,2,0,1197.0,83.0,5.0,336000
+Maruti Swift,Maruti,Delhi,2012,41942,Petrol,Manual,1,0,1197.0,87.0,5.0,261000
+Honda Jazz,Honda,Delhi,2019,27362,Diesel,Manual,1,0,1498.0,100.0,5.0,601000
+Maruti Celerio,Maruti,Delhi,2022,12708,Petrol,Manual,1,0,998.0,67.0,5.0,494000
+Maruti Baleno,Maruti,Delhi,2017,91549,Petrol,Manual,1,0,1197.0,84.0,5.0,502000
+Honda Amaze,Honda,Delhi,2023,8376,Petrol,Automatic,1,0,1199.0,90.0,5.0,880000
+Honda City,Honda,Delhi,2016,97885,Petrol,Manual,2,0,1497.0,119.0,5.0,551000
+Honda Brio,Honda,Delhi,2012,62578,Petrol,Manual,2,0,1198.0,88.0,5.0,214000
+Maruti New Wagon-R,Maruti,Delhi,2022,6799,CNG,Manual,1,0,998.0,57.0,5.0,604000
+Maruti Alto,Maruti,Delhi,2022,34574,Petrol,Manual,1,0,796.0,48.0,5.0,376000
+Maruti Alto,Maruti,Delhi,2020,27508,Petrol,Manual,1,0,796.0,48.0,5.0,351000
+Maruti Wagon R 1.0,Maruti,Delhi,2017,110029,CNG,Manual,1,0,998.0,59.0,5.0,332000
+Honda Amaze,Honda,Delhi,2017,65833,Petrol,Manual,1,0,1198.0,88.0,5.0,433000
+Hyundai Grand i10,Hyundai,Delhi,2018,44018,Petrol,Automatic,1,0,1197.0,83.0,5.0,506000
+KIA CARENS,KIA,Delhi,2022,13171,Petrol,Manual,1,0,1353.0,140.0,6.0,1506000
+Renault Duster,Renault,Delhi,2019,40838,Diesel,Manual,1,0,1461.0,110.0,5.0,758000
+Tata NEXON,Tata,Delhi,2022,30719,Petrol,Manual,1,0,1199.0,120.0,5.0,866000
+KIA CARENS,KIA,Delhi,2022,24315,Petrol,Manual,1,0,1353.0,140.0,6.0,1574000
+Maruti Swift,Maruti,Delhi,2015,71287,Petrol,Manual,2,0,1197.0,84.0,5.0,347000
+Mahindra XUV500,Mahindra,Delhi,2019,15070,Diesel,Automatic,2,0,2179.0,155.0,7.0,1116300
+Honda Amaze,Honda,Delhi,2019,23160,Petrol,Manual,1,0,1199.0,90.0,5.0,608000
+Hyundai Creta,Hyundai,Delhi,2017,97470,Petrol,Automatic,1,0,1591.0,123.0,5.0,765000
+Hyundai Creta,Hyundai,Delhi,2018,53315,Petrol,Manual,1,0,1591.0,123.0,5.0,925000
+Honda Jazz,Honda,Delhi,2015,40511,Petrol,Automatic,1,0,1199.0,90.0,5.0,451000
+Maruti Baleno,Maruti,Delhi,2017,65897,Petrol,Manual,1,0,1197.0,84.0,5.0,456000
+Maruti Ciaz,Maruti,Delhi,2015,41361,Petrol,Manual,1,0,1373.0,92.0,5.0,486000
+Renault Duster,Renault,Delhi,2019,50829,Diesel,Manual,1,0,1461.0,85.0,5.0,679000
+Hyundai Elite i20,Hyundai,Delhi,2014,52966,Petrol,Manual,2,0,1197.0,83.0,5.0,393000
+Ford Ecosport,Ford,Delhi,2018,80913,Petrol,Automatic,1,0,1497.0,123.0,5.0,757000
+Maruti Swift,Maruti,Delhi,2012,34096,Petrol,Manual,1,0,1197.0,87.0,5.0,272000
+Maruti Swift,Maruti,Delhi,2015,65365,Petrol,Manual,1,0,1197.0,84.0,5.0,370000
+Maruti Alto,Maruti,Delhi,2021,16001,Petrol,Manual,1,0,796.0,48.0,5.0,369000
+Honda City,Honda,Delhi,2014,81451,Petrol,Manual,1,0,1497.0,119.0,5.0,476000
+Hyundai NEW SANTRO,Hyundai,Delhi,2019,41083,Petrol,Manual,2,0,1086.0,69.0,5.0,396500
+Maruti Baleno,Maruti,Delhi,2016,32779,Petrol,Manual,1,0,1197.0,84.0,5.0,551000
+Hyundai Grand i10,Hyundai,Delhi,2015,88935,Petrol,Automatic,1,0,1197.0,83.0,5.0,409000
+Honda Jazz,Honda,Delhi,2017,59577,Petrol,Manual,1,0,1199.0,90.0,5.0,437000
+Maruti S PRESSO,Maruti,Delhi,2021,12058,Petrol,Manual,1,0,998.0,68.0,5.0,466000
+Maruti Baleno,Maruti,Delhi,2017,69002,Petrol,Automatic,1,0,1197.0,84.0,5.0,534000
+Maruti Ciaz,Maruti,Delhi,2017,33161,Petrol,Manual,1,0,1373.0,92.0,5.0,649000
+Maruti Baleno,Maruti,Delhi,2021,20120,Petrol,Manual,1,0,1197.0,83.0,5.0,665000
+Honda City,Honda,Delhi,2021,19655,Petrol,Automatic,1,0,1497.0,119.0,5.0,1120000
+KIA SELTOS,KIA,Delhi,2019,32031,Petrol,Manual,1,0,1497.0,115.0,5.0,1127000
+Tata ALTROZ,Tata,Delhi,2022,24908,Petrol,Automatic,1,0,1199.0,86.0,5.0,867000
+Tata TIGOR,Tata,Delhi,2022,38888,CNG,Manual,1,0,1199.0,73.0,5.0,795000
+Hyundai Elite i20,Hyundai,Delhi,2017,62492,Petrol,Manual,1,0,1197.0,83.0,5.0,520000
+Hyundai i10,Hyundai,Delhi,2014,84017,Petrol,Manual,1,0,1086.0,69.0,5.0,249000
+Renault Kwid,Renault,Delhi,2020,35911,Petrol,Manual,1,0,999.0,68.0,5.0,429000
+Maruti Swift,Maruti,Delhi,2015,41724,Petrol,Manual,1,0,1197.0,84.0,5.0,383000
+Renault Duster,Renault,Delhi,2018,98688,Petrol,Manual,1,0,1498.0,106.0,5.0,557000
+Hyundai Elite i20,Hyundai,Delhi,2017,39464,Petrol,Manual,1,0,1197.0,83.0,5.0,594000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2020,43846,Petrol,Manual,2,0,1197.0,83.0,5.0,517000
+Maruti IGNIS,Maruti,Delhi,2022,14907,Petrol,Manual,1,0,1197.0,83.0,5.0,590000
+Toyota URBAN CRUISER,Toyota,Delhi,2021,42381,Petrol,Manual,1,0,1462.0,105.0,5.0,906500
+Maruti Dzire,Maruti,Delhi,2017,29675,Petrol,Automatic,1,0,1197.0,83.0,5.0,595000
+Maruti Baleno,Maruti,Delhi,2021,28415,Petrol,Manual,1,0,1197.0,83.0,5.0,665000
+Maruti Swift,Maruti,Delhi,2018,46764,Petrol,Manual,1,0,1197.0,83.0,5.0,467000
+Maruti IGNIS,Maruti,Delhi,2021,30314,Petrol,Manual,1,0,1197.0,83.0,5.0,622000
+Hyundai Grand i10,Hyundai,Delhi,2017,51401,Petrol,Manual,1,0,1197.0,83.0,5.0,402000
+Hyundai Elite i20,Hyundai,Delhi,2016,74240,Petrol,Manual,1,0,1197.0,83.0,5.0,450000
+Maruti Baleno,Maruti,Delhi,2016,84123,Petrol,Manual,1,0,1197.0,84.0,5.0,453000
+Hyundai Creta,Hyundai,Delhi,2020,14693,Petrol,Manual,1,0,1497.0,115.0,5.0,1136000
+Toyota Innova Crysta,Toyota,Delhi,2019,84135,Diesel,Manual,1,0,2393.0,150.0,8.0,1541000
+Hyundai VENUE,Hyundai,Delhi,2021,19866,Petrol,Manual,1,0,1197.0,83.0,5.0,761000
+Tata Safari,Tata,Delhi,2021,42072,Diesel,Manual,1,0,1956.0,170.0,7.0,1499000
+Maruti XL6,Maruti,Delhi,2021,27739,Petrol,Automatic,1,0,1462.0,105.0,6.0,1036800
+Hyundai Xcent,Hyundai,Delhi,2018,90833,CNG,Manual,1,0,1197.0,83.0,5.0,471000
+Hyundai Elite i20,Hyundai,Delhi,2015,93800,Petrol,Manual,1,0,1197.0,83.0,5.0,443000
+Honda Brio,Honda,Delhi,2013,78963,Petrol,Manual,2,0,1198.0,88.0,5.0,286000
+Tata Tiago,Tata,Delhi,2023,12657,Petrol,Manual,1,0,1199.0,86.0,5.0,574000
+KIA SONET,KIA,Delhi,2020,37438,Petrol,Manual,2,0,998.0,120.0,5.0,940000
+Honda Amaze,Honda,Delhi,2016,52932,Petrol,Manual,1,0,1198.0,88.0,5.0,403000
+Renault Kwid,Renault,Delhi,2018,71796,Petrol,Manual,1,0,999.0,68.0,5.0,292000
+Honda City,Honda,Delhi,2019,48227,Petrol,Automatic,2,0,1497.0,119.0,5.0,853000
+Renault TRIBER,Renault,Delhi,2022,7021,Petrol,Manual,1,0,999.0,72.0,7.0,654000
+Tata Tiago,Tata,Delhi,2017,43322,Petrol,Automatic,2,0,1199.0,85.0,5.0,402000
+Tata Tiago,Tata,Delhi,2021,47603,Petrol,Manual,1,0,1199.0,86.0,5.0,551000
+Hyundai i20,Hyundai,Delhi,2011,34095,Petrol,Manual,1,0,1197.0,80.0,5.0,228000
+Maruti Celerio X,Maruti,Delhi,2018,54533,Petrol,Automatic,2,0,998.0,68.0,5.0,446000
+Honda City,Honda,Delhi,2014,62811,Petrol,Automatic,3,0,1497.0,119.0,5.0,546000
+Nissan MAGNITE,Nissan,Delhi,2022,13045,Petrol,Manual,1,0,999.0,72.0,5.0,640000
+Maruti Alto K10,Maruti,Delhi,2015,44871,Petrol,Manual,1,0,998.0,68.0,5.0,261000
+Maruti Celerio,Maruti,Delhi,2016,68891,Petrol,Automatic,1,0,998.0,68.0,5.0,355000
+Mahindra Scorpio,Mahindra,Delhi,2019,37999,Diesel,Manual,1,0,2179.0,140.0,7.0,1225000
+Maruti Celerio,Maruti,Delhi,2017,103154,CNG,Manual,1,0,998.0,59.0,5.0,368000
+Ford Ecosport,Ford,Delhi,2018,45012,Petrol,Manual,1,0,1497.0,123.0,5.0,679000
+Honda Brio,Honda,Delhi,2015,96319,Petrol,Manual,1,0,1198.0,88.0,5.0,334000
+Tata TIGOR,Tata,Delhi,2020,17280,Petrol,Manual,1,0,1199.0,86.0,5.0,702000
+Tata Tiago,Tata,Delhi,2023,7441,Petrol,Manual,1,0,1199.0,86.0,5.0,521000
+Mahindra Thar,Mahindra,Delhi,2021,30914,Petrol,Automatic,1,0,1997.0,152.0,4.0,1444000
+Hyundai Grand i10,Hyundai,Delhi,2014,92619,Petrol,Manual,1,0,1197.0,83.0,5.0,328000
+Tata PUNCH,Tata,Delhi,2023,893,Petrol,Automatic,1,0,1199.0,88.0,5.0,892000
+Volkswagen Vento,Volkswagen,Delhi,2013,83968,Petrol,Manual,1,0,1598.0,105.0,5.0,324000
+Honda Amaze,Honda,Delhi,2016,54809,Petrol,Manual,2,0,1198.0,88.0,5.0,408000
+Honda City,Honda,Delhi,2016,72308,Petrol,Manual,1,0,1497.0,119.0,5.0,539000
+Hyundai Creta,Hyundai,Delhi,2017,83038,Petrol,Manual,1,0,1591.0,123.0,5.0,713000
+Ford Ecosport,Ford,Delhi,2019,98296,Petrol,Manual,2,0,1497.0,123.0,5.0,613000
+Maruti Wagon R 1.0,Maruti,Delhi,2018,72457,CNG,Manual,1,0,998.0,59.0,5.0,405000
+Maruti New Wagon-R,Maruti,Delhi,2023,14131,CNG,Manual,1,0,998.0,57.0,5.0,643000
+Volkswagen Vento,Volkswagen,Delhi,2019,30877,Petrol,Automatic,1,0,1197.0,105.0,5.0,1100000
+Maruti Alto K10,Maruti,Delhi,2017,49080,Petrol,Automatic,1,0,998.0,68.0,5.0,341000
+Ford FREESTYLE,Ford,Delhi,2018,87411,Petrol,Manual,2,0,1194.0,96.0,5.0,476000
+Honda Brio,Honda,Delhi,2015,52975,Petrol,Manual,2,0,1198.0,88.0,5.0,307000
+Maruti S PRESSO,Maruti,Delhi,2023,6333,Petrol,Automatic,1,0,998.0,67.0,5.0,561000
+Maruti Alto,Maruti,Delhi,2020,20288,Petrol,Manual,1,0,796.0,48.0,5.0,372000
+Maruti Ciaz,Maruti,Delhi,2022,15892,Petrol,Manual,1,0,1462.0,105.0,5.0,938000
+Tata Tiago,Tata,Delhi,2018,94153,Petrol,Manual,1,0,1199.0,85.0,5.0,412000
+Hyundai Elite i20,Hyundai,Delhi,2019,34181,Petrol,Manual,3,0,1197.0,83.0,5.0,524000
+Honda Amaze,Honda,Delhi,2015,41439,Petrol,Manual,1,0,1198.0,88.0,5.0,345000
+Mahindra XUV300,Mahindra,Delhi,2019,59332,Petrol,Manual,1,0,1197.0,110.0,5.0,640000
+Maruti Swift,Maruti,Delhi,2015,42213,Petrol,Manual,1,0,1197.0,84.0,5.0,380000
+Tata ALTROZ,Tata,Delhi,2020,47970,Petrol,Manual,1,0,1199.0,86.0,5.0,527000
+Maruti Swift,Maruti,Delhi,2019,43834,Petrol,Manual,1,0,1197.0,83.0,5.0,595000
+Datsun Go,Datsun,Delhi,2018,31754,Petrol,Manual,1,0,1198.0,68.0,5.0,437000
+KIA SELTOS,KIA,Delhi,2020,71222,Petrol,Manual,1,0,1353.0,140.0,5.0,1182000
+Maruti S PRESSO,Maruti,Delhi,2020,30651,Petrol,Manual,1,0,998.0,68.0,5.0,378000
+KIA SELTOS,KIA,Delhi,2020,50450,Petrol,Manual,1,0,1497.0,115.0,5.0,1064775
+Mahindra Bolero,Mahindra,Delhi,2022,22038,Diesel,Manual,1,0,1493.0,76.0,7.0,1036000
+Maruti Alto 800,Maruti,Delhi,2013,43820,Petrol,Manual,1,0,796.0,48.0,5.0,221300
+Maruti IGNIS,Maruti,Delhi,2019,20189,Petrol,Manual,1,0,1197.0,83.0,5.0,465000
+Maruti Baleno,Maruti,Delhi,2022,27464,Petrol,Manual,1,0,1197.0,90.0,5.0,629000
+Maruti IGNIS,Maruti,Delhi,2018,26662,Petrol,Automatic,1,0,1197.0,83.0,5.0,497000
+Hyundai Creta,Hyundai,Delhi,2019,69534,Petrol,Automatic,1,0,1591.0,123.0,5.0,1099000
+KIA SONET,KIA,Delhi,2021,22016,Petrol,Manual,1,0,998.0,120.0,5.0,912000
+Maruti Vitara Brezza,Maruti,Delhi,2020,54467,Petrol,Manual,1,0,1462.0,105.0,5.0,832000
+Nissan MAGNITE,Nissan,Delhi,2022,26583,Petrol,Manual,1,0,999.0,100.0,5.0,938000
+Maruti Ciaz,Maruti,Delhi,2022,21566,Petrol,Automatic,1,0,1462.0,105.0,5.0,1027000
+Maruti Ciaz,Maruti,Delhi,2014,74819,Petrol,Manual,2,0,1373.0,92.0,5.0,381000
+KIA SONET,KIA,Delhi,2022,15612,Petrol,Manual,1,0,998.0,120.0,5.0,987000
+Maruti Baleno,Maruti,Delhi,2021,39686,Petrol,Manual,1,0,1197.0,83.0,5.0,683000
+MG HECTOR,MG,Delhi,2020,67143,Petrol,Manual,1,0,1451.0,143.0,5.0,1070000
+Maruti Ritz,Maruti,Delhi,2011,41282,Petrol,Manual,1,0,1197.0,85.0,5.0,177000
+Maruti Ciaz,Maruti,Delhi,2016,57286,Petrol,Manual,1,0,1373.0,92.0,5.0,523000
+Hyundai Creta,Hyundai,Delhi,2019,17333,Petrol,Manual,1,0,1591.0,123.0,5.0,921000
+Honda City,Honda,Delhi,2015,98688,Petrol,Automatic,1,0,1497.0,119.0,5.0,529000
+Maruti Wagon R 1.0,Maruti,Delhi,2012,32625,Petrol,Manual,1,0,998.0,68.0,5.0,218000
+Skoda Rapid,Skoda,Delhi,2017,100001,Petrol,Automatic,2,0,1598.0,105.0,5.0,548000
+Ford Ecosport,Ford,Delhi,2019,70551,Petrol,Manual,2,0,999.0,125.0,5.0,772000
+Maruti IGNIS,Maruti,Delhi,2017,84544,Petrol,Manual,2,0,1197.0,83.0,5.0,429000
+Volkswagen Vento,Volkswagen,Delhi,2013,100021,Petrol,Manual,1,0,1598.0,105.0,5.0,374000
+KIA SONET,KIA,Delhi,2021,24996,Petrol,Manual,1,0,998.0,120.0,5.0,889000
+Tata TIGOR,Tata,Delhi,2019,17225,Petrol,Manual,1,0,1199.0,85.0,5.0,566000
+Nissan MAGNITE,Nissan,Delhi,2022,28711,Petrol,Manual,1,0,999.0,72.0,5.0,766000
+Honda Brio,Honda,Delhi,2013,77423,Petrol,Manual,1,0,1198.0,88.0,5.0,251000
+Toyota Etios,Toyota,Delhi,2015,45032,Petrol,Manual,1,0,1197.0,80.0,5.0,469000
+Hyundai i10,Hyundai,Delhi,2012,84706,Petrol,Automatic,1,0,1197.0,80.0,5.0,251000
+Maruti IGNIS,Maruti,Delhi,2022,36051,Petrol,Automatic,1,0,1197.0,83.0,5.0,690000
+Maruti Alto K10,Maruti,Delhi,2016,77786,Petrol,Automatic,3,0,998.0,68.0,5.0,267000
+KIA SELTOS,KIA,Delhi,2019,51955,Diesel,Automatic,1,0,1493.0,115.0,5.0,1343000
+KIA SELTOS,KIA,Delhi,2019,68033,Petrol,Manual,1,0,1497.0,115.0,5.0,1006000
+MG HECTOR,MG,Delhi,2021,39015,Petrol,Automatic,1,0,1451.0,143.0,5.0,1600000
+Honda WR-V,Honda,Delhi,2020,45972,Diesel,Manual,1,0,1498.0,99.0,5.0,949000
+Hyundai Creta,Hyundai,Delhi,2020,57460,Petrol,Automatic,1,0,1353.0,140.0,5.0,1439000
+Tata NEXON,Tata,Delhi,2022,34248,Diesel,Automatic,1,0,1497.0,110.0,5.0,1135000
+Volkswagen Vento,Volkswagen,Delhi,2019,58082,Petrol,Automatic,1,0,1197.0,105.0,5.0,1008000
+Hyundai Grand i10,Hyundai,Delhi,2018,10212,Petrol,Manual,1,0,1197.0,83.0,5.0,496000
+Maruti Baleno,Maruti,Delhi,2016,33099,Petrol,Manual,1,0,1197.0,84.0,5.0,487000
+Tata PUNCH,Tata,Delhi,2022,20770,Petrol,Manual,1,0,1199.0,86.0,5.0,844000
+Maruti Vitara Brezza,Maruti,Delhi,2021,22111,Petrol,Manual,1,0,1462.0,105.0,5.0,709000
+Maruti Baleno,Maruti,Delhi,2020,27940,Petrol,Manual,2,0,1197.0,83.0,5.0,609000
+Maruti Celerio,Maruti,Delhi,2017,56638,Petrol,Manual,1,0,998.0,68.0,5.0,369000
+Maruti Alto K10,Maruti,Delhi,2018,33269,Petrol,Manual,2,0,998.0,68.0,5.0,324000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2022,15600,Petrol,Manual,1,0,1197.0,83.0,5.0,673000
+Mahindra Thar,Mahindra,Delhi,2021,31332,Petrol,Automatic,1,0,1997.0,152.0,4.0,1420000
+Honda City,Honda,Delhi,2016,87088,Petrol,Manual,1,0,1497.0,119.0,5.0,569000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,47355,Petrol,Manual,1,0,998.0,68.0,5.0,282600
+Maruti IGNIS,Maruti,Delhi,2023,10469,Petrol,Manual,1,0,1197.0,83.0,5.0,523000
+Mahindra SCORPIO-N,Mahindra,Delhi,2022,2094,Petrol,Manual,1,0,1997.0,203.0,7.0,1988000
+Tata ALTROZ,Tata,Delhi,2020,30195,Petrol,Manual,2,0,1199.0,86.0,5.0,614000
+Hyundai Grand i10,Hyundai,Delhi,2015,62902,Petrol,Manual,3,0,1197.0,83.0,5.0,316000
+Maruti New Wagon-R,Maruti,Delhi,2022,38261,CNG,Manual,1,0,998.0,57.0,5.0,633000
+Honda Jazz,Honda,Delhi,2017,75621,Petrol,Manual,1,0,1199.0,90.0,5.0,507000
+Hyundai i10,Hyundai,Delhi,2016,41176,Petrol,Manual,1,0,1086.0,69.0,5.0,332000
+KIA SONET,KIA,Delhi,2022,34198,Petrol,Manual,1,0,998.0,120.0,5.0,1007000
+Maruti Baleno,Maruti,Delhi,2017,84098,Petrol,Manual,1,0,1197.0,84.0,5.0,444000
+Maruti Ciaz,Maruti,Delhi,2018,15115,Petrol,Manual,1,0,1462.0,105.0,5.0,717000
+Maruti Celerio,Maruti,Delhi,2017,116413,CNG,Manual,1,0,998.0,59.0,5.0,379000
+Honda City,Honda,Delhi,2014,47095,Petrol,Automatic,2,0,1497.0,119.0,5.0,508000
+Maruti Baleno,Maruti,Delhi,2019,65533,Petrol,Manual,1,0,1197.0,84.0,5.0,529000
+Volkswagen Polo,Volkswagen,Delhi,2013,65451,Petrol,Manual,1,0,1198.0,75.0,5.0,324000
+Maruti Baleno,Maruti,Delhi,2016,94626,Petrol,Manual,1,0,1197.0,84.0,5.0,440500
+Hyundai NEW I20,Hyundai,Delhi,2023,20051,Petrol,Manual,1,0,1197.0,83.0,5.0,917000
+Hyundai Grand i10,Hyundai,Delhi,2014,36341,Petrol,Automatic,1,0,1197.0,83.0,5.0,413000
+Hyundai Xcent,Hyundai,Delhi,2014,89712,Petrol,Manual,2,0,1197.0,83.0,5.0,314000
+Maruti Swift Dzire,Maruti,Delhi,2015,32721,Petrol,Manual,1,0,1197.0,84.0,5.0,434000
+Tata NEXON,Tata,Delhi,2021,32892,CNG,Manual,1,0,1199.0,120.0,5.0,705000
+Hyundai Verna,Hyundai,Delhi,2018,13069,Petrol,Automatic,1,0,1591.0,123.0,5.0,892000
+Hyundai NEW SANTRO,Hyundai,Delhi,2021,13421,Petrol,Manual,1,0,1086.0,69.0,5.0,492000
+Tata NEXON,Tata,Delhi,2022,21794,Petrol,Manual,1,0,1199.0,120.0,5.0,824000
+Ford Ecosport,Ford,Delhi,2019,61746,CNG,Manual,2,0,1497.0,123.0,5.0,624000
+Honda Amaze,Honda,Delhi,2019,39639,Petrol,Automatic,2,0,1498.0,80.0,5.0,692000
+Mahindra Thar,Mahindra,Delhi,2021,25085,Petrol,Automatic,1,0,1997.0,152.0,4.0,1418000
+Hyundai i20,Hyundai,Delhi,2014,54137,Petrol,Manual,1,0,1197.0,84.0,5.0,374000
+Hyundai Creta,Hyundai,Delhi,2022,42763,Petrol,Automatic,1,0,1497.0,115.0,5.0,1568000
+Ford Ecosport,Ford,Delhi,2019,78701,Diesel,Manual,1,0,1498.0,101.0,5.0,708600
+Hyundai Elite i20,Hyundai,Delhi,2015,39317,Petrol,Manual,1,0,1197.0,83.0,5.0,438700
+KIA SONET,KIA,Delhi,2020,2951,Petrol,Manual,2,0,998.0,120.0,5.0,834000
+Toyota Glanza,Toyota,Delhi,2020,4496,Petrol,Automatic,1,0,1197.0,83.0,5.0,802000
+Maruti Swift,Maruti,Delhi,2021,24003,Petrol,Manual,2,0,1197.0,90.0,5.0,546000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2022,25013,CNG,Manual,1,0,1197.0,69.0,5.0,715000
+Toyota URBAN CRUISER,Toyota,Delhi,2022,28970,Petrol,Manual,1,0,1462.0,105.0,5.0,887000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2022,17035,Petrol,Manual,1,0,1197.0,83.0,5.0,668000
+Honda Amaze,Honda,Delhi,2015,41645,Petrol,Manual,1,0,1198.0,88.0,5.0,338000
+Volkswagen Polo,Volkswagen,Delhi,2015,48449,Petrol,Automatic,1,0,1197.0,105.0,5.0,480000
+Datsun Redi Go,Datsun,Delhi,2018,41096,Petrol,Manual,2,0,799.0,54.0,5.0,227000
+Honda City,Honda,Delhi,2016,91272,Petrol,Manual,2,0,1497.0,119.0,5.0,651000
+Ford Ecosport,Ford,Delhi,2021,40846,Diesel,Manual,2,0,1498.0,100.0,5.0,833000
+Tata NEXON,Tata,Delhi,2022,16781,Petrol,Manual,1,0,1199.0,120.0,5.0,888000
+Mahindra XUV300,Mahindra,Delhi,2019,21843,Diesel,Manual,2,0,1497.0,117.0,5.0,767000
+Maruti IGNIS,Maruti,Delhi,2018,29766,Petrol,Manual,2,0,1197.0,83.0,5.0,424000
+Hyundai Creta,Hyundai,Delhi,2020,57541,Petrol,Automatic,1,0,1353.0,140.0,5.0,1469000
+Ford Ecosport,Ford,Delhi,2018,77405,Petrol,Manual,2,0,1497.0,123.0,5.0,673000
+Honda City,Honda,Delhi,2018,37592,Petrol,Manual,1,0,1497.0,119.0,5.0,745000
+Tata ALTROZ,Tata,Delhi,2021,10551,Petrol,Manual,2,0,1199.0,86.0,5.0,568000
+Maruti Celerio,Maruti,Delhi,2016,47493,Petrol,Automatic,1,0,998.0,68.0,5.0,442000
+Hyundai Eon,Hyundai,Delhi,2017,60656,Petrol,Manual,2,0,814.0,56.0,5.0,245000
+Honda City,Honda,Delhi,2017,42012,Petrol,Automatic,1,0,1497.0,119.0,5.0,814000
+Hyundai Verna,Hyundai,Delhi,2013,37454,Petrol,Manual,2,0,1396.0,107.0,5.0,356000
+Maruti Alto K10,Maruti,Delhi,2023,21607,Petrol,Manual,1,0,998.0,67.0,5.0,492000
+Maruti Eeco,Maruti,Delhi,2019,43731,Petrol,Manual,1,0,1196.0,73.0,5.0,420000
+Hyundai Creta,Hyundai,Delhi,2017,41711,Petrol,Automatic,1,0,1591.0,123.0,5.0,866000
+Ford Ecosport,Ford,Delhi,2019,49417,Diesel,Manual,1,0,1498.0,100.0,5.0,688000
+Hyundai Creta,Hyundai,Delhi,2019,51919,Diesel,Manual,2,0,1396.0,90.0,5.0,877000
+Hyundai Creta,Hyundai,Delhi,2019,34348,Petrol,Automatic,2,0,1591.0,123.0,5.0,1075000
+Maruti Alto,Maruti,Delhi,2022,2116,Petrol,Manual,1,0,796.0,48.0,5.0,406000
+Hyundai VENUE,Hyundai,Delhi,2021,18098,Petrol,Automatic,1,0,998.0,120.0,5.0,1080000
+Toyota Etios,Toyota,Delhi,2011,83914,Petrol,Manual,1,0,1496.0,90.0,5.0,238000
+Maruti New Wagon-R,Maruti,Delhi,2021,44215,CNG,Manual,1,0,998.0,58.0,5.0,580000
+Maruti Baleno,Maruti,Delhi,2021,11204,Petrol,Manual,1,0,1197.0,83.0,5.0,588000
+Volkswagen Polo,Volkswagen,Delhi,2020,32473,Petrol,Manual,1,0,999.0,76.0,5.0,534000
+Maruti Ertiga,Maruti,Delhi,2021,17163,Petrol,Manual,1,0,1462.0,105.0,7.0,1032000
+Mahindra Thar,Mahindra,Delhi,2022,29045,Petrol,Automatic,1,0,1997.0,152.0,4.0,1441000
+Maruti Alto,Maruti,Delhi,2021,9171,Petrol,Manual,2,0,796.0,48.0,5.0,380000
+Hyundai Creta,Hyundai,Delhi,2020,61464,Petrol,Manual,1,0,1497.0,115.0,5.0,1220000
+Hyundai VENUE,Hyundai,Delhi,2020,46446,Diesel,Manual,1,0,1396.0,90.0,5.0,735000
+Maruti Wagon R 1.0,Maruti,Delhi,2014,57918,Petrol,Manual,2,0,998.0,68.0,5.0,259000
+Maruti S PRESSO,Maruti,Delhi,2020,19520,Petrol,Manual,1,0,998.0,68.0,5.0,423000
+Hyundai i10,Hyundai,Delhi,2012,52773,Petrol,Manual,2,0,1197.0,80.0,5.0,199000
+Mahindra KUV 100 NXT,Mahindra,Delhi,2020,19376,Petrol,Manual,1,0,1198.0,82.0,6.0,513000
+Hyundai VENUE,Hyundai,Delhi,2021,46063,Diesel,Manual,1,0,1493.0,100.0,5.0,911000
+Hyundai Grand i10,Hyundai,Delhi,2015,19643,Petrol,Manual,1,0,1197.0,83.0,5.0,399000
+KIA SELTOS,KIA,Delhi,2021,30964,Petrol,Manual,1,0,1497.0,115.0,5.0,982000
+Nissan MAGNITE,Nissan,Delhi,2022,11851,Petrol,Manual,1,0,999.0,72.0,5.0,734000
+Maruti Celerio,Maruti,Delhi,2018,48066,Petrol,Manual,1,0,998.0,68.0,5.0,374000
+Hyundai GRAND I10 NIOS,Hyundai,Delhi,2022,38529,Diesel,Automatic,1,0,1186.0,75.0,5.0,776000
+Honda Amaze,Honda,Delhi,2022,12644,Petrol,Manual,1,0,1199.0,90.0,5.0,643000
+Maruti Alto K10,Maruti,Delhi,2023,9400,Petrol,Manual,1,0,998.0,67.0,5.0,469000
+Honda WR-V,Honda,Delhi,2018,9363,Petrol,Manual,1,0,1199.0,90.0,5.0,675000
+Ford Ecosport,Ford,Delhi,2017,55162,Petrol,Manual,2,0,1499.0,112.0,5.0,462000
+Hyundai Creta,Hyundai,Delhi,2017,42305,Petrol,Manual,2,0,1591.0,123.0,5.0,645000
+Renault Kwid,Renault,Delhi,2021,51750,Petrol,Manual,1,0,799.0,54.0,5.0,338000
+Hyundai i10,Hyundai,Delhi,2012,42002,Petrol,Automatic,2,0,1197.0,80.0,5.0,250000
+Volkswagen Polo,Volkswagen,Delhi,2012,61297,Petrol,Manual,3,0,1198.0,75.0,5.0,184000
+Tata NEXON,Tata,Delhi,2019,18382,Petrol,Manual,1,0,1198.0,110.0,5.0,677000
+Hyundai Creta,Hyundai,Delhi,2016,91001,Petrol,Manual,2,0,1591.0,123.0,5.0,646000
+Ford Ecosport,Ford,Delhi,2019,35014,Petrol,Manual,1,0,1497.0,123.0,5.0,654000
+Maruti Baleno,Maruti,Delhi,2019,36013,Petrol,Automatic,1,0,1197.0,83.0,5.0,590000
+Honda WR-V,Honda,Delhi,2017,26623,Petrol,Manual,1,0,1199.0,90.0,5.0,656000
+Tata NEXON,Tata,Delhi,2022,13536,Petrol,Manual,1,0,1199.0,120.0,5.0,823000
+Toyota Corolla Altis,Toyota,Delhi,2014,78957,Petrol,Manual,2,0,1798.0,140.0,5.0,527000
+Tata Harrier,Tata,Delhi,2022,23864,Diesel,Automatic,1,0,1956.0,170.0,5.0,1680000
+Hyundai Creta,Hyundai,Delhi,2018,30720,Petrol,Manual,1,0,1591.0,123.0,5.0,983000
+Honda Amaze,Honda,Delhi,2022,17110,Petrol,Automatic,1,0,1199.0,90.0,5.0,739000
+Volkswagen Polo,Volkswagen,Delhi,2011,76491,Petrol,Manual,1,0,1198.0,75.0,5.0,209000
+Honda Amaze,Honda,Delhi,2017,95120,CNG,Manual,1,0,1198.0,88.0,5.0,433000
+Maruti Ciaz,Maruti,Delhi,2015,48211,Petrol,Manual,1,0,1373.0,92.0,5.0,516200
+Renault TRIBER,Renault,Delhi,2021,42964,Petrol,Manual,1,0,999.0,72.0,7.0,514000
+Maruti Celerio,Maruti,Delhi,2022,39884,CNG,Manual,1,0,998.0,57.0,5.0,557000
+Hyundai Grand i10,Hyundai,Delhi,2016,82442,CNG,Manual,1,0,1197.0,83.0,5.0,374000
+Hyundai Creta,Hyundai,Delhi,2016,122390,Petrol,Manual,1,0,1591.0,123.0,5.0,653000
+Maruti Dzire,Maruti,Delhi,2021,23264,Petrol,Automatic,2,0,1197.0,90.0,5.0,716000
+Maruti Celerio,Maruti,Delhi,2022,10035,Petrol,Manual,1,0,998.0,67.0,5.0,498000
+Volkswagen Polo,Volkswagen,Delhi,2013,70274,Petrol,Manual,1,0,1198.0,75.0,5.0,296000
+Tata TIGOR,Tata,Delhi,2022,23518,CNG,Manual,1,0,1199.0,73.0,5.0,727000
+Maruti New Wagon-R,Maruti,Delhi,2021,43689,CNG,Manual,1,0,998.0,58.0,5.0,531000
+Honda Amaze,Honda,Delhi,2016,50466,Petrol,Manual,2,0,1198.0,88.0,5.0,430000
+Maruti Baleno,Maruti,Delhi,2021,33717,Petrol,Manual,1,0,1197.0,83.0,5.0,622000
+Maruti Swift Dzire,Maruti,Delhi,2014,78609,Petrol,Manual,2,0,1197.0,87.0,5.0,339400
+Maruti New Wagon-R,Maruti,Delhi,2020,67693,CNG,Manual,1,0,998.0,58.0,5.0,519400
+Hyundai i20,Hyundai,Delhi,2011,82650,Petrol,Manual,1,0,1197.0,80.0,5.0,215000
+Datsun Go,Datsun,Delhi,2017,59370,Petrol,Manual,2,0,1198.0,68.0,5.0,263000
+Maruti Baleno,Maruti,Delhi,2016,47984,Petrol,Manual,2,0,1197.0,84.0,5.0,459000
+Maruti Celerio,Maruti,Delhi,2018,11942,Petrol,Manual,1,0,998.0,68.0,5.0,405000
+Ford Ecosport,Ford,Delhi,2020,62541,Diesel,Manual,1,0,1498.0,100.0,5.0,826000
+Tata Tiago,Tata,Delhi,2016,39360,Petrol,Manual,1,0,1199.0,85.0,5.0,346000
+Tata Tiago,Tata,Delhi,2022,8031,CNG,Manual,1,0,1199.0,73.0,5.0,618000
+Honda Amaze,Honda,Delhi,2020,9644,Petrol,Automatic,1,0,1199.0,90.0,5.0,695000
+Maruti Swift,Maruti,Delhi,2015,29778,Petrol,Manual,1,0,1197.0,84.0,5.0,422000
+Tata Tiago,Tata,Delhi,2022,30034,CNG,Manual,1,0,1199.0,73.0,5.0,689000
+Maruti Ciaz,Maruti,Delhi,2019,61329,Diesel,Manual,1,0,1498.0,95.0,5.0,702000
+Maruti Swift Dzire,Maruti,Delhi,2015,27571,Petrol,Manual,1,0,1197.0,84.0,5.0,402000
+Maruti Celerio,Maruti,Delhi,2017,67082,Petrol,Manual,1,0,998.0,68.0,5.0,373000
+Hyundai Verna,Hyundai,Delhi,2015,72498,Petrol,Manual,1,0,1591.0,123.0,5.0,543000
+Hyundai Creta,Hyundai,Delhi,2016,60846,Petrol,Automatic,3,0,1591.0,123.0,5.0,698000
+Mahindra Scorpio,Mahindra,Delhi,2019,41598,Diesel,Manual,1,0,2179.0,140.0,7.0,1235000
+Tata PUNCH,Tata,Delhi,2024,5048,Petrol,Manual,1,0,1199.0,88.0,5.0,639000
+Maruti Ritz,Maruti,Delhi,2014,64292,Petrol,Manual,2,0,1197.0,87.0,5.0,272000
+Hyundai Creta,Hyundai,Delhi,2022,23516,Petrol,Automatic,1,0,1497.0,115.0,5.0,1512000
+Hyundai i10,Hyundai,Delhi,2012,50949,Petrol,Manual,1,0,1086.0,69.0,5.0,196000
+Maruti Ciaz,Maruti,Delhi,2019,74232,Petrol,Automatic,1,0,1462.0,105.0,5.0,764000
+Hyundai Elite i20,Hyundai,Delhi,2018,74210,CNG,Manual,1,0,1197.0,83.0,5.0,504000
+Hyundai Elite i20,Hyundai,Delhi,2019,60403,Petrol,Manual,1,0,1197.0,83.0,5.0,568000
+Maruti Swift,Maruti,Delhi,2023,11194,Petrol,Manual,1,0,1197.0,90.0,5.0,559000
+Tata PUNCH,Tata,Delhi,2022,4971,Petrol,Automatic,1,0,1199.0,86.0,5.0,646000
+Maruti Swift,Maruti,Delhi,2019,35815,Petrol,Manual,1,0,1197.0,83.0,5.0,504000
+MG HECTOR,MG,Delhi,2023,12417,Petrol,Automatic,1,0,1451.0,143.0,5.0,1938000
+Maruti Celerio,Maruti,Delhi,2019,60076,CNG,Manual,1,0,998.0,59.0,5.0,421000
+Nissan MAGNITE,Nissan,Delhi,2021,15141,Petrol,Manual,1,0,999.0,72.0,5.0,588000
+Maruti Baleno,Maruti,Delhi,2020,13172,Petrol,Manual,1,0,1197.0,83.0,5.0,538000
+Ford FREESTYLE,Ford,Delhi,2019,35429,Petrol,Manual,1,0,1194.0,96.0,5.0,489000
+Maruti IGNIS,Maruti,Delhi,2018,48151,Petrol,Automatic,1,0,1197.0,83.0,5.0,478000
+Hyundai i10,Hyundai,Delhi,2016,59405,Petrol,Manual,1,0,1086.0,69.0,5.0,309000
+Maruti Eeco,Maruti,Delhi,2019,62412,CNG,Manual,2,0,1196.0,63.0,5.0,468000
+Ford Ecosport,Ford,Delhi,2018,83061,Petrol,Manual,2,0,1497.0,123.0,5.0,494000
+Maruti Alto 800,Maruti,Delhi,2014,11865,Petrol,Manual,1,0,796.0,48.0,5.0,228000

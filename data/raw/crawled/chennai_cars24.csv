@@ -1,0 +1,562 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Tata Tiago,Tata,Chennai,2022,24389,Petrol,Manual,1,0,1199,86,5.0,605000
+Tata Tiago,Tata,Chennai,2017,87685,Petrol,Manual,1,0,1199,85,5.0,449000
+Volkswagen Polo,Volkswagen,Chennai,2021,22687,Petrol,Manual,2,0,999,76,5.0,645000
+Honda Amaze,Honda,Chennai,2015,49289,Petrol,Manual,1,0,1198,88,5.0,444000
+Ford Ecosport,Ford,Chennai,2017,39138,Petrol,Manual,1,0,1499,112,5.0,693000
+Maruti Swift,Maruti,Chennai,2022,44513,Petrol,Manual,1,0,1197,90,5.0,832000
+Tata NEXON,Tata,Chennai,2022,20047,Petrol,Manual,1,0,1199,120,5.0,1044000
+Hyundai Grand i10,Hyundai,Chennai,2016,56532,Petrol,Manual,2,0,1197,83,5.0,435000
+Mahindra XUV300,Mahindra,Chennai,2021,27597,Diesel,Manual,1,0,1497,117,5.0,1107000
+Mahindra Thar,Mahindra,Chennai,2022,9448,Petrol,Automatic,1,0,1997,152,4.0,1492000
+Ford Ecosport,Ford,Chennai,2015,96727,CNG,Automatic,2,0,1499,112,5.0,471000
+Honda Amaze,Honda,Chennai,2015,89541,Petrol,Manual,1,0,1198,88,5.0,438000
+KIA SELTOS,KIA,Chennai,2022,18698,Petrol,Manual,2,0,1497,115,5.0,1273000
+KIA SONET,KIA,Chennai,2023,9922,Petrol,Manual,1,0,998,120,5.0,1006000
+Hyundai Creta,Hyundai,Chennai,2015,96275,Diesel,Manual,1,0,1582,128,5.0,801000
+Renault Kwid,Renault,Chennai,2021,28502,Petrol,Manual,2,0,999,68,5.0,452000
+Honda Amaze,Honda,Chennai,2019,69080,Petrol,Automatic,1,0,1199,90,5.0,669450
+Tata PUNCH,Tata,Chennai,2023,12265,Petrol,Automatic,1,0,1199,88,5.0,812000
+KIA SONET,KIA,Chennai,2021,48944,Petrol,Manual,1,0,998,120,5.0,1018000
+Hyundai Elite i20,Hyundai,Chennai,2019,33897,Petrol,Automatic,1,0,1197,83,5.0,722000
+Maruti Celerio,Maruti,Chennai,2022,31366,CNG,Manual,1,0,998,57,5.0,665000
+Maruti Alto,Maruti,Chennai,2019,35479,Petrol,Manual,2,0,796,48,5.0,350000
+Renault TRIBER,Renault,Chennai,2022,24739,Petrol,Manual,1,0,999,72,7.0,760000
+Tata Tiago,Tata,Chennai,2020,50714,Petrol,Manual,1,0,1199,86,5.0,520000
+Hyundai VENUE,Hyundai,Chennai,2019,37557,Petrol,Automatic,1,0,998,120,5.0,994000
+Honda Amaze,Honda,Chennai,2020,33873,Petrol,Manual,2,0,1199,90,5.0,629000
+Renault Kwid,Renault,Chennai,2017,74272,Petrol,Manual,1,0,999,68,5.0,357000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2019,47090,Petrol,Automatic,1,0,1197,83,5.0,638000
+Hyundai i10,Hyundai,Chennai,2016,66052,Petrol,Manual,1,0,1086,69,5.0,396000
+Maruti BREZZA,Maruti,Chennai,2023,8264,Petrol,Manual,1,0,1462,103,5.0,1224000
+Maruti Wagon R 1.0,Maruti,Chennai,2012,95377,Petrol,Manual,2,0,998,68,5.0,296000
+Tata NEXON,Tata,Chennai,2023,10029,Petrol,Automatic,1,0,1199,120,5.0,1116000
+Maruti S PRESSO,Maruti,Chennai,2023,14243,Petrol,Manual,1,0,998,67,5.0,543000
+Hyundai Grand i10,Hyundai,Chennai,2018,33339,Petrol,Manual,2,0,1197,83,5.0,446000
+Hyundai Grand i10,Hyundai,Chennai,2016,96212,Petrol,Manual,2,0,1197,83,5.0,435000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,11809,Petrol,Manual,1,0,1086,69,5.0,458000
+Maruti Celerio,Maruti,Chennai,2023,11405,Petrol,Manual,1,0,998,67,5.0,554000
+Renault Kwid,Renault,Chennai,2020,11652,Petrol,Manual,1,0,799,54,5.0,410000
+Hyundai VENUE,Hyundai,Chennai,2020,28237,Petrol,Manual,2,0,998,120,5.0,847500
+Renault TRIBER,Renault,Chennai,2021,35613,Petrol,Manual,2,0,999,72,7.0,618000
+Hyundai i20 Active,Hyundai,Chennai,2016,37729,Petrol,Manual,1,0,1197,83,5.0,620000
+Hyundai VENUE,Hyundai,Chennai,2019,26320,Petrol,Automatic,2,0,998,120,5.0,977000
+Hyundai Grand i10,Hyundai,Chennai,2017,46139,Petrol,Manual,1,0,1197,83,5.0,491000
+Honda Amaze,Honda,Chennai,2013,56131,Petrol,Manual,2,0,1198,88,5.0,388000
+Maruti Dzire,Maruti,Chennai,2017,85997,Petrol,Manual,2,0,1197,83,5.0,632000
+Honda Brio,Honda,Chennai,2017,94995,Petrol,Automatic,1,0,1198,88,5.0,506000
+Nissan Micra,Nissan,Chennai,2016,30819,Petrol,Automatic,1,0,1198,77,5.0,496000
+Honda Brio,Honda,Chennai,2014,54431,Petrol,Manual,2,0,1198,88,5.0,384000
+Hyundai VENUE,Hyundai,Chennai,2022,33051,Petrol,Manual,2,0,998,120,5.0,939000
+Honda Jazz,Honda,Chennai,2020,59122,Petrol,Automatic,2,0,1199,90,5.0,746000
+Volkswagen Vento,Volkswagen,Chennai,2017,56321,Petrol,Automatic,1,0,1197,105,5.0,797000
+Honda City,Honda,Chennai,2015,82483,Petrol,Automatic,2,0,1497,119,5.0,525000
+Maruti S PRESSO,Maruti,Chennai,2019,38355,Petrol,Automatic,1,0,998,68,5.0,474000
+Ford FREESTYLE,Ford,Chennai,2018,54017,Petrol,Manual,2,0,1194,96,5.0,548000
+Hyundai Verna,Hyundai,Chennai,2020,38431,Petrol,Manual,1,0,1497,115,5.0,911000
+Maruti Dzire,Maruti,Chennai,2017,61527,Diesel,Automatic,1,0,1248,75,5.0,656000
+Tata NEXON,Tata,Chennai,2018,41463,Petrol,Automatic,2,0,1198,110,5.0,786000
+Honda City,Honda,Chennai,2019,38599,Petrol,Automatic,2,0,1497,119,5.0,979000
+Renault TRIBER,Renault,Chennai,2022,38283,Petrol,Manual,1,0,999,72,7.0,674000
+Hyundai Grand i10,Hyundai,Chennai,2016,63523,Petrol,Manual,1,0,1197,83,5.0,452000
+Renault Kwid,Renault,Chennai,2022,35167,Petrol,Manual,1,0,799,54,5.0,403000
+Renault Kwid,Renault,Chennai,2022,10502,Petrol,Automatic,2,0,999,68,5.0,562000
+Tata Tiago,Tata,Chennai,2020,51999,Petrol,Manual,1,0,1199,86,5.0,455000
+Tata PUNCH,Tata,Chennai,2023,12032,Petrol,Automatic,1,0,1199,88,5.0,905000
+Maruti Swift,Maruti,Chennai,2016,70948,Petrol,Manual,3,0,1197,84,5.0,438000
+Honda Jazz,Honda,Chennai,2015,69184,Petrol,Manual,3,0,1199,90,5.0,423000
+Hyundai Grand i10,Hyundai,Chennai,2017,37169,Petrol,Automatic,2,0,1197,83,5.0,503000
+Hyundai Grand i10,Hyundai,Chennai,2016,28490,Petrol,Manual,2,0,1197,83,5.0,436000
+Renault TRIBER,Renault,Chennai,2021,60402,Petrol,Manual,2,0,999,72,7.0,549000
+Maruti Baleno,Maruti,Chennai,2016,65018,Petrol,Manual,1,0,1197,84,5.0,497000
+Maruti Baleno,Maruti,Chennai,2020,70579,Petrol,Automatic,2,0,1197,83,5.0,720450
+Mahindra XUV300,Mahindra,Chennai,2020,45546,Petrol,Manual,1,0,1197,110,5.0,818000
+Hyundai Grand i10,Hyundai,Chennai,2016,91489,Petrol,Manual,1,0,1197,83,5.0,393000
+Skoda Rapid,Skoda,Chennai,2018,112816,Petrol,Automatic,1,0,1598,105,5.0,657800
+Honda Civic,Honda,Chennai,2019,59404,Petrol,Automatic,3,0,1799,140,5.0,1308000
+Honda City,Honda,Chennai,2020,74145,Petrol,Manual,1,0,1498,121,5.0,1053000
+Volkswagen Polo,Volkswagen,Chennai,2016,71394,Petrol,Automatic,2,0,1197,105,5.0,600100
+Honda Amaze,Honda,Chennai,2019,44220,Petrol,Manual,1,0,1199,90,5.0,609000
+Maruti Celerio,Maruti,Chennai,2017,97455,Petrol,Manual,1,0,998,68,5.0,382000
+Maruti Swift,Maruti,Chennai,2021,28464,Petrol,Manual,1,0,1197,90,5.0,641000
+Hyundai Grand i10,Hyundai,Chennai,2015,41168,Petrol,Manual,2,0,1197,83,5.0,416000
+Hyundai Creta,Hyundai,Chennai,2019,56435,Diesel,Manual,1,0,1582,128,5.0,1103000
+Honda City,Honda,Chennai,2014,62179,Petrol,Manual,1,0,1497,119,5.0,569000
+Maruti Swift Dzire,Maruti,Chennai,2016,88396,Diesel,Automatic,2,0,1248,75,5.0,572000
+Tata Tiago,Tata,Chennai,2023,7563,Petrol,Automatic,1,0,1199,86,5.0,738000
+Hyundai Elite i20,Hyundai,Chennai,2015,112967,Petrol,Manual,1,0,1197,83,5.0,447000
+Honda Jazz,Honda,Chennai,2016,122231,Petrol,Manual,1,0,1199,90,5.0,451000
+Renault Kwid,Renault,Chennai,2016,77748,Petrol,Manual,2,0,799,54,5.0,299000
+Renault TRIBER,Renault,Chennai,2021,34398,Petrol,Automatic,1,0,999,72,7.0,659000
+Tata Tiago,Tata,Chennai,2017,89908,Petrol,Automatic,1,0,1199,85,5.0,436000
+Maruti Baleno,Maruti,Chennai,2019,75921,Petrol,Manual,2,0,1197,84,5.0,599600
+Tata ALTROZ,Tata,Chennai,2020,28160,Petrol,Manual,1,0,1199,86,5.0,646000
+Maruti Wagon R 1.0,Maruti,Chennai,2017,39121,Petrol,Manual,1,0,998,68,5.0,422000
+Volkswagen Ameo,Volkswagen,Chennai,2016,107362,Diesel,Manual,1,0,1498,110,5.0,479000
+Nissan Micra,Nissan,Chennai,2018,55569,Petrol,Automatic,1,0,1198,77,5.0,468000
+Maruti Celerio,Maruti,Chennai,2018,119383,Petrol,Automatic,1,0,998,68,5.0,392000
+Honda City,Honda,Chennai,2013,83714,Petrol,Manual,2,0,1497,118,5.0,445000
+Honda Jazz,Honda,Chennai,2019,50509,Petrol,Automatic,1,0,1199,90,5.0,709000
+Hyundai VENUE,Hyundai,Chennai,2019,43611,Petrol,Automatic,1,0,998,120,5.0,858000
+Tata Safari,Tata,Chennai,2021,35408,Diesel,Automatic,1,0,1956,170,6.0,1759000
+Hyundai Elite i20,Hyundai,Chennai,2015,99660,Petrol,Manual,2,0,1197,83,5.0,441000
+Volkswagen Ameo,Volkswagen,Chennai,2018,35772,Petrol,Manual,3,0,999,76,5.0,544000
+Hyundai i10,Hyundai,Chennai,2012,98925,Petrol,Manual,2,0,1197,80,5.0,269000
+Honda Amaze,Honda,Chennai,2023,8459,Petrol,Automatic,1,0,1199,90,5.0,977000
+Hyundai Creta,Hyundai,Chennai,2018,79499,Petrol,Automatic,2,0,1591,123,5.0,815000
+Skoda Rapid,Skoda,Chennai,2015,73511,Diesel,Automatic,3,0,1498,105,5.0,494000
+Hyundai Creta,Hyundai,Chennai,2022,8909,Petrol,Automatic,1,0,1353,140,5.0,1732000
+Maruti Alto K10,Maruti,Chennai,2014,50925,Petrol,Manual,2,0,998,68,5.0,252000
+Hyundai VENUE,Hyundai,Chennai,2021,39165,Petrol,Manual,1,0,998,120,5.0,841000
+Datsun Redi Go,Datsun,Chennai,2018,45877,Petrol,Automatic,1,0,999,68,5.0,327000
+Maruti Swift,Maruti,Chennai,2017,32663,Petrol,Manual,2,0,1197,84,5.0,484000
+Volkswagen Polo,Volkswagen,Chennai,2016,87579,Diesel,Manual,1,0,1498,90,5.0,611000
+Hyundai ALCAZAR,Hyundai,Chennai,2022,23365,Diesel,Manual,2,0,1493,115,7.0,1654000
+Tata NEXON,Tata,Chennai,2021,20758,Petrol,Automatic,1,0,1199,120,5.0,1003000
+Skoda Rapid,Skoda,Chennai,2020,46285,Petrol,Manual,1,0,999,110,5.0,815000
+Maruti Celerio,Maruti,Chennai,2022,16952,Petrol,Manual,1,0,998,67,5.0,587000
+KIA SELTOS,KIA,Chennai,2020,64659,Petrol,Manual,1,0,1497,115,5.0,1008000
+Maruti Vitara Brezza,Maruti,Chennai,2020,54344,Petrol,Manual,1,0,1462,105,5.0,734000
+Nissan MAGNITE,Nissan,Chennai,2022,16044,Petrol,Manual,1,0,999,100,5.0,821000
+Nissan MAGNITE,Nissan,Chennai,2021,60281,Petrol,Automatic,1,0,999,100,5.0,773800
+Maruti Alto 800,Maruti,Chennai,2013,65153,Petrol,Manual,1,0,796,48,5.0,252000
+Maruti IGNIS,Maruti,Chennai,2022,22309,Petrol,Automatic,2,0,1197,83,5.0,679000
+Tata Harrier,Tata,Chennai,2019,26286,Diesel,Manual,1,0,1956,140,5.0,1303700
+Maruti IGNIS,Maruti,Chennai,2017,51920,Petrol,Manual,1,0,1197,83,5.0,443000
+Honda City,Honda,Chennai,2014,87306,Petrol,Automatic,1,0,1497,119,5.0,513500
+Maruti Swift,Maruti,Chennai,2017,81355,Petrol,Manual,2,0,1197,84,5.0,516000
+Skoda Rapid,Skoda,Chennai,2018,97557,Diesel,Automatic,1,0,1498,110,5.0,731000
+Honda Jazz,Honda,Chennai,2017,61312,Petrol,Automatic,2,0,1199,90,5.0,544000
+Tata Safari,Tata,Chennai,2022,23488,Diesel,Automatic,1,0,1956,170,6.0,1970000
+Renault Kwid,Renault,Chennai,2020,53297,Petrol,Automatic,2,0,999,68,5.0,473000
+Toyota Glanza,Toyota,Chennai,2021,36927,Petrol,Automatic,1,0,1197,83,5.0,789000
+Honda City,Honda,Chennai,2019,68238,Petrol,Manual,1,0,1497,119,5.0,776000
+Toyota URBAN CRUISER,Toyota,Chennai,2022,30938,Petrol,Automatic,1,0,1462,105,5.0,1075000
+Hyundai Grand i10,Hyundai,Chennai,2018,39083,Petrol,Manual,1,0,1197,83,5.0,528000
+Hyundai i20 Active,Hyundai,Chennai,2016,99715,Petrol,Manual,2,0,1197,83,5.0,535000
+MG HECTOR,MG,Chennai,2020,8629,Petrol,Automatic,2,0,1451,143,5.0,1457600
+Hyundai Grand i10,Hyundai,Chennai,2019,24065,Petrol,Manual,1,0,1197,83,5.0,583000
+Honda City,Honda,Chennai,2013,96217,Petrol,Automatic,2,0,1497,118,5.0,404000
+Tata ALTROZ,Tata,Chennai,2022,7244,Petrol,Automatic,2,0,1199,86,5.0,816000
+Renault TRIBER,Renault,Chennai,2021,36518,Petrol,Manual,2,0,999,72,7.0,653000
+Honda City,Honda,Chennai,2017,98074,Petrol,Automatic,1,0,1497,119,5.0,783000
+Renault Kwid,Renault,Chennai,2022,12692,Petrol,Manual,1,0,999,68,5.0,505000
+Maruti Eeco,Maruti,Chennai,2018,89866,Petrol,Manual,1,0,1196,73,5.0,387000
+Hyundai Creta,Hyundai,Chennai,2016,92375,Petrol,Automatic,1,0,1591,123,5.0,833000
+Maruti New Wagon-R,Maruti,Chennai,2019,98073,Petrol,Automatic,1,0,1197,83,5.0,502000
+Renault TRIBER,Renault,Chennai,2021,32992,Petrol,Automatic,1,0,999,72,7.0,681000
+Maruti New Wagon-R,Maruti,Chennai,2023,5098,Petrol,Manual,1,0,1197,90,5.0,663000
+Hyundai Elite i20,Hyundai,Chennai,2018,77252,Diesel,Manual,1,0,1396,90,5.0,696000
+Toyota URBAN CRUISER,Toyota,Chennai,2021,21177,Petrol,Automatic,2,0,1462,105,5.0,961000
+Maruti Wagon R 1.0,Maruti,Chennai,2017,87698,Petrol,Automatic,1,0,998,68,5.0,398000
+Mahindra XUV500,Mahindra,Chennai,2019,109163,Diesel,Manual,1,0,2179,155,7.0,1164000
+MG HECTOR,MG,Chennai,2021,32496,Petrol,Automatic,2,0,1451,143,5.0,1529000
+Ford Ecosport,Ford,Chennai,2016,94740,Petrol,Manual,2,0,1499,112,5.0,540000
+Maruti Swift,Maruti,Chennai,2015,59237,Petrol,Manual,3,0,1197,84,5.0,434000
+Volkswagen TAIGUN,Volkswagen,Chennai,2022,20959,Petrol,Manual,1,0,999,115,5.0,1410000
+Honda City,Honda,Chennai,2017,61870,Petrol,Manual,1,0,1497,119,5.0,764000
+Ford FREESTYLE,Ford,Chennai,2019,86744,Petrol,Manual,1,0,1194,96,5.0,536800
+Renault Kiger,Renault,Chennai,2021,43283,Petrol,Automatic,1,0,999,72,5.0,719000
+Nissan MAGNITE,Nissan,Chennai,2021,45851,Petrol,Automatic,1,0,999,100,5.0,886000
+Tata PUNCH,Tata,Chennai,2021,37860,Petrol,Manual,1,0,1199,86,5.0,747000
+KIA SELTOS,KIA,Chennai,2019,62939,Petrol,Automatic,1,0,1353,140,5.0,1275000
+Honda WR-V,Honda,Chennai,2017,79390,Petrol,Manual,2,0,1199,90,5.0,600000
+Hyundai VENUE,Hyundai,Chennai,2019,105612,Petrol,Automatic,1,0,998,120,5.0,808000
+Tata TIGOR,Tata,Chennai,2019,48545,Petrol,Manual,1,0,1199,85,5.0,590000
+Maruti Ciaz,Maruti,Chennai,2017,77367,Petrol,Manual,2,0,1373,92,5.0,657000
+Honda City,Honda,Chennai,2016,46171,Petrol,Automatic,1,0,1497,119,5.0,692000
+Renault Kwid,Renault,Chennai,2022,7960,Petrol,Manual,1,0,999,68,5.0,485500
+Mahindra Kuv100,Mahindra,Chennai,2016,16621,Petrol,Manual,2,0,1198,82,6.0,437000
+KIA SELTOS,KIA,Chennai,2020,68211,Petrol,Automatic,1,0,1353,140,5.0,1368000
+Ford Ecosport,Ford,Chennai,2020,31546,Petrol,Automatic,2,0,1496,122,5.0,862000
+Maruti Ciaz,Maruti,Chennai,2017,77055,Petrol,Manual,1,0,1373,92,5.0,675000
+Hyundai Creta,Hyundai,Chennai,2018,58082,Petrol,Automatic,1,0,1591,123,5.0,938400
+Honda Jazz,Honda,Chennai,2016,59984,Petrol,Manual,1,0,1199,90,5.0,504000
+Hyundai VENUE,Hyundai,Chennai,2019,55072,Petrol,Automatic,1,0,998,120,5.0,858000
+Volkswagen Vento,Volkswagen,Chennai,2016,112919,Diesel,Automatic,1,0,1498,105,5.0,574000
+Hyundai VENUE,Hyundai,Chennai,2019,49825,Petrol,Manual,1,0,998,120,5.0,866850
+Maruti S PRESSO,Maruti,Chennai,2019,54226,Petrol,Automatic,1,0,998,68,5.0,453000
+Volkswagen Polo,Volkswagen,Chennai,2016,92490,Petrol,Manual,3,0,1198,75,5.0,498000
+Tata TIGOR,Tata,Chennai,2022,32213,Petrol,Manual,1,0,1199,86,5.0,730000
+Maruti Celerio,Maruti,Chennai,2017,41727,Petrol,Manual,2,0,998,68,5.0,420000
+Renault TRIBER,Renault,Chennai,2021,44120,Petrol,Automatic,1,0,999,72,7.0,679000
+Hyundai Eon,Hyundai,Chennai,2016,47629,Petrol,Manual,2,0,814,56,5.0,285400
+Honda Jazz,Honda,Chennai,2016,55386,Petrol,Manual,2,0,1199,90,5.0,446000
+Ford FREESTYLE,Ford,Chennai,2019,28138,Petrol,Manual,1,0,1194,96,5.0,622000
+Tata ALTROZ,Tata,Chennai,2021,64833,Petrol,Manual,1,0,1199,86,5.0,706000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,14502,Petrol,Automatic,2,0,1086,69,5.0,505000
+Volkswagen Vento,Volkswagen,Chennai,2016,90324,Petrol,Manual,2,0,1598,105,5.0,621000
+Tata ALTROZ,Tata,Chennai,2022,29915,Petrol,Automatic,1,0,1199,88,5.0,839000
+Honda Jazz,Honda,Chennai,2017,71037,Petrol,Automatic,3,0,1199,90,5.0,488000
+Hyundai NEW SANTRO,Hyundai,Chennai,2018,37699,Petrol,Automatic,1,0,1086,69,5.0,506000
+Tata TIAGO NRG,Tata,Chennai,2019,70406,Diesel,Manual,1,0,1047,70,5.0,501000
+Honda Jazz,Honda,Chennai,2017,70471,Petrol,Manual,2,0,1199,90,5.0,580600
+Hyundai VENUE,Hyundai,Chennai,2019,97443,Petrol,Automatic,1,0,998,120,5.0,864800
+Honda City,Honda,Chennai,2017,97349,Petrol,Manual,2,0,1497,119,5.0,728000
+Hyundai VENUE,Hyundai,Chennai,2020,54289,Petrol,Automatic,1,0,998,120,5.0,921000
+Tata ALTROZ,Tata,Chennai,2022,24873,Petrol,Manual,1,0,1199,110,5.0,793000
+Volkswagen TAIGUN,Volkswagen,Chennai,2022,13019,Petrol,Manual,1,0,999,115,5.0,1407000
+Hyundai Elite i20,Hyundai,Chennai,2017,90170,Diesel,Manual,1,0,1396,90,5.0,558000
+Hyundai Creta,Hyundai,Chennai,2016,56168,Petrol,Automatic,1,0,1591,123,5.0,915000
+Datsun Redi Go,Datsun,Chennai,2021,25247,Petrol,Manual,1,0,999,68,5.0,390000
+Hyundai Grand i10,Hyundai,Chennai,2017,76899,Petrol,Automatic,1,0,1197,83,5.0,521000
+Tata NEXON,Tata,Chennai,2019,70887,Petrol,Automatic,1,0,1198,110,5.0,792000
+Maruti Baleno,Maruti,Chennai,2020,72538,Petrol,Automatic,1,0,1197,83,5.0,744000
+Hyundai Eon,Hyundai,Chennai,2016,49513,Petrol,Manual,2,0,814,56,5.0,286200
+Honda City,Honda,Chennai,2019,32175,Petrol,Automatic,3,0,1497,119,5.0,894000
+Tata NEXON,Tata,Chennai,2022,10212,Petrol,Manual,1,0,1199,120,5.0,1074000
+Ford Ecosport,Ford,Chennai,2019,31646,Petrol,Automatic,2,0,1497,123,5.0,844000
+Hyundai Elite i20,Hyundai,Chennai,2016,90064,Petrol,Manual,3,0,1197,83,5.0,484700
+Hyundai Grand i10,Hyundai,Chennai,2019,36459,Petrol,Manual,2,0,1197,83,5.0,519000
+Maruti Ciaz,Maruti,Chennai,2018,78170,Petrol,Manual,2,0,1462,105,5.0,714200
+Tata PUNCH,Tata,Chennai,2022,18456,Petrol,Automatic,1,0,1199,86,5.0,875500
+MG HECTOR,MG,Chennai,2020,36110,Petrol,Automatic,2,0,1451,143,5.0,1509000
+Hyundai i10,Hyundai,Chennai,2014,91981,Petrol,Manual,2,0,1086,69,5.0,322000
+Hyundai Creta,Hyundai,Chennai,2018,69555,Petrol,Automatic,1,0,1591,123,5.0,965000
+Renault TRIBER,Renault,Chennai,2020,27380,Petrol,Automatic,1,0,999,72,7.0,621000
+Honda WR-V,Honda,Chennai,2017,100049,Diesel,Manual,1,0,1498,100,5.0,679700
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,40178,Petrol,Automatic,1,0,1086,69,5.0,520300
+Ford Ecosport,Ford,Chennai,2018,60350,Petrol,Automatic,2,0,1497,123,5.0,761000
+Nissan Micra,Nissan,Chennai,2017,89538,Petrol,Automatic,2,0,1198,77,5.0,422000
+Nissan MAGNITE,Nissan,Chennai,2021,36206,Petrol,Automatic,1,0,999,100,5.0,837000
+Honda WR-V,Honda,Chennai,2017,85291,Diesel,Manual,2,0,1498,100,5.0,691000
+Hyundai Xcent,Hyundai,Chennai,2016,122520,Petrol,Automatic,2,0,1197,83,5.0,438000
+Honda Jazz,Honda,Chennai,2020,34815,Petrol,Manual,2,0,1199,90,5.0,757000
+Maruti IGNIS,Maruti,Chennai,2017,113744,Petrol,Automatic,1,0,1197,83,5.0,444000
+Tata PUNCH,Tata,Chennai,2023,28760,Petrol,Automatic,1,0,1199,88,5.0,830000
+Hyundai Elite i20,Hyundai,Chennai,2017,36560,Petrol,Manual,2,0,1197,83,5.0,606000
+Hyundai Creta,Hyundai,Chennai,2017,86428,Petrol,Automatic,1,0,1591,123,5.0,850000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,26015,Petrol,Automatic,1,0,1086,69,5.0,542000
+Honda WR-V,Honda,Chennai,2018,44991,Petrol,Manual,2,0,1199,90,5.0,671000
+Mahindra XUV300,Mahindra,Chennai,2021,37824,Petrol,Manual,1,0,1197,110,5.0,971000
+Hyundai Grand i10,Hyundai,Chennai,2018,70727,Petrol,Automatic,1,0,1197,83,5.0,541000
+Ford Ecosport,Ford,Chennai,2016,81477,Diesel,Manual,1,0,1498,101,5.0,659000
+Maruti Baleno,Maruti,Chennai,2017,90811,Petrol,Manual,1,0,998,102,5.0,606000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,26418,Petrol,Automatic,1,0,1086,69,5.0,487000
+Hyundai NEW SANTRO,Hyundai,Chennai,2018,13267,Petrol,Manual,1,0,1086,69,5.0,468000
+Renault TRIBER,Renault,Chennai,2022,7176,Petrol,Manual,1,0,999,72,7.0,712800
+Hyundai Elite i20,Hyundai,Chennai,2018,56300,Petrol,Manual,2,0,1197,83,5.0,621000
+Maruti Wagon R 1.0,Maruti,Chennai,2016,74308,Petrol,Automatic,1,0,998,68,5.0,404300
+Honda WR-V,Honda,Chennai,2019,53799,Petrol,Manual,2,0,1199,90,5.0,640000
+Hyundai Elite i20,Hyundai,Chennai,2017,43104,Petrol,Manual,1,0,1197,83,5.0,614000
+Hyundai Elite i20,Hyundai,Chennai,2014,86285,Petrol,Manual,1,0,1197,83,5.0,490000
+Renault Kwid,Renault,Chennai,2021,49249,Petrol,Manual,1,0,999,68,5.0,440700
+Nissan MAGNITE,Nissan,Chennai,2021,24467,Petrol,Manual,2,0,999,72,5.0,787000
+Hyundai VENUE,Hyundai,Chennai,2021,19341,Petrol,Manual,2,0,998,120,5.0,947225
+Toyota URBAN CRUISER,Toyota,Chennai,2022,29494,Petrol,Automatic,1,0,1462,105,5.0,1085000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,44102,Petrol,Manual,1,0,1086,69,5.0,491000
+Maruti Alto,Maruti,Chennai,2022,19497,Petrol,Manual,1,0,796,48,5.0,421000
+Maruti Baleno,Maruti,Chennai,2017,29975,Petrol,Automatic,1,0,1197,84,5.0,637000
+Maruti Baleno,Maruti,Chennai,2017,68639,Petrol,Automatic,1,0,1197,84,5.0,602000
+Maruti New Wagon-R,Maruti,Chennai,2023,13022,Petrol,Automatic,1,0,998,67,5.0,660000
+Hyundai Elite i20,Hyundai,Chennai,2018,83132,Petrol,Manual,2,0,1197,83,5.0,613000
+Hyundai Elite i20,Hyundai,Chennai,2017,35266,Petrol,Manual,1,0,1197,83,5.0,633200
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2022,14375,Petrol,Manual,1,0,998,100,5.0,692000
+Maruti Celerio,Maruti,Chennai,2016,79357,Petrol,Automatic,2,0,998,68,5.0,401000
+Hyundai Elite i20,Hyundai,Chennai,2017,88144,Petrol,Manual,1,0,1197,83,5.0,571000
+Ford Ecosport,Ford,Chennai,2018,64583,Petrol,Automatic,2,0,1497,123,5.0,773000
+Maruti Wagon R 1.0,Maruti,Chennai,2013,41948,Petrol,Manual,2,0,998,68,5.0,324000
+Honda Jazz,Honda,Chennai,2020,54520,Petrol,Manual,2,0,1199,90,5.0,723000
+Hyundai Creta,Hyundai,Chennai,2016,88568,Petrol,Automatic,1,0,1591,123,5.0,815000
+Hyundai Elite i20,Hyundai,Chennai,2016,89374,Petrol,Manual,1,0,1197,83,5.0,561000
+Mahindra XUV300,Mahindra,Chennai,2022,14815,Diesel,Manual,1,0,1497,117,5.0,1190000
+Ford Ecosport,Ford,Chennai,2018,57224,Petrol,Automatic,2,0,1497,123,5.0,791000
+Mahindra XUV300,Mahindra,Chennai,2020,30536,Petrol,Manual,1,0,1197,110,5.0,938000
+Mahindra XUV300,Mahindra,Chennai,2022,20293,Petrol,Automatic,1,0,1197,110,5.0,1160000
+Mahindra XUV300,Mahindra,Chennai,2022,14420,Diesel,Manual,1,0,1497,117,5.0,1215000
+Hyundai Grand i10,Hyundai,Chennai,2017,79434,Petrol,Manual,1,0,1197,83,5.0,473000
+Hyundai Grand i10,Hyundai,Chennai,2014,91211,Petrol,Manual,2,0,1197,83,5.0,373000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,27113,Petrol,Automatic,1,0,1086,69,5.0,551000
+Maruti Baleno,Maruti,Chennai,2017,78967,Petrol,Automatic,1,0,1197,84,5.0,631000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2022,11951,Petrol,Manual,1,0,998,100,5.0,753000
+Hyundai Grand i10,Hyundai,Chennai,2016,30789,Petrol,Manual,1,0,1197,83,5.0,484000
+Hyundai Grand i10,Hyundai,Chennai,2017,96921,Petrol,Automatic,1,0,1197,83,5.0,508000
+Honda Jazz,Honda,Chennai,2019,61406,Petrol,Automatic,1,0,1199,90,5.0,669000
+Maruti Baleno,Maruti,Chennai,2017,49352,Petrol,Automatic,1,0,1197,84,5.0,612000
+Hyundai Grand i10,Hyundai,Chennai,2016,76553,Petrol,Manual,1,0,1197,83,5.0,440000
+Ford FREESTYLE,Ford,Chennai,2018,42389,Petrol,Manual,1,0,1194,96,5.0,601000
+Hyundai VENUE,Hyundai,Chennai,2021,12963,Petrol,Manual,2,0,1197,83,5.0,707600
+Hyundai NEW I20,Hyundai,Chennai,2021,12769,Petrol,Automatic,2,0,1197,88,5.0,788000
+Tata NEXON,Tata,Chennai,2018,51573,Diesel,Manual,2,0,1497,110,5.0,740000
+Maruti New Wagon-R,Maruti,Chennai,2019,29420,Petrol,Manual,2,0,1197,83,5.0,542000
+Honda Amaze,Honda,Chennai,2018,107099,Petrol,Automatic,1,0,1498,80,5.0,584000
+Volkswagen Polo,Volkswagen,Chennai,2016,81477,Petrol,Manual,2,0,1198,75,5.0,438000
+Renault Kwid,Renault,Chennai,2020,71572,Petrol,Manual,2,0,799,54,5.0,357000
+Maruti Swift,Maruti,Chennai,2014,84932,Petrol,Manual,3,0,1197,87,5.0,404000
+Hyundai NEW I20,Hyundai,Chennai,2021,33437,Petrol,Manual,2,0,1197,83,5.0,695000
+Jeep Compass,Jeep,Chennai,2018,38803,Petrol,Automatic,3,0,1368,163,5.0,1069000
+MG HECTOR,MG,Chennai,2020,51906,Diesel,Manual,1,0,1956,170,5.0,1387000
+Tata ALTROZ,Tata,Chennai,2020,19610,Petrol,Manual,1,0,1199,86,5.0,639000
+Mahindra KUV 100 NXT,Mahindra,Chennai,2019,40510,Petrol,Manual,2,0,1198,82,6.0,493600
+Honda WR-V,Honda,Chennai,2017,20428,Diesel,Manual,1,0,1498,100,5.0,753000
+Tata ALTROZ,Tata,Chennai,2020,25732,Petrol,Manual,1,0,1199,86,5.0,628000
+Tata TIAGO NRG,Tata,Chennai,2018,56940,Petrol,Manual,1,0,1199,85,5.0,482000
+Maruti Ciaz,Maruti,Chennai,2018,77543,Petrol,Automatic,1,0,1373,92,5.0,692000
+Maruti Celerio,Maruti,Chennai,2019,70604,Petrol,Automatic,1,0,998,68,5.0,449000
+Maruti Alto,Maruti,Chennai,2021,12950,Petrol,Manual,2,0,796,48,5.0,370000
+Tata Tiago,Tata,Chennai,2019,51269,Petrol,Manual,1,0,1199,85,5.0,492000
+Hyundai VENUE,Hyundai,Chennai,2020,33909,Petrol,Automatic,2,0,998,120,5.0,914000
+Mahindra Kuv100,Mahindra,Chennai,2016,79869,Petrol,Manual,1,0,1198,82,6.0,427000
+Maruti Ritz,Maruti,Chennai,2014,58169,Petrol,Manual,1,0,1197,87,5.0,389000
+Hyundai VENUE,Hyundai,Chennai,2019,26422,Petrol,Manual,1,0,998,120,5.0,904000
+Hyundai Grand i10,Hyundai,Chennai,2018,61302,Petrol,Manual,2,0,1197,83,5.0,489000
+Hyundai Elite i20,Hyundai,Chennai,2016,57593,Petrol,Manual,2,0,1197,83,5.0,590000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2020,26776,Petrol,Manual,1,0,1197,83,5.0,626000
+Hyundai VENUE,Hyundai,Chennai,2022,49853,Diesel,Manual,1,0,1493,100,5.0,1040000
+Hyundai Grand i10,Hyundai,Chennai,2017,32674,Petrol,Manual,1,0,1197,83,5.0,525000
+Maruti S PRESSO,Maruti,Chennai,2020,40092,Petrol,Automatic,2,0,998,68,5.0,487000
+Maruti Alto,Maruti,Chennai,2019,17290,Petrol,Manual,1,0,796,48,5.0,390000
+Tata ALTROZ,Tata,Chennai,2022,30032,Petrol,Manual,1,0,1199,86,5.0,700000
+Maruti Alto K10,Maruti,Chennai,2022,8233,Petrol,Manual,1,0,998,67,5.0,434000
+Maruti Swift,Maruti,Chennai,2018,60275,Petrol,Automatic,2,0,1197,84,5.0,600000
+Hyundai NEW I20,Hyundai,Chennai,2021,56450,Petrol,Manual,1,0,998,120,5.0,856000
+Hyundai Verna,Hyundai,Chennai,2019,62608,Petrol,Manual,2,0,1591,123,5.0,843000
+Hyundai Elite i20,Hyundai,Chennai,2019,26000,Petrol,Automatic,1,0,1197,83,5.0,695000
+Maruti IGNIS,Maruti,Chennai,2017,79548,Petrol,Manual,2,0,1197,83,5.0,513000
+Tata PUNCH,Tata,Chennai,2022,20117,Petrol,Manual,1,0,1199,86,5.0,685000
+Renault Kwid,Renault,Chennai,2021,18575,Petrol,Automatic,1,0,999,68,5.0,503850
+Honda City,Honda,Chennai,2016,95390,Petrol,Manual,1,0,1497,119,5.0,619000
+Honda City,Honda,Chennai,2016,60625,Petrol,Automatic,2,0,1497,119,5.0,626000
+Maruti Wagon R 1.0,Maruti,Chennai,2013,29532,Petrol,Manual,2,0,998,68,5.0,367000
+Ford Ecosport,Ford,Chennai,2018,43718,Diesel,Manual,2,0,1498,101,5.0,714800
+Maruti Alto,Maruti,Chennai,2019,41155,Petrol,Manual,1,0,796,48,5.0,357000
+Hyundai Grand i10,Hyundai,Chennai,2015,87303,Petrol,Manual,2,0,1197,83,5.0,407000
+Maruti S PRESSO,Maruti,Chennai,2020,27608,Petrol,Manual,1,0,998,68,5.0,456000
+Hyundai Creta,Hyundai,Chennai,2019,48018,Petrol,Manual,1,0,1591,123,5.0,1036000
+Hyundai Verna,Hyundai,Chennai,2017,63463,Petrol,Manual,2,0,1591,123,5.0,836000
+Honda City,Honda,Chennai,2016,41223,Petrol,Automatic,2,0,1497,119,5.0,621000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2021,21782,Petrol,Manual,2,0,1197,83,5.0,625000
+Maruti Swift Dzire,Maruti,Chennai,2016,79822,Diesel,Automatic,2,0,1248,75,5.0,637000
+Maruti Wagon R 1.0,Maruti,Chennai,2014,82798,Petrol,Manual,1,0,998,68,5.0,331000
+Toyota Glanza,Toyota,Chennai,2020,13388,Petrol,Manual,1,0,1197,83,5.0,714000
+Maruti Baleno,Maruti,Chennai,2016,57417,Petrol,Manual,1,0,1197,84,5.0,527000
+Maruti Alto K10,Maruti,Chennai,2018,85701,Petrol,Automatic,1,0,998,68,5.0,352000
+Datsun Go Plus,Datsun,Chennai,2016,42043,Petrol,Manual,1,0,1198,68,7.0,365000
+Honda Amaze,Honda,Chennai,2023,10697,Petrol,Manual,1,0,1199,90,5.0,774000
+Renault Kwid,Renault,Chennai,2021,10760,Petrol,Manual,1,0,999,68,5.0,493000
+Volkswagen Polo,Volkswagen,Chennai,2016,90461,Petrol,Manual,1,0,1198,75,5.0,571000
+Tata NEXON,Tata,Chennai,2019,39315,Petrol,Automatic,2,0,1198,110,5.0,744000
+Honda City,Honda,Chennai,2015,94959,Diesel,Manual,1,0,1498,100,5.0,579000
+Hyundai Elite i20,Hyundai,Chennai,2015,65496,Petrol,Manual,2,0,1197,83,5.0,501000
+Maruti Celerio,Maruti,Chennai,2018,85129,Petrol,Automatic,1,0,998,68,5.0,490000
+Renault Kwid,Renault,Chennai,2022,17126,Petrol,Automatic,1,0,999,68,5.0,559000
+Honda City,Honda,Chennai,2018,43634,Petrol,Manual,1,0,1497,119,5.0,784000
+Maruti Swift,Maruti,Chennai,2016,67466,Petrol,Manual,1,0,1197,84,5.0,516000
+Hyundai Grand i10,Hyundai,Chennai,2014,98162,Petrol,Manual,1,0,1197,83,5.0,399000
+Honda Brio,Honda,Chennai,2013,55649,Petrol,Manual,1,0,1198,88,5.0,351000
+Maruti Baleno,Maruti,Chennai,2018,71293,Petrol,Manual,2,0,1197,84,5.0,607000
+Hyundai i20 Active,Hyundai,Chennai,2016,86335,Petrol,Manual,1,0,1197,83,5.0,601000
+Mahindra Thar,Mahindra,Chennai,2022,20686,Petrol,Automatic,1,0,1997,152,4.0,1514000
+Datsun Go Plus,Datsun,Chennai,2015,40301,Petrol,Manual,1,0,1198,68,7.0,292000
+Honda Jazz,Honda,Chennai,2021,27926,Petrol,Manual,1,0,1199,90,5.0,739000
+Mahindra XUV300,Mahindra,Chennai,2022,4111,Petrol,Automatic,1,0,1197,110,5.0,970000
+Honda City,Honda,Chennai,2018,94627,Petrol,Automatic,1,0,1497,119,5.0,864000
+Maruti Swift,Maruti,Chennai,2019,77398,Petrol,Manual,1,0,1197,83,5.0,579000
+Honda WR-V,Honda,Chennai,2018,37382,Petrol,Manual,2,0,1199,90,5.0,721000
+Hyundai Grand i10,Hyundai,Chennai,2017,62753,Petrol,Manual,1,0,1197,83,5.0,489000
+Hyundai Grand i10,Hyundai,Chennai,2015,35581,Petrol,Manual,2,0,1197,83,5.0,421000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2023,7813,Petrol,Manual,1,0,1197,83,5.0,692000
+Tata NEXON,Tata,Chennai,2021,32940,Petrol,Automatic,1,0,1199,120,5.0,993000
+Ford Ecosport,Ford,Chennai,2020,57690,Petrol,Manual,2,0,1497,123,5.0,685000
+Tata Tiago,Tata,Chennai,2020,22813,Petrol,Manual,2,0,1199,86,5.0,530000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2021,9966,Petrol,Manual,1,0,1197,83,5.0,607000
+Maruti Celerio,Maruti,Chennai,2022,20313,Petrol,Manual,1,0,998,67,5.0,580000
+Maruti New Wagon-R,Maruti,Chennai,2023,20335,Petrol,Automatic,1,0,1197,90,5.0,694000
+Honda Amaze,Honda,Chennai,2015,71365,Petrol,Manual,1,0,1198,88,5.0,453000
+Hyundai NEW SANTRO,Hyundai,Chennai,2020,17411,Petrol,Automatic,1,0,1086,69,5.0,542000
+Hyundai Grand i10,Hyundai,Chennai,2017,55110,Petrol,Manual,1,0,1197,83,5.0,500000
+Hyundai NEW I20,Hyundai,Chennai,2020,24334,Petrol,Manual,1,0,998,120,5.0,756000
+Hyundai Grand i10,Hyundai,Chennai,2019,11186,Petrol,Manual,2,0,1197,83,5.0,520000
+Hyundai Grand i10,Hyundai,Chennai,2016,29013,Petrol,Automatic,2,0,1197,83,5.0,500000
+Maruti BREZZA,Maruti,Chennai,2023,8727,Petrol,Manual,1,0,1462,103,5.0,1186000
+Hyundai Grand i10,Hyundai,Chennai,2017,60052,Petrol,Manual,1,0,1197,83,5.0,498000
+Hyundai NEW I20,Hyundai,Chennai,2021,16313,Petrol,Automatic,1,0,1197,88,5.0,913700
+Hyundai Elite i20,Hyundai,Chennai,2016,88690,Petrol,Manual,1,0,1197,83,5.0,578000
+KIA SONET,KIA,Chennai,2021,22944,Petrol,Automatic,1,0,998,120,5.0,1122000
+Tata Tiago,Tata,Chennai,2022,8870,Petrol,Automatic,1,0,1199,86,5.0,742000
+Hyundai AURA,Hyundai,Chennai,2022,33917,CNG,Manual,1,0,1197,69,5.0,813000
+Maruti Celerio,Maruti,Chennai,2022,58811,Petrol,Manual,1,0,998,67,5.0,614000
+Maruti Alto,Maruti,Chennai,2019,53567,Petrol,Manual,2,0,796,48,5.0,350000
+Renault Kwid,Renault,Chennai,2017,30702,Petrol,Manual,2,0,799,54,5.0,340000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2020,24914,Diesel,Manual,1,0,1186,75,5.0,700000
+KIA SELTOS,KIA,Chennai,2020,39245,Petrol,Manual,1,0,1497,115,5.0,1021000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2021,9007,Petrol,Manual,1,0,1197,83,5.0,666000
+Hyundai Elite i20,Hyundai,Chennai,2017,31048,Petrol,Manual,1,0,1197,83,5.0,649000
+Maruti Baleno,Maruti,Chennai,2017,44695,Petrol,Automatic,1,0,1197,84,5.0,678000
+Tata ALTROZ,Tata,Chennai,2021,26041,Petrol,Manual,1,0,1199,86,5.0,764000
+Volkswagen Polo,Volkswagen,Chennai,2019,36085,Petrol,Manual,1,0,999,76,5.0,688000
+Tata PUNCH,Tata,Chennai,2022,11159,Petrol,Automatic,1,0,1199,86,5.0,898000
+Hyundai Grand i10,Hyundai,Chennai,2019,34261,Petrol,Manual,2,0,1197,83,5.0,569000
+Hyundai i20 Active,Hyundai,Chennai,2016,79508,Petrol,Manual,2,0,1197,83,5.0,571000
+Hyundai Elite i20,Hyundai,Chennai,2017,37421,Petrol,Manual,1,0,1197,83,5.0,649000
+Hyundai Elite i20,Hyundai,Chennai,2016,75036,Petrol,Manual,1,0,1197,83,5.0,569000
+Hyundai Grand i10,Hyundai,Chennai,2017,44413,Petrol,Automatic,1,0,1197,83,5.0,555000
+Hyundai Elite i20,Hyundai,Chennai,2016,83926,Petrol,Manual,1,0,1197,83,5.0,575000
+Maruti Alto,Maruti,Chennai,2019,43424,Petrol,Manual,1,0,796,48,5.0,366000
+Hyundai Elite i20,Hyundai,Chennai,2018,55981,Petrol,Automatic,2,0,1197,83,5.0,649000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2020,62411,Petrol,Manual,2,0,1197,83,5.0,614000
+Hyundai NEW I20,Hyundai,Chennai,2022,17143,Petrol,Automatic,2,0,998,120,5.0,890000
+Hyundai Grand i10,Hyundai,Chennai,2017,30674,Petrol,Manual,2,0,1197,83,5.0,493000
+Tata NEXON,Tata,Chennai,2018,51810,Petrol,Automatic,1,0,1198,110,5.0,734000
+Hyundai Grand i10,Hyundai,Chennai,2018,46987,Petrol,Manual,2,0,1197,83,5.0,464000
+Hyundai VENUE,Hyundai,Chennai,2020,73211,Diesel,Manual,1,0,1493,100,5.0,917000
+Honda Amaze,Honda,Chennai,2019,49619,Petrol,Automatic,2,0,1498,80,5.0,729000
+Hyundai Elite i20,Hyundai,Chennai,2019,27055,Petrol,Manual,1,0,1197,83,5.0,740000
+Hyundai Elite i20,Hyundai,Chennai,2019,45880,Petrol,Automatic,1,0,1197,83,5.0,734000
+Maruti Wagon R 1.0,Maruti,Chennai,2017,55485,Petrol,Manual,1,0,998,68,5.0,441000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,31298,Petrol,Automatic,1,0,1086,69,5.0,534750
+Volkswagen Ameo,Volkswagen,Chennai,2017,80448,Diesel,Automatic,1,0,1498,110,5.0,620000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2022,21757,Petrol,Manual,1,0,998,100,5.0,740000
+Hyundai i20 Active,Hyundai,Chennai,2017,71477,Petrol,Manual,2,0,1197,83,5.0,634000
+Honda Jazz,Honda,Chennai,2017,27608,Petrol,Manual,1,0,1199,90,5.0,598000
+Tata Tiago,Tata,Chennai,2019,34371,Petrol,Manual,1,0,1199,85,5.0,473000
+Renault Kwid,Renault,Chennai,2021,14688,Petrol,Automatic,2,0,999,68,5.0,512000
+Tata Tiago,Tata,Chennai,2018,83623,Petrol,Automatic,2,0,1199,85,5.0,493000
+Hyundai Grand i10,Hyundai,Chennai,2016,20514,Petrol,Automatic,1,0,1197,83,5.0,511000
+Hyundai Elite i20,Hyundai,Chennai,2016,63099,Petrol,Manual,2,0,1197,83,5.0,639000
+Renault Kwid,Renault,Chennai,2021,20813,Petrol,Manual,1,0,999,68,5.0,475000
+Volkswagen Vento,Volkswagen,Chennai,2017,62617,Petrol,Automatic,1,0,1197,105,5.0,738000
+Maruti Celerio,Maruti,Chennai,2017,41506,Petrol,Automatic,1,0,998,68,5.0,482000
+Hyundai VENUE,Hyundai,Chennai,2019,34589,Petrol,Manual,1,0,998,120,5.0,920000
+Hyundai Grand i10,Hyundai,Chennai,2018,26447,Petrol,Manual,1,0,1197,83,5.0,506000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2021,12677,Petrol,Automatic,1,0,1197,83,5.0,757000
+Maruti Ciaz,Maruti,Chennai,2018,40101,Petrol,Automatic,1,0,1373,92,5.0,817000
+Tata Tiago,Tata,Chennai,2017,44235,Petrol,Automatic,2,0,1199,85,5.0,451000
+Maruti Swift,Maruti,Chennai,2022,45808,Petrol,Manual,1,0,1197,90,5.0,711000
+Tata Tiago,Tata,Chennai,2022,20797,Petrol,Manual,1,0,1199,86,5.0,639000
+Maruti Celerio,Maruti,Chennai,2021,48061,Petrol,Automatic,1,0,998,67,5.0,610000
+Renault Kwid,Renault,Chennai,2021,19241,Petrol,Automatic,1,0,999,68,5.0,492000
+Maruti Alto,Maruti,Chennai,2022,7144,Petrol,Manual,1,0,796,48,5.0,450000
+Tata ALTROZ,Tata,Chennai,2022,20848,Petrol,Automatic,1,0,1199,86,5.0,890000
+KIA SELTOS,KIA,Chennai,2022,7700,Petrol,Manual,1,0,1497,115,5.0,1228000
+Renault Kwid,Renault,Chennai,2021,32356,Petrol,Manual,1,0,999,68,5.0,477150
+Maruti Dzire,Maruti,Chennai,2019,47205,Petrol,Manual,1,0,1197,83,5.0,673000
+Tata NEXON,Tata,Chennai,2022,5661,Petrol,Manual,1,0,1199,120,5.0,946000
+Honda City,Honda,Chennai,2018,79755,Petrol,Manual,2,0,1497,119,5.0,751000
+Hyundai Grand i10,Hyundai,Chennai,2015,76639,Petrol,Manual,1,0,1197,83,5.0,431000
+Hyundai Elite i20,Hyundai,Chennai,2019,22936,Petrol,Manual,2,0,1197,83,5.0,702000
+Hyundai i20,Hyundai,Chennai,2014,64746,Petrol,Manual,2,0,1197,84,5.0,440000
+Maruti Swift,Maruti,Chennai,2015,56399,Petrol,Manual,1,0,1197,84,5.0,464000
+Hyundai Verna,Hyundai,Chennai,2018,70331,Petrol,Manual,2,0,1591,123,5.0,827000
+Hyundai Elite i20,Hyundai,Chennai,2015,66569,Diesel,Manual,2,0,1396,90,5.0,555000
+Maruti Alto 800,Maruti,Chennai,2013,79677,Petrol,Manual,2,0,796,48,5.0,243000
+Tata Tiago,Tata,Chennai,2017,57415,Petrol,Manual,1,0,1199,85,5.0,468000
+Tata TIGOR,Tata,Chennai,2018,90011,Petrol,Manual,2,0,1199,85,5.0,474000
+Hyundai Grand i10,Hyundai,Chennai,2019,55090,Petrol,Automatic,1,0,1197,83,5.0,579000
+Maruti Ciaz,Maruti,Chennai,2018,66598,Petrol,Manual,1,0,1373,92,5.0,702000
+Hyundai i10,Hyundai,Chennai,2015,39873,Petrol,Manual,2,0,1086,69,5.0,370000
+Tata NEXON,Tata,Chennai,2020,44033,Diesel,Automatic,2,0,1497,110,5.0,1111000
+Maruti Alto 800,Maruti,Chennai,2018,35716,Petrol,Manual,1,0,796,48,5.0,324000
+Hyundai Creta,Hyundai,Chennai,2020,71474,Petrol,Manual,1,0,1497,115,5.0,1055800
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2021,53817,Petrol,Manual,1,0,1197,83,5.0,647000
+Maruti Wagon R 1.0,Maruti,Chennai,2013,47977,Petrol,Manual,1,0,998,68,5.0,374000
+Maruti Ciaz,Maruti,Chennai,2020,38299,Petrol,Manual,1,0,1462,105,5.0,826000
+Honda City,Honda,Chennai,2015,44626,Petrol,Manual,1,0,1497,119,5.0,599000
+Maruti Swift,Maruti,Chennai,2022,31947,Petrol,Manual,1,0,1197,90,5.0,704000
+Hyundai VENUE,Hyundai,Chennai,2021,35440,Petrol,Manual,1,0,1197,83,5.0,793000
+Maruti Swift,Maruti,Chennai,2022,17619,Petrol,Manual,1,0,1197,90,5.0,598600
+Maruti New Wagon-R,Maruti,Chennai,2020,24024,Petrol,Manual,1,0,1197,83,5.0,552000
+Maruti IGNIS,Maruti,Chennai,2023,10079,Petrol,Manual,1,0,1197,83,5.0,667000
+Maruti New Wagon-R,Maruti,Chennai,2019,26800,Petrol,Manual,1,0,1197,83,5.0,557000
+Hyundai Grand i10,Hyundai,Chennai,2019,41868,Petrol,Manual,1,0,1197,83,5.0,522000
+Hyundai Elite i20,Hyundai,Chennai,2015,80808,Petrol,Manual,2,0,1197,83,5.0,498500
+Mahindra Thar,Mahindra,Chennai,2022,5285,Petrol,Automatic,1,0,1997,152,4.0,1496000
+Maruti Baleno,Maruti,Chennai,2016,86177,Petrol,Manual,1,0,1197,84,5.0,512000
+Maruti Dzire,Maruti,Chennai,2018,24902,Petrol,Automatic,2,0,1197,83,5.0,677000
+Tata Tiago,Tata,Chennai,2021,33456,Petrol,Manual,1,0,1199,86,5.0,532700
+Maruti Alto 800,Maruti,Chennai,2018,13880,Petrol,Manual,2,0,796,48,5.0,307000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2020,56286,Petrol,Manual,1,0,1197,83,5.0,606000
+Ford Ecosport,Ford,Chennai,2016,78964,Petrol,Manual,1,0,1499,112,5.0,586000
+Honda City,Honda,Chennai,2019,68090,Petrol,Automatic,1,0,1497,119,5.0,848000
+Hyundai VENUE,Hyundai,Chennai,2022,10642,Petrol,Manual,1,0,1197,83,5.0,1012000
+Hyundai Elite i20,Hyundai,Chennai,2015,100591,Diesel,Manual,2,0,1396,90,5.0,557000
+Maruti Celerio,Maruti,Chennai,2017,62198,Petrol,Manual,2,0,998,68,5.0,397600
+Mahindra XUV300,Mahindra,Chennai,2019,27084,Petrol,Manual,1,0,1197,110,5.0,761000
+Maruti S PRESSO,Maruti,Chennai,2019,20840,Petrol,Automatic,1,0,998,68,5.0,478000
+Hyundai Eon,Hyundai,Chennai,2015,65323,Petrol,Manual,2,0,814,56,5.0,273000
+Honda WR-V,Honda,Chennai,2017,31568,Petrol,Manual,1,0,1199,90,5.0,665000
+Maruti Swift,Maruti,Chennai,2021,42345,Petrol,Manual,1,0,1197,90,5.0,630000
+Honda Jazz,Honda,Chennai,2018,90825,Petrol,Manual,1,0,1199,90,5.0,470000
+Hyundai Creta,Hyundai,Chennai,2018,114721,Petrol,Manual,1,0,1591,123,5.0,703000
+Mahindra SCORPIO-N,Mahindra,Chennai,2022,23936,Diesel,Manual,1,0,2183,175,7.0,2240000
+Hyundai Elite i20,Hyundai,Chennai,2016,101528,Petrol,Manual,1,0,1197,83,5.0,487000
+Mahindra XUV500,Mahindra,Chennai,2021,48772,Diesel,Manual,2,0,2179,155,7.0,1259000
+Honda Amaze,Honda,Chennai,2014,85357,Petrol,Manual,2,0,1198,88,5.0,400000
+Renault TRIBER,Renault,Chennai,2020,32256,Petrol,Automatic,1,0,999,72,7.0,615000
+Honda WR-V,Honda,Chennai,2017,67025,Diesel,Manual,1,0,1498,100,5.0,707000
+Toyota Glanza,Toyota,Chennai,2020,32204,Petrol,Automatic,1,0,1197,83,5.0,772000
+Hyundai Creta,Hyundai,Chennai,2018,61248,Petrol,Manual,2,0,1591,123,5.0,810000
+Maruti Swift,Maruti,Chennai,2016,95343,Diesel,Manual,2,0,1248,75,5.0,539000
+Honda Jazz,Honda,Chennai,2017,85950,Petrol,Manual,1,0,1199,90,5.0,482000
+Renault TRIBER,Renault,Chennai,2021,18772,Petrol,Automatic,1,0,999,72,7.0,662000
+Renault TRIBER,Renault,Chennai,2019,46277,Petrol,Manual,1,0,999,72,7.0,588000
+Maruti Swift,Maruti,Chennai,2015,49377,Petrol,Manual,2,0,1197,84,5.0,457000
+Hyundai Creta,Hyundai,Chennai,2022,28016,Petrol,Automatic,2,0,1497,115,5.0,1431000
+Maruti Celerio,Maruti,Chennai,2015,49343,Petrol,Manual,2,0,998,68,5.0,358000
+Maruti Ciaz,Maruti,Chennai,2020,67336,Petrol,Manual,1,0,1462,105,5.0,709000
+Hyundai New Elantra,Hyundai,Chennai,2018,70223,Petrol,Manual,1,0,1999,152,5.0,848000
+Honda Amaze,Honda,Chennai,2019,49463,Petrol,Manual,1,0,1199,90,5.0,651000
+Maruti New Wagon-R,Maruti,Chennai,2019,70391,Petrol,Manual,1,0,998,68,5.0,462000
+Honda Amaze,Honda,Chennai,2021,25709,Petrol,Automatic,1,0,1199,90,5.0,778000
+Hyundai Grand i10,Hyundai,Chennai,2020,41445,Petrol,Manual,1,0,1197,83,5.0,565000
+Maruti Wagon R 1.0,Maruti,Chennai,2017,49131,Petrol,Manual,1,0,998,68,5.0,439300
+Nissan Micra,Nissan,Chennai,2017,33461,Petrol,Automatic,1,0,1198,77,5.0,466000
+Tata TIGOR,Tata,Chennai,2022,9872,CNG,Manual,1,0,1199,73,5.0,799000
+Maruti Baleno,Maruti,Chennai,2017,75487,Petrol,Manual,1,0,998,102,5.0,606000
+Mahindra XUV300,Mahindra,Chennai,2019,25095,Diesel,Manual,1,0,1497,117,5.0,958000
+Maruti New Wagon-R,Maruti,Chennai,2021,6549,Petrol,Manual,1,0,998,68,5.0,522000
+Hyundai Grand i10,Hyundai,Chennai,2016,67048,Petrol,Manual,2,0,1197,83,5.0,419000
+Jeep Compass,Jeep,Chennai,2018,58037,Petrol,Automatic,1,0,1368,163,5.0,1292700
+Maruti Swift,Maruti,Chennai,2021,31959,Petrol,Manual,1,0,1197,90,5.0,633000
+Mahindra XUV300,Mahindra,Chennai,2019,9646,Petrol,Manual,1,0,1197,110,5.0,963000
+Maruti Alto 800,Maruti,Chennai,2015,44344,Petrol,Manual,1,0,796,48,5.0,278000
+Hyundai NEW I20,Hyundai,Chennai,2022,26467,Diesel,Manual,1,0,1493,100,5.0,993000
+Hyundai Xcent,Hyundai,Chennai,2014,86520,Petrol,Manual,1,0,1197,83,5.0,396000
+Maruti Swift,Maruti,Chennai,2016,72936,Petrol,Manual,1,0,1197,84,5.0,526000
+Hyundai Elite i20,Hyundai,Chennai,2019,66820,Petrol,Manual,2,0,1197,83,5.0,678000
+Maruti Vitara Brezza,Maruti,Chennai,2021,22323,Petrol,Manual,1,0,1462,105,5.0,781000
+Renault Kwid,Renault,Chennai,2016,20372,Petrol,Manual,1,0,999,68,5.0,333000
+Hyundai Creta,Hyundai,Chennai,2018,33360,Petrol,Manual,2,0,1591,123,5.0,801000
+Maruti Alto,Maruti,Chennai,2020,5093,Petrol,Manual,1,0,796,48,5.0,360000
+Maruti Alto,Maruti,Chennai,2021,2632,Petrol,Manual,1,0,796,48,5.0,411000
+Maruti Swift,Maruti,Chennai,2019,55975,Petrol,Automatic,1,0,1197,83,5.0,597000
+Maruti Baleno,Maruti,Chennai,2017,89488,Petrol,Manual,2,0,1197,84,5.0,537000
+Maruti Swift,Maruti,Chennai,2013,96061,Petrol,Manual,1,0,1197,87,5.0,390000
+Honda City,Honda,Chennai,2023,12390,Petrol,Manual,1,0,1498,121,5.0,1125000
+Hyundai VENUE,Hyundai,Chennai,2019,74698,Petrol,Manual,1,0,998,120,5.0,787000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2019,24896,Petrol,Manual,1,0,1197,83,5.0,628000
+Maruti Alto 800,Maruti,Chennai,2018,24340,Petrol,Manual,2,0,796,48,5.0,306000
+Nissan MAGNITE,Nissan,Chennai,2023,9986,Petrol,Manual,1,0,999,72,5.0,842000
+Hyundai Elite i20,Hyundai,Chennai,2017,40512,Petrol,Manual,1,0,1197,83,5.0,572000
+Hyundai Elite i20,Hyundai,Chennai,2020,40065,Petrol,Manual,1,0,1197,83,5.0,665000
+Hyundai i20 Active,Hyundai,Chennai,2016,51644,Petrol,Manual,1,0,1197,83,5.0,601000
+Hyundai Grand i10,Hyundai,Chennai,2014,51421,Petrol,Automatic,1,0,1197,83,5.0,414000
+Honda City,Honda,Chennai,2020,33926,Petrol,Automatic,2,0,1497,119,5.0,1054000
+Hyundai Creta,Hyundai,Chennai,2018,32729,Petrol,Manual,2,0,1591,123,5.0,782000
+Hyundai i20,Hyundai,Chennai,2012,73260,Petrol,Manual,2,0,1197,84,5.0,337000
+Tata Safari,Tata,Chennai,2023,6468,Diesel,Automatic,1,0,1956,170,7.0,1955000
+Hyundai Grand i10,Hyundai,Chennai,2016,36946,Petrol,Automatic,1,0,1197,83,5.0,462000
+Hyundai GRAND I10 NIOS,Hyundai,Chennai,2019,43440,Petrol,Automatic,1,0,1197,83,5.0,591000
+Hyundai VENUE,Hyundai,Chennai,2019,19025,Petrol,Manual,1,0,1197,83,5.0,694000
+Hyundai NEW SANTRO,Hyundai,Chennai,2019,45300,Petrol,Manual,1,0,1086,69,5.0,495000
+Tata Tiago,Tata,Chennai,2017,8883,Petrol,Manual,1,0,1199,85,5.0,466000
+Volkswagen Polo,Volkswagen,Chennai,2022,31128,Petrol,Automatic,1,0,999,110,5.0,830000
+Honda City,Honda,Chennai,2018,27818,Petrol,Automatic,2,0,1497,119,5.0,831000
+Mahindra TUV300,Mahindra,Chennai,2018,51656,Diesel,Manual,2,0,1493,100,7.0,769000
+Maruti Wagon R 1.0,Maruti,Chennai,2015,40752,Petrol,Manual,1,0,998,68,5.0,359000
+Tata PUNCH,Tata,Chennai,2023,14771,Petrol,Manual,1,0,1199,86,5.0,852000
+Honda City,Honda,Chennai,2016,57586,Petrol,Manual,1,0,1497,119,5.0,599000
+Toyota Innova Crysta,Toyota,Chennai,2022,25043,Diesel,Manual,2,0,2393,150,7.0,1795000
+Maruti Baleno,Maruti,Chennai,2016,80251,Petrol,Manual,1,0,1197,84,5.0,536000
+Ford Ecosport,Ford,Chennai,2018,83697,Diesel,Manual,2,0,1498,101,5.0,719000
+Hyundai VENUE,Hyundai,Chennai,2022,26899,Petrol,Manual,1,0,998,120,5.0,983000
+Maruti Vitara Brezza,Maruti,Chennai,2017,57761,Diesel,Manual,2,0,1248,90,5.0,708000
+Honda Amaze,Honda,Chennai,2014,54271,Petrol,Manual,1,0,1198,88,5.0,414000
+Hyundai Creta,Hyundai,Chennai,2019,68019,Petrol,Manual,1,0,1591,123,5.0,1100000
+Maruti Dzire,Maruti,Chennai,2020,62438,Petrol,Manual,1,0,1197,90,5.0,767000
+Skoda Rapid,Skoda,Chennai,2018,50613,Petrol,Manual,1,0,1598,105,5.0,767000
+Maruti Alto 800,Maruti,Chennai,2015,31361,Petrol,Manual,1,0,796,48,5.0,287000
+Renault TRIBER,Renault,Chennai,2021,12741,Petrol,Automatic,2,0,999,72,7.0,587000
+Maruti Celerio,Maruti,Chennai,2014,70820,Petrol,Manual,2,0,998,68,5.0,342000
+Hyundai Verna,Hyundai,Chennai,2018,56102,Petrol,Automatic,1,0,1591,123,5.0,914000
+Maruti Baleno,Maruti,Chennai,2022,19025,Petrol,Manual,1,0,1197,90,5.0,743000

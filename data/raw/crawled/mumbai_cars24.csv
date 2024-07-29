@@ -1,0 +1,602 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Maruti Dzire,Maruti,Mumbai,2018,51852,Petrol,Automatic,1,0,1197,83,5.0,562000
+Hyundai Xcent,Hyundai,Mumbai,2014,55106,Petrol,Manual,1,0,1197,83,5.0,388000
+Hyundai Elite i20,Hyundai,Mumbai,2016,27261,Petrol,Manual,1,0,1197,83,5.0,543000
+Volkswagen Ameo,Volkswagen,Mumbai,2019,34651,Petrol,Manual,2,0,999,76,5.0,572000
+Maruti Swift Dzire,Maruti,Mumbai,2014,11144,Diesel,Manual,1,0,1248,75,5.0,613000
+Hyundai Elite i20,Hyundai,Mumbai,2018,56236,Petrol,Manual,1,0,1197,83,5.0,603000
+Maruti Wagon R 1.0,Maruti,Mumbai,2012,42425,Petrol,Manual,2,0,998,68,5.0,231000
+Honda WR-V,Honda,Mumbai,2018,59897,Petrol,Manual,1,0,1199,90,5.0,711000
+Hyundai Creta,Hyundai,Mumbai,2016,83626,Petrol,Automatic,1,0,1591,123,5.0,854000
+Hyundai Grand i10,Hyundai,Mumbai,2015,62163,Petrol,Automatic,1,0,1197,83,5.0,416000
+Hyundai Grand i10,Hyundai,Mumbai,2018,32749,CNG,Manual,1,0,1197,83,5.0,516000
+Maruti Celerio,Maruti,Mumbai,2016,76727,Petrol,Automatic,1,0,998,68,5.0,396800
+Maruti Baleno,Maruti,Mumbai,2017,40995,Petrol,Manual,1,0,1197,84,5.0,567400
+Maruti Baleno,Maruti,Mumbai,2016,59679,Petrol,Manual,1,0,1197,84,5.0,489000
+Honda City,Honda,Mumbai,2019,54705,Petrol,Automatic,1,0,1497,119,5.0,958000
+Hyundai Grand i10,Hyundai,Mumbai,2016,59893,Petrol,Manual,2,0,1197,83,5.0,372000
+Maruti Baleno,Maruti,Mumbai,2016,43273,Petrol,Manual,1,0,1197,84,5.0,505000
+Maruti Celerio,Maruti,Mumbai,2017,85712,CNG,Manual,1,0,998,59,5.0,403000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,56359,CNG,Manual,2,0,998,59,5.0,391000
+Toyota YARIS,Toyota,Mumbai,2018,30509,Petrol,Manual,2,0,1496,107,5.0,783000
+Volkswagen Polo,Volkswagen,Mumbai,2015,70096,Petrol,Automatic,2,0,1197,105,5.0,530000
+Honda BR-V,Honda,Mumbai,2017,75870,Petrol,Automatic,2,0,1497,119,7.0,663000
+Ford Ecosport,Ford,Mumbai,2015,45779,Petrol,Manual,3,0,1499,112,5.0,427000
+Hyundai Elite i20,Hyundai,Mumbai,2017,44558,Petrol,Manual,1,0,1197,83,5.0,564000
+Tata Tiago,Tata,Mumbai,2017,37602,Petrol,Manual,2,0,1199,85,5.0,412000
+Nissan MAGNITE,Nissan,Mumbai,2022,15037,Petrol,Automatic,1,0,999,100,5.0,800000
+Toyota URBAN CRUISER,Toyota,Mumbai,2021,18001,Petrol,Manual,1,0,1462,105,5.0,947000
+KIA SELTOS,KIA,Mumbai,2021,33374,Petrol,Automatic,2,0,1353,140,5.0,1475000
+MG HECTOR,MG,Mumbai,2022,29274,Diesel,Manual,1,0,1956,170,5.0,1772000
+Maruti Ciaz,Maruti,Mumbai,2021,30926,Petrol,Manual,1,0,1462,105,5.0,798000
+Hyundai VENUE,Hyundai,Mumbai,2021,9340,Petrol,Manual,1,0,998,120,5.0,965000
+Hyundai VENUE,Hyundai,Mumbai,2021,48355,Petrol,Automatic,1,0,998,120,5.0,955000
+Maruti Vitara Brezza,Maruti,Mumbai,2016,99679,Diesel,Manual,1,0,1248,90,5.0,688500
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,21606,Petrol,Manual,1,0,998,68,5.0,296000
+Tata Tiago,Tata,Mumbai,2019,32045,Petrol,Automatic,1,0,1199,85,5.0,514000
+Maruti Baleno,Maruti,Mumbai,2020,33723,Petrol,Manual,1,0,1197,83,5.0,583000
+Maruti Ertiga,Maruti,Mumbai,2015,48033,Petrol,Manual,1,0,1373,95,7.0,670000
+Hyundai Elite i20,Hyundai,Mumbai,2016,38566,Petrol,Manual,1,0,1197,83,5.0,488000
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,99498,CNG,Manual,2,0,998,59,5.0,301000
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2019,30977,Petrol,Manual,1,0,1197,83,5.0,574000
+Skoda Rapid,Skoda,Mumbai,2013,47977,Petrol,Manual,2,0,1598,105,5.0,380000
+Maruti Swift,Maruti,Mumbai,2014,29876,Petrol,Manual,1,0,1197,87,5.0,396000
+Tata ALTROZ,Tata,Mumbai,2021,13348,Petrol,Manual,1,0,1199,86,5.0,754000
+Tata NEXON,Tata,Mumbai,2021,13342,Petrol,Manual,1,0,1199,120,5.0,862000
+Honda City,Honda,Mumbai,2019,17087,Petrol,Manual,1,0,1497,119,5.0,895000
+Maruti Swift,Maruti,Mumbai,2014,53120,Petrol,Manual,1,0,1197,87,5.0,371300
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,80601,CNG,Manual,1,0,998,59,5.0,292000
+Hyundai VENUE,Hyundai,Mumbai,2019,45750,Petrol,Manual,2,0,998,120,5.0,778000
+Hyundai Grand i10,Hyundai,Mumbai,2014,39636,Petrol,Manual,1,0,1197,83,5.0,361000
+Maruti Ciaz,Maruti,Mumbai,2016,90742,Petrol,Automatic,1,0,1373,92,5.0,567000
+Hyundai VENUE,Hyundai,Mumbai,2021,49880,Petrol,Manual,1,0,998,120,5.0,835000
+Volkswagen Polo,Volkswagen,Mumbai,2016,72744,Diesel,Manual,3,0,1498,90,5.0,525000
+Hyundai VENUE,Hyundai,Mumbai,2019,34899,Petrol,Manual,1,0,998,120,5.0,870000
+Ford Ecosport,Ford,Mumbai,2017,79659,Diesel,Manual,1,0,1498,101,5.0,652000
+Renault Duster,Renault,Mumbai,2019,26958,Petrol,Automatic,1,0,1498,106,5.0,772000
+Honda City,Honda,Mumbai,2014,45962,Petrol,Automatic,2,0,1497,119,5.0,512000
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,44412,Petrol,Manual,1,0,998,68,5.0,277000
+Honda Amaze,Honda,Mumbai,2020,30688,Petrol,Manual,1,0,1199,90,5.0,629000
+Honda City,Honda,Mumbai,2015,79079,Petrol,Manual,2,0,1497,119,5.0,433000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2018,59736,CNG,Manual,1,0,1086,69,5.0,436000
+Hyundai Elite i20,Hyundai,Mumbai,2014,60702,Petrol,Manual,1,0,1197,83,5.0,419000
+Maruti New Wagon-R,Maruti,Mumbai,2020,20785,Petrol,Manual,1,0,1197,83,5.0,516000
+Maruti Celerio,Maruti,Mumbai,2019,35436,CNG,Manual,1,0,998,59,5.0,549000
+Hyundai Elite i20,Hyundai,Mumbai,2017,98272,Petrol,Manual,1,0,1197,83,5.0,513000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,22280,Petrol,Manual,1,0,998,68,5.0,384000
+Hyundai Elite i20,Hyundai,Mumbai,2016,46613,Petrol,Manual,1,0,1197,83,5.0,504000
+Toyota Innova,Toyota,Mumbai,2015,121038,Diesel,Manual,1,0,2494,102,7.0,903000
+Hyundai Xcent,Hyundai,Mumbai,2014,54098,Petrol,Manual,2,0,1197,83,5.0,363000
+Hyundai Grand i10,Hyundai,Mumbai,2016,70453,Petrol,Automatic,1,0,1197,83,5.0,426000
+Mahindra XUV300,Mahindra,Mumbai,2022,16454,Diesel,Manual,1,0,1497,117,5.0,1025000
+Maruti New Wagon-R,Maruti,Mumbai,2019,25824,Petrol,Manual,1,0,1197,83,5.0,518000
+Maruti Swift Dzire,Maruti,Mumbai,2015,84530,Petrol,Manual,1,0,1197,84,5.0,369000
+Hyundai Creta,Hyundai,Mumbai,2017,89501,Petrol,Manual,1,0,1591,123,5.0,675000
+Hyundai Elite i20,Hyundai,Mumbai,2016,46186,Petrol,Manual,1,0,1197,83,5.0,522000
+Hyundai Grand i10,Hyundai,Mumbai,2018,86975,Petrol,Automatic,1,0,1197,83,5.0,526000
+Honda City,Honda,Mumbai,2017,38411,Petrol,Manual,1,0,1497,119,5.0,672000
+Maruti Baleno,Maruti,Mumbai,2017,49544,Petrol,Manual,2,0,1197,84,5.0,454000
+Maruti New Wagon-R,Maruti,Mumbai,2019,11829,Petrol,Manual,2,0,1197,83,5.0,501000
+Honda City,Honda,Mumbai,2015,91885,Diesel,Manual,2,0,1498,100,5.0,478000
+Maruti Celerio,Maruti,Mumbai,2017,42234,Petrol,Automatic,1,0,998,68,5.0,408000
+Maruti Wagon R 1.0,Maruti,Mumbai,2016,51265,Petrol,Manual,1,0,998,68,5.0,348000
+Maruti Baleno,Maruti,Mumbai,2017,35708,Petrol,Manual,1,0,1197,84,5.0,530500
+Nissan MAGNITE,Nissan,Mumbai,2022,33145,Petrol,Manual,1,0,999,72,5.0,658000
+Maruti Baleno,Maruti,Mumbai,2019,16547,Petrol,Automatic,2,0,1197,84,5.0,600000
+Tata Harrier,Tata,Mumbai,2019,52045,Diesel,Manual,2,0,1956,140,5.0,1268000
+Maruti IGNIS,Maruti,Mumbai,2020,20435,Petrol,Manual,1,0,1197,83,5.0,554000
+Hyundai VENUE,Hyundai,Mumbai,2021,34705,Petrol,Manual,1,0,998,120,5.0,839000
+Honda City,Honda,Mumbai,2015,61228,Petrol,Manual,1,0,1497,119,5.0,516000
+Maruti Swift,Maruti,Mumbai,2011,67725,Petrol,Manual,2,0,1197,87,5.0,297000
+Maruti Swift,Maruti,Mumbai,2015,76928,Petrol,Manual,2,0,1197,84,5.0,389000
+Honda Jazz,Honda,Mumbai,2015,34003,Petrol,Automatic,1,0,1199,90,5.0,470000
+Volkswagen Ameo,Volkswagen,Mumbai,2016,11546,Petrol,Manual,1,0,1198,75,5.0,484000
+Jeep Compass,Jeep,Mumbai,2017,99924,Diesel,Manual,1,0,1956,173,5.0,945650
+Hyundai Elite i20,Hyundai,Mumbai,2018,75355,Diesel,Manual,2,0,1396,90,5.0,660000
+Renault Kiger,Renault,Mumbai,2021,46060,Petrol,Manual,1,0,999,72,5.0,538000
+Skoda Rapid,Skoda,Mumbai,2017,84858,Petrol,Automatic,3,0,1598,105,5.0,518000
+Maruti Ciaz,Maruti,Mumbai,2015,85628,Petrol,Manual,1,0,1373,92,5.0,470000
+Hyundai Creta,Hyundai,Mumbai,2015,76643,Petrol,Manual,2,0,1591,123,5.0,632000
+Maruti Vitara Brezza,Maruti,Mumbai,2017,53140,Diesel,Manual,1,0,1248,90,5.0,629000
+Jeep Compass,Jeep,Mumbai,2019,10405,Petrol,Manual,1,0,1368,163,5.0,1091000
+Hyundai Elite i20,Hyundai,Mumbai,2015,77613,Petrol,Manual,1,0,1197,83,5.0,443000
+Maruti Wagon R 1.0,Maruti,Mumbai,2018,34473,Petrol,Automatic,2,0,998,68,5.0,366000
+Hyundai New Elantra,Hyundai,Mumbai,2017,76064,Petrol,Automatic,2,0,1999,152,5.0,806000
+Ford Ecosport,Ford,Mumbai,2015,43187,Petrol,Automatic,1,0,1499,112,5.0,512000
+Maruti Baleno,Maruti,Mumbai,2017,76316,Petrol,Manual,2,0,1197,84,5.0,411200
+Tata Tiago,Tata,Mumbai,2021,34270,Petrol,Automatic,1,0,1199,86,5.0,589000
+Hyundai i20,Hyundai,Mumbai,2014,35207,Petrol,Manual,2,0,1197,84,5.0,366000
+Honda City,Honda,Mumbai,2014,61542,Petrol,Manual,1,0,1497,118,5.0,449000
+Hyundai Grand i10,Hyundai,Mumbai,2018,113120,Diesel,Manual,1,0,1186,75,5.0,433000
+Volkswagen Polo,Volkswagen,Mumbai,2015,54590,Petrol,Automatic,1,0,1197,105,5.0,535000
+Skoda Rapid,Skoda,Mumbai,2013,90993,Petrol,Manual,1,0,1598,105,5.0,342000
+Volkswagen Polo,Volkswagen,Mumbai,2014,46222,Petrol,Manual,3,0,1198,75,5.0,355600
+Maruti Swift Dzire,Maruti,Mumbai,2016,49757,Petrol,Manual,2,0,1197,84,5.0,439000
+Mahindra XUV300,Mahindra,Mumbai,2022,13010,Petrol,Automatic,2,0,1197,110,5.0,940300
+Maruti Dzire,Maruti,Mumbai,2023,12653,Petrol,Automatic,1,0,1197,90,5.0,828000
+Volkswagen Polo,Volkswagen,Mumbai,2012,61164,Petrol,Manual,1,0,1198,75,5.0,303000
+Maruti Wagon R Stingray,Maruti,Mumbai,2013,35954,Petrol,Manual,1,0,998,68,5.0,299000
+Maruti Ertiga,Maruti,Mumbai,2017,94570,Diesel,Manual,1,0,1248,90,7.0,877000
+KIA SELTOS,KIA,Mumbai,2020,65200,Petrol,Automatic,1,0,1353,140,5.0,1350000
+Maruti BREZZA,Maruti,Mumbai,2022,5377,Petrol,Manual,1,0,1462,103,5.0,1159000
+Maruti Baleno,Maruti,Mumbai,2016,34019,Petrol,Automatic,1,0,1197,84,5.0,526000
+Honda Jazz,Honda,Mumbai,2017,45773,Petrol,Automatic,1,0,1199,90,5.0,466000
+Ford Ecosport,Ford,Mumbai,2019,30825,Petrol,Manual,2,0,999,125,5.0,766000
+Hyundai Creta,Hyundai,Mumbai,2018,50556,Petrol,Manual,1,0,1591,123,5.0,835000
+Ford Ecosport,Ford,Mumbai,2016,41949,Petrol,Automatic,1,0,1499,112,5.0,598000
+Toyota Etios Liva,Toyota,Mumbai,2011,79645,Petrol,Manual,1,0,1197,80,5.0,228000
+Maruti Baleno,Maruti,Mumbai,2015,56687,Diesel,Manual,1,0,1248,75,5.0,590000
+Maruti Alto 800,Maruti,Mumbai,2016,45935,Petrol,Manual,2,0,796,48,5.0,251000
+Maruti Swift,Maruti,Mumbai,2012,15045,Petrol,Manual,1,0,1197,87,5.0,315000
+Ford Ecosport,Ford,Mumbai,2018,87593,Diesel,Manual,2,0,1498,101,5.0,673000
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2019,47261,Petrol,Automatic,1,0,1197,83,5.0,577000
+Hyundai i20,Hyundai,Mumbai,2011,122248,Petrol,Manual,1,0,1197,80,5.0,224500
+Maruti Celerio,Maruti,Mumbai,2014,76296,Petrol,Automatic,1,0,998,68,5.0,312000
+Hyundai Elite i20,Hyundai,Mumbai,2017,41718,Petrol,Manual,2,0,1197,83,5.0,469000
+Tata TIGOR,Tata,Mumbai,2022,5837,CNG,Manual,1,0,1199,73,5.0,793000
+Maruti Swift,Maruti,Mumbai,2014,83006,Diesel,Manual,1,0,1248,75,5.0,426000
+Maruti Swift,Maruti,Mumbai,2016,35970,Petrol,Manual,1,0,1197,84,5.0,433000
+Hyundai New Elantra,Hyundai,Mumbai,2018,48054,Diesel,Automatic,2,0,1582,128,5.0,1065000
+Skoda Rapid,Skoda,Mumbai,2018,119830,Diesel,Automatic,1,0,1498,110,5.0,667000
+Volkswagen VIRTUS,Volkswagen,Mumbai,2023,8966,Petrol,Automatic,1,0,1498,150,5.0,1732000
+Maruti Swift Dzire,Maruti,Mumbai,2014,114899,Diesel,Manual,2,0,1248,75,5.0,465000
+Hyundai AURA,Hyundai,Mumbai,2021,16365,Petrol,Manual,1,0,1197,83,5.0,685000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,65289,Petrol,Automatic,1,0,998,68,5.0,366000
+Hyundai Creta,Hyundai,Mumbai,2016,53911,Petrol,Manual,1,0,1591,123,5.0,658000
+Maruti Baleno,Maruti,Mumbai,2020,14523,Petrol,Manual,2,0,1197,83,5.0,605000
+Tata ALTROZ,Tata,Mumbai,2020,47992,Petrol,Manual,1,0,1199,86,5.0,654000
+Hyundai Elite i20,Hyundai,Mumbai,2016,62117,Petrol,Manual,3,0,1197,83,5.0,481000
+Volkswagen Vento,Volkswagen,Mumbai,2020,89509,Petrol,Automatic,1,0,999,110,5.0,860000
+Maruti New Wagon-R,Maruti,Mumbai,2019,66684,CNG,Manual,2,0,998,58,5.0,481000
+Maruti Baleno,Maruti,Mumbai,2017,77650,Petrol,Automatic,1,0,1197,84,5.0,521000
+Renault Kwid,Renault,Mumbai,2022,4744,Petrol,Manual,1,0,999,68,5.0,430000
+Volkswagen Ameo,Volkswagen,Mumbai,2016,10117,Petrol,Manual,2,0,1198,75,5.0,443000
+Hyundai i10,Hyundai,Mumbai,2011,79326,Petrol,Manual,2,0,1086,69,5.0,194000
+Honda WR-V,Honda,Mumbai,2018,45344,Petrol,Manual,1,0,1199,90,5.0,607000
+Maruti Celerio,Maruti,Mumbai,2018,74536,CNG,Manual,1,0,998,59,5.0,395000
+Toyota Etios Liva,Toyota,Mumbai,2011,77595,Petrol,Manual,1,0,1197,80,5.0,237000
+Maruti Celerio,Maruti,Mumbai,2021,23012,Petrol,Manual,1,0,998,68,5.0,502000
+Maruti BREZZA,Maruti,Mumbai,2022,11537,Petrol,Manual,1,0,1462,103,5.0,1122000
+Maruti Baleno,Maruti,Mumbai,2016,46564,Petrol,Manual,1,0,1197,84,5.0,489000
+Hyundai New Elantra,Hyundai,Mumbai,2019,43333,Petrol,Automatic,2,0,1999,152,5.0,1085000
+Hyundai i10,Hyundai,Mumbai,2014,21258,Petrol,Manual,1,0,1086,69,5.0,323000
+Maruti New Wagon-R,Maruti,Mumbai,2021,23233,CNG,Manual,1,0,998,58,5.0,581000
+Hyundai i10,Hyundai,Mumbai,2011,30375,Petrol,Manual,3,0,1197,80,5.0,209000
+Tata NEXON,Tata,Mumbai,2018,104792,Diesel,Automatic,1,0,1497,110,5.0,668000
+Tata TIGOR,Tata,Mumbai,2022,18438,CNG,Manual,2,0,1199,73,5.0,733000
+Hyundai Elite i20,Hyundai,Mumbai,2016,16301,Petrol,Manual,1,0,1197,83,5.0,525600
+Honda City,Honda,Mumbai,2015,100831,Petrol,Manual,1,0,1497,119,5.0,456000
+Maruti Baleno,Maruti,Mumbai,2019,24684,Petrol,Automatic,1,0,1197,83,5.0,707500
+Hyundai Elite i20,Hyundai,Mumbai,2015,30141,Petrol,Manual,2,0,1197,83,5.0,426700
+Tata Safari,Tata,Mumbai,2021,16603,Diesel,Manual,1,0,1956,170,7.0,1878400
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,95214,Petrol,Automatic,1,0,998,68,5.0,304000
+Nissan MAGNITE,Nissan,Mumbai,2021,47127,Petrol,Manual,1,0,999,72,5.0,678000
+Hyundai Creta,Hyundai,Mumbai,2017,79836,Diesel,Automatic,1,0,1582,128,5.0,972000
+Maruti Swift Dzire,Maruti,Mumbai,2012,60719,Petrol,Manual,1,0,1197,87,5.0,341000
+Maruti Celerio,Maruti,Mumbai,2014,66046,Petrol,Manual,2,0,998,68,5.0,305000
+Maruti Celerio,Maruti,Mumbai,2017,79682,CNG,Manual,1,0,998,59,5.0,406000
+Honda Jazz,Honda,Mumbai,2017,25602,Petrol,Manual,2,0,1199,90,5.0,444000
+Hyundai Creta,Hyundai,Mumbai,2018,107774,Diesel,Automatic,1,0,1582,128,5.0,1026000
+Maruti Ciaz,Maruti,Mumbai,2020,28132,Petrol,Automatic,1,0,1462,105,5.0,814000
+Hyundai Grand i10,Hyundai,Mumbai,2014,56392,Petrol,Manual,1,0,1197,83,5.0,327000
+Hyundai i10,Hyundai,Mumbai,2013,69725,Petrol,Manual,2,0,1197,80,5.0,251000
+Hyundai Creta,Hyundai,Mumbai,2019,70430,Petrol,Manual,2,0,1591,123,5.0,838000
+Honda City,Honda,Mumbai,2015,75533,Petrol,Manual,1,0,1497,119,5.0,549000
+Maruti Swift,Maruti,Mumbai,2017,47322,Petrol,Manual,1,0,1197,84,5.0,486000
+Hyundai Grand i10,Hyundai,Mumbai,2017,21635,Petrol,Manual,1,0,1197,83,5.0,449000
+Maruti Swift,Maruti,Mumbai,2014,69389,Petrol,Manual,1,0,1197,87,5.0,333000
+Honda City,Honda,Mumbai,2017,45676,Petrol,Automatic,1,0,1497,119,5.0,723300
+Maruti New Wagon-R,Maruti,Mumbai,2021,13106,CNG,Manual,1,0,998,58,5.0,596000
+Maruti Swift,Maruti,Mumbai,2017,57535,Petrol,Manual,2,0,1197,84,5.0,492000
+Honda City,Honda,Mumbai,2015,61177,Petrol,Manual,2,0,1497,119,5.0,470000
+Maruti Ertiga,Maruti,Mumbai,2016,68384,Diesel,Manual,1,0,1248,90,7.0,708000
+Maruti New Wagon-R,Maruti,Mumbai,2021,19622,CNG,Manual,1,0,998,58,5.0,610000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,62850,CNG,Manual,3,0,998,59,5.0,348000
+Renault Kwid,Renault,Mumbai,2023,12014,Petrol,Automatic,1,0,999,68,5.0,564000
+Maruti Ciaz,Maruti,Mumbai,2018,18001,Petrol,Manual,1,0,1462,105,5.0,740000
+Tata ALTROZ,Tata,Mumbai,2020,71356,Petrol,Manual,1,0,1199,86,5.0,690000
+Maruti Wagon R 1.0,Maruti,Mumbai,2012,43569,Petrol,Manual,2,0,998,68,5.0,249325
+Honda City,Honda,Mumbai,2020,44722,Petrol,Manual,1,0,1497,119,5.0,893000
+Renault Duster,Renault,Mumbai,2017,31113,Petrol,Automatic,1,0,1498,106,5.0,615000
+Hyundai Creta,Hyundai,Mumbai,2016,45568,Petrol,Manual,1,0,1591,123,5.0,668000
+Maruti Celerio,Maruti,Mumbai,2016,33655,Petrol,Manual,1,0,998,68,5.0,367000
+Honda WR-V,Honda,Mumbai,2017,87905,Petrol,Manual,2,0,1199,90,5.0,567000
+Volkswagen Vento,Volkswagen,Mumbai,2012,93393,Petrol,Manual,1,0,1598,105,5.0,313000
+Maruti BREZZA,Maruti,Mumbai,2023,10234,Petrol,Manual,1,0,1462,103,5.0,1231200
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,67447,Petrol,Manual,1,0,998,68,5.0,292000
+Honda City,Honda,Mumbai,2017,33613,Petrol,Automatic,1,0,1497,119,5.0,785000
+Hyundai Elite i20,Hyundai,Mumbai,2016,52544,Petrol,Manual,3,0,1197,83,5.0,428000
+Hyundai AURA,Hyundai,Mumbai,2022,20883,Petrol,Automatic,1,0,1197,83,5.0,802000
+Hyundai Grand i10,Hyundai,Mumbai,2017,44823,Petrol,Manual,1,0,1197,83,5.0,453000
+Skoda Rapid,Skoda,Mumbai,2018,59417,Petrol,Manual,1,0,1598,105,5.0,697000
+Honda Brio,Honda,Mumbai,2014,69196,Petrol,Automatic,2,0,1198,88,5.0,338400
+Maruti S Cross,Maruti,Mumbai,2020,29624,Petrol,Automatic,1,0,1462,105,5.0,1006000
+Hyundai Grand i10,Hyundai,Mumbai,2018,45213,Petrol,Manual,1,0,1197,83,5.0,472000
+Hyundai Creta,Hyundai,Mumbai,2017,23252,Petrol,Manual,2,0,1591,123,5.0,746000
+Honda City,Honda,Mumbai,2021,22827,Petrol,Automatic,1,0,1498,121,5.0,1290000
+Jeep Compass,Jeep,Mumbai,2017,66096,Diesel,Manual,2,0,1956,173,5.0,903000
+Hyundai Grand i10,Hyundai,Mumbai,2018,65001,Petrol,Automatic,1,0,1197,83,5.0,529000
+Honda City,Honda,Mumbai,2017,68950,Petrol,Automatic,1,0,1497,119,5.0,654300
+Maruti Baleno,Maruti,Mumbai,2018,54530,Petrol,Manual,1,0,1197,84,5.0,507300
+Maruti New Wagon-R,Maruti,Mumbai,2023,1958,Petrol,Manual,1,0,998,67,5.0,589000
+Honda WR-V,Honda,Mumbai,2019,70985,Petrol,Manual,1,0,1199,90,5.0,654000
+Maruti S PRESSO,Maruti,Mumbai,2021,12655,Petrol,Manual,1,0,998,68,5.0,405000
+Hyundai Creta,Hyundai,Mumbai,2017,90305,Petrol,Automatic,1,0,1591,123,5.0,836000
+Toyota Corolla Altis,Toyota,Mumbai,2018,74221,Petrol,Automatic,1,0,1798,140,5.0,958000
+Tata ALTROZ,Tata,Mumbai,2020,11670,Petrol,Manual,1,0,1199,86,5.0,693000
+Hyundai Xcent,Hyundai,Mumbai,2015,65203,Petrol,Manual,2,0,1197,83,5.0,348000
+Toyota Corolla Altis,Toyota,Mumbai,2017,56595,Petrol,Automatic,1,0,1798,140,5.0,1012000
+Maruti New Wagon-R,Maruti,Mumbai,2020,12950,CNG,Manual,2,0,998,58,5.0,526000
+Tata NEXON,Tata,Mumbai,2019,61806,Petrol,Automatic,1,0,1198,110,5.0,773000
+Maruti New Wagon-R,Maruti,Mumbai,2020,24495,Petrol,Automatic,1,0,1197,83,5.0,549000
+Toyota Glanza,Toyota,Mumbai,2019,16870,Petrol,Automatic,2,0,1197,83,5.0,679000
+Toyota Corolla Altis,Toyota,Mumbai,2018,77581,Petrol,Automatic,2,0,1798,140,5.0,980200
+Mahindra XUV300,Mahindra,Mumbai,2019,51938,Diesel,Manual,1,0,1497,117,5.0,866000
+Volkswagen Vento,Volkswagen,Mumbai,2018,70205,Diesel,Automatic,2,0,1498,110,5.0,802000
+Maruti New Wagon-R,Maruti,Mumbai,2021,39613,CNG,Manual,1,0,998,58,5.0,574000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,30942,Petrol,Manual,2,0,998,68,5.0,307000
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,75349,CNG,Manual,2,0,998,59,5.0,281200
+Honda BR-V,Honda,Mumbai,2018,106523,Petrol,Manual,1,0,1497,119,7.0,739000
+Jeep Compass,Jeep,Mumbai,2021,21250,Petrol,Automatic,2,0,1368,163,5.0,1489000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,28048,Petrol,Manual,2,0,998,68,5.0,318000
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,68427,Petrol,Manual,1,0,998,68,5.0,268000
+Toyota Glanza,Toyota,Mumbai,2020,56916,Petrol,Automatic,1,0,1197,83,5.0,682800
+Tata ALTROZ,Tata,Mumbai,2022,2973,Petrol,Automatic,1,0,1199,86,5.0,895000
+Maruti S PRESSO,Maruti,Mumbai,2019,21125,Petrol,Automatic,1,0,998,68,5.0,463700
+Maruti New Wagon-R,Maruti,Mumbai,2021,30981,CNG,Manual,1,0,998,58,5.0,583000
+Maruti New Wagon-R,Maruti,Mumbai,2022,31378,Petrol,Manual,1,0,998,67,5.0,560000
+Maruti Swift Dzire,Maruti,Mumbai,2013,120050,Diesel,Manual,1,0,1248,75,5.0,438000
+Maruti S PRESSO,Maruti,Mumbai,2022,10815,Petrol,Manual,1,0,998,67,5.0,486000
+Hyundai i10,Hyundai,Mumbai,2015,55760,Petrol,Manual,2,0,1086,69,5.0,294000
+Maruti New Wagon-R,Maruti,Mumbai,2021,19528,Petrol,Manual,2,0,1197,83,5.0,516000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,78285,Petrol,Automatic,1,0,998,68,5.0,375000
+Mahindra XUV300,Mahindra,Mumbai,2022,11461,Diesel,Automatic,1,0,1497,117,5.0,1116000
+Hyundai Xcent,Hyundai,Mumbai,2014,95827,Petrol,Manual,2,0,1197,83,5.0,353000
+Maruti New Wagon-R,Maruti,Mumbai,2019,37678,Petrol,Manual,1,0,1197,83,5.0,467500
+Maruti New Wagon-R,Maruti,Mumbai,2021,36188,CNG,Manual,1,0,998,58,5.0,595000
+Toyota Corolla Altis,Toyota,Mumbai,2017,61520,Petrol,Automatic,1,0,1798,140,5.0,1021000
+Tata NEXON,Tata,Mumbai,2019,51506,Diesel,Automatic,2,0,1497,110,5.0,836000
+Renault TRIBER,Renault,Mumbai,2020,24117,Petrol,Manual,1,0,999,72,7.0,528700
+Maruti IGNIS,Maruti,Mumbai,2017,30176,Petrol,Manual,1,0,1197,83,5.0,438000
+Jeep Compass,Jeep,Mumbai,2019,36921,Petrol,Automatic,1,0,1368,163,5.0,1469000
+Jeep Compass,Jeep,Mumbai,2018,44734,Diesel,Manual,2,0,1956,173,5.0,1019000
+Renault Kwid,Renault,Mumbai,2020,46581,Petrol,Manual,1,0,999,68,5.0,422000
+Hyundai Creta,Hyundai,Mumbai,2017,75175,Petrol,Manual,1,0,1591,123,5.0,738000
+Hyundai Grand i10,Hyundai,Mumbai,2018,38780,Petrol,Manual,1,0,1197,83,5.0,470700
+Tata NEXON,Tata,Mumbai,2022,18598,Petrol,Manual,1,0,1199,120,5.0,898000
+Toyota Glanza,Toyota,Mumbai,2019,15816,Petrol,Automatic,1,0,1197,83,5.0,793000
+Hyundai Elite i20,Hyundai,Mumbai,2015,52696,Petrol,Manual,1,0,1197,83,5.0,432000
+Maruti IGNIS,Maruti,Mumbai,2019,22343,Petrol,Manual,2,0,1197,83,5.0,529000
+Honda Jazz,Honda,Mumbai,2015,63245,Petrol,Automatic,1,0,1199,90,5.0,489000
+Maruti Baleno,Maruti,Mumbai,2018,33155,Petrol,Automatic,2,0,1197,84,5.0,617550
+Hyundai Creta,Hyundai,Mumbai,2017,39827,Petrol,Manual,1,0,1591,123,5.0,749000
+Hyundai Grand i10,Hyundai,Mumbai,2017,40049,Petrol,Automatic,2,0,1197,83,5.0,478000
+Tata TIGOR,Tata,Mumbai,2021,39046,Petrol,Automatic,1,0,1199,86,5.0,704000
+Maruti New Wagon-R,Maruti,Mumbai,2021,50418,CNG,Manual,1,0,998,58,5.0,580000
+Honda WR-V,Honda,Mumbai,2020,42897,Petrol,Manual,1,0,1199,90,5.0,755000
+Maruti Ciaz,Maruti,Mumbai,2019,54408,Petrol,Automatic,2,0,1462,105,5.0,684000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,70159,CNG,Manual,1,0,1086,60,5.0,470800
+Honda City,Honda,Mumbai,2020,26350,Petrol,Automatic,1,0,1497,119,5.0,1020000
+Maruti S PRESSO,Maruti,Mumbai,2021,27012,Petrol,Automatic,1,0,998,68,5.0,427000
+Hyundai Creta,Hyundai,Mumbai,2017,77926,Petrol,Manual,1,0,1591,123,5.0,742700
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2022,15638,CNG,Manual,1,0,1197,69,5.0,709000
+Hyundai i10,Hyundai,Mumbai,2012,118765,Petrol,Manual,1,0,1197,80,5.0,242000
+Hyundai Creta,Hyundai,Mumbai,2017,101128,Petrol,Manual,2,0,1591,123,5.0,672000
+Hyundai Creta,Hyundai,Mumbai,2016,73228,Petrol,Automatic,1,0,1591,123,5.0,786000
+Hyundai Creta,Hyundai,Mumbai,2017,91055,Petrol,Automatic,2,0,1591,123,5.0,850000
+Toyota Glanza,Toyota,Mumbai,2019,21695,Petrol,Automatic,1,0,1197,83,5.0,728000
+Maruti New Wagon-R,Maruti,Mumbai,2021,13032,CNG,Manual,1,0,998,58,5.0,624000
+Maruti IGNIS,Maruti,Mumbai,2017,56219,CNG,Manual,2,0,1197,83,5.0,431000
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,105898,CNG,Manual,2,0,998,59,5.0,303000
+Hyundai Creta,Hyundai,Mumbai,2017,60607,Petrol,Automatic,2,0,1591,123,5.0,819000
+Maruti S PRESSO,Maruti,Mumbai,2019,8458,Petrol,Manual,1,0,998,68,5.0,401000
+Tata ALTROZ,Tata,Mumbai,2020,27102,Petrol,Manual,1,0,1199,86,5.0,715000
+Hyundai Creta,Hyundai,Mumbai,2018,50441,Petrol,Automatic,1,0,1591,123,5.0,1027000
+Honda City,Honda,Mumbai,2017,22437,Petrol,Manual,2,0,1497,119,5.0,708000
+Maruti Ciaz,Maruti,Mumbai,2021,16992,Petrol,Automatic,1,0,1462,105,5.0,927400
+Maruti Baleno,Maruti,Mumbai,2016,58631,Petrol,Automatic,2,0,1197,84,5.0,495000
+Hyundai Creta,Hyundai,Mumbai,2018,57206,Petrol,Automatic,1,0,1591,123,5.0,1030000
+Maruti Celerio,Maruti,Mumbai,2016,90267,CNG,Manual,2,0,998,59,5.0,398000
+Tata NEXON,Tata,Mumbai,2019,18798,Petrol,Automatic,1,0,1198,110,5.0,845000
+Tata Tiago,Tata,Mumbai,2018,76127,Petrol,Manual,2,0,1199,85,5.0,411000
+Hyundai i10,Hyundai,Mumbai,2015,54825,Petrol,Manual,2,0,1086,69,5.0,314000
+Jeep Compass,Jeep,Mumbai,2018,38696,Petrol,Automatic,2,0,1368,163,5.0,1289000
+Honda City,Honda,Mumbai,2016,59039,Petrol,Automatic,1,0,1497,119,5.0,627000
+Maruti S PRESSO,Maruti,Mumbai,2019,11141,Petrol,Manual,1,0,998,68,5.0,414000
+Volkswagen Ameo,Volkswagen,Mumbai,2019,60683,Diesel,Automatic,2,0,1498,110,5.0,700000
+Honda City,Honda,Mumbai,2015,41887,Petrol,Manual,2,0,1497,119,5.0,515000
+Hyundai Creta,Hyundai,Mumbai,2016,71684,Petrol,Manual,1,0,1591,123,5.0,706000
+Maruti S PRESSO,Maruti,Mumbai,2020,13440,Petrol,Automatic,1,0,998,68,5.0,459000
+Maruti Baleno,Maruti,Mumbai,2016,43373,Petrol,Manual,1,0,1197,84,5.0,482000
+Hyundai Creta,Hyundai,Mumbai,2015,62018,Diesel,Manual,2,0,1582,128,5.0,828000
+Hyundai Grand i10,Hyundai,Mumbai,2017,25723,Petrol,Automatic,1,0,1197,83,5.0,560000
+Honda WR-V,Honda,Mumbai,2018,22652,Petrol,Manual,1,0,1199,90,5.0,683000
+Mahindra XUV300,Mahindra,Mumbai,2019,39094,Petrol,Manual,2,0,1197,110,5.0,758000
+Maruti IGNIS,Maruti,Mumbai,2017,38048,Petrol,Automatic,2,0,1197,83,5.0,475000
+Hyundai Creta,Hyundai,Mumbai,2016,57440,Petrol,Automatic,3,0,1591,123,5.0,764000
+Maruti New Wagon-R,Maruti,Mumbai,2021,18693,Petrol,Manual,1,0,1197,83,5.0,536000
+Hyundai Grand i10,Hyundai,Mumbai,2018,32393,Petrol,Manual,1,0,1197,83,5.0,501000
+Maruti Ciaz,Maruti,Mumbai,2021,33706,Petrol,Automatic,1,0,1462,105,5.0,945000
+Mahindra XUV300,Mahindra,Mumbai,2022,20405,Petrol,Automatic,1,0,1197,110,5.0,1127000
+Maruti New Wagon-R,Maruti,Mumbai,2022,20987,Petrol,Manual,1,0,1197,90,5.0,587000
+Maruti Baleno,Maruti,Mumbai,2017,62669,Petrol,Manual,1,0,1197,84,5.0,520000
+Maruti Ciaz,Maruti,Mumbai,2020,23697,Petrol,Automatic,1,0,1462,105,5.0,886000
+Skoda Rapid,Skoda,Mumbai,2013,81513,Diesel,Manual,1,0,1598,105,5.0,447000
+Maruti Baleno,Maruti,Mumbai,2016,9508,Petrol,Manual,1,0,1197,84,5.0,507000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,73820,CNG,Manual,1,0,1086,60,5.0,471000
+Honda Jazz,Honda,Mumbai,2015,58811,Petrol,Manual,2,0,1199,90,5.0,407000
+Honda City,Honda,Mumbai,2018,93703,Petrol,Manual,2,0,1497,119,5.0,675000
+Maruti S PRESSO,Maruti,Mumbai,2020,37608,CNG,Manual,1,0,998,57,4.0,421000
+Mahindra XUV300,Mahindra,Mumbai,2021,41278,Petrol,Automatic,1,0,1197,110,5.0,1066000
+Maruti Celerio,Maruti,Mumbai,2015,83704,CNG,Manual,1,0,998,59,5.0,405000
+Hyundai Grand i10,Hyundai,Mumbai,2018,20257,Petrol,Manual,2,0,1197,83,5.0,516000
+Maruti Wagon R 1.0,Maruti,Mumbai,2018,48605,CNG,Manual,2,0,998,59,5.0,382000
+Renault Kwid,Renault,Mumbai,2017,37515,Petrol,Manual,2,0,799,54,5.0,290000
+Honda City,Honda,Mumbai,2012,80218,Petrol,Manual,1,0,1497,118,5.0,301000
+Maruti Swift Dzire,Maruti,Mumbai,2016,34315,Petrol,Manual,1,0,1197,84,5.0,473000
+Hyundai i10,Hyundai,Mumbai,2015,58859,Petrol,Manual,1,0,1086,69,5.0,293000
+Hyundai i10,Hyundai,Mumbai,2014,49875,CNG,Manual,2,0,1086,69,5.0,287000
+Hyundai AURA,Hyundai,Mumbai,2020,58033,Diesel,Automatic,2,0,1186,75,5.0,684000
+Maruti Alto 800,Maruti,Mumbai,2014,40797,Petrol,Manual,1,0,796,48,5.0,217800
+Hyundai Elite i20,Hyundai,Mumbai,2017,11293,Petrol,Manual,1,0,1197,83,5.0,513000
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2022,11942,CNG,Manual,1,0,1197,69,5.0,665000
+Hyundai Grand i10,Hyundai,Mumbai,2014,35272,Petrol,Manual,1,0,1197,83,5.0,386000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,16489,Petrol,Manual,1,0,1086,69,5.0,430000
+Hyundai i20,Hyundai,Mumbai,2011,72888,Petrol,Manual,1,0,1197,80,5.0,262000
+MG HECTOR,MG,Mumbai,2019,18601,Petrol,Automatic,2,0,1451,143,5.0,1417000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,81560,CNG,Manual,1,0,998,59,5.0,337000
+Honda City,Honda,Mumbai,2017,42838,Petrol,Automatic,1,0,1497,119,5.0,715000
+Honda Jazz,Honda,Mumbai,2022,4980,Petrol,Automatic,1,0,1199,90,5.0,906000
+Maruti Celerio,Maruti,Mumbai,2015,73092,Petrol,Automatic,2,0,998,68,5.0,327000
+Hyundai i10,Hyundai,Mumbai,2011,32454,Petrol,Manual,1,0,1197,80,5.0,211000
+Toyota Etios Liva,Toyota,Mumbai,2011,75420,Petrol,Manual,1,0,1197,80,5.0,258000
+Hyundai Creta,Hyundai,Mumbai,2017,86350,Petrol,Automatic,1,0,1591,123,5.0,810000
+Maruti Ciaz,Maruti,Mumbai,2021,29291,Petrol,Automatic,1,0,1462,105,5.0,865000
+Mahindra XUV300,Mahindra,Mumbai,2021,18255,Petrol,Automatic,1,0,1197,110,5.0,877000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,65098,CNG,Manual,1,0,998,59,5.0,339000
+Maruti S PRESSO,Maruti,Mumbai,2020,26321,CNG,Manual,1,0,998,57,4.0,431000
+Renault TRIBER,Renault,Mumbai,2020,49842,Petrol,Manual,1,0,999,72,7.0,566000
+Tata Safari,Tata,Mumbai,2022,42408,Diesel,Automatic,1,0,1956,170,7.0,2006000
+Tata ALTROZ,Tata,Mumbai,2022,16783,Petrol,Automatic,1,0,1199,88,5.0,870000
+Maruti Ciaz,Maruti,Mumbai,2016,96966,Diesel,Manual,1,0,1248,90,5.0,566000
+Maruti Wagon R 1.0,Maruti,Mumbai,2012,32422,Petrol,Manual,1,0,998,68,5.0,256000
+Hyundai AURA,Hyundai,Mumbai,2023,13184,CNG,Manual,1,0,1197,69,5.0,834000
+Hyundai AURA,Hyundai,Mumbai,2021,14950,Petrol,Manual,1,0,1197,83,5.0,663000
+Hyundai Grand i10,Hyundai,Mumbai,2015,54434,Petrol,Automatic,2,0,1197,83,5.0,400000
+Maruti S PRESSO,Maruti,Mumbai,2021,48375,CNG,Manual,1,0,998,60,4.0,486000
+Honda City,Honda,Mumbai,2018,49504,Petrol,Manual,1,0,1497,119,5.0,807000
+Renault TRIBER,Renault,Mumbai,2021,35517,Petrol,Automatic,1,0,999,72,7.0,717000
+Honda City,Honda,Mumbai,2018,47801,Petrol,Manual,1,0,1497,119,5.0,719000
+Maruti XL6,Maruti,Mumbai,2021,48740,Petrol,Manual,1,0,1462,105,6.0,1027000
+Skoda Rapid,Skoda,Mumbai,2018,64953,Petrol,Manual,1,0,1598,105,5.0,679000
+Renault Kwid,Renault,Mumbai,2017,30322,Petrol,Manual,1,0,799,54,5.0,320000
+Toyota URBAN CRUISER,Toyota,Mumbai,2021,45799,Petrol,Automatic,1,0,1462,105,5.0,979000
+Maruti Baleno,Maruti,Mumbai,2017,29835,Petrol,Manual,1,0,1197,84,5.0,536000
+Honda City,Honda,Mumbai,2017,32899,Petrol,Automatic,2,0,1497,119,5.0,752000
+Maruti Alto,Maruti,Mumbai,2021,26866,Petrol,Manual,1,0,796,48,5.0,363000
+Hyundai i20 Active,Hyundai,Mumbai,2015,77421,Diesel,Manual,2,0,1396,90,5.0,514000
+Honda Brio,Honda,Mumbai,2015,33227,Petrol,Manual,1,0,1198,88,5.0,342600
+Hyundai VENUE,Hyundai,Mumbai,2019,56522,Petrol,Automatic,1,0,998,120,5.0,932000
+Tata NEXON,Tata,Mumbai,2022,35275,Petrol,Manual,1,0,1199,120,5.0,918000
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,43024,Petrol,Manual,1,0,998,68,5.0,301000
+Tata ALTROZ,Tata,Mumbai,2021,43417,Petrol,Manual,1,0,1199,86,5.0,668000
+Renault Kwid,Renault,Mumbai,2016,103116,Petrol,Manual,1,0,799,54,5.0,279000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,77715,CNG,Manual,1,0,1086,60,5.0,496000
+Hyundai VENUE,Hyundai,Mumbai,2021,9981,Petrol,Manual,2,0,998,120,5.0,940000
+Hyundai i20 Active,Hyundai,Mumbai,2018,21643,Petrol,Manual,2,0,1197,83,5.0,609000
+Maruti Celerio,Maruti,Mumbai,2014,98502,Petrol,Automatic,1,0,998,68,5.0,318000
+Ford Ecosport,Ford,Mumbai,2016,73952,Petrol,Automatic,2,0,1499,112,5.0,544500
+Hyundai i20 Active,Hyundai,Mumbai,2015,116615,Petrol,Manual,1,0,1197,83,5.0,429000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,9954,Petrol,Manual,1,0,1086,69,5.0,423000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,56077,Petrol,Manual,1,0,1086,69,5.0,419000
+Hyundai Creta,Hyundai,Mumbai,2017,43358,Petrol,Manual,1,0,1591,123,5.0,764000
+Maruti Swift,Maruti,Mumbai,2018,57407,Diesel,Automatic,2,0,1248,75,5.0,578800
+Hyundai Elite i20,Hyundai,Mumbai,2017,53262,Petrol,Manual,1,0,1197,83,5.0,558000
+Honda City,Honda,Mumbai,2016,51329,Petrol,Automatic,2,0,1497,119,5.0,630000
+Hyundai Grand i10,Hyundai,Mumbai,2013,37652,Petrol,Manual,1,0,1197,83,5.0,395000
+Datsun Redi Go,Datsun,Mumbai,2018,50310,Petrol,Manual,1,0,799,54,5.0,227000
+Honda Amaze,Honda,Mumbai,2018,47710,Petrol,Manual,2,0,1199,90,5.0,570000
+Hyundai Xcent,Hyundai,Mumbai,2014,27269,Petrol,Manual,1,0,1197,83,5.0,390000
+Maruti Baleno,Maruti,Mumbai,2017,65230,Petrol,Manual,2,0,1197,84,5.0,553000
+Skoda Rapid,Skoda,Mumbai,2017,58664,Petrol,Manual,1,0,1598,105,5.0,622000
+Maruti Dzire,Maruti,Mumbai,2017,89378,Petrol,Manual,2,0,1197,83,5.0,448000
+Maruti Swift Dzire,Maruti,Mumbai,2014,47496,Petrol,Manual,1,0,1197,87,5.0,427000
+Tata NEXON,Tata,Mumbai,2021,26645,Petrol,Manual,1,0,1199,120,5.0,923000
+Hyundai i10,Hyundai,Mumbai,2012,35431,Petrol,Manual,2,0,1197,80,5.0,248000
+Hyundai i10,Hyundai,Mumbai,2015,22225,Petrol,Manual,1,0,1086,69,5.0,325000
+Hyundai Grand i10,Hyundai,Mumbai,2014,100116,Petrol,Manual,1,0,1197,83,5.0,330000
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2020,13144,Petrol,Automatic,1,0,1197,83,5.0,680000
+Skoda Rapid,Skoda,Mumbai,2020,33693,Petrol,Manual,1,0,999,110,5.0,977000
+Maruti Celerio,Maruti,Mumbai,2014,32718,Petrol,Automatic,1,0,998,68,5.0,339000
+Maruti Alto K10,Maruti,Mumbai,2015,51243,Petrol,Manual,2,0,998,68,5.0,260000
+Tata ALTROZ,Tata,Mumbai,2022,10206,Petrol,Automatic,1,0,1199,86,5.0,846000
+Hyundai i20 Active,Hyundai,Mumbai,2016,50568,Petrol,Manual,2,0,1197,83,5.0,490000
+Maruti Baleno,Maruti,Mumbai,2017,30064,Petrol,Manual,2,0,1197,84,5.0,529000
+Hyundai Grand i10,Hyundai,Mumbai,2015,47367,Petrol,Manual,2,0,1197,83,5.0,414000
+Hyundai Grand i10,Hyundai,Mumbai,2014,47635,Petrol,Manual,2,0,1197,83,5.0,393000
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2020,18332,Petrol,Manual,1,0,1197,83,5.0,577000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,57012,CNG,Manual,2,0,998,59,5.0,376000
+Datsun Go Plus,Datsun,Mumbai,2017,17062,Petrol,Manual,1,0,1198,68,7.0,297000
+Honda BR-V,Honda,Mumbai,2017,56807,Petrol,Manual,2,0,1497,119,7.0,625000
+Hyundai Elite i20,Hyundai,Mumbai,2017,38323,Petrol,Manual,2,0,1197,83,5.0,546000
+Honda Amaze,Honda,Mumbai,2013,43540,Petrol,Manual,1,0,1198,88,5.0,337000
+MG HECTOR,MG,Mumbai,2019,64742,Petrol,Automatic,1,0,1451,143,5.0,1351000
+Honda Amaze,Honda,Mumbai,2019,39531,Petrol,Automatic,1,0,1498,80,5.0,700000
+Hyundai Grand i10,Hyundai,Mumbai,2013,46035,Petrol,Manual,1,0,1197,83,5.0,324000
+Maruti Ertiga,Maruti,Mumbai,2016,69763,CNG,Manual,1,0,1373,92,7.0,704000
+Hyundai Verna,Hyundai,Mumbai,2019,47605,Petrol,Manual,1,0,1591,123,5.0,934000
+Maruti Baleno,Maruti,Mumbai,2021,14955,Petrol,Manual,1,0,1197,83,5.0,744000
+Hyundai NEW SANTRO,Hyundai,Mumbai,2019,109255,CNG,Manual,1,0,1086,60,5.0,506000
+Maruti Alto 800,Maruti,Mumbai,2017,76202,CNG,Manual,1,0,796,41,4.0,300000
+Hyundai Verna,Hyundai,Mumbai,2017,57368,Diesel,Manual,2,0,1582,128,5.0,860000
+Maruti Ciaz,Maruti,Mumbai,2016,99615,Petrol,Manual,1,0,1373,92,5.0,455000
+Renault Kwid,Renault,Mumbai,2017,15314,Petrol,Manual,2,0,799,54,5.0,299000
+Hyundai Elite i20,Hyundai,Mumbai,2016,50900,Petrol,Manual,1,0,1197,83,5.0,532000
+Maruti Ciaz,Maruti,Mumbai,2021,16909,Petrol,Manual,1,0,1462,105,5.0,763300
+Tata ALTROZ,Tata,Mumbai,2020,23825,Petrol,Manual,1,0,1199,86,5.0,722000
+Mahindra TUV300,Mahindra,Mumbai,2018,45368,Diesel,Manual,1,0,1493,100,7.0,641000
+Tata TIGOR,Tata,Mumbai,2021,52153,Petrol,Manual,2,0,1199,86,5.0,543000
+Hyundai Creta,Hyundai,Mumbai,2017,51559,Petrol,Manual,1,0,1591,123,5.0,771000
+Hyundai Creta,Hyundai,Mumbai,2017,37417,Petrol,Manual,2,0,1591,123,5.0,733000
+Volkswagen Polo,Volkswagen,Mumbai,2014,96926,Petrol,Manual,2,0,1198,75,5.0,358000
+Maruti Swift,Maruti,Mumbai,2013,63284,Diesel,Manual,1,0,1248,75,5.0,397000
+Hyundai Verna,Hyundai,Mumbai,2019,92561,Petrol,Manual,2,0,1591,123,5.0,912000
+Maruti XL6,Maruti,Mumbai,2022,24494,Petrol,Automatic,1,0,1462,103,6.0,1213000
+Maruti Swift Dzire,Maruti,Mumbai,2014,42022,Petrol,Manual,1,0,1197,87,5.0,390000
+Maruti Baleno,Maruti,Mumbai,2015,59958,Diesel,Manual,2,0,1248,75,5.0,558000
+MG HECTOR,MG,Mumbai,2019,19795,Petrol,Automatic,2,0,1451,143,5.0,1387000
+Tata Tiago,Tata,Mumbai,2021,8115,Petrol,Automatic,1,0,1199,86,5.0,679000
+Maruti Ertiga,Maruti,Mumbai,2016,61711,Petrol,Manual,1,0,1373,92,7.0,666000
+Hyundai Grand i10,Hyundai,Mumbai,2018,46597,Petrol,Automatic,1,0,1197,83,5.0,558000
+Renault Kwid,Renault,Mumbai,2019,22924,Petrol,Automatic,1,0,999,68,5.0,412000
+Maruti Alto 800,Maruti,Mumbai,2014,40783,Petrol,Manual,1,0,796,48,5.0,230000
+Hyundai Verna,Hyundai,Mumbai,2015,38877,Petrol,Manual,1,0,1591,123,5.0,516000
+Tata Harrier,Tata,Mumbai,2021,31539,Diesel,Automatic,1,0,1956,170,5.0,1922000
+Hyundai Elite i20,Hyundai,Mumbai,2014,79418,Petrol,Manual,2,0,1197,83,5.0,418000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,55946,Petrol,Manual,2,0,998,68,5.0,309000
+Volkswagen Polo,Volkswagen,Mumbai,2015,30163,Petrol,Manual,2,0,1198,75,5.0,410000
+Ford FREESTYLE,Ford,Mumbai,2018,75160,Diesel,Manual,1,0,1498,100,5.0,601000
+Maruti Swift Dzire,Maruti,Mumbai,2013,33244,Petrol,Manual,1,0,1197,87,5.0,408000
+Hyundai Elite i20,Hyundai,Mumbai,2017,19288,Petrol,Manual,1,0,1197,83,5.0,569000
+Hyundai Creta,Hyundai,Mumbai,2017,93555,Petrol,Manual,2,0,1591,123,5.0,678000
+Hyundai i10,Hyundai,Mumbai,2014,40543,Petrol,Manual,2,0,1086,69,5.0,304000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,68302,CNG,Manual,1,0,998,59,5.0,336300
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2022,21570,CNG,Manual,1,0,1197,69,5.0,775000
+Maruti Wagon R 1.0,Maruti,Mumbai,2013,45304,Petrol,Manual,1,0,998,68,5.0,283000
+Ford Ecosport,Ford,Mumbai,2017,27702,Petrol,Manual,1,0,1499,112,5.0,591000
+Honda City,Honda,Mumbai,2020,27473,Petrol,Manual,1,0,1498,121,5.0,1054000
+Hyundai Xcent,Hyundai,Mumbai,2017,17771,Petrol,Manual,1,0,1197,83,5.0,477000
+Tata ALTROZ,Tata,Mumbai,2022,18364,Petrol,Automatic,1,0,1199,86,5.0,922000
+Datsun Redi Go,Datsun,Mumbai,2018,86337,Petrol,Automatic,2,0,999,68,5.0,277000
+Maruti Wagon R 1.0,Maruti,Mumbai,2018,65313,CNG,Manual,1,0,998,59,5.0,410000
+Maruti Baleno,Maruti,Mumbai,2021,14683,Petrol,Automatic,1,0,1197,83,5.0,787000
+Maruti Celerio,Maruti,Mumbai,2017,74159,CNG,Manual,2,0,998,59,5.0,410000
+Hyundai Grand i10,Hyundai,Mumbai,2014,84045,Petrol,Manual,1,0,1197,83,5.0,336500
+Honda Jazz,Honda,Mumbai,2021,10102,Petrol,Automatic,1,0,1199,90,5.0,877000
+Maruti Alto K10,Maruti,Mumbai,2015,57838,Petrol,Automatic,2,0,998,68,5.0,271000
+Maruti Baleno,Maruti,Mumbai,2021,27156,Petrol,Manual,1,0,1197,83,5.0,719000
+Hyundai Creta,Hyundai,Mumbai,2017,22311,Petrol,Automatic,1,0,1591,123,5.0,966000
+Maruti Ciaz,Maruti,Mumbai,2018,93826,Petrol,Manual,1,0,1462,105,5.0,592000
+Maruti Alto 800,Maruti,Mumbai,2013,25399,Petrol,Manual,2,0,796,48,5.0,205000
+Hyundai i10,Hyundai,Mumbai,2013,48080,Petrol,Automatic,2,0,1197,80,5.0,290000
+KIA SELTOS,KIA,Mumbai,2020,69169,Diesel,Automatic,1,0,1493,115,5.0,1065000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,34384,Petrol,Manual,1,0,998,68,5.0,350000
+Maruti Ertiga,Maruti,Mumbai,2014,119998,Diesel,Manual,2,0,1248,90,7.0,591000
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,53375,Petrol,Manual,1,0,998,68,5.0,276000
+Honda Amaze,Honda,Mumbai,2016,93900,Petrol,Manual,1,0,1198,88,5.0,342000
+KIA SELTOS,KIA,Mumbai,2019,36666,Petrol,Manual,1,0,1497,115,5.0,1133000
+Skoda Rapid,Skoda,Mumbai,2017,89856,Petrol,Automatic,1,0,1598,105,5.0,586000
+Maruti IGNIS,Maruti,Mumbai,2023,4684,Petrol,Manual,1,0,1197,83,5.0,533000
+Honda BR-V,Honda,Mumbai,2016,25920,Petrol,Manual,1,0,1497,119,7.0,690000
+Honda City,Honda,Mumbai,2015,18779,Petrol,Manual,1,0,1497,119,5.0,621000
+Honda City,Honda,Mumbai,2016,75181,Petrol,Automatic,1,0,1497,119,5.0,655000
+Maruti Wagon R 1.0,Maruti,Mumbai,2018,98745,CNG,Manual,1,0,998,59,5.0,408000
+Maruti New Wagon-R,Maruti,Mumbai,2021,34224,Petrol,Automatic,1,0,1197,83,5.0,636000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,43944,Petrol,Manual,2,0,998,68,5.0,371000
+Tata NEXON,Tata,Mumbai,2018,48213,CNG,Manual,3,0,1198,110,5.0,668000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,16624,Petrol,Manual,1,0,998,68,5.0,344800
+Maruti Celerio,Maruti,Mumbai,2017,25368,Petrol,Manual,1,0,998,68,5.0,395000
+Hyundai VENUE,Hyundai,Mumbai,2021,19377,Petrol,Automatic,1,0,998,120,5.0,1059000
+Hyundai Eon,Hyundai,Mumbai,2015,81088,Petrol,Manual,1,0,814,56,5.0,245000
+Hyundai Xcent,Hyundai,Mumbai,2017,57919,Petrol,Manual,1,0,1197,83,5.0,470200
+Maruti Alto K10,Maruti,Mumbai,2014,31827,Petrol,Manual,2,0,998,68,5.0,223000
+Hyundai Elite i20,Hyundai,Mumbai,2015,55046,Petrol,Manual,2,0,1197,83,5.0,454000
+Hyundai NEW I20,Hyundai,Mumbai,2021,14008,Petrol,Automatic,1,0,998,120,5.0,981000
+Maruti Ertiga,Maruti,Mumbai,2015,31504,CNG,Manual,1,0,1373,82,7.0,678000
+Hyundai Xcent,Hyundai,Mumbai,2014,36391,Petrol,Manual,1,0,1197,83,5.0,389000
+Hyundai Creta,Hyundai,Mumbai,2017,5555,Diesel,Manual,1,0,1582,128,5.0,911000
+Maruti IGNIS,Maruti,Mumbai,2022,3806,Petrol,Manual,1,0,1197,83,5.0,581000
+Renault Duster,Renault,Mumbai,2018,23337,Diesel,Manual,1,0,1461,85,5.0,780000
+Hyundai Xcent,Hyundai,Mumbai,2014,83641,Petrol,Manual,1,0,1197,83,5.0,367000
+KIA SELTOS,KIA,Mumbai,2020,15160,Petrol,Manual,1,0,1497,115,5.0,1101000
+Honda City,Honda,Mumbai,2016,73098,Petrol,Automatic,1,0,1497,119,5.0,680000
+Hyundai VENUE,Hyundai,Mumbai,2021,15019,Petrol,Manual,1,0,998,120,5.0,927000
+Hyundai Elite i20,Hyundai,Mumbai,2016,31353,Diesel,Manual,1,0,1396,90,5.0,629000
+Maruti Swift Dzire,Maruti,Mumbai,2017,34196,Petrol,Manual,1,0,1197,84,5.0,519000
+Hyundai Xcent,Hyundai,Mumbai,2015,45972,CNG,Manual,1,0,1197,83,5.0,429000
+Toyota URBAN CRUISER,Toyota,Mumbai,2022,13896,Petrol,Automatic,1,0,1462,105,5.0,1106350
+Maruti Wagon R 1.0,Maruti,Mumbai,2014,95135,CNG,Manual,1,0,998,59,5.0,339000
+Datsun Redi Go,Datsun,Mumbai,2018,37339,Petrol,Automatic,3,0,999,68,5.0,235000
+Honda Amaze,Honda,Mumbai,2018,58121,Petrol,Manual,1,0,1199,90,5.0,600000
+Honda City,Honda,Mumbai,2016,63698,CNG,Manual,1,0,1497,119,5.0,560000
+MG HECTOR,MG,Mumbai,2023,10349,Petrol,Manual,1,0,1451,143,5.0,1861000
+Hyundai Elite i20,Hyundai,Mumbai,2019,40998,Petrol,Manual,2,0,1197,83,5.0,577000
+Maruti Swift,Maruti,Mumbai,2013,42338,Petrol,Manual,1,0,1197,87,5.0,341000
+Hyundai VENUE,Hyundai,Mumbai,2019,41597,Petrol,Automatic,1,0,998,120,5.0,980000
+Mahindra XUV500,Mahindra,Mumbai,2017,36090,Diesel,Automatic,2,0,2179,140,7.0,1110000
+Hyundai Elite i20,Hyundai,Mumbai,2017,90918,Diesel,Manual,1,0,1396,90,5.0,645000
+Honda Brio,Honda,Mumbai,2012,61764,Petrol,Manual,1,0,1198,88,5.0,241000
+Hyundai Elite i20,Hyundai,Mumbai,2015,51020,Petrol,Manual,1,0,1197,83,5.0,486000
+Maruti Baleno,Maruti,Mumbai,2016,62767,Diesel,Manual,1,0,1248,75,5.0,557000
+Honda Jazz,Honda,Mumbai,2016,36158,Petrol,Manual,1,0,1199,90,5.0,420000
+Tata TIGOR,Tata,Mumbai,2022,24490,CNG,Manual,1,0,1199,73,5.0,781000
+Renault Kwid,Renault,Mumbai,2016,26172,Petrol,Manual,1,0,799,54,5.0,254000
+Volkswagen Polo,Volkswagen,Mumbai,2021,21543,Petrol,Automatic,1,0,999,110,5.0,966000
+Honda City,Honda,Mumbai,2011,65495,Petrol,Automatic,2,0,1497,118,5.0,271000
+Hyundai Eon,Hyundai,Mumbai,2014,40750,Petrol,Manual,1,0,814,56,5.0,219000
+Maruti XL6,Maruti,Mumbai,2022,9626,Petrol,Manual,1,0,1462,103,6.0,967700
+Renault TRIBER,Renault,Mumbai,2021,24621,Petrol,Manual,1,0,999,72,7.0,643000
+Maruti Wagon R 1.0,Maruti,Mumbai,2017,34793,Petrol,Manual,1,0,998,68,5.0,394000
+Maruti Baleno,Maruti,Mumbai,2016,56794,Petrol,Manual,1,0,1197,84,5.0,497000
+Maruti Swift,Maruti,Mumbai,2018,41110,Petrol,Automatic,1,0,1197,83,5.0,529000
+Volkswagen Polo,Volkswagen,Mumbai,2015,25999,Petrol,Manual,3,0,1198,75,5.0,371000
+Maruti Alto 800,Maruti,Mumbai,2014,12544,CNG,Manual,1,0,796,48,5.0,244000
+Renault Duster,Renault,Mumbai,2013,59697,Diesel,Manual,1,0,1461,110,5.0,376000
+Maruti Dzire,Maruti,Mumbai,2017,69704,Diesel,Automatic,1,0,1248,75,5.0,587000
+Maruti Ertiga,Maruti,Mumbai,2015,52143,CNG,Manual,3,0,1373,82,7.0,577000
+Hyundai i20,Hyundai,Mumbai,2013,79892,Petrol,Manual,1,0,1197,84,5.0,298000
+Maruti Baleno,Maruti,Mumbai,2017,57626,Petrol,Manual,1,0,1197,84,5.0,471000
+Honda City,Honda,Mumbai,2011,89211,Petrol,Manual,1,0,1497,118,5.0,278100
+Ford Ecosport,Ford,Mumbai,2017,55612,Diesel,Manual,1,0,1498,101,5.0,569000
+Tata Tiago,Tata,Mumbai,2018,90317,Petrol,Manual,1,0,1199,85,5.0,405000
+Honda City,Honda,Mumbai,2011,90143,Petrol,Manual,2,0,1497,118,5.0,253700
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,30014,CNG,Manual,1,0,998,59,5.0,354000
+Hyundai Creta,Hyundai,Mumbai,2016,56586,Petrol,Manual,2,0,1591,123,5.0,665000
+Tata Tiago,Tata,Mumbai,2021,42528,Petrol,Automatic,2,0,1199,86,5.0,528000
+Maruti Dzire,Maruti,Mumbai,2017,92803,Diesel,Manual,1,0,1248,75,5.0,619000
+Maruti Baleno,Maruti,Mumbai,2017,73649,Diesel,Manual,1,0,1248,75,5.0,556000
+Hyundai Xcent,Hyundai,Mumbai,2016,95851,Petrol,Manual,3,0,1197,83,5.0,338000
+Honda City,Honda,Mumbai,2016,83615,Petrol,Manual,1,0,1497,119,5.0,533000
+Toyota URBAN CRUISER,Toyota,Mumbai,2022,34486,Petrol,Automatic,1,0,1462,105,5.0,989000
+Honda City,Honda,Mumbai,2015,73939,Petrol,Manual,2,0,1497,119,5.0,446000
+Maruti S PRESSO,Maruti,Mumbai,2020,66992,CNG,Manual,1,0,998,57,4.0,399000
+Maruti Baleno,Maruti,Mumbai,2018,88309,Petrol,Automatic,1,0,1197,84,5.0,564000
+Hyundai Creta,Hyundai,Mumbai,2018,27420,Petrol,Manual,1,0,1591,122,5.0,983200
+Honda Amaze,Honda,Mumbai,2019,55833,Diesel,Automatic,1,0,1498,80,5.0,715700
+Maruti Ciaz,Maruti,Mumbai,2014,60880,Diesel,Manual,1,0,1248,92,5.0,502000
+Mahindra XUV500,Mahindra,Mumbai,2017,57449,Diesel,Automatic,1,0,2179,140,7.0,1138000
+Maruti Baleno,Maruti,Mumbai,2017,46897,Petrol,Automatic,2,0,1197,84,5.0,525000
+Hyundai AURA,Hyundai,Mumbai,2021,16343,CNG,Manual,1,0,1197,69,5.0,706000
+Maruti Dzire,Maruti,Mumbai,2017,36258,Diesel,Automatic,2,0,1248,75,5.0,614000
+Hyundai VENUE,Hyundai,Mumbai,2019,113669,Petrol,Automatic,1,0,998,120,5.0,810000
+Maruti Ciaz,Maruti,Mumbai,2019,11299,Petrol,Manual,1,0,1462,105,5.0,694000
+Maruti Celerio,Maruti,Mumbai,2017,27882,Petrol,Manual,1,0,998,68,5.0,399000
+Nissan Micra,Nissan,Mumbai,2013,36761,Petrol,Automatic,1,0,1198,77,5.0,337000
+Hyundai i20,Hyundai,Mumbai,2011,31724,Petrol,Manual,2,0,1197,80,5.0,237000
+Maruti Wagon R 1.0,Maruti,Mumbai,2015,40716,Petrol,Manual,1,0,998,68,5.0,318000
+Maruti S PRESSO,Maruti,Mumbai,2022,31772,CNG,Manual,1,0,998,60,4.0,488100
+Hyundai GRAND I10 NIOS,Hyundai,Mumbai,2020,11709,Petrol,Automatic,1,0,1197,83,5.0,697000
+Hyundai Creta,Hyundai,Mumbai,2016,48962,Petrol,Manual,1,0,1591,123,5.0,700000
+Hyundai AURA,Hyundai,Mumbai,2020,53948,CNG,Manual,2,0,1197,69,5.0,625000
+Renault Kwid,Renault,Mumbai,2017,16656,Petrol,Automatic,1,0,999,68,5.0,316000
+Hyundai i20,Hyundai,Mumbai,2012,54639,Petrol,Manual,1,0,1197,84,5.0,299000
+Hyundai Creta,Hyundai,Mumbai,2021,47485,Petrol,Automatic,2,0,1353,140,5.0,1415000
+Maruti Ertiga,Maruti,Mumbai,2017,44741,Diesel,Manual,1,0,1248,90,7.0,887000
+Hyundai Xcent,Hyundai,Mumbai,2015,33329,CNG,Manual,1,0,1197,83,5.0,405000
+Honda Jazz,Honda,Mumbai,2015,89508,Petrol,Manual,1,0,1199,90,5.0,397000
+Honda BR-V,Honda,Mumbai,2017,40830,Petrol,Manual,1,0,1497,119,7.0,674000
+Maruti Ertiga,Maruti,Mumbai,2013,41016,Petrol,Manual,2,0,1373,95,7.0,550000
+Hyundai Grand i10,Hyundai,Mumbai,2014,29810,Petrol,Manual,2,0,1197,83,5.0,306000
+Renault Kwid,Renault,Mumbai,2018,38122,Petrol,Automatic,1,0,999,68,5.0,361000
+Maruti Baleno,Maruti,Mumbai,2020,20162,Petrol,Manual,1,0,1197,83,5.0,638000
+Skoda Rapid,Skoda,Mumbai,2016,48861,Diesel,Automatic,1,0,1498,105,5.0,543000
+Tata TIGOR,Tata,Mumbai,2022,14310,Petrol,Manual,1,0,1199,86,5.0,671000
+Hyundai Creta,Hyundai,Mumbai,2017,82309,Diesel,Manual,2,0,1582,128,5.0,805000
+Mahindra XUV500,Mahindra,Mumbai,2017,66595,Diesel,Automatic,1,0,2179,140,7.0,793000
+Maruti Ciaz,Maruti,Mumbai,2016,74505,Petrol,Manual,1,0,1373,92,5.0,581000
+Hyundai Elite i20,Hyundai,Mumbai,2015,33688,Petrol,Manual,1,0,1197,83,5.0,475000
+Tata TIGOR,Tata,Mumbai,2017,30105,Petrol,Manual,1,0,1199,85,5.0,449000
+Hyundai i20,Hyundai,Mumbai,2013,37973,Petrol,Manual,3,0,1197,84,5.0,278000
+Honda Amaze,Honda,Mumbai,2018,20920,Petrol,Automatic,1,0,1498,80,5.0,633000
+Mahindra XUV500,Mahindra,Mumbai,2018,76206,Diesel,Manual,1,0,2179,155,7.0,1096000
+Volkswagen Ameo,Volkswagen,Mumbai,2017,86579,Diesel,Automatic,1,0,1498,110,5.0,514000

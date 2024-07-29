@@ -1,0 +1,448 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Honda WR-V,Honda,Ahmedabad,2018,33344,Petrol,Manual,1,0,1199.0,90.0,5.0,751000
+Renault TRIBER,Renault,Ahmedabad,2021,42589,Petrol,Manual,1,0,999.0,72.0,7.0,576000
+Maruti IGNIS,Maruti,Ahmedabad,2018,94910,Petrol,Manual,1,0,1197.0,83.0,5.0,436000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,24738,Petrol,Manual,1,0,1197.0,83.0,5.0,441000
+Hyundai Grand i10,Hyundai,Ahmedabad,2016,18428,Petrol,Automatic,1,0,1197.0,83.0,5.0,592000
+Tata ALTROZ,Tata,Ahmedabad,2021,29327,Diesel,Manual,1,0,1497.0,90.0,5.0,875000
+Tata ALTROZ,Tata,Ahmedabad,2022,23443,Petrol,Manual,1,0,1199.0,86.0,5.0,697000
+KIA SONET,KIA,Ahmedabad,2023,21308,Petrol,Automatic,1,0,998.0,120.0,5.0,1309400
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,24632,Petrol,Manual,1,0,1197.0,83.0,5.0,541000
+Maruti Baleno,Maruti,Ahmedabad,2021,23479,Petrol,Manual,1,0,1197.0,83.0,5.0,678000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2016,80432,CNG,Manual,1,0,998.0,68.0,5.0,395000
+Maruti Baleno,Maruti,Ahmedabad,2022,8368,Petrol,Automatic,2,0,1197.0,90.0,5.0,905000
+Maruti Baleno,Maruti,Ahmedabad,2023,10731,Petrol,Manual,1,0,1197.0,90.0,5.0,894000
+KIA CARENS,KIA,Ahmedabad,2022,33408,Petrol,Manual,1,0,1353.0,140.0,7.0,1253000
+Volkswagen Polo,Volkswagen,Ahmedabad,2015,92159,Petrol,Automatic,1,0,1197.0,105.0,5.0,483200
+Honda Amaze,Honda,Ahmedabad,2018,70213,CNG,Manual,1,0,1199.0,90.0,5.0,598000
+Maruti Dzire,Maruti,Ahmedabad,2020,61231,Petrol,Manual,2,0,1197.0,90.0,5.0,573000
+Maruti Baleno,Maruti,Ahmedabad,2016,71982,Petrol,Manual,1,0,1197.0,84.0,5.0,503000
+Maruti Dzire,Maruti,Ahmedabad,2017,72753,Diesel,Manual,1,0,1248.0,75.0,5.0,616000
+Datsun Redi Go,Datsun,Ahmedabad,2019,55380,Petrol,Manual,1,0,799.0,54.0,5.0,263000
+Maruti Baleno,Maruti,Ahmedabad,2017,97030,Petrol,Manual,1,0,1197.0,84.0,5.0,476500
+Tata Tiago,Tata,Ahmedabad,2021,29340,Petrol,Automatic,1,0,1199.0,86.0,5.0,656000
+Renault TRIBER,Renault,Ahmedabad,2019,72909,Petrol,Manual,1,0,999.0,72.0,7.0,597000
+Mahindra Thar,Mahindra,Ahmedabad,2021,46448,Petrol,Automatic,1,0,1997.0,152.0,4.0,1381000
+Maruti Alto,Maruti,Ahmedabad,2022,21422,CNG,Manual,1,0,796.0,41.0,4.0,496000
+Honda City,Honda,Ahmedabad,2015,94999,Petrol,Manual,1,0,1497.0,119.0,5.0,574000
+Renault Kwid,Renault,Ahmedabad,2019,53607,Petrol,Manual,2,0,999.0,68.0,5.0,325000
+Maruti Alto 800,Maruti,Ahmedabad,2017,87850,Petrol,Manual,1,0,796.0,48.0,5.0,287000
+Mahindra XUV700,Mahindra,Ahmedabad,2022,6492,Petrol,Automatic,1,0,1997.0,200.0,5.0,1839000
+Hyundai Xcent,Hyundai,Ahmedabad,2016,98189,Petrol,Manual,1,0,1197.0,83.0,5.0,462000
+KIA SELTOS,KIA,Ahmedabad,2021,49814,Petrol,Manual,2,0,1353.0,140.0,5.0,1347000
+Maruti Alto,Maruti,Ahmedabad,2019,57555,Petrol,Manual,2,0,796.0,48.0,5.0,326000
+Honda City,Honda,Ahmedabad,2021,38302,Petrol,Manual,2,0,1498.0,121.0,5.0,1132000
+Honda City,Honda,Ahmedabad,2019,20884,Petrol,Manual,1,0,1497.0,119.0,5.0,1025000
+Hyundai Creta,Hyundai,Ahmedabad,2021,44617,Petrol,Automatic,1,0,1497.0,115.0,5.0,1411000
+Renault TRIBER,Renault,Ahmedabad,2019,43496,Petrol,Manual,2,0,999.0,72.0,7.0,510000
+KIA SELTOS,KIA,Ahmedabad,2022,15224,Petrol,Manual,1,0,1353.0,140.0,5.0,1526000
+Hyundai i10,Hyundai,Ahmedabad,2012,60407,Petrol,Manual,1,0,1197.0,80.0,5.0,266000
+Maruti Baleno,Maruti,Ahmedabad,2019,58331,Petrol,Manual,1,0,1197.0,83.0,5.0,582000
+Hyundai Santro Xing,Hyundai,Ahmedabad,2014,100142,Petrol,Manual,1,0,1086.0,63.0,5.0,265000
+Volkswagen Polo,Volkswagen,Ahmedabad,2020,52237,Petrol,Manual,1,0,999.0,76.0,5.0,519000
+Maruti Baleno,Maruti,Ahmedabad,2020,58346,Petrol,Manual,1,0,1197.0,83.0,5.0,669000
+Hyundai NEW I20,Hyundai,Ahmedabad,2021,41861,Petrol,Manual,1,0,1197.0,83.0,5.0,690000
+KIA SELTOS,KIA,Ahmedabad,2023,6495,Petrol,Automatic,1,0,1353.0,140.0,5.0,1759000
+Maruti Baleno,Maruti,Ahmedabad,2020,57587,Petrol,Manual,1,0,1197.0,83.0,5.0,655000
+Maruti Baleno,Maruti,Ahmedabad,2020,71127,Petrol,Manual,1,0,1197.0,83.0,5.0,655000
+Maruti Ertiga,Maruti,Ahmedabad,2015,96118,Diesel,Manual,1,0,1248.0,90.0,7.0,618000
+Maruti Swift,Maruti,Ahmedabad,2014,124105,CNG,Manual,1,0,1197.0,87.0,5.0,369000
+Maruti Baleno,Maruti,Ahmedabad,2017,73866,Petrol,Manual,1,0,1197.0,84.0,5.0,608500
+Maruti Alto K10,Maruti,Ahmedabad,2022,10776,Petrol,Manual,1,0,998.0,67.0,5.0,439000
+MG HECTOR,MG,Ahmedabad,2020,15266,Petrol,Automatic,1,0,1451.0,143.0,5.0,1495000
+Nissan MAGNITE,Nissan,Ahmedabad,2021,12811,Petrol,Manual,1,0,999.0,72.0,5.0,646000
+Volkswagen Polo,Volkswagen,Ahmedabad,2016,52043,Petrol,Manual,2,0,1198.0,75.0,5.0,483000
+MG HECTOR,MG,Ahmedabad,2020,24668,Petrol,Automatic,1,0,1451.0,143.0,5.0,1443000
+Hyundai Grand i10,Hyundai,Ahmedabad,2018,46689,Petrol,Automatic,2,0,1197.0,83.0,5.0,515000
+Renault Duster,Renault,Ahmedabad,2018,40107,Petrol,Automatic,2,0,1498.0,106.0,5.0,587000
+Honda Amaze,Honda,Ahmedabad,2015,78011,Petrol,Manual,1,0,1198.0,88.0,5.0,365000
+Skoda SLAVIA,Skoda,Ahmedabad,2023,15168,Petrol,Manual,1,0,999.0,115.0,5.0,1037000
+Honda City,Honda,Ahmedabad,2012,53237,Petrol,Manual,1,0,1497.0,118.0,5.0,373000
+Maruti Dzire,Maruti,Ahmedabad,2018,86832,Petrol,Manual,2,0,1197.0,83.0,5.0,516000
+Hyundai VENUE,Hyundai,Ahmedabad,2019,99901,Petrol,Manual,3,0,998.0,120.0,5.0,709000
+Maruti Celerio,Maruti,Ahmedabad,2014,106679,Petrol,Automatic,1,0,998.0,68.0,5.0,295000
+Hyundai Verna,Hyundai,Ahmedabad,2017,90504,Diesel,Manual,1,0,1582.0,128.0,5.0,712000
+Maruti Swift,Maruti,Ahmedabad,2022,38909,Petrol,Manual,1,0,1197.0,90.0,5.0,789000
+Ford FREESTYLE,Ford,Ahmedabad,2019,55430,Petrol,Manual,1,0,1194.0,96.0,5.0,470000
+Hyundai Creta,Hyundai,Ahmedabad,2016,77051,Petrol,Automatic,1,0,1591.0,123.0,5.0,770000
+Honda Brio,Honda,Ahmedabad,2014,114719,CNG,Manual,1,0,1198.0,88.0,5.0,389000
+Mahindra XUV300,Mahindra,Ahmedabad,2019,68545,Diesel,Manual,1,0,1497.0,117.0,5.0,686000
+Hyundai Creta,Hyundai,Ahmedabad,2017,88545,Diesel,Automatic,2,0,1582.0,128.0,5.0,923000
+KIA SELTOS,KIA,Ahmedabad,2020,73055,Diesel,Automatic,2,0,1493.0,115.0,5.0,1261000
+Volkswagen Vento,Volkswagen,Ahmedabad,2020,47623,Petrol,Automatic,2,0,999.0,110.0,5.0,752000
+Maruti Baleno,Maruti,Ahmedabad,2021,11595,Petrol,Manual,1,0,1197.0,83.0,5.0,681000
+Honda Amaze,Honda,Ahmedabad,2019,49376,Petrol,Manual,1,0,1199.0,90.0,5.0,517000
+Maruti Alto K10,Maruti,Ahmedabad,2014,49148,Petrol,Manual,1,0,998.0,68.0,5.0,259000
+Ford Ecosport,Ford,Ahmedabad,2017,111848,Diesel,Manual,2,0,1498.0,101.0,5.0,538000
+Hyundai NEW I20,Hyundai,Ahmedabad,2021,26101,Petrol,Manual,1,0,998.0,120.0,5.0,819000
+Maruti Alto 800,Maruti,Ahmedabad,2017,76676,Petrol,Manual,1,0,796.0,48.0,5.0,274000
+Hyundai VENUE,Hyundai,Ahmedabad,2022,22171,Petrol,Manual,1,0,1197.0,83.0,5.0,979000
+Tata ALTROZ,Tata,Ahmedabad,2020,57353,Petrol,Manual,1,0,1199.0,86.0,5.0,649000
+KIA SONET,KIA,Ahmedabad,2021,53366,Petrol,Automatic,1,0,998.0,120.0,5.0,894000
+Tata NEXON,Tata,Ahmedabad,2019,44565,Petrol,Manual,1,0,1198.0,110.0,5.0,762000
+Maruti Swift Dzire,Maruti,Ahmedabad,2014,44728,Diesel,Manual,1,0,1248.0,75.0,5.0,474000
+KIA SELTOS,KIA,Ahmedabad,2021,37844,Diesel,Automatic,1,0,1493.0,115.0,5.0,1517000
+Maruti S PRESSO,Maruti,Ahmedabad,2020,66068,Petrol,Automatic,2,0,998.0,68.0,5.0,407000
+Maruti Dzire,Maruti,Ahmedabad,2017,21576,Petrol,Automatic,1,0,1197.0,83.0,5.0,570000
+Tata Tiago,Tata,Ahmedabad,2021,11786,Petrol,Manual,1,0,1199.0,86.0,5.0,552000
+Renault Kwid,Renault,Ahmedabad,2021,13438,Petrol,Manual,1,0,999.0,68.0,5.0,437000
+Ford Ecosport,Ford,Ahmedabad,2020,22046,Petrol,Manual,1,0,1496.0,122.0,5.0,844000
+Maruti Swift,Maruti,Ahmedabad,2021,24487,Petrol,Automatic,1,0,1197.0,90.0,5.0,759000
+Renault Kwid,Renault,Ahmedabad,2021,42360,Petrol,Manual,1,0,799.0,54.0,5.0,412000
+Hyundai NEW SANTRO,Hyundai,Ahmedabad,2020,41671,Petrol,Manual,1,0,1086.0,69.0,5.0,439600
+Volkswagen Ameo,Volkswagen,Ahmedabad,2018,64394,Diesel,Manual,2,0,1498.0,110.0,5.0,574000
+Mahindra XUV700,Mahindra,Ahmedabad,2022,38833,Diesel,Automatic,1,0,2184.0,185.0,7.0,2286000
+Honda WR-V,Honda,Ahmedabad,2017,104509,Petrol,Manual,1,0,1199.0,90.0,5.0,578400
+Hyundai Elite i20,Hyundai,Ahmedabad,2016,80656,Petrol,Manual,1,0,1197.0,83.0,5.0,511000
+Jeep Compass,Jeep,Ahmedabad,2017,97907,Diesel,Manual,1,0,1956.0,173.0,5.0,885000
+Honda Jazz,Honda,Ahmedabad,2016,109934,Petrol,Manual,2,0,1199.0,90.0,5.0,345000
+Maruti Alto K10,Maruti,Ahmedabad,2023,9048,Petrol,Manual,1,0,998.0,67.0,5.0,483000
+Hyundai VENUE,Hyundai,Ahmedabad,2021,14586,Petrol,Automatic,1,0,998.0,120.0,5.0,1022000
+Maruti Swift,Maruti,Ahmedabad,2016,55170,Petrol,Manual,1,0,1197.0,84.0,5.0,461000
+Tata Tiago,Tata,Ahmedabad,2021,23447,Petrol,Automatic,2,0,1199.0,86.0,5.0,633000
+Hyundai VENUE,Hyundai,Ahmedabad,2021,5896,Petrol,Manual,2,0,998.0,120.0,5.0,868000
+Hyundai VENUE,Hyundai,Ahmedabad,2021,33945,Petrol,Automatic,2,0,998.0,120.0,5.0,903000
+Maruti Alto 800,Maruti,Ahmedabad,2016,68741,Petrol,Manual,2,0,796.0,48.0,5.0,243000
+Jeep Compass,Jeep,Ahmedabad,2019,47095,Petrol,Automatic,1,0,1368.0,163.0,5.0,1163000
+Volkswagen Vento,Volkswagen,Ahmedabad,2022,23943,Petrol,Automatic,1,0,999.0,110.0,5.0,1072000
+Honda City,Honda,Ahmedabad,2013,85713,CNG,Manual,1,0,1497.0,118.0,5.0,397000
+MG HECTOR,MG,Ahmedabad,2022,21027,Petrol,Manual,1,0,1451.0,143.0,5.0,1296000
+Renault Kwid,Renault,Ahmedabad,2022,29056,Petrol,Manual,1,0,799.0,54.0,5.0,430000
+Hyundai i10,Hyundai,Ahmedabad,2013,63577,Petrol,Manual,2,0,1086.0,69.0,5.0,264450
+Maruti Alto 800,Maruti,Ahmedabad,2017,110866,Petrol,Manual,3,0,796.0,48.0,5.0,245000
+Tata Safari,Tata,Ahmedabad,2021,23728,Diesel,Manual,2,0,1956.0,170.0,7.0,1462600
+Tata Safari,Tata,Ahmedabad,2022,39984,Diesel,Manual,1,0,1956.0,170.0,7.0,1640000
+Tata NEXON,Tata,Ahmedabad,2022,17501,Petrol,Manual,1,0,1199.0,120.0,5.0,1009000
+Hyundai Creta,Hyundai,Ahmedabad,2017,111349,Diesel,Automatic,2,0,1582.0,128.0,5.0,831000
+Hyundai Creta,Hyundai,Ahmedabad,2018,122548,Diesel,Manual,1,0,1582.0,128.0,5.0,1062000
+Hyundai Grand i10,Hyundai,Ahmedabad,2019,44726,CNG,Manual,2,0,1197.0,83.0,5.0,533000
+Mahindra XUV300,Mahindra,Ahmedabad,2022,26634,Petrol,Manual,1,0,1197.0,110.0,5.0,870000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2016,97105,Petrol,Manual,1,0,998.0,68.0,5.0,314000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,45166,Petrol,Manual,1,0,1197.0,83.0,5.0,399000
+Maruti Alto,Maruti,Ahmedabad,2019,51627,Petrol,Manual,1,0,796.0,48.0,5.0,324000
+Honda Amaze,Honda,Ahmedabad,2019,48876,Petrol,Manual,1,0,1199.0,90.0,5.0,581000
+Hyundai Elite i20,Hyundai,Ahmedabad,2016,33335,Petrol,Manual,2,0,1197.0,83.0,5.0,524500
+Ford Ecosport,Ford,Ahmedabad,2018,36614,Petrol,Automatic,1,0,1497.0,123.0,5.0,834000
+Tata Tiago,Tata,Ahmedabad,2022,26378,CNG,Manual,1,0,1199.0,73.0,5.0,702000
+Maruti Ciaz,Maruti,Ahmedabad,2023,8899,Petrol,Manual,1,0,1462.0,105.0,5.0,965000
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2021,39064,Petrol,Manual,2,0,1197.0,83.0,5.0,627000
+Renault TRIBER,Renault,Ahmedabad,2021,48280,Petrol,Manual,1,0,999.0,72.0,7.0,588650
+Hyundai VENUE,Hyundai,Ahmedabad,2021,37550,Petrol,Manual,1,0,998.0,120.0,5.0,894000
+Tata Harrier,Tata,Ahmedabad,2021,49105,Diesel,Automatic,1,0,1956.0,170.0,5.0,1695000
+Tata TIGOR,Tata,Ahmedabad,2022,12248,Petrol,Automatic,1,0,1199.0,86.0,5.0,742000
+Maruti Alto,Maruti,Ahmedabad,2019,46640,Petrol,Manual,1,0,796.0,48.0,5.0,322000
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2021,42935,Petrol,Manual,1,0,1197.0,83.0,5.0,616000
+Maruti New Wagon-R,Maruti,Ahmedabad,2023,2090,Petrol,Automatic,1,0,998.0,67.0,5.0,623000
+KIA SONET,KIA,Ahmedabad,2022,8535,Petrol,Manual,1,0,998.0,120.0,5.0,1020000
+Hyundai Elite i20,Hyundai,Ahmedabad,2016,98208,Petrol,Manual,1,0,1197.0,83.0,5.0,534000
+Tata Tiago,Tata,Ahmedabad,2021,13321,Petrol,Automatic,1,0,1199.0,86.0,5.0,654000
+Maruti Baleno,Maruti,Ahmedabad,2019,42955,Petrol,Automatic,1,0,1197.0,84.0,5.0,631000
+Hyundai VENUE,Hyundai,Ahmedabad,2019,23373,Petrol,Manual,1,0,998.0,120.0,5.0,825000
+MG HECTOR,MG,Ahmedabad,2021,94595,Diesel,Manual,1,0,1956.0,170.0,5.0,1381000
+Tata Harrier,Tata,Ahmedabad,2022,23558,Diesel,Manual,1,0,1956.0,170.0,5.0,1945000
+Hyundai Xcent,Hyundai,Ahmedabad,2014,118087,CNG,Manual,1,0,1197.0,83.0,5.0,380000
+Maruti Baleno,Maruti,Ahmedabad,2018,104977,Petrol,Automatic,1,0,1197.0,84.0,5.0,518000
+Hyundai i10,Hyundai,Ahmedabad,2012,69220,Petrol,Manual,1,0,1197.0,80.0,5.0,262500
+Maruti New Wagon-R,Maruti,Ahmedabad,2019,27734,Petrol,Automatic,1,0,1197.0,83.0,5.0,526000
+Tata PUNCH,Tata,Ahmedabad,2021,45950,Petrol,Manual,1,0,1199.0,86.0,5.0,734000
+Maruti Alto,Maruti,Ahmedabad,2019,39071,Petrol,Manual,1,0,796.0,48.0,5.0,367000
+Tata PUNCH,Tata,Ahmedabad,2023,4148,Petrol,Manual,1,0,1199.0,86.0,5.0,789000
+Mahindra KUV 100 NXT,Mahindra,Ahmedabad,2019,80049,Petrol,Manual,1,0,1198.0,82.0,6.0,385000
+MG HECTOR,MG,Ahmedabad,2022,79007,Petrol,Manual,1,0,1451.0,143.0,5.0,1385000
+Jeep Compass,Jeep,Ahmedabad,2018,60972,Diesel,Manual,2,0,1956.0,173.0,5.0,979600
+Honda Amaze,Honda,Ahmedabad,2019,69324,Petrol,Manual,2,0,1199.0,90.0,5.0,603000
+Honda Jazz,Honda,Ahmedabad,2016,80544,Petrol,Automatic,1,0,1199.0,90.0,5.0,492000
+Tata NEXON,Tata,Ahmedabad,2023,18122,Petrol,Manual,1,0,1199.0,120.0,5.0,909000
+Datsun Redi Go,Datsun,Ahmedabad,2018,68162,Petrol,Manual,1,0,999.0,68.0,5.0,259000
+Maruti Alto,Maruti,Ahmedabad,2020,29588,Petrol,Manual,2,0,796.0,48.0,5.0,339000
+Hyundai i10,Hyundai,Ahmedabad,2013,32569,Petrol,Manual,1,0,1086.0,69.0,5.0,302000
+Hyundai Eon,Hyundai,Ahmedabad,2017,74468,Petrol,Manual,2,0,814.0,56.0,5.0,273000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,52840,CNG,Manual,2,0,1197.0,83.0,5.0,529000
+Renault TRIBER,Renault,Ahmedabad,2019,53484,Petrol,Manual,1,0,999.0,72.0,7.0,565000
+Tata Harrier,Tata,Ahmedabad,2021,47873,Diesel,Automatic,2,0,1956.0,170.0,5.0,1592000
+Honda WR-V,Honda,Ahmedabad,2017,106245,Diesel,Manual,2,0,1498.0,100.0,5.0,642000
+Maruti Ciaz,Maruti,Ahmedabad,2021,11395,Petrol,Manual,1,0,1462.0,105.0,5.0,883000
+Maruti Alto 800,Maruti,Ahmedabad,2017,35703,Petrol,Manual,2,0,796.0,48.0,5.0,291000
+Maruti Ciaz,Maruti,Ahmedabad,2021,28610,Petrol,Manual,1,0,1462.0,105.0,5.0,866000
+Renault Kwid,Renault,Ahmedabad,2021,20267,Petrol,Manual,1,0,799.0,54.0,5.0,441000
+Hyundai NEW SANTRO,Hyundai,Ahmedabad,2022,5485,Petrol,Manual,1,0,1086.0,69.0,5.0,517000
+Maruti Dzire,Maruti,Ahmedabad,2017,70959,Diesel,Manual,1,0,1248.0,75.0,5.0,615000
+Maruti Alto K10,Maruti,Ahmedabad,2014,36066,Petrol,Manual,2,0,998.0,68.0,5.0,259000
+Maruti Alto,Maruti,Ahmedabad,2020,32946,Petrol,Manual,1,0,796.0,48.0,5.0,368000
+Hyundai i10,Hyundai,Ahmedabad,2011,114783,Petrol,Manual,1,0,1086.0,69.0,5.0,230000
+Hyundai i10,Hyundai,Ahmedabad,2012,71100,Petrol,Manual,1,0,1086.0,69.0,5.0,261000
+Datsun Redi Go,Datsun,Ahmedabad,2017,50790,Petrol,Manual,1,0,799.0,54.0,5.0,217000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2014,53063,Petrol,Manual,2,0,998.0,68.0,5.0,343000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2017,19767,Petrol,Automatic,1,0,998.0,68.0,5.0,446000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2016,73587,Petrol,Manual,2,0,998.0,68.0,5.0,318000
+Hyundai Santro Xing,Hyundai,Ahmedabad,2013,65325,Petrol,Manual,1,0,1086.0,63.0,5.0,251000
+Maruti Baleno,Maruti,Ahmedabad,2018,72942,Petrol,Manual,1,0,1197.0,84.0,5.0,548000
+Hyundai Elite i20,Hyundai,Ahmedabad,2016,80868,Petrol,Manual,1,0,1197.0,83.0,5.0,534000
+MG HECTOR,MG,Ahmedabad,2019,47069,Petrol,Manual,1,0,1451.0,143.0,5.0,1201000
+MG HECTOR,MG,Ahmedabad,2019,37254,Petrol,Manual,2,0,1451.0,143.0,5.0,1199000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,81725,Petrol,Manual,1,0,1197.0,83.0,5.0,452000
+Tata NEXON,Tata,Ahmedabad,2022,35285,Diesel,Manual,1,0,1497.0,110.0,5.0,1156000
+Hyundai Grand i10,Hyundai,Ahmedabad,2013,33855,Petrol,Manual,2,0,1197.0,83.0,5.0,394000
+Honda Brio,Honda,Ahmedabad,2015,91821,Petrol,Manual,2,0,1198.0,88.0,5.0,299000
+Tata Harrier,Tata,Ahmedabad,2022,19969,Diesel,Automatic,2,0,1956.0,170.0,5.0,1881000
+Maruti Alto K10,Maruti,Ahmedabad,2018,46028,Petrol,Manual,2,0,998.0,68.0,5.0,325000
+Maruti Ciaz,Maruti,Ahmedabad,2016,40789,Petrol,Manual,1,0,1248.0,90.0,5.0,705000
+Maruti Alto,Maruti,Ahmedabad,2019,64745,Petrol,Manual,1,0,796.0,48.0,5.0,336000
+Tata Harrier,Tata,Ahmedabad,2021,52676,Diesel,Automatic,2,0,1956.0,170.0,5.0,1707000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2016,25881,Petrol,Manual,2,0,998.0,68.0,5.0,363000
+Hyundai i10,Hyundai,Ahmedabad,2012,44613,Petrol,Manual,1,0,1197.0,80.0,5.0,281000
+Hyundai i10,Hyundai,Ahmedabad,2012,28885,Petrol,Manual,2,0,1197.0,80.0,5.0,280800
+Jeep Compass,Jeep,Ahmedabad,2018,99670,Petrol,Automatic,2,0,1368.0,163.0,5.0,1207000
+Hyundai Eon,Hyundai,Ahmedabad,2016,35023,Petrol,Manual,1,0,814.0,56.0,5.0,301000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,55222,Petrol,Manual,1,0,1197.0,83.0,5.0,438000
+Hyundai i20,Hyundai,Ahmedabad,2012,51560,Petrol,Manual,1,0,1197.0,84.0,5.0,399000
+Jeep Compass,Jeep,Ahmedabad,2017,108189,Petrol,Automatic,1,0,1368.0,163.0,5.0,915000
+Maruti Ciaz,Maruti,Ahmedabad,2021,37265,Petrol,Automatic,1,0,1462.0,105.0,5.0,904000
+KIA SELTOS,KIA,Ahmedabad,2021,44793,Petrol,Automatic,1,0,1353.0,140.0,5.0,1502600
+Maruti Ciaz,Maruti,Ahmedabad,2022,35515,Petrol,Automatic,1,0,1462.0,105.0,5.0,964000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,39630,Petrol,Manual,1,0,1197.0,83.0,5.0,446000
+Mahindra XUV300,Mahindra,Ahmedabad,2019,64132,Petrol,Manual,2,0,1197.0,110.0,5.0,857400
+Hyundai i10,Hyundai,Ahmedabad,2014,77170,CNG,Manual,2,0,1086.0,69.0,5.0,313000
+Maruti Baleno,Maruti,Ahmedabad,2018,64827,Petrol,Automatic,1,0,1197.0,84.0,5.0,620000
+MG HECTOR,MG,Ahmedabad,2022,11342,Petrol,Automatic,1,0,1451.0,143.0,5.0,1618000
+MG HECTOR,MG,Ahmedabad,2022,16208,Petrol,Automatic,1,0,1451.0,143.0,5.0,1682000
+Maruti Baleno,Maruti,Ahmedabad,2021,31625,Petrol,Automatic,1,0,1197.0,83.0,5.0,795000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,89460,Petrol,Manual,2,0,1197.0,83.0,5.0,407000
+Hyundai Grand i10,Hyundai,Ahmedabad,2014,95213,Petrol,Manual,1,0,1197.0,83.0,5.0,363000
+Maruti Baleno,Maruti,Ahmedabad,2021,38880,Petrol,Manual,1,0,1197.0,83.0,5.0,602000
+Honda Jazz,Honda,Ahmedabad,2017,121319,Diesel,Manual,1,0,1498.0,100.0,5.0,449000
+Hyundai VENUE,Hyundai,Ahmedabad,2019,31832,Petrol,Manual,1,0,998.0,120.0,5.0,850000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2014,99572,Petrol,Manual,1,0,998.0,68.0,5.0,300850
+Honda Jazz,Honda,Ahmedabad,2015,80191,Petrol,Manual,2,0,1199.0,90.0,5.0,412000
+Maruti Baleno,Maruti,Ahmedabad,2017,99026,Petrol,Manual,3,0,1197.0,84.0,5.0,514000
+Hyundai Eon,Hyundai,Ahmedabad,2017,66667,Petrol,Manual,1,0,814.0,56.0,5.0,293300
+Tata Tiago,Tata,Ahmedabad,2022,43059,CNG,Manual,1,0,1199.0,73.0,5.0,709000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,61905,Petrol,Manual,1,0,1197.0,83.0,5.0,504000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,90561,Petrol,Manual,1,0,1197.0,83.0,5.0,430000
+Maruti New Wagon-R,Maruti,Ahmedabad,2019,43025,Petrol,Automatic,1,0,1197.0,83.0,5.0,537000
+Hyundai New Elantra,Hyundai,Ahmedabad,2018,83195,Petrol,Automatic,2,0,1999.0,152.0,5.0,1102000
+Maruti Baleno,Maruti,Ahmedabad,2021,54752,Petrol,Manual,1,0,1197.0,83.0,5.0,622000
+Mahindra XUV300,Mahindra,Ahmedabad,2020,64767,Diesel,Automatic,1,0,1497.0,117.0,5.0,971000
+Tata NEXON,Tata,Ahmedabad,2022,19112,Petrol,Manual,1,0,1199.0,120.0,5.0,1069000
+Maruti Alto K10,Maruti,Ahmedabad,2017,26200,Petrol,Automatic,1,0,998.0,68.0,5.0,393000
+Maruti Baleno,Maruti,Ahmedabad,2021,43149,Petrol,Manual,1,0,1197.0,83.0,5.0,621000
+Maruti IGNIS,Maruti,Ahmedabad,2017,51758,Petrol,Manual,2,0,1197.0,83.0,5.0,393000
+Maruti Baleno,Maruti,Ahmedabad,2017,75059,Petrol,Manual,1,0,1197.0,84.0,5.0,604000
+Jeep Compass,Jeep,Ahmedabad,2018,57747,Petrol,Automatic,1,0,1368.0,163.0,5.0,1095000
+Maruti Ciaz,Maruti,Ahmedabad,2018,27894,Petrol,Manual,1,0,1462.0,105.0,5.0,820000
+Hyundai i10,Hyundai,Ahmedabad,2015,42645,Petrol,Manual,1,0,1086.0,69.0,5.0,388000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,77319,Petrol,Manual,1,0,1197.0,83.0,5.0,411000
+MG HECTOR,MG,Ahmedabad,2021,24295,Petrol,Automatic,2,0,1451.0,143.0,5.0,1436400
+Maruti Alto,Maruti,Ahmedabad,2021,54840,Petrol,Manual,1,0,796.0,48.0,5.0,355000
+Maruti IGNIS,Maruti,Ahmedabad,2022,26553,Petrol,Manual,1,0,1197.0,83.0,5.0,557000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,123337,Petrol,Manual,1,0,1197.0,83.0,5.0,467000
+Hyundai Grand i10,Hyundai,Ahmedabad,2016,99821,CNG,Manual,2,0,1197.0,83.0,5.0,409000
+Mahindra XUV300,Mahindra,Ahmedabad,2022,12801,Petrol,Automatic,1,0,1197.0,110.0,5.0,1154000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,39068,Petrol,Manual,1,0,1197.0,83.0,5.0,461000
+Ford Ecosport,Ford,Ahmedabad,2018,100799,Petrol,Automatic,1,0,1497.0,123.0,5.0,739000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,56581,Petrol,Manual,2,0,1197.0,83.0,5.0,411000
+Maruti Baleno,Maruti,Ahmedabad,2017,89264,Petrol,Manual,1,0,1197.0,84.0,5.0,511000
+Maruti Baleno,Maruti,Ahmedabad,2020,54733,Petrol,Manual,1,0,1197.0,83.0,5.0,599000
+Mahindra XUV300,Mahindra,Ahmedabad,2022,11262,Petrol,Manual,1,0,1197.0,110.0,5.0,1134000
+Hyundai i10,Hyundai,Ahmedabad,2014,87197,CNG,Manual,1,0,1086.0,69.0,5.0,355000
+Maruti IGNIS,Maruti,Ahmedabad,2017,37621,Petrol,Automatic,1,0,1197.0,83.0,5.0,538000
+Maruti Baleno,Maruti,Ahmedabad,2021,24719,Petrol,Manual,1,0,1197.0,83.0,5.0,708000
+Hyundai Elite i20,Hyundai,Ahmedabad,2017,87998,Petrol,Manual,1,0,1197.0,83.0,5.0,531000
+Hyundai Creta,Hyundai,Ahmedabad,2019,63467,Petrol,Manual,1,0,1591.0,123.0,5.0,1052000
+Maruti Ertiga,Maruti,Ahmedabad,2013,71711,Diesel,Manual,2,0,1248.0,90.0,7.0,544000
+Mahindra XUV300,Mahindra,Ahmedabad,2023,2634,Diesel,Manual,1,0,1497.0,117.0,5.0,1253000
+Maruti Dzire,Maruti,Ahmedabad,2017,60592,Diesel,Manual,2,0,1248.0,75.0,5.0,589000
+Toyota URBAN CRUISER,Toyota,Ahmedabad,2022,15313,Petrol,Automatic,1,0,1462.0,105.0,5.0,970000
+Hyundai Creta,Hyundai,Ahmedabad,2016,14025,Petrol,Manual,1,0,1591.0,123.0,5.0,786600
+MG HECTOR,MG,Ahmedabad,2020,35825,Petrol,Automatic,1,0,1451.0,143.0,5.0,1420000
+Hyundai Creta,Hyundai,Ahmedabad,2019,63608,Diesel,Manual,1,0,1396.0,90.0,5.0,982000
+Honda Amaze,Honda,Ahmedabad,2019,53036,Petrol,Manual,1,0,1199.0,90.0,5.0,554000
+Mahindra Thar,Mahindra,Ahmedabad,2021,52389,Petrol,Automatic,1,0,1997.0,152.0,4.0,1309000
+Ford Ecosport,Ford,Ahmedabad,2018,115205,Diesel,Manual,1,0,1498.0,101.0,5.0,710000
+Tata ALTROZ,Tata,Ahmedabad,2022,17069,Petrol,Automatic,2,0,1199.0,86.0,5.0,767000
+Hyundai AURA,Hyundai,Ahmedabad,2020,24408,Petrol,Automatic,1,0,1197.0,83.0,5.0,667000
+Tata Tiago,Tata,Ahmedabad,2022,2507,Petrol,Automatic,1,0,1199.0,86.0,5.0,643000
+Honda Amaze,Honda,Ahmedabad,2019,72162,Diesel,Manual,1,0,1498.0,100.0,5.0,667100
+Honda Brio,Honda,Ahmedabad,2012,98836,CNG,Manual,3,0,1198.0,88.0,5.0,230000
+Tata NEXON,Tata,Ahmedabad,2022,24072,Diesel,Manual,1,0,1497.0,110.0,5.0,1108000
+Datsun Redi Go,Datsun,Ahmedabad,2019,20851,Petrol,Manual,2,0,799.0,54.0,5.0,258000
+Maruti Alto K10,Maruti,Ahmedabad,2018,24914,Petrol,Manual,1,0,998.0,68.0,5.0,318000
+Tata NEXON,Tata,Ahmedabad,2022,20477,Petrol,Manual,1,0,1199.0,120.0,5.0,917000
+Honda City,Honda,Ahmedabad,2019,59711,Petrol,Manual,1,0,1497.0,119.0,5.0,848000
+MG HECTOR,MG,Ahmedabad,2020,41697,Petrol,Automatic,2,0,1451.0,143.0,5.0,1233000
+Maruti IGNIS,Maruti,Ahmedabad,2020,40358,Petrol,Manual,1,0,1197.0,83.0,5.0,484000
+Honda Brio,Honda,Ahmedabad,2013,105481,CNG,Manual,1,0,1198.0,88.0,5.0,253000
+Maruti Ciaz,Maruti,Ahmedabad,2018,64686,Petrol,Automatic,1,0,1373.0,92.0,5.0,648000
+Datsun Go,Datsun,Ahmedabad,2019,62759,CNG,Manual,1,0,1198.0,68.0,5.0,390000
+Maruti Baleno,Maruti,Ahmedabad,2018,50480,Petrol,Manual,1,0,1197.0,84.0,5.0,532000
+Hyundai NEW SANTRO,Hyundai,Ahmedabad,2019,40091,Petrol,Manual,1,0,1086.0,69.0,5.0,430000
+Datsun Redi Go,Datsun,Ahmedabad,2018,47866,Petrol,Manual,1,0,999.0,68.0,5.0,262000
+Hyundai NEW SANTRO,Hyundai,Ahmedabad,2019,66915,CNG,Manual,2,0,1086.0,69.0,5.0,457000
+Mahindra XUV300,Mahindra,Ahmedabad,2022,16155,Petrol,Manual,1,0,1197.0,110.0,5.0,1041000
+Hyundai Grand i10,Hyundai,Ahmedabad,2014,41406,Petrol,Manual,2,0,1197.0,83.0,5.0,387800
+Honda Brio,Honda,Ahmedabad,2014,64049,Petrol,Manual,1,0,1198.0,88.0,5.0,334000
+Maruti Baleno,Maruti,Ahmedabad,2017,76121,Petrol,Manual,1,0,1197.0,84.0,5.0,573000
+Mahindra XUV300,Mahindra,Ahmedabad,2022,15946,Diesel,Automatic,1,0,1497.0,117.0,5.0,1238000
+Honda City,Honda,Ahmedabad,2015,91432,Diesel,Manual,1,0,1498.0,100.0,5.0,530000
+Maruti S PRESSO,Maruti,Ahmedabad,2020,26931,Petrol,Manual,1,0,998.0,68.0,5.0,401000
+Hyundai Elite i20,Hyundai,Ahmedabad,2019,65367,Petrol,Manual,2,0,1197.0,83.0,5.0,620000
+Maruti Celerio,Maruti,Ahmedabad,2016,73539,Petrol,Automatic,2,0,998.0,68.0,5.0,357000
+Maruti S PRESSO,Maruti,Ahmedabad,2022,15845,Petrol,Manual,1,0,998.0,68.0,5.0,473000
+Maruti Baleno,Maruti,Ahmedabad,2021,38303,Petrol,Manual,1,0,1197.0,83.0,5.0,647000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,41707,Petrol,Manual,2,0,1197.0,83.0,5.0,407000
+Maruti Baleno,Maruti,Ahmedabad,2022,35783,Petrol,Manual,1,0,1197.0,83.0,5.0,733000
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2021,27427,Petrol,Automatic,1,0,1197.0,83.0,5.0,654000
+Maruti New Wagon-R,Maruti,Ahmedabad,2020,29795,CNG,Manual,1,0,998.0,58.0,5.0,586000
+Maruti Alto,Maruti,Ahmedabad,2021,5546,Petrol,Manual,1,0,796.0,48.0,5.0,361000
+Maruti Swift,Maruti,Ahmedabad,2021,76623,Petrol,Manual,1,0,1197.0,90.0,5.0,636000
+Hyundai Xcent,Hyundai,Ahmedabad,2015,78469,Petrol,Manual,1,0,1197.0,83.0,5.0,409000
+Volkswagen Polo,Volkswagen,Ahmedabad,2017,30862,Petrol,Manual,1,0,1198.0,75.0,5.0,585000
+Tata NEXON,Tata,Ahmedabad,2021,83923,Diesel,Manual,1,0,1497.0,110.0,5.0,853000
+Maruti Baleno,Maruti,Ahmedabad,2017,71220,Petrol,Manual,2,0,1197.0,84.0,5.0,497000
+Tata TIGOR,Tata,Ahmedabad,2022,29564,CNG,Manual,1,0,1199.0,73.0,5.0,750000
+Honda Amaze,Honda,Ahmedabad,2018,42820,Petrol,Manual,1,0,1198.0,88.0,5.0,490000
+Maruti New Wagon-R,Maruti,Ahmedabad,2020,25286,CNG,Manual,1,0,998.0,58.0,5.0,558300
+Tata NEXON,Tata,Ahmedabad,2021,34679,CNG,Automatic,1,0,1199.0,120.0,5.0,931000
+Tata TIGOR,Tata,Ahmedabad,2018,44855,CNG,Manual,1,0,1199.0,85.0,5.0,591000
+Hyundai Grand i10,Hyundai,Ahmedabad,2016,73600,Diesel,Manual,1,0,1120.0,71.0,5.0,413000
+Tata TIGOR,Tata,Ahmedabad,2021,37428,Petrol,Automatic,1,0,1199.0,86.0,5.0,673000
+Hyundai i20,Hyundai,Ahmedabad,2013,57948,Petrol,Manual,2,0,1197.0,84.0,5.0,350000
+Maruti Ertiga,Maruti,Ahmedabad,2018,23534,Diesel,Manual,1,0,1248.0,90.0,7.0,919000
+Tata ALTROZ,Tata,Ahmedabad,2021,47287,Petrol,Manual,1,0,1199.0,86.0,5.0,522000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,30295,Petrol,Manual,1,0,1197.0,83.0,5.0,449000
+Volkswagen Vento,Volkswagen,Ahmedabad,2017,111447,Diesel,Manual,1,0,1498.0,110.0,5.0,628000
+Tata ALTROZ,Tata,Ahmedabad,2021,40081,Petrol,Manual,2,0,1199.0,86.0,5.0,666000
+Maruti Baleno,Maruti,Ahmedabad,2020,21583,Petrol,Manual,1,0,1197.0,83.0,5.0,634000
+Maruti S PRESSO,Maruti,Ahmedabad,2020,2974,Petrol,Manual,1,0,998.0,68.0,5.0,408000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,62250,Petrol,Manual,1,0,1197.0,83.0,5.0,454000
+Hyundai Verna,Hyundai,Ahmedabad,2017,5337,Petrol,Automatic,1,0,1591.0,123.0,5.0,961000
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2019,40136,Petrol,Manual,1,0,1197.0,83.0,5.0,643000
+Maruti IGNIS,Maruti,Ahmedabad,2018,120953,CNG,Manual,1,0,1197.0,83.0,5.0,421000
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2020,27296,Petrol,Manual,1,0,1197.0,83.0,5.0,672000
+Maruti Ertiga,Maruti,Ahmedabad,2018,67348,Diesel,Manual,1,0,1248.0,90.0,7.0,874750
+Maruti Swift Dzire,Maruti,Ahmedabad,2016,47275,Petrol,Manual,2,0,1197.0,84.0,5.0,578000
+Tata Tiago,Tata,Ahmedabad,2019,88351,Petrol,Manual,2,0,1199.0,85.0,5.0,422000
+Maruti Celerio X,Maruti,Ahmedabad,2017,104045,Petrol,Manual,1,0,998.0,68.0,5.0,370000
+Hyundai NEW SANTRO,Hyundai,Ahmedabad,2019,29743,Petrol,Automatic,1,0,1086.0,69.0,5.0,509000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,43858,Petrol,Automatic,1,0,1197.0,83.0,5.0,484000
+Hyundai AURA,Hyundai,Ahmedabad,2022,37146,CNG,Manual,1,0,1197.0,69.0,5.0,788000
+Maruti New Wagon-R,Maruti,Ahmedabad,2022,6426,Petrol,Manual,1,0,1197.0,90.0,5.0,552000
+Tata ALTROZ,Tata,Ahmedabad,2023,38220,Diesel,Manual,1,0,1497.0,90.0,5.0,988000
+Maruti Baleno,Maruti,Ahmedabad,2021,36251,Petrol,Manual,1,0,1197.0,83.0,5.0,741000
+Hyundai Creta,Hyundai,Ahmedabad,2018,61119,Petrol,Manual,2,0,1591.0,122.0,5.0,921000
+Hyundai Creta,Hyundai,Ahmedabad,2020,64149,Petrol,Manual,1,0,1497.0,115.0,5.0,1193000
+Mahindra Bolero,Mahindra,Ahmedabad,2023,14923,Diesel,Manual,1,0,1493.0,76.0,7.0,1034000
+KIA SONET,KIA,Ahmedabad,2022,41560,Diesel,Manual,1,0,1493.0,100.0,5.0,1228000
+Tata ALTROZ,Tata,Ahmedabad,2022,19326,Petrol,Manual,1,0,1199.0,86.0,5.0,824000
+Hyundai Creta,Hyundai,Ahmedabad,2019,47083,Petrol,Automatic,2,0,1591.0,123.0,5.0,1078000
+Maruti Swift,Maruti,Ahmedabad,2022,24102,Petrol,Automatic,2,0,1197.0,90.0,5.0,797000
+Tata ALTROZ,Tata,Ahmedabad,2022,32971,Petrol,Manual,1,0,1199.0,86.0,5.0,741000
+Hyundai i10,Hyundai,Ahmedabad,2015,115024,CNG,Manual,1,0,1086.0,69.0,5.0,327000
+Maruti Eeco,Maruti,Ahmedabad,2019,31951,Petrol,Manual,2,0,1196.0,73.0,5.0,444000
+Hyundai Eon,Hyundai,Ahmedabad,2018,47659,Petrol,Manual,1,0,814.0,56.0,5.0,319000
+Honda Brio,Honda,Ahmedabad,2015,99660,Petrol,Manual,2,0,1198.0,88.0,5.0,342000
+Maruti Swift,Maruti,Ahmedabad,2021,44299,Petrol,Manual,1,0,1197.0,90.0,5.0,641000
+Hyundai Creta,Hyundai,Ahmedabad,2021,22711,Diesel,Manual,2,0,1493.0,115.0,5.0,1490000
+KIA SELTOS,KIA,Ahmedabad,2022,30261,Petrol,Manual,1,0,1497.0,115.0,5.0,1310000
+Hyundai i10,Hyundai,Ahmedabad,2013,88118,Petrol,Manual,1,0,1086.0,69.0,5.0,290000
+Hyundai Grand i10,Hyundai,Ahmedabad,2018,27211,Petrol,Automatic,1,0,1197.0,83.0,5.0,565000
+Honda City,Honda,Ahmedabad,2022,12495,Petrol,Manual,1,0,1498.0,121.0,5.0,1236000
+Maruti New Wagon-R,Maruti,Ahmedabad,2019,24709,Petrol,Manual,2,0,1197.0,83.0,5.0,478000
+Renault Kwid,Renault,Ahmedabad,2017,33755,Petrol,Automatic,3,0,999.0,68.0,5.0,308000
+Maruti Ciaz,Maruti,Ahmedabad,2020,40753,Petrol,Manual,1,0,1462.0,105.0,5.0,851000
+Tata Tiago,Tata,Ahmedabad,2021,16936,Petrol,Automatic,1,0,1199.0,86.0,5.0,647000
+Hyundai Elite i20,Hyundai,Ahmedabad,2015,118503,CNG,Manual,1,0,1197.0,83.0,5.0,498000
+Maruti S PRESSO,Maruti,Ahmedabad,2021,63516,Petrol,Manual,1,0,998.0,68.0,5.0,431000
+Hyundai Creta,Hyundai,Ahmedabad,2021,15747,Petrol,Automatic,1,0,1497.0,115.0,5.0,1549000
+Honda City,Honda,Ahmedabad,2018,68533,Petrol,Automatic,1,0,1497.0,119.0,5.0,827000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,93688,Petrol,Manual,1,0,1197.0,83.0,5.0,431000
+Tata PUNCH,Tata,Ahmedabad,2022,15212,Petrol,Automatic,1,0,1199.0,86.0,5.0,832000
+Maruti Celerio,Maruti,Ahmedabad,2014,40047,Petrol,Automatic,3,0,998.0,68.0,5.0,321000
+Hyundai Elite i20,Hyundai,Ahmedabad,2017,88247,Diesel,Manual,1,0,1396.0,90.0,5.0,670000
+Volkswagen Vento,Volkswagen,Ahmedabad,2022,55571,Petrol,Automatic,1,0,999.0,110.0,5.0,1183000
+Honda Amaze,Honda,Ahmedabad,2020,68560,Petrol,Automatic,1,0,1199.0,90.0,5.0,711000
+Maruti Baleno,Maruti,Ahmedabad,2021,19858,Petrol,Manual,1,0,1197.0,83.0,5.0,721000
+Maruti Alto,Maruti,Ahmedabad,2021,33626,Petrol,Manual,1,0,796.0,48.0,5.0,378000
+Tata ALTROZ,Tata,Ahmedabad,2020,64138,Diesel,Manual,2,0,1497.0,90.0,5.0,712000
+Honda Amaze,Honda,Ahmedabad,2022,20667,Petrol,Manual,1,0,1199.0,90.0,5.0,747000
+Hyundai i10,Hyundai,Ahmedabad,2012,65967,Petrol,Manual,1,0,1086.0,69.0,5.0,256000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,112367,Petrol,Manual,1,0,1197.0,83.0,5.0,457000
+Volkswagen Polo,Volkswagen,Ahmedabad,2021,23425,Petrol,Manual,2,0,999.0,76.0,5.0,597000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2012,83474,Petrol,Manual,1,0,998.0,68.0,5.0,285000
+Tata NEXON,Tata,Ahmedabad,2021,57004,Diesel,Manual,1,0,1497.0,110.0,5.0,999000
+Maruti XL6,Maruti,Ahmedabad,2021,20079,Petrol,Manual,1,0,1462.0,105.0,6.0,981000
+Tata NEXON,Tata,Ahmedabad,2020,14426,Petrol,Manual,1,0,1199.0,120.0,5.0,690000
+Maruti Swift,Maruti,Ahmedabad,2020,45992,Petrol,Automatic,1,0,1197.0,83.0,5.0,692000
+Skoda SLAVIA,Skoda,Ahmedabad,2022,32848,Petrol,Automatic,2,0,999.0,115.0,5.0,1300000
+Hyundai Xcent,Hyundai,Ahmedabad,2016,81517,Petrol,Manual,1,0,1197.0,83.0,5.0,474000
+Tata NEXON,Tata,Ahmedabad,2018,33893,Petrol,Manual,1,0,1198.0,110.0,5.0,675000
+Ford Ecosport,Ford,Ahmedabad,2018,117655,Diesel,Manual,1,0,1498.0,101.0,5.0,692000
+Tata PUNCH,Tata,Ahmedabad,2022,25659,Petrol,Manual,1,0,1199.0,86.0,5.0,685000
+Maruti Baleno,Maruti,Ahmedabad,2016,59200,Petrol,Manual,1,0,1197.0,84.0,5.0,495000
+Toyota URBAN CRUISER,Toyota,Ahmedabad,2021,32375,Petrol,Automatic,1,0,1462.0,105.0,5.0,940000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,46203,Petrol,Manual,1,0,1197.0,83.0,5.0,444000
+Hyundai Creta,Hyundai,Ahmedabad,2021,51190,Petrol,Automatic,1,0,1353.0,140.0,5.0,1330600
+Hyundai GRAND I10 NIOS,Hyundai,Ahmedabad,2022,18916,Petrol,Automatic,1,0,1197.0,83.0,5.0,734000
+Hyundai Elite i20,Hyundai,Ahmedabad,2014,86390,Petrol,Manual,2,0,1197.0,83.0,5.0,457000
+Mahindra XUV500,Mahindra,Ahmedabad,2020,32491,Diesel,Manual,1,0,2179.0,155.0,7.0,1134000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,91275,CNG,Manual,1,0,1197.0,83.0,5.0,540000
+Maruti Ciaz,Maruti,Ahmedabad,2017,73948,Petrol,Manual,2,0,1373.0,92.0,5.0,619000
+Maruti Swift,Maruti,Ahmedabad,2017,31250,Petrol,Manual,1,0,1197.0,84.0,5.0,518000
+Hyundai Creta,Hyundai,Ahmedabad,2021,23186,Petrol,Manual,1,0,1497.0,115.0,5.0,1217000
+Maruti Swift Dzire,Maruti,Ahmedabad,2013,70348,Petrol,Manual,1,0,1197.0,87.0,5.0,394000
+Hyundai Creta,Hyundai,Ahmedabad,2018,87533,Diesel,Manual,1,0,1396.0,90.0,5.0,1048000
+Maruti Ciaz,Maruti,Ahmedabad,2019,86706,Petrol,Automatic,1,0,1462.0,105.0,5.0,750000
+Hyundai NEW I20,Hyundai,Ahmedabad,2023,8123,Petrol,Automatic,1,0,1197.0,88.0,5.0,1079000
+Maruti S PRESSO,Maruti,Ahmedabad,2022,28393,Petrol,Manual,1,0,998.0,67.0,5.0,484000
+Tata NEXON,Tata,Ahmedabad,2023,3608,Petrol,Automatic,1,0,1199.0,120.0,5.0,1104000
+Maruti S PRESSO,Maruti,Ahmedabad,2022,17426,Petrol,Manual,1,0,998.0,68.0,5.0,505000
+Hyundai Grand i10,Hyundai,Ahmedabad,2017,90859,Petrol,Manual,1,0,1197.0,83.0,5.0,446000
+Honda Amaze,Honda,Ahmedabad,2018,86432,Petrol,Manual,2,0,1199.0,90.0,5.0,556000
+Maruti IGNIS,Maruti,Ahmedabad,2017,30087,Petrol,Automatic,1,0,1197.0,83.0,5.0,497000
+Maruti Swift,Maruti,Ahmedabad,2018,91825,Petrol,Manual,1,0,1197.0,83.0,5.0,459400
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,69295,Petrol,Automatic,2,0,1197.0,83.0,5.0,453000
+Hyundai Grand i10,Hyundai,Ahmedabad,2015,36355,Petrol,Manual,1,0,1197.0,83.0,5.0,430000
+Maruti Swift,Maruti,Ahmedabad,2014,95421,Petrol,Manual,1,0,1197.0,87.0,5.0,391000
+Maruti Dzire,Maruti,Ahmedabad,2022,9005,Petrol,Manual,1,0,1197.0,90.0,5.0,725000
+Mahindra Thar,Mahindra,Ahmedabad,2021,43189,Diesel,Manual,1,0,2184.0,132.0,4.0,1189000
+Maruti Swift,Maruti,Ahmedabad,2014,62208,Petrol,Manual,2,0,1197.0,87.0,5.0,357000
+Maruti Dzire,Maruti,Ahmedabad,2021,25625,Petrol,Manual,1,0,1197.0,90.0,5.0,620000
+Hyundai Elite i20,Hyundai,Ahmedabad,2017,81074,Petrol,Manual,1,0,1197.0,83.0,5.0,589000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2018,30552,Petrol,Manual,1,0,998.0,68.0,5.0,388000
+Tata NEXON,Tata,Ahmedabad,2022,26493,Diesel,Manual,1,0,1497.0,110.0,5.0,1207000
+Maruti Swift,Maruti,Ahmedabad,2021,53635,Petrol,Manual,1,0,1197.0,90.0,5.0,648550
+Maruti Baleno,Maruti,Ahmedabad,2019,19224,Petrol,Manual,1,0,1197.0,84.0,5.0,617400
+Tata Tiago,Tata,Ahmedabad,2023,11522,CNG,Manual,1,0,1199.0,73.0,5.0,658000
+Hyundai Creta,Hyundai,Ahmedabad,2021,50859,Diesel,Automatic,1,0,1493.0,115.0,5.0,1544000
+Jeep Compass,Jeep,Ahmedabad,2019,54486,Diesel,Manual,2,0,1956.0,173.0,5.0,1121150
+Honda Jazz,Honda,Ahmedabad,2015,103078,Petrol,Manual,3,0,1199.0,90.0,5.0,319000
+Maruti Baleno,Maruti,Ahmedabad,2016,67354,Petrol,Manual,1,0,1197.0,84.0,5.0,486000
+Tata Harrier,Tata,Ahmedabad,2019,120764,Diesel,Manual,1,0,1956.0,140.0,5.0,1166000
+Hyundai Elite i20,Hyundai,Ahmedabad,2018,81527,Diesel,Manual,1,0,1396.0,90.0,5.0,722000
+Maruti BREZZA,Maruti,Ahmedabad,2022,13425,Petrol,Manual,1,0,1462.0,103.0,5.0,1051000
+Maruti Ciaz,Maruti,Ahmedabad,2016,54635,Petrol,Manual,1,0,1373.0,92.0,5.0,567000
+Maruti Baleno,Maruti,Ahmedabad,2017,60499,Petrol,Manual,1,0,1197.0,84.0,5.0,522000
+Hyundai Eon,Hyundai,Ahmedabad,2017,99853,Petrol,Manual,1,0,814.0,56.0,5.0,254000
+Ford Ecosport,Ford,Ahmedabad,2016,88561,Diesel,Manual,2,0,1498.0,101.0,5.0,571000
+Honda Brio,Honda,Ahmedabad,2014,34445,Petrol,Manual,1,0,1198.0,88.0,5.0,365000
+Maruti Alto 800,Maruti,Ahmedabad,2017,34176,Petrol,Manual,1,0,796.0,48.0,5.0,298000
+Maruti IGNIS,Maruti,Ahmedabad,2017,92348,Petrol,Manual,2,0,1197.0,83.0,5.0,373000
+Maruti Ciaz,Maruti,Ahmedabad,2020,41619,Petrol,Automatic,1,0,1462.0,105.0,5.0,765000
+KIA SONET,KIA,Ahmedabad,2020,47569,Diesel,Automatic,2,0,1493.0,115.0,5.0,987000
+Hyundai Eon,Hyundai,Ahmedabad,2016,47883,Petrol,Manual,1,0,814.0,56.0,5.0,281000
+Hyundai Creta,Hyundai,Ahmedabad,2015,68377,Petrol,Manual,1,0,1591.0,123.0,5.0,691000
+Nissan MAGNITE,Nissan,Ahmedabad,2021,67103,Petrol,Manual,1,0,999.0,72.0,5.0,512000
+Maruti Swift,Maruti,Ahmedabad,2018,91586,CNG,Manual,2,0,1197.0,83.0,5.0,524400
+Hyundai Elite i20,Hyundai,Ahmedabad,2016,41771,Petrol,Manual,1,0,1197.0,83.0,5.0,541000
+Skoda Rapid,Skoda,Ahmedabad,2015,69545,Diesel,Automatic,1,0,1498.0,105.0,5.0,559000
+Honda City,Honda,Ahmedabad,2016,79508,Petrol,Manual,1,0,1497.0,119.0,5.0,532000
+Tata TIGOR,Tata,Ahmedabad,2020,55845,Petrol,Manual,1,0,1199.0,85.0,5.0,569000
+Hyundai Elite i20,Hyundai,Ahmedabad,2018,96316,Petrol,Manual,1,0,1197.0,83.0,5.0,558000
+Hyundai Grand i10,Hyundai,Ahmedabad,2018,36720,Petrol,Automatic,2,0,1197.0,83.0,5.0,479000
+Maruti Vitara Brezza,Maruti,Ahmedabad,2020,28829,Petrol,Manual,1,0,1462.0,105.0,5.0,763000
+Volkswagen Ameo,Volkswagen,Ahmedabad,2017,102204,Diesel,Manual,1,0,1498.0,110.0,5.0,486000
+Hyundai Elite i20,Hyundai,Ahmedabad,2018,96799,CNG,Manual,1,0,1197.0,83.0,5.0,648000
+Maruti Wagon R 1.0,Maruti,Ahmedabad,2016,58428,CNG,Manual,1,0,998.0,68.0,5.0,397000
+Hyundai Eon,Hyundai,Ahmedabad,2017,17875,Petrol,Manual,1,0,814.0,56.0,5.0,328000
+Maruti Ertiga,Maruti,Ahmedabad,2017,78609,Petrol,Manual,1,0,1373.0,92.0,7.0,690000
+Honda City,Honda,Ahmedabad,2022,7308,Petrol,Manual,1,0,1498.0,121.0,5.0,955000

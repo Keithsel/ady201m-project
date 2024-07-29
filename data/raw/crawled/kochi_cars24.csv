@@ -1,0 +1,133 @@
+Name,Automaker,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage(kmpl),Engine (CC),Power (bhp),Seats,Price
+Honda City,Honda,Kochi,2018,51100,Petrol,Automatic,1,0,1497,119,5.0,1077000
+Tata Tiago,Tata,Kochi,2023,14762,Petrol,Automatic,1,0,1199,86,5.0,730000
+Renault Kwid,Renault,Kochi,2020,11939,Petrol,Manual,1,0,999,68,5.0,453000
+Tata ALTROZ,Tata,Kochi,2020,37008,Petrol,Manual,1,0,1199,86,5.0,646000
+Maruti Celerio,Maruti,Kochi,2021,38002,Petrol,Manual,2,0,998,67,5.0,610200
+Hyundai Grand i10,Hyundai,Kochi,2019,52394,Petrol,Manual,1,0,1197,83,5.0,509000
+Hyundai GRAND I10 NIOS,Hyundai,Kochi,2020,22590,Petrol,Automatic,1,0,1197,83,5.0,660000
+Maruti Celerio,Maruti,Kochi,2015,83814,Petrol,Automatic,1,0,998,68,5.0,410000
+Hyundai Eon,Hyundai,Kochi,2016,63609,Petrol,Manual,2,0,814,56,5.0,245400
+Maruti Alto K10,Maruti,Kochi,2011,86080,Petrol,Manual,1,0,998,68,5.0,186600
+Maruti Swift,Maruti,Kochi,2010,90917,Petrol,Manual,1,0,1197,85,5.0,254000
+Maruti Alto,Maruti,Kochi,2010,62504,Petrol,Manual,2,0,796,47,5.0,151000
+MG HECTOR PLUS,MG,Kochi,2021,23126,Diesel,Manual,1,0,1956,170,7.0,1549000
+Nissan MAGNITE,Nissan,Kochi,2021,48217,Petrol,Manual,1,0,999,100,5.0,685000
+Toyota Etios Liva,Toyota,Kochi,2012,97460,Diesel,Manual,1,0,1364,68,5.0,374000
+Maruti Alto,Maruti,Kochi,2011,71731,Petrol,Manual,1,0,796,47,5.0,164000
+Hyundai Creta,Hyundai,Kochi,2017,97890,Petrol,Automatic,2,0,1591,123,5.0,869000
+Hyundai Creta,Hyundai,Kochi,2016,88872,Petrol,Automatic,1,0,1591,123,5.0,829000
+Hyundai i20,Hyundai,Kochi,2012,95352,Diesel,Manual,1,0,1396,90,5.0,313000
+Maruti Ertiga,Maruti,Kochi,2012,65194,Petrol,Manual,1,0,1373,95,7.0,449000
+Jeep Compass,Jeep,Kochi,2017,81512,Diesel,Manual,1,0,1956,173,5.0,1160000
+Hyundai Grand i10,Hyundai,Kochi,2015,93806,Petrol,Manual,2,0,1197,83,5.0,339000
+Hyundai Elite i20,Hyundai,Kochi,2016,88744,Petrol,Manual,1,0,1197,83,5.0,539000
+Maruti IGNIS,Maruti,Kochi,2017,90076,Petrol,Manual,1,0,1197,83,5.0,455000
+Datsun Redi Go,Datsun,Kochi,2016,29199,Petrol,Manual,1,0,799,54,5.0,218000
+Honda WR-V,Honda,Kochi,2018,21999,CNG,Manual,2,0,1199,90,5.0,656000
+Honda Amaze,Honda,Kochi,2021,21944,Petrol,Manual,1,0,1199,90,5.0,712000
+Maruti S PRESSO,Maruti,Kochi,2022,38620,Petrol,Automatic,1,0,998,68,5.0,525000
+Hyundai Xcent,Hyundai,Kochi,2014,84773,Petrol,Manual,1,0,1197,83,5.0,330000
+Tata NEXON,Tata,Kochi,2020,70068,Petrol,Manual,1,0,1199,120,5.0,769000
+Tata ALTROZ,Tata,Kochi,2020,37231,Petrol,Manual,1,0,1199,86,5.0,531000
+Nissan MAGNITE,Nissan,Kochi,2023,5945,Petrol,Manual,1,0,999,100,5.0,858600
+Maruti Wagon R 1.0,Maruti,Kochi,2014,87732,Petrol,Manual,1,0,998,68,5.0,314000
+Maruti Alto,Maruti,Kochi,2023,6504,Petrol,Manual,2,0,796,48,5.0,388000
+Hyundai Elite i20,Hyundai,Kochi,2014,74399,Petrol,Manual,2,0,1197,83,5.0,453000
+Hyundai VENUE,Hyundai,Kochi,2020,30246,Petrol,Manual,1,0,998,120,5.0,854000
+Hyundai GRAND I10 NIOS,Hyundai,Kochi,2022,13004,Petrol,Automatic,1,0,1197,83,5.0,730000
+Hyundai Santro Xing,Hyundai,Kochi,2011,66131,Petrol,Manual,1,0,1086,63,5.0,181000
+Hyundai AURA,Hyundai,Kochi,2020,47353,Petrol,Manual,1,0,1197,83,5.0,590000
+Tata NEXON,Tata,Kochi,2021,49101,Diesel,Manual,1,0,1497,110,5.0,1000000
+Nissan Micra,Nissan,Kochi,2017,60449,Petrol,Automatic,1,0,1198,77,5.0,492000
+Tata Tiago,Tata,Kochi,2020,42331,Petrol,Manual,1,0,1199,86,5.0,534000
+Honda Jazz,Honda,Kochi,2015,97979,Petrol,Manual,1,0,1199,90,5.0,509000
+Renault Kwid,Renault,Kochi,2016,96619,Petrol,Automatic,1,0,999,68,5.0,325000
+Maruti Wagon R 1.0,Maruti,Kochi,2015,65802,Petrol,Manual,1,0,998,68,5.0,385000
+Honda Jazz,Honda,Kochi,2021,30809,Petrol,Manual,1,0,1199,90,5.0,703000
+Maruti Alto 800,Maruti,Kochi,2013,58556,Petrol,Manual,1,0,796,48,5.0,232000
+Maruti Swift Dzire,Maruti,Kochi,2015,53109,Petrol,Manual,1,0,1197,84,5.0,456000
+Tata Tiago,Tata,Kochi,2021,39585,Petrol,Manual,1,0,1199,86,5.0,495000
+Mahindra XUV300,Mahindra,Kochi,2020,56285,Petrol,Manual,1,0,1197,110,5.0,938000
+Hyundai Creta,Hyundai,Kochi,2016,41853,Petrol,Manual,1,0,1591,123,5.0,856000
+Honda Amaze,Honda,Kochi,2018,30702,Petrol,Manual,1,0,1199,90,5.0,689000
+Maruti Celerio,Maruti,Kochi,2022,18707,Petrol,Manual,2,0,998,67,5.0,630000
+Maruti Wagon R 1.0,Maruti,Kochi,2015,91783,Petrol,Manual,2,0,998,68,5.0,352000
+Tata ALTROZ,Tata,Kochi,2021,24046,Petrol,Manual,1,0,1199,86,5.0,687600
+Renault Kwid,Renault,Kochi,2018,58886,Petrol,Manual,2,0,999,68,5.0,339000
+Hyundai Grand i10,Hyundai,Kochi,2014,78689,Petrol,Manual,1,0,1197,83,5.0,390000
+Hyundai Grand i10,Hyundai,Kochi,2017,92644,Petrol,Manual,1,0,1197,83,5.0,422000
+Renault TRIBER,Renault,Kochi,2020,65378,Petrol,Automatic,1,0,999,72,7.0,633000
+Maruti Alto K10,Maruti,Kochi,2011,32309,Petrol,Manual,2,0,998,68,5.0,217000
+Maruti A Star,Maruti,Kochi,2013,65995,Petrol,Automatic,1,0,998,67,5.0,333350
+Honda Jazz,Honda,Kochi,2015,85657,Petrol,Manual,1,0,1199,90,5.0,504000
+Hyundai GRAND I10 NIOS,Hyundai,Kochi,2021,10787,Petrol,Automatic,1,0,1197,83,5.0,699000
+Hyundai GRAND I10 NIOS,Hyundai,Kochi,2021,8235,Petrol,Automatic,1,0,1197,83,5.0,701850
+Maruti Celerio,Maruti,Kochi,2014,89889,Petrol,Automatic,2,0,998,68,5.0,374000
+Hyundai Grand i10,Hyundai,Kochi,2014,72925,Petrol,Automatic,1,0,1197,83,5.0,422000
+Maruti Swift Dzire,Maruti,Kochi,2012,66454,Petrol,Manual,1,0,1197,87,5.0,377000
+Datsun Redi Go,Datsun,Kochi,2019,42234,Petrol,Manual,1,0,799,54,5.0,276000
+Hyundai Grand i10,Hyundai,Kochi,2014,81301,Petrol,Automatic,1,0,1197,83,5.0,416000
+Renault TRIBER,Renault,Kochi,2020,18184,Petrol,Automatic,1,0,999,72,7.0,712000
+Ford FREESTYLE,Ford,Kochi,2020,23209,Petrol,Manual,1,0,1194,96,5.0,674000
+Maruti Ciaz,Maruti,Kochi,2015,89751,Petrol,Manual,1,0,1373,92,5.0,532000
+Hyundai Elite i20,Hyundai,Kochi,2017,36117,Petrol,Manual,2,0,1197,83,5.0,539000
+Maruti Baleno,Maruti,Kochi,2017,44423,Petrol,Manual,1,0,1197,84,5.0,572000
+Hyundai NEW I20,Hyundai,Kochi,2021,43993,Petrol,Manual,1,0,1197,83,5.0,761700
+Hyundai VENUE,Hyundai,Kochi,2019,57324,Diesel,Manual,1,0,1493,100,5.0,909000
+Tata Zest,Tata,Kochi,2015,58543,Petrol,Manual,1,0,1193,90,5.0,347000
+Hyundai Grand i10,Hyundai,Kochi,2019,53997,Petrol,Manual,1,0,1197,83,5.0,429000
+Honda WR-V,Honda,Kochi,2018,60682,Petrol,Manual,1,0,1199,90,5.0,645000
+Renault Kwid,Renault,Kochi,2021,8608,Petrol,Manual,1,0,999,68,5.0,445000
+Tata NEXON,Tata,Kochi,2020,52997,Petrol,Manual,1,0,1199,120,5.0,789000
+Hyundai VENUE,Hyundai,Kochi,2021,18301,Petrol,Manual,1,0,1197,83,5.0,786000
+Maruti Wagon R 1.0,Maruti,Kochi,2013,46935,Petrol,Manual,1,0,998,68,5.0,329000
+Tata NEXON,Tata,Kochi,2021,22732,Petrol,Automatic,1,0,1199,120,5.0,916000
+Hyundai Elite i20,Hyundai,Kochi,2015,83678,Petrol,Manual,2,0,1197,83,5.0,483000
+Hyundai Grand i10,Hyundai,Kochi,2016,90781,Petrol,Manual,2,0,1197,83,5.0,355000
+Hyundai Creta,Hyundai,Kochi,2016,29151,Petrol,Manual,1,0,1591,123,5.0,807000
+Hyundai Grand i10,Hyundai,Kochi,2019,45680,Petrol,Manual,1,0,1197,83,5.0,487000
+Honda Amaze,Honda,Kochi,2018,29295,Petrol,Automatic,2,0,1199,90,5.0,619000
+Renault TRIBER,Renault,Kochi,2022,31688,Petrol,Manual,1,0,999,72,7.0,601000
+Hyundai NEW SANTRO,Hyundai,Kochi,2019,30305,Petrol,Manual,1,0,1086,69,5.0,413000
+Hyundai i20 Active,Hyundai,Kochi,2015,59494,Petrol,Manual,1,0,1197,83,5.0,571000
+Tata PUNCH,Tata,Kochi,2022,8839,Petrol,Manual,1,0,1199,86,5.0,701000
+Maruti Swift Dzire,Maruti,Kochi,2014,88941,Diesel,Manual,1,0,1248,75,5.0,548000
+Honda Jazz,Honda,Kochi,2017,25575,Petrol,Manual,1,0,1199,90,5.0,585000
+Hyundai VENUE,Hyundai,Kochi,2019,91215,Petrol,Automatic,1,0,998,120,5.0,930000
+Maruti Swift,Maruti,Kochi,2020,71840,Petrol,Manual,1,0,1197,83,5.0,491000
+Ford Ecosport,Ford,Kochi,2018,92147,Diesel,Manual,1,0,1498,101,5.0,710000
+Maruti IGNIS,Maruti,Kochi,2020,41464,Petrol,Manual,2,0,1197,83,5.0,615000
+Tata NEXON,Tata,Kochi,2018,46234,Petrol,Manual,1,0,1198,110,5.0,735000
+Maruti Alto,Maruti,Kochi,2019,18459,Petrol,Manual,2,0,796,48,5.0,317000
+Maruti Baleno,Maruti,Kochi,2016,111086,Petrol,Manual,1,0,1197,84,5.0,565000
+Honda Amaze,Honda,Kochi,2017,32615,Petrol,Manual,2,0,1198,88,5.0,536000
+Hyundai Grand i10,Hyundai,Kochi,2019,18638,Petrol,Automatic,1,0,1197,83,5.0,654000
+Hyundai Creta,Hyundai,Kochi,2019,21577,Petrol,Manual,1,0,1591,123,5.0,1027000
+Renault Kwid,Renault,Kochi,2020,24291,Petrol,Automatic,1,0,999,68,5.0,526000
+Honda City,Honda,Kochi,2016,47106,Petrol,Manual,2,0,1497,119,5.0,701000
+Nissan MAGNITE,Nissan,Kochi,2021,3176,Petrol,Automatic,1,0,999,100,5.0,940000
+KIA SONET,KIA,Kochi,2021,29798,Petrol,Automatic,2,0,998,120,5.0,1177000
+Honda City,Honda,Kochi,2016,71535,Petrol,Manual,1,0,1497,119,5.0,691000
+Maruti Baleno,Maruti,Kochi,2021,36240,Petrol,Automatic,1,0,1197,83,5.0,919000
+Nissan MAGNITE,Nissan,Kochi,2022,11138,Petrol,Automatic,1,0,999,100,5.0,1038000
+Maruti Celerio,Maruti,Kochi,2014,98147,Petrol,Manual,1,0,998,68,5.0,357700
+Tata ALTROZ,Tata,Kochi,2021,9584,Petrol,Manual,1,0,1199,86,5.0,617000
+Maruti Baleno,Maruti,Kochi,2017,48888,Petrol,Automatic,1,0,1197,84,5.0,753000
+Renault Kwid,Renault,Kochi,2022,18658,Petrol,Manual,1,0,999,68,5.0,537000
+Maruti Dzire,Maruti,Kochi,2017,30257,Petrol,Manual,2,0,1197,83,5.0,639000
+Tata Tiago,Tata,Kochi,2021,19845,Petrol,Manual,1,0,1199,86,5.0,608000
+Tata ALTROZ,Tata,Kochi,2021,16602,Petrol,Manual,1,0,1199,86,5.0,683000
+Maruti Swift,Maruti,Kochi,2012,107821,Petrol,Manual,1,0,1197,87,5.0,338000
+Hyundai Elite i20,Hyundai,Kochi,2019,36197,Petrol,Manual,2,0,1197,83,5.0,566000
+Hyundai Creta,Hyundai,Kochi,2017,91960,Diesel,Manual,1,0,1396,90,5.0,783000
+Datsun Redi Go,Datsun,Kochi,2017,52374,Petrol,Manual,2,0,799,54,5.0,211000
+Tata Tiago,Tata,Kochi,2017,70773,Petrol,Manual,1,0,1199,85,5.0,388000
+Renault Kwid,Renault,Kochi,2017,36920,Petrol,Automatic,1,0,999,68,5.0,393000
+Honda Amaze,Honda,Kochi,2021,13420,Petrol,Automatic,2,0,1199,90,5.0,829000
+Tata Tiago,Tata,Kochi,2021,16604,Petrol,Manual,1,0,1199,86,5.0,523800
+Hyundai Verna,Hyundai,Kochi,2018,43293,Petrol,Automatic,2,0,1591,123,5.0,910000
+Hyundai Creta,Hyundai,Kochi,2020,16919,Petrol,Manual,2,0,1497,115,5.0,1167000
+Maruti Swift,Maruti,Kochi,2017,23753,Petrol,Manual,2,0,1197,84,5.0,483000
+Tata ALTROZ,Tata,Kochi,2021,46927,Petrol,Manual,1,0,1199,86,5.0,601000
+Renault Kwid,Renault,Kochi,2019,39723,Petrol,Automatic,1,0,999,68,5.0,375000
